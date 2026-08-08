@@ -1,0 +1,641 @@
+[
+  {
+    "id": "hiroki-hasegawa",
+    "name": "長谷川博己",
+    "nameKana": "はせがわひろき",
+    "description": "日本の俳優。映画・ドラマの主演作多数。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yutaka-takenouchi",
+    "name": "竹野内豊",
+    "nameKana": "たけのうちゆたか",
+    "description": "日本の俳優。映画・ドラマで幅広く活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "satomi-ishihara",
+    "name": "石原さとみ",
+    "nameKana": "いしはらさとみ",
+    "description": "日本の俳優。映画・ドラマで幅広く活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "lily-franky",
+    "name": "リリー・フランキー",
+    "nameKana": "リリーフランキー",
+    "description": "日本の俳優・イラストレーター・作家。是枝裕和作品の常連。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sakura-ando",
+    "name": "安藤サクラ",
+    "nameKana": "あんどうさくら",
+    "description": "日本の俳優。『万引き家族』などで国内外の映画賞を多数受賞。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "mayu-matsuoka",
+    "name": "松岡茉優",
+    "nameKana": "まつおかまゆ",
+    "description": "日本の俳優。映画・ドラマで活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "toshiro-mifune",
+    "name": "三船敏郎",
+    "nameKana": "みふねとしろう",
+    "description": "日本の俳優。黒澤明作品の顔として世界的に知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "takashi-shimura",
+    "name": "志村喬",
+    "nameKana": "しむらたかし",
+    "description": "日本の俳優。『七人の侍』『生きる』など黒澤明作品の名優。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "seiji-miyaguchi",
+    "name": "宮口精二",
+    "nameKana": "みやぐちせいじ",
+    "description": "日本の俳優。『七人の侍』の久蔵役で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "takayuki-hamatsu",
+    "name": "濱津隆之",
+    "nameKana": "はまつたかゆき",
+    "description": "日本の俳優。『カメラを止めるな!』主演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "mao",
+    "name": "真魚",
+    "nameKana": "まお",
+    "description": "日本の俳優。『カメラを止めるな!』に出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "harumi-shuhama",
+    "name": "しゅはまはるみ",
+    "nameKana": "しゅはまはるみ",
+    "description": "日本の俳優。『カメラを止めるな!』に出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "takako-matsu",
+    "name": "松たか子",
+    "nameKana": "まつたかこ",
+    "description": "日本の俳優・歌手。舞台・映画・ドラマで活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "masaki-okada",
+    "name": "岡田将生",
+    "nameKana": "おかだまさき",
+    "description": "日本の俳優。映画・ドラマで活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yoshino-kimura",
+    "name": "木村佳乃",
+    "nameKana": "きむらよしの",
+    "description": "日本の俳優。映画・ドラマで幅広く活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ryunosuke-kamiki",
+    "name": "神木隆之介",
+    "nameKana": "かみきりゅうのすけ",
+    "description": "日本の俳優。子役出身で、アニメ映画の声優としても『君の名は。』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "minami-hamabe",
+    "name": "浜辺美波",
+    "nameKana": "はまべみなみ",
+    "description": "日本の俳優。『ゴジラ-1.0』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yuki-yamada",
+    "name": "山田裕貴",
+    "nameKana": "やまだゆうき",
+    "description": "日本の俳優。映画・ドラマで活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "masaki-suda",
+    "name": "菅田将暉",
+    "nameKana": "すだまさき",
+    "description": "日本の俳優・歌手。映画・ドラマの主演作多数。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kasumi-arimura",
+    "name": "有村架純",
+    "nameKana": "ありむらかすみ",
+    "description": "日本の俳優。映画・ドラマで活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "joe-odagiri",
+    "name": "オダギリジョー",
+    "nameKana": "オダギリジョー",
+    "description": "日本の俳優。国内外の映画に出演する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "rumi-hiiragi",
+    "name": "柊瑠美",
+    "nameKana": "ひいらぎるみ",
+    "description": "日本の俳優。『千と千尋の神隠し』千尋役の声を担当。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "miyu-irino",
+    "name": "入野自由",
+    "nameKana": "いりのみゆ",
+    "description": "日本の声優・俳優。『千と千尋の神隠し』ハク役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "mari-natsuki",
+    "name": "夏木マリ",
+    "nameKana": "なつきマリ",
+    "description": "日本の俳優・歌手。『千と千尋の神隠し』湯婆婆役の声など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "mone-kamishiraishi",
+    "name": "上白石萌音",
+    "nameKana": "かみしらいしもね",
+    "description": "日本の俳優・歌手。『君の名は。』三葉役の声で広く知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ryo-narita",
+    "name": "成田凌",
+    "nameKana": "なりたりょう",
+    "description": "日本の俳優。映画・ドラマで活躍する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kotaro-daigo",
+    "name": "醍醐虎汰朗",
+    "nameKana": "だいごこたろう",
+    "description": "日本の俳優。『天気の子』帆高役の声を担当。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "nana-mori",
+    "name": "森七菜",
+    "nameKana": "もりなな",
+    "description": "日本の俳優。『天気の子』陽菜役の声を担当。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tsubasa-honda",
+    "name": "本田翼",
+    "nameKana": "ほんだつばさ",
+    "description": "日本の俳優・モデル。『天気の子』夏美役の声など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shugo-nakamura",
+    "name": "仲村宗悟",
+    "nameKana": "なかむらしゅうご",
+    "description": "日本の声優。『THE FIRST SLAM DUNK』宮城リョータ役。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "subaru-kimura",
+    "name": "木村昴",
+    "nameKana": "きむらすばる",
+    "description": "日本の声優。『THE FIRST SLAM DUNK』桜木花道役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "jun-kasama",
+    "name": "笠間淳",
+    "nameKana": "かさまじゅん",
+    "description": "日本の声優。『THE FIRST SLAM DUNK』三井寿役。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "soma-santoki",
+    "name": "山時聡真",
+    "nameKana": "さんときそうま",
+    "description": "日本の俳優。『君たちはどう生きるか』眞人役の声を担当。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ko-shibasaki",
+    "name": "柴咲コウ",
+    "nameKana": "しばさきコウ",
+    "description": "日本の俳優・歌手。『君たちはどう生きるか』キリコ役の声など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tim-robbins",
+    "name": "ティム・ロビンス",
+    "nameKana": "ティムロビンス",
+    "description": "アメリカの俳優。『ショーシャンクの空に』主演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "morgan-freeman",
+    "name": "モーガン・フリーマン",
+    "nameKana": "モーガンフリーマン",
+    "description": "アメリカの俳優。深みのある語りと演技で知られる名優。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "bob-gunton",
+    "name": "ボブ・ガントン",
+    "nameKana": "ボブガントン",
+    "description": "アメリカの俳優。『ショーシャンクの空に』ノートン所長役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "leonardo-dicaprio",
+    "name": "レオナルド・ディカプリオ",
+    "nameKana": "レオナルドディカプリオ",
+    "description": "アメリカの俳優。『タイタニック』『インセプション』など主演作多数。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "joseph-gordon-levitt",
+    "name": "ジョセフ・ゴードン=レヴィット",
+    "nameKana": "ジョセフゴードンレヴィット",
+    "description": "アメリカの俳優。『インセプション』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ken-watanabe",
+    "name": "渡辺謙",
+    "nameKana": "わたなべけん",
+    "description": "日本の俳優。ハリウッド作品にも多数出演する国際派。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "matthew-mcconaughey",
+    "name": "マシュー・マコノヒー",
+    "nameKana": "マシューマコノヒー",
+    "description": "アメリカの俳優。『インターステラー』主演、アカデミー主演男優賞受賞者。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "anne-hathaway",
+    "name": "アン・ハサウェイ",
+    "nameKana": "アンハサウェイ",
+    "description": "アメリカの俳優。『プラダを着た悪魔』『インターステラー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "michael-caine",
+    "name": "マイケル・ケイン",
+    "nameKana": "マイケルケイン",
+    "description": "イギリスの俳優。ノーラン作品の常連として知られる名優。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "christian-bale",
+    "name": "クリスチャン・ベール",
+    "nameKana": "クリスチャンベール",
+    "description": "イギリス出身の俳優。『ダークナイト』三部作のバットマン役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "heath-ledger",
+    "name": "ヒース・レジャー",
+    "nameKana": "ヒースレジャー",
+    "description": "オーストラリア出身の俳優。『ダークナイト』のジョーカー役でアカデミー助演男優賞を没後受賞。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "aaron-eckhart",
+    "name": "アーロン・エッカート",
+    "nameKana": "アーロンエッカート",
+    "description": "アメリカの俳優。『ダークナイト』ハービー・デント役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "michael-j-fox",
+    "name": "マイケル・J・フォックス",
+    "nameKana": "マイケルジェイフォックス",
+    "description": "カナダ出身の俳優。『バック・トゥ・ザ・フューチャー』マーティ役で世界的スターに。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "christopher-lloyd",
+    "name": "クリストファー・ロイド",
+    "nameKana": "クリストファーロイド",
+    "description": "アメリカの俳優。『バック・トゥ・ザ・フューチャー』ドク役で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "lea-thompson",
+    "name": "リー・トンプソン",
+    "nameKana": "リートンプソン",
+    "description": "アメリカの俳優。『バック・トゥ・ザ・フューチャー』ロレイン役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kate-winslet",
+    "name": "ケイト・ウィンスレット",
+    "nameKana": "ケイトウィンスレット",
+    "description": "イギリスの俳優。『タイタニック』ローズ役で世界的に知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "billy-zane",
+    "name": "ビリー・ゼイン",
+    "nameKana": "ビリーゼイン",
+    "description": "アメリカの俳優。『タイタニック』キャル役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "robert-downey-jr",
+    "name": "ロバート・ダウニー・Jr.",
+    "nameKana": "ロバートダウニージュニア",
+    "description": "アメリカの俳優。MCUのトニー・スターク/アイアンマン役で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "chris-evans",
+    "name": "クリス・エヴァンス",
+    "nameKana": "クリスエヴァンス",
+    "description": "アメリカの俳優。MCUのキャプテン・アメリカ役で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "scarlett-johansson",
+    "name": "スカーレット・ヨハンソン",
+    "nameKana": "スカーレットヨハンソン",
+    "description": "アメリカの俳優。MCUのブラック・ウィドウ役など主演作多数。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ryan-gosling",
+    "name": "ライアン・ゴズリング",
+    "nameKana": "ライアンゴズリング",
+    "description": "カナダ出身の俳優。『ラ・ラ・ランド』などに主演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "emma-stone",
+    "name": "エマ・ストーン",
+    "nameKana": "エマストーン",
+    "description": "アメリカの俳優。『ラ・ラ・ランド』でアカデミー主演女優賞を受賞。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "john-legend",
+    "name": "ジョン・レジェンド",
+    "nameKana": "ジョンレジェンド",
+    "description": "アメリカの歌手・俳優。『ラ・ラ・ランド』に出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tom-hardy",
+    "name": "トム・ハーディ",
+    "nameKana": "トムハーディ",
+    "description": "イギリスの俳優。『マッドマックス 怒りのデス・ロード』『インセプション』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "charlize-theron",
+    "name": "シャーリーズ・セロン",
+    "nameKana": "シャーリーズセロン",
+    "description": "南アフリカ出身の俳優。『マッドマックス 怒りのデス・ロード』フュリオサ役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "nicholas-hoult",
+    "name": "ニコラス・ホルト",
+    "nameKana": "ニコラスホルト",
+    "description": "イギリスの俳優。『マッドマックス 怒りのデス・ロード』ニュークス役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "song-kang-ho",
+    "name": "ソン・ガンホ",
+    "nameKana": "ソンガンホ",
+    "description": "韓国の俳優。ポン・ジュノ作品の常連として知られる名優。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "choi-woo-shik",
+    "name": "チェ・ウシク",
+    "nameKana": "チェウシク",
+    "description": "韓国の俳優。『パラサイト 半地下の家族』ギウ役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "park-so-dam",
+    "name": "パク・ソダム",
+    "nameKana": "パクソダム",
+    "description": "韓国の俳優。『パラサイト 半地下の家族』ギジョン役など。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "joaquin-phoenix",
+    "name": "ホアキン・フェニックス",
+    "nameKana": "ホアキンフェニックス",
+    "description": "アメリカの俳優。『ジョーカー』でアカデミー主演男優賞を受賞。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "robert-de-niro",
+    "name": "ロバート・デ・ニーロ",
+    "nameKana": "ロバートデニーロ",
+    "description": "アメリカの俳優。『タクシードライバー』『ゴッドファーザーPART II』などの名優。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "zazie-beetz",
+    "name": "ザジー・ビーツ",
+    "nameKana": "ザジービーツ",
+    "description": "ドイツ出身の俳優。『ジョーカー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tom-hanks",
+    "name": "トム・ハンクス",
+    "nameKana": "トムハンクス",
+    "description": "アメリカの俳優。『トイ・ストーリー』ウッディの声でも知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tim-allen",
+    "name": "ティム・アレン",
+    "nameKana": "ティムアレン",
+    "description": "アメリカの俳優・コメディアン。『トイ・ストーリー』バズの声で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kristen-bell",
+    "name": "クリステン・ベル",
+    "nameKana": "クリステンベル",
+    "description": "アメリカの俳優。『アナと雪の女王』アナの声で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "idina-menzel",
+    "name": "イディナ・メンゼル",
+    "nameKana": "イディナメンゼル",
+    "description": "アメリカの俳優・歌手。『アナと雪の女王』エルサの声と主題歌で知られる。TMDb表記: Idina Menzel。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "josh-gad",
+    "name": "ジョシュ・ギャッド",
+    "nameKana": "ジョシュギャッド",
+    "description": "アメリカの俳優。『アナと雪の女王』オラフの声で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  }
+]

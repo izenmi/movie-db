@@ -1,0 +1,290 @@
+[
+  {
+    "id": "hideaki-anno",
+    "name": "庵野秀明",
+    "nameKana": "あんのひであき",
+    "description": "映画監督・アニメーター。『エヴァンゲリオン』シリーズや『シン・ゴジラ』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shinji-higuchi",
+    "name": "樋口真嗣",
+    "nameKana": "ひぐちしんじ",
+    "description": "映画監督・特技監督。『シン・ゴジラ』『シン・ウルトラマン』などの特撮作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hirokazu-koreeda",
+    "name": "是枝裕和",
+    "nameKana": "これえだひろかず",
+    "description": "映画監督。家族を見つめる作風で知られ、『万引き家族』でカンヌ国際映画祭パルム・ドールを受賞した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "akira-kurosawa",
+    "name": "黒澤明",
+    "nameKana": "くろさわあきら",
+    "description": "映画監督。『七人の侍』『羅生門』など世界の映画史に残る作品を数多く手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shinobu-hashimoto",
+    "name": "橋本忍",
+    "nameKana": "はしもとしのぶ",
+    "description": "脚本家。黒澤明作品をはじめ日本映画の名作の脚本を数多く手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hideo-oguni",
+    "name": "小国英雄",
+    "nameKana": "おぐにひでお",
+    "description": "脚本家。黒澤明作品の共同脚本などで知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shinichiro-ueda",
+    "name": "上田慎一郎",
+    "nameKana": "うえだしんいちろう",
+    "description": "映画監督。低予算映画『カメラを止めるな!』が大ヒットし一躍注目を集めた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tetsuya-nakashima",
+    "name": "中島哲也",
+    "nameKana": "なかしまてつや",
+    "description": "映画監督。『嫌われ松子の一生』『告白』など映像表現に富んだ作風で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "takashi-yamazaki",
+    "name": "山崎貴",
+    "nameKana": "やまざきたかし",
+    "description": "映画監督・VFXディレクター。『ALWAYS 三丁目の夕日』『ゴジラ-1.0』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "nobuhiro-doi",
+    "name": "土井裕泰",
+    "nameKana": "どいのぶひろ",
+    "description": "映画・テレビドラマの演出家。『花束みたいな恋をした』などを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yuji-sakamoto",
+    "name": "坂元裕二",
+    "nameKana": "さかもとゆうじ",
+    "description": "脚本家。『カルテット』『花束みたいな恋をした』『怪物』などで知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hayao-miyazaki",
+    "name": "宮崎駿",
+    "nameKana": "みやざきはやお",
+    "description": "アニメーション映画監督。スタジオジブリの中心人物で、『千と千尋の神隠し』はアカデミー長編アニメ映画賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "makoto-shinkai",
+    "name": "新海誠",
+    "nameKana": "しんかいまこと",
+    "description": "アニメーション映画監督。『君の名は。』『天気の子』『すずめの戸締まり』で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "takehiko-inoue",
+    "name": "井上雄彦",
+    "nameKana": "いのうえたけひこ",
+    "description": "漫画家。『SLAM DUNK』の作者で、自ら監督・脚本を務めた『THE FIRST SLAM DUNK』で映画監督デビューした。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "frank-darabont",
+    "name": "フランク・ダラボン",
+    "nameKana": "フランク・ダラボン",
+    "description": "アメリカの映画監督・脚本家。スティーヴン・キング原作の映画化で知られる。TMDb表記: Frank Darabont。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "christopher-nolan",
+    "name": "クリストファー・ノーラン",
+    "nameKana": "クリストファー・ノーラン",
+    "description": "イギリス出身の映画監督。『ダークナイト』『インセプション』『オッペンハイマー』などで知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "jonathan-nolan",
+    "name": "ジョナサン・ノーラン",
+    "nameKana": "ジョナサン・ノーラン",
+    "description": "脚本家・プロデューサー。兄クリストファー・ノーランと多くの作品で共同脚本を務める。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "robert-zemeckis",
+    "name": "ロバート・ゼメキス",
+    "nameKana": "ロバート・ゼメキス",
+    "description": "アメリカの映画監督。『バック・トゥ・ザ・フューチャー』『フォレスト・ガンプ』などで知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "bob-gale",
+    "name": "ボブ・ゲイル",
+    "nameKana": "ボブ・ゲイル",
+    "description": "アメリカの脚本家。『バック・トゥ・ザ・フューチャー』シリーズの共同脚本・製作で知られる。TMDb表記: Bob Gale。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "james-cameron",
+    "name": "ジェームズ・キャメロン",
+    "nameKana": "ジェームズ・キャメロン",
+    "description": "カナダ出身の映画監督。『タイタニック』『アバター』など興行記録を塗り替える大作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "anthony-russo",
+    "name": "アンソニー・ルッソ",
+    "nameKana": "アンソニー・ルッソ",
+    "description": "アメリカの映画監督。弟ジョー・ルッソとの共同監督でマーベル映画を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "joe-russo",
+    "name": "ジョー・ルッソ",
+    "nameKana": "ジョー・ルッソ",
+    "description": "アメリカの映画監督。兄アンソニー・ルッソとの共同監督でマーベル映画を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "christopher-markus",
+    "name": "クリストファー・マルクス",
+    "nameKana": "クリストファー・マルクス",
+    "description": "アメリカの脚本家。スティーヴン・マクフィーリーと組みMCU作品の脚本を多く手がける。TMDb表記: Christopher Markus。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "stephen-mcfeely",
+    "name": "スティーヴン・マクフィーリー",
+    "nameKana": "スティーヴン・マクフィーリー",
+    "description": "アメリカの脚本家。クリストファー・マルクスと組みMCU作品の脚本を多く手がける。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "damien-chazelle",
+    "name": "デイミアン・チャゼル",
+    "nameKana": "デイミアン・チャゼル",
+    "description": "アメリカの映画監督。『セッション』『ラ・ラ・ランド』で知られ、アカデミー監督賞を最年少受賞した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "george-miller",
+    "name": "ジョージ・ミラー",
+    "nameKana": "ジョージ・ミラー",
+    "description": "オーストラリアの映画監督。『マッドマックス』シリーズの生みの親。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "bong-joon-ho",
+    "name": "ポン・ジュノ",
+    "nameKana": "ポン・ジュノ",
+    "description": "韓国の映画監督。『パラサイト 半地下の家族』でカンヌのパルム・ドールとアカデミー作品賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "todd-phillips",
+    "name": "トッド・フィリップス",
+    "nameKana": "トッド・フィリップス",
+    "description": "アメリカの映画監督。コメディ出身で、『ジョーカー』はヴェネツィア国際映画祭金獅子賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "scott-silver",
+    "name": "スコット・シルヴァー",
+    "nameKana": "スコット・シルヴァー",
+    "description": "アメリカの脚本家。『ザ・ファイター』『ジョーカー』の脚本で知られる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "john-lasseter",
+    "name": "ジョン・ラセター",
+    "nameKana": "ジョン・ラセター",
+    "description": "アメリカのアニメーション監督。ピクサー創成期の中心人物で『トイ・ストーリー』を監督した。TMDb表記: John Lasseter。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "chris-buck",
+    "name": "クリス・バック",
+    "nameKana": "クリス・バック",
+    "description": "アメリカのアニメーション監督。『アナと雪の女王』をジェニファー・リーと共同監督した。TMDb表記: Chris Buck。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "jennifer-lee",
+    "name": "ジェニファー・リー",
+    "nameKana": "ジェニファー・リー",
+    "description": "アメリカの脚本家・監督。『アナと雪の女王』の共同監督・脚本を務めた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  }
+]

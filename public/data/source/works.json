@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "shin-godzilla",
+    "title": "シン・ゴジラ",
+    "titleKana": "しんごじら",
+    "directorIds": [
+      "hideaki-anno",
+      "shinji-higuchi"
+    ],
+    "screenwriterIds": [
+      "hideaki-anno"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroki-hasegawa",
+        "character": "矢口蘭堂"
+      },
+      {
+        "actorId": "yutaka-takenouchi",
+        "character": "赤坂秀樹"
+      },
+      {
+        "actorId": "satomi-ishihara",
+        "character": "カヨコ・アン・パタースン"
+      }
+    ],
+    "themeIds": [
+      "kaiju",
+      "panic",
+      "social",
+      "sf"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 7
+    },
+    "runtime": 119,
+    "originalType": "original",
+    "synopsis": "東京湾に突如出現した巨大不明生物は、上陸と変態を繰り返しながら首都を蹂躙していく。前例なき危機を前に、内閣官房副長官の矢口蘭堂は省庁横断の対策チームを率い、巨大不明生物「ゴジラ」の正体解明と活動停止作戦に挑む。会議と調整に追われる日本の官僚機構をリアルに描きながら、国家の危機対応を問う総監督・庵野秀明による新生ゴジラ。",
+    "tmdbId": 315011,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%B8%E3%83%A9"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。監督クレジットは総監督・庵野秀明/監督・樋口真嗣。制作プロダクションの東宝映画は東宝として登録。",
+    "updatedAt": "2026-08-08",
+    "seriesName": "「ゴジラ」シリーズ"
+  },
+  {
+    "id": "shoplifters",
+    "title": "万引き家族",
+    "titleKana": "まんびきかぞく",
+    "directorIds": [
+      "hirokazu-koreeda"
+    ],
+    "screenwriterIds": [
+      "hirokazu-koreeda"
+    ],
+    "studioIds": [
+      "aoi-pro"
+    ],
+    "cast": [
+      {
+        "actorId": "lily-franky",
+        "character": "柴田治"
+      },
+      {
+        "actorId": "sakura-ando",
+        "character": "柴田信代"
+      },
+      {
+        "actorId": "mayu-matsuoka",
+        "character": "柴田亜紀"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "human-drama",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 6
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "東京の下町の古い平屋に暮らす柴田家は、祖母の年金と万引きで生計を立てる訳ありの一家。ある冬の夜、団地の廊下で震えていた幼い少女を連れ帰ったことから、家族の輪郭が少しずつ揺らぎはじめる。血のつながりのない者たちが寄り添って生きる姿を通して「家族とは何か」を問いかける、是枝裕和監督のパルム・ドール受賞作。",
+    "tmdbId": 505192,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%87%E5%BC%95%E3%81%8D%E5%AE%B6%E6%97%8F"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "seven-samurai",
+    "title": "七人の侍",
+    "titleKana": "しちにんのさむらい",
+    "directorIds": [
+      "akira-kurosawa"
+    ],
+    "screenwriterIds": [
+      "akira-kurosawa",
+      "shinobu-hashimoto",
+      "hideo-oguni"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiro-mifune",
+        "character": "菊千代"
+      },
+      {
+        "actorId": "takashi-shimura",
+        "character": "島田勘兵衛"
+      },
+      {
+        "actorId": "seiji-miyaguchi",
+        "character": "久蔵"
+      }
+    ],
+    "themeIds": [
+      "jidaigeki",
+      "action",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1954,
+      "month": 4
+    },
+    "runtime": 207,
+    "originalType": "original",
+    "synopsis": "戦国時代末期。刈り入れの季節ごとに野武士の襲撃に苦しむ貧しい農村は、村を守るために侍を雇うことを決める。百姓たちの必死の願いに応えた老練な浪人・島田勘兵衛は、腕と人柄を見込んだ六人の仲間を集め、村人とともに決戦の準備を始める。雨中の合戦シーンをはじめ映画史に残る名場面を数多く生んだ、黒澤明監督の代表作。",
+    "tmdbId": 346,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%83%E4%BA%BA%E3%81%AE%E4%BE%8D"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "one-cut-of-the-dead",
+    "title": "カメラを止めるな!",
+    "titleKana": "かめらをとめるな",
+    "directorIds": [
+      "shinichiro-ueda"
+    ],
+    "screenwriterIds": [
+      "shinichiro-ueda"
+    ],
+    "studioIds": [
+      "enbu-seminar"
+    ],
+    "cast": [
+      {
+        "actorId": "takayuki-hamatsu",
+        "character": "日暮隆之"
+      },
+      {
+        "actorId": "mao",
+        "character": "日暮真央"
+      },
+      {
+        "actorId": "harumi-shuhama",
+        "character": "日暮晴美"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "filmmaking",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 11
+    },
+    "runtime": 96,
+    "originalType": "original",
+    "synopsis": "山奥の廃墟でゾンビ映画を撮影していた自主映画のクルーが、本物のゾンビに襲われる——冒頭37分ワンカットの映像から始まる本作は、そこから思いもよらない構造で物語を反転させていく。ワークショップ発の超低予算映画ながら口コミで大ヒットし、社会現象となった。映画づくりに携わる人々への愛にあふれた一本。",
+    "tmdbId": 513434,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B%E3%81%AA!"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。劇場公開は2017年11月の限定公開を起点とし、2018年に拡大公開された旨をseriesNoteに記載。",
+    "updatedAt": "2026-08-08",
+    "seriesNote": "2017年11月に都内で先行上映され、2018年6月から全国拡大公開されて大ヒットした。"
+  },
+  {
+    "id": "confessions",
+    "title": "告白",
+    "titleKana": "こくはく",
+    "directorIds": [
+      "tetsuya-nakashima"
+    ],
+    "screenwriterIds": [
+      "tetsuya-nakashima"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "takako-matsu",
+        "character": "森口悠子"
+      },
+      {
+        "actorId": "masaki-okada",
+        "character": "寺田良輝"
+      },
+      {
+        "actorId": "yoshino-kimura",
+        "character": "下村直樹の母"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "revenge",
+      "social",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 6
+    },
+    "runtime": 107,
+    "originalType": "novel",
+    "synopsis": "「私の娘は事故で死んだのではありません。このクラスの生徒に殺されたのです」。終業式の日、中学校教師の森口悠子は静まり返った教室で娘の死の真相を語り始める。加害者への静かな復讐が動き出し、告白がつながるたびに事件の見え方が変わっていく。湊かなえのベストセラーを中島哲也監督が映像化した傑作サスペンス。",
+    "tmdbId": 54186,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%91%8A%E7%99%BD_(%E6%B9%8A%E3%81%8B%E3%81%AA%E3%81%88)"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "godzilla-minus-one",
+    "title": "ゴジラ-1.0",
+    "titleKana": "ごじらまいなすわん",
+    "directorIds": [
+      "takashi-yamazaki"
+    ],
+    "screenwriterIds": [
+      "takashi-yamazaki"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "ryunosuke-kamiki",
+        "character": "敷島浩一"
+      },
+      {
+        "actorId": "minami-hamabe",
+        "character": "大石典子"
+      },
+      {
+        "actorId": "yuki-yamada",
+        "character": "水島四郎"
+      }
+    ],
+    "themeIds": [
+      "kaiju",
+      "postwar",
+      "human-drama",
+      "panic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 11
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "戦争で全てを失い「無(ゼロ)」となった戦後日本に、巨大怪獣ゴジラが襲来し、国は「負(マイナス)」へと叩き落とされる。特攻から生き残った復員兵の敷島は、戦後を懸命に生きる人々とともに、政府に頼れないまま民間の知恵でゴジラに立ち向かう。山崎貴監督によるシリーズ生誕70周年記念作で、日本映画初のアカデミー視覚効果賞を受賞した。",
+    "tmdbId": 940721,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B8%E3%83%A9-1.0"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "seriesName": "「ゴジラ」シリーズ"
+  },
+  {
+    "id": "hanataba",
+    "title": "花束みたいな恋をした",
+    "titleKana": "はなたばみたいなこいをした",
+    "directorIds": [
+      "nobuhiro-doi"
+    ],
+    "screenwriterIds": [
+      "yuji-sakamoto"
+    ],
+    "studioIds": [
+      "little-more"
+    ],
+    "cast": [
+      {
+        "actorId": "masaki-suda",
+        "character": "山音麦"
+      },
+      {
+        "actorId": "kasumi-arimura",
+        "character": "八谷絹"
+      },
+      {
+        "actorId": "joe-odagiri",
+        "character": "加持航平"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "youth",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 1
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "終電を逃した夜の京王線・明大前駅で出会った麦と絹は、好きな音楽や映画がことごとく一致し、恋に落ちる。学生から社会人へ、同棲生活の中で少しずつすれ違っていく二人の五年間を、固有名詞に満ちた等身大のディテールで描く。坂元裕二のオリジナル脚本による、誰もが身に覚えのある恋の始まりと終わりの物語。",
+    "tmdbId": 695932,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%9D%9F%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E6%81%8B%E3%82%92%E3%81%97%E3%81%9F"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "spirited-away",
+    "title": "千と千尋の神隠し",
+    "titleKana": "せんとちひろのかみかくし",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [
+      "hayao-miyazaki"
+    ],
+    "studioIds": [
+      "studio-ghibli"
+    ],
+    "cast": [
+      {
+        "actorId": "rumi-hiiragi",
+        "character": "荻野千尋"
+      },
+      {
+        "actorId": "miyu-irino",
+        "character": "ハク"
+      },
+      {
+        "actorId": "mari-natsuki",
+        "character": "湯婆婆/銭婆"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "coming-of-age",
+      "isekai"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2001,
+      "month": 7
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "引っ越しの途中で迷い込んだ不思議なトンネルの先は、八百万の神々が湯治に訪れる世界だった。豚に変えられた両親を救うため、10歳の千尋は湯婆婆の湯屋で「千」として働き始める。名前を奪われながらも懸命に働き成長していく少女を描く宮崎駿監督の代表作で、ベルリン金熊賞とアカデミー長編アニメ映画賞を受賞。日本歴代興行収入の記録を長く保持した。",
+    "tmdbId": 129,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8D%83%E3%81%A8%E5%8D%83%E5%B0%8B%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "your-name",
+    "title": "君の名は。",
+    "titleKana": "きみのなは",
+    "directorIds": [
+      "makoto-shinkai"
+    ],
+    "screenwriterIds": [
+      "makoto-shinkai"
+    ],
+    "studioIds": [
+      "comix-wave-films"
+    ],
+    "cast": [
+      {
+        "actorId": "ryunosuke-kamiki",
+        "character": "立花瀧"
+      },
+      {
+        "actorId": "mone-kamishiraishi",
+        "character": "宮水三葉"
+      },
+      {
+        "actorId": "ryo-narita",
+        "character": "勅使河原克彦"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "fantasy",
+      "body-swap",
+      "youth",
+      "disaster"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 8
+    },
+    "runtime": 107,
+    "originalType": "original",
+    "synopsis": "1,000年ぶりの彗星来訪を1か月後に控えた日本。山深い町に暮らす女子高校生の三葉と東京の男子高校生の瀧は、夢の中で互いの体が入れ替わっていることに気づく。会ったことのない二人は入れ替わりを重ねながら距離を縮めていくが、やがて入れ替わりの裏に隠された真実が明らかになる。社会現象となった新海誠監督の大ヒット作。",
+    "tmdbId": 372058,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。TMDbの日本公開は2016-07(先行)だが一般公開の2016年8月26日で登録。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "weathering-with-you",
+    "title": "天気の子",
+    "titleKana": "てんきのこ",
+    "directorIds": [
+      "makoto-shinkai"
+    ],
+    "screenwriterIds": [
+      "makoto-shinkai"
+    ],
+    "studioIds": [
+      "comix-wave-films"
+    ],
+    "cast": [
+      {
+        "actorId": "kotaro-daigo",
+        "character": "森嶋帆高"
+      },
+      {
+        "actorId": "nana-mori",
+        "character": "天野陽菜"
+      },
+      {
+        "actorId": "tsubasa-honda",
+        "character": "須賀夏美"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "fantasy",
+      "youth",
+      "disaster"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 7
+    },
+    "runtime": 114,
+    "originalType": "original",
+    "synopsis": "離島から家出して東京に来た高校生の帆高は、雨が降り続く異常気象の街で、祈るだけで空を晴れにできる不思議な力を持つ少女・陽菜と出会う。二人は「晴れ女ビジネス」を始めるが、その力には大きな代償があった。世界のかたちを変えてでも大切な人を選ぶという決断を描く、新海誠監督の『君の名は。』に続く長編作。",
+    "tmdbId": 568160,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "the-first-slam-dunk",
+    "title": "THE FIRST SLAM DUNK",
+    "titleKana": "ざふぁーすとすらむだんく",
+    "directorIds": [
+      "takehiko-inoue"
+    ],
+    "screenwriterIds": [
+      "takehiko-inoue"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "shugo-nakamura",
+        "character": "宮城リョータ"
+      },
+      {
+        "actorId": "subaru-kimura",
+        "character": "桜木花道"
+      },
+      {
+        "actorId": "jun-kasama",
+        "character": "三井寿"
+      }
+    ],
+    "themeIds": [
+      "sports",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2022,
+      "month": 12
+    },
+    "runtime": 125,
+    "originalType": "manga",
+    "synopsis": "湘北高校バスケットボール部は、インターハイで王者・山王工業と対峙する。原作では主人公・桜木花道の視点で描かれた頂上決戦を、本作はポイントガード宮城リョータの家族の物語を軸に再構成。原作者・井上雄彦みずから監督・脚本を務め、モーションキャプチャーを駆使した試合描写で観客を沸かせた劇場アニメーション。",
+    "tmdbId": 783675,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/THE_FIRST_SLAM_DUNK"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "the-boy-and-the-heron",
+    "title": "君たちはどう生きるか",
+    "titleKana": "きみたちはどういきるか",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [
+      "hayao-miyazaki"
+    ],
+    "studioIds": [
+      "studio-ghibli"
+    ],
+    "cast": [
+      {
+        "actorId": "soma-santoki",
+        "character": "牧眞人"
+      },
+      {
+        "actorId": "masaki-suda",
+        "character": "アオサギ"
+      },
+      {
+        "actorId": "ko-shibasaki",
+        "character": "キリコ"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "coming-of-age",
+      "isekai"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 7
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "太平洋戦争のさなか、火事で母を失った少年・眞人は、父の再婚相手が暮らす屋敷に疎開する。屋敷に現れる不思議なアオサギに導かれ、眞人は生と死が渾然一体となった異世界へと足を踏み入れる。宮崎駿監督が10年ぶりに手がけた長編で、事前宣伝をほぼ行わずに公開され、2作目のアカデミー長編アニメ映画賞を受賞した。タイトルは吉野源三郎の小説から取られているが、物語はオリジナル。",
+    "tmdbId": 508883,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%A9%E3%81%86%E7%94%9F%E3%81%8D%E3%82%8B%E3%81%8B_(%E6%98%A0%E7%94%BB)"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "the-shawshank-redemption",
+    "title": "ショーシャンクの空に",
+    "titleKana": "しょーしゃんくのそらに",
+    "directorIds": [
+      "frank-darabont"
+    ],
+    "screenwriterIds": [
+      "frank-darabont"
+    ],
+    "studioIds": [
+      "castle-rock"
+    ],
+    "cast": [
+      {
+        "actorId": "tim-robbins",
+        "character": "アンディ・デュフレーン"
+      },
+      {
+        "actorId": "morgan-freeman",
+        "character": "エリス・ボイド・“レッド”・レディング"
+      },
+      {
+        "actorId": "bob-gunton",
+        "character": "ノートン所長"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "friendship",
+      "prison",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1995,
+      "month": 6
+    },
+    "runtime": 143,
+    "originalType": "novel",
+    "synopsis": "妻とその愛人殺しの罪で終身刑を宣告された銀行員アンディは、ショーシャンク刑務所に収監される。調達屋のレッドと友情を結び、絶望的な塀の中でも知恵と誠実さを失わず、希望を持ち続ける。スティーヴン・キングの中編小説を原作に、20年におよぶ服役生活の果ての奇跡を描く。公開後に評価を高め続けた不朽の名作。",
+    "tmdbId": 278,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%AF%E3%81%AE%E7%A9%BA%E3%81%AB"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "The Shawshank Redemption"
+  },
+  {
+    "id": "inception",
+    "title": "インセプション",
+    "titleKana": "いんせぷしょん",
+    "directorIds": [
+      "christopher-nolan"
+    ],
+    "screenwriterIds": [
+      "christopher-nolan"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "syncopy"
+    ],
+    "cast": [
+      {
+        "actorId": "leonardo-dicaprio",
+        "character": "ドム・コブ"
+      },
+      {
+        "actorId": "joseph-gordon-levitt",
+        "character": "アーサー"
+      },
+      {
+        "actorId": "ken-watanabe",
+        "character": "サイトー"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "dream",
+      "crime",
+      "action"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 7
+    },
+    "runtime": 148,
+    "originalType": "original",
+    "synopsis": "他人の夢に潜り込みアイデアを盗み出す企業スパイのコブは、大物実業家サイトーから「アイデアを盗むのではなく植え付ける」困難な依頼を受ける。成功すれば帰れない祖国に戻れる——コブはチームを組み、夢の中の夢へと何層にも潜っていく。階層ごとに流れる時間が異なる夢世界を舞台にした、クリストファー・ノーラン監督の設計美あふれるSFアクション。",
+    "tmdbId": 27205,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Inception"
+  },
+  {
+    "id": "interstellar",
+    "title": "インターステラー",
+    "titleKana": "いんたーすてらー",
+    "directorIds": [
+      "christopher-nolan"
+    ],
+    "screenwriterIds": [
+      "christopher-nolan",
+      "jonathan-nolan"
+    ],
+    "studioIds": [
+      "syncopy"
+    ],
+    "cast": [
+      {
+        "actorId": "matthew-mcconaughey",
+        "character": "クーパー"
+      },
+      {
+        "actorId": "anne-hathaway",
+        "character": "アメリア・ブランド"
+      },
+      {
+        "actorId": "michael-caine",
+        "character": "ブランド教授"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "space",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 11
+    },
+    "runtime": 169,
+    "originalType": "original",
+    "synopsis": "植物の枯死と砂嵐で人類が滅びつつある近未来。元パイロットの農夫クーパーは、居住可能な惑星を探す秘密計画に抜擢され、幼い娘マーフを地球に残してワームホールの彼方へ旅立つ。相対性理論がもたらす時間のずれが、父と娘の関係を引き裂いていく。理論物理学者キップ・ソーンの監修による本格的な科学描写と家族の愛を融合させた宇宙叙事詩。",
+    "tmdbId": 157336,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%83%A9%E3%83%BC"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Interstellar"
+  },
+  {
+    "id": "the-dark-knight",
+    "title": "ダークナイト",
+    "titleKana": "だーくないと",
+    "directorIds": [
+      "christopher-nolan"
+    ],
+    "screenwriterIds": [
+      "christopher-nolan",
+      "jonathan-nolan"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "syncopy"
+    ],
+    "cast": [
+      {
+        "actorId": "christian-bale",
+        "character": "ブルース・ウェイン/バットマン"
+      },
+      {
+        "actorId": "heath-ledger",
+        "character": "ジョーカー"
+      },
+      {
+        "actorId": "aaron-eckhart",
+        "character": "ハービー・デント"
+      }
+    ],
+    "themeIds": [
+      "hero",
+      "action",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 8
+    },
+    "runtime": 152,
+    "originalType": "manga",
+    "synopsis": "バットマンの活躍でマフィアが追い詰められたゴッサム・シティに、道化の化粧をした謎の犯罪者ジョーカーが現れる。金でも権力でもなく混沌そのものを目的とするジョーカーは、街と人間の善意を試す狂気のゲームを仕掛けていく。ヒース・レジャーの鬼気迫るジョーカー演じでアメコミ映画の到達点と称される、ノーラン版バットマン三部作の第2作。",
+    "tmdbId": 155,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。日本公開2008年8月。原作はDCコミックス『バットマン』のためoriginalType=manga。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "The Dark Knight",
+    "seriesName": "「ダークナイト」三部作"
+  },
+  {
+    "id": "back-to-the-future",
+    "title": "バック・トゥ・ザ・フューチャー",
+    "titleKana": "ばっくとぅざふゅーちゃー",
+    "directorIds": [
+      "robert-zemeckis"
+    ],
+    "screenwriterIds": [
+      "robert-zemeckis",
+      "bob-gale"
+    ],
+    "studioIds": [
+      "universal",
+      "amblin"
+    ],
+    "cast": [
+      {
+        "actorId": "michael-j-fox",
+        "character": "マーティ・マクフライ"
+      },
+      {
+        "actorId": "christopher-lloyd",
+        "character": "エメット・“ドク”・ブラウン"
+      },
+      {
+        "actorId": "lea-thompson",
+        "character": "ロレイン"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "time-travel",
+      "comedy",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 12
+    },
+    "runtime": 116,
+    "originalType": "original",
+    "synopsis": "高校生のマーティは、親友の科学者ドクが発明したデロリアン型タイムマシンで、誤って30年前の1955年に飛ばされてしまう。そこで若き日の母に惚れられるという緊急事態が発生。両親を結ばれさせなければ自分が消えてしまう。過去のドクの協力を得て、雷の夜に未来への帰還を賭ける。時間旅行エンターテインメントの金字塔。",
+    "tmdbId": 105,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AF%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Back to the Future",
+    "seriesName": "「バック・トゥ・ザ・フューチャー」シリーズ"
+  },
+  {
+    "id": "titanic",
+    "title": "タイタニック",
+    "titleKana": "たいたにっく",
+    "directorIds": [
+      "james-cameron"
+    ],
+    "screenwriterIds": [
+      "james-cameron"
+    ],
+    "studioIds": [
+      "lightstorm",
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "leonardo-dicaprio",
+        "character": "ジャック・ドーソン"
+      },
+      {
+        "actorId": "kate-winslet",
+        "character": "ローズ・デウィット・ブケイター"
+      },
+      {
+        "actorId": "billy-zane",
+        "character": "キャル・ホックリー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "disaster",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1997,
+      "month": 12
+    },
+    "runtime": 189,
+    "originalType": "original",
+    "synopsis": "1912年、処女航海に出た豪華客船タイタニック号。上流階級の婚約者に縛られたローズと、賭けで乗船券を手に入れた貧しい画家志望のジャックは、船上で身分を越えた恋に落ちる。しかし氷山との衝突が、二人と2,200人の乗客の運命を一変させる。実際の海難事故を背景にした壮大なラブストーリーで、アカデミー賞11部門を受賞し世界的な社会現象となった。",
+    "tmdbId": 597,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF_(1997%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Titanic"
+  },
+  {
+    "id": "avengers-endgame",
+    "title": "アベンジャーズ/エンドゲーム",
+    "titleKana": "あべんじゃーずえんどげーむ",
+    "directorIds": [
+      "anthony-russo",
+      "joe-russo"
+    ],
+    "screenwriterIds": [
+      "christopher-markus",
+      "stephen-mcfeely"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク/アイアンマン"
+      },
+      {
+        "actorId": "chris-evans",
+        "character": "スティーブ・ロジャース/キャプテン・アメリカ"
+      },
+      {
+        "actorId": "scarlett-johansson",
+        "character": "ナターシャ・ロマノフ/ブラック・ウィドウ"
+      }
+    ],
+    "themeIds": [
+      "hero",
+      "action",
+      "sf",
+      "time-travel"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 4
+    },
+    "runtime": 182,
+    "originalType": "manga",
+    "synopsis": "最凶の敵サノスの指パッチンにより、全宇宙の生命の半分が消し去られた。生き残ったアベンジャーズの前に現れた一筋の希望は、量子世界を利用した時間の旅。失われた仲間と世界を取り戻すため、ヒーローたちは最後の戦いに挑む。11年22作にわたるマーベル・シネマティック・ユニバース「インフィニティ・サーガ」の集大成で、世界興行収入の歴代記録を塗り替えた。",
+    "tmdbId": 299534,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。原作はマーベル・コミックのためoriginalType=manga。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Avengers: Endgame",
+    "seriesName": "マーベル・シネマティック・ユニバース(MCU)"
+  },
+  {
+    "id": "la-la-land",
+    "title": "ラ・ラ・ランド",
+    "titleKana": "らららんど",
+    "directorIds": [
+      "damien-chazelle"
+    ],
+    "screenwriterIds": [
+      "damien-chazelle"
+    ],
+    "studioIds": [
+      "summit"
+    ],
+    "cast": [
+      {
+        "actorId": "ryan-gosling",
+        "character": "セバスチャン"
+      },
+      {
+        "actorId": "emma-stone",
+        "character": "ミア"
+      },
+      {
+        "actorId": "john-legend",
+        "character": "キース"
+      }
+    ],
+    "themeIds": [
+      "musical",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 2
+    },
+    "runtime": 128,
+    "originalType": "original",
+    "synopsis": "映画の都ロサンゼルス。女優を夢見てオーディションに落ち続けるミアと、自分の店を持つことを夢見るジャズピアニストのセバスチャンは、渋滞のハイウェイで最悪の出会いを果たしたのち、恋に落ちる。互いの夢を応援し合う二人だが、夢の実現が近づくほど二人の道はすれ違っていく。夢と恋の切ない選択を鮮やかな歌と踊りで描いた現代ミュージカルの傑作。",
+    "tmdbId": 313369,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "La La Land"
+  },
+  {
+    "id": "mad-max-fury-road",
+    "title": "マッドマックス 怒りのデス・ロード",
+    "titleKana": "まっどまっくすいかりのですろーど",
+    "directorIds": [
+      "george-miller"
+    ],
+    "screenwriterIds": [
+      "george-miller"
+    ],
+    "studioIds": [
+      "kennedy-miller-mitchell",
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-hardy",
+        "character": "マックス・ロカタンスキー"
+      },
+      {
+        "actorId": "charlize-theron",
+        "character": "フュリオサ大隊長"
+      },
+      {
+        "actorId": "nicholas-hoult",
+        "character": "ニュークス"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "dystopia"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 6
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "核戦争後の荒野。水と燃料を独占する独裁者イモータン・ジョーの砦から、女戦士フュリオサはジョーの「妻」たちを連れて脱走する。捕らわれの身だったマックスも逃避行に巻き込まれ、改造車の大軍団との壮絶な追跡戦が始まる。ほぼ全編がカーチェイスという狂気の構成を実車スタントで撮り切った、アクション映画の金字塔。",
+    "tmdbId": 76341,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%89%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_%E6%80%92%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はジョージ・ミラーほか(ニコ・ラサウリス、ブレンダン・マッカーシー)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Mad Max: Fury Road",
+    "seriesName": "「マッドマックス」シリーズ"
+  },
+  {
+    "id": "parasite",
+    "title": "パラサイト 半地下の家族",
+    "titleKana": "ぱらさいとはんちかのかぞく",
+    "directorIds": [
+      "bong-joon-ho"
+    ],
+    "screenwriterIds": [
+      "bong-joon-ho"
+    ],
+    "studioIds": [
+      "barunson"
+    ],
+    "cast": [
+      {
+        "actorId": "song-kang-ho",
+        "character": "キム・ギテク"
+      },
+      {
+        "actorId": "choi-woo-shik",
+        "character": "キム・ギウ"
+      },
+      {
+        "actorId": "park-so-dam",
+        "character": "キム・ギジョン"
+      }
+    ],
+    "themeIds": [
+      "social",
+      "inequality",
+      "suspense",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 12
+    },
+    "runtime": 133,
+    "originalType": "original",
+    "synopsis": "半地下住宅で暮らす全員失業中のキム一家。長男ギウが高台の豪邸に住むパク家の家庭教師になったのを皮切りに、一家は身分を偽って次々とパク家に入り込んでいく。しかし順調に見えた寄生生活は、ある夜を境に誰も予想しない方向へ転がり落ちる。格差社会を痛烈に描き、カンヌのパルム・ドールと非英語作品初のアカデミー作品賞を制した。",
+    "tmdbId": 496243,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88_%E5%8D%8A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%AE%B6%E6%97%8F"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はポン・ジュノ、ハン・ジヌォンの共同(ハン・ジヌォンは未登録)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "기생충"
+  },
+  {
+    "id": "joker",
+    "title": "ジョーカー",
+    "titleKana": "じょーかー",
+    "directorIds": [
+      "todd-phillips"
+    ],
+    "screenwriterIds": [
+      "todd-phillips",
+      "scott-silver"
+    ],
+    "studioIds": [
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "joaquin-phoenix",
+        "character": "アーサー・フレック"
+      },
+      {
+        "actorId": "robert-de-niro",
+        "character": "マレー・フランクリン"
+      },
+      {
+        "actorId": "zazie-beetz",
+        "character": "ソフィー・デュモンド"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "social",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 10
+    },
+    "runtime": 122,
+    "originalType": "manga",
+    "synopsis": "コメディアンを夢見ながら大道芸人として働くアーサーは、病気の母を支えつつ、発作的に笑い出してしまう持病と貧困に苦しんでいた。社会から見放され、尊厳を踏みにじられ続けた男は、やがて「ジョーカー」へと変貌していく。バットマンの宿敵の誕生を社会派ドラマとして描き直し、ヴェネツィア国際映画祭金獅子賞を受賞した。",
+    "tmdbId": 475557,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%AB%E3%83%BC_(%E6%98%A0%E7%94%BB)"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。原作はDCコミックスのキャラクターのためoriginalType=manga。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Joker"
+  },
+  {
+    "id": "toy-story",
+    "title": "トイ・ストーリー",
+    "titleKana": "といすとーりー",
+    "directorIds": [
+      "john-lasseter"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "pixar"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-hanks",
+        "character": "ウッディ"
+      },
+      {
+        "actorId": "tim-allen",
+        "character": "バズ・ライトイヤー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "friendship",
+      "comedy",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 1996,
+      "month": 3
+    },
+    "runtime": 81,
+    "originalType": "original",
+    "synopsis": "少年アンディのお気に入りのカウボーイ人形ウッディは、おもちゃたちのリーダー。しかし誕生日に最新式のスペースレンジャー人形バズ・ライトイヤーがやってきて、その座を奪われてしまう。嫉妬に駆られたウッディの行動から、二人は家の外へ放り出され、力を合わせてアンディの元を目指すことに。世界初の長編フルCGアニメーションとして映画史を塗り替えた記念碑的作品。",
+    "tmdbId": 862,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はジョス・ウィードン、アンドリュー・スタントンら4名の共同(未登録)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Toy Story",
+    "seriesName": "「トイ・ストーリー」シリーズ"
+  },
+  {
+    "id": "frozen",
+    "title": "アナと雪の女王",
+    "titleKana": "あなとゆきのじょおう",
+    "directorIds": [
+      "chris-buck",
+      "jennifer-lee"
+    ],
+    "screenwriterIds": [
+      "jennifer-lee"
+    ],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "kristen-bell",
+        "character": "アナ"
+      },
+      {
+        "actorId": "idina-menzel",
+        "character": "エルサ"
+      },
+      {
+        "actorId": "josh-gad",
+        "character": "オラフ"
+      }
+    ],
+    "themeIds": [
+      "musical",
+      "fantasy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 3
+    },
+    "runtime": 102,
+    "originalType": "other",
+    "synopsis": "アレンデール王国の王女エルサは、触れたものを凍らせる魔法の力を隠して生きてきた。戴冠式の日に力が暴走し、王国を永遠の冬に変えて山へ逃げたエルサを追って、妹のアナは雪山へ旅立つ。「ありのままで」の歌とともに世界中で大ヒットし、姉妹の絆を軸に王子様頼みではないヒロイン像を描いたディズニー・ミュージカルの転換点。アンデルセン童話『雪の女王』が原案。",
+    "tmdbId": 109445,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%81%A8%E9%9B%AA%E3%81%AE%E5%A5%B3%E7%8E%8B"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08",
+    "originalTitle": "Frozen"
+  }
+]

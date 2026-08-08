@@ -1,0 +1,79 @@
+# movie-db
+
+邦画・洋画・アニメ映画を制作会社・監督・脚本・キャスト・公開年・受賞歴・テーマから検索できるファンデータベース。姉妹サイト7番目(2026-08-08作成)。scaffoldのコピー元は**anime-db**(非書籍・キーアート表紙・スタッフ/キャスト構造が最も近く改造距離が最短だったため)。アーキテクチャ・デザインシステム・運用ノウハウはranobe-db系列をそのまま踏襲している。
+
+- 公開URL: https://izenmi.github.io/movie-db/
+- リポジトリ: `izenmi/movie-db`(public。GitHub Pagesは無料枠だとpublicでないと使えない)
+- スタック: React 18 + TypeScript + Vite 5 + `react-router-dom`(`BrowserRouter`)
+
+## データモデル上の判断(このサイト固有・最重要)
+
+- **映画1本で1エントリ**。続編・リメイクは別エントリ(登録するなら)で、シリーズ関係は`seriesName`(表示用テキスト)と`seriesNote`(自由記述)に書く
+- **`region: japan|overseas`(邦画/海外)と`medium: liveaction|animation`(実写/アニメ)の2軸**が絞り込みの柱。合作は主たる製作国で決めてsourceNoteに明記
+- **アニメ映画はanime-db(単独劇場アニメのみ収録)と重複してよい**とユーザーが明示的に決定済み。重複作品は`relatedAnimeUrl`で相互リンクする(姉妹サイトリンクは5方向: novel/comic/mystery/game/anime)
+- **`release: { year, month? }` は日本公開を基本**とし、判別が難しい作品は本国公開年+sourceNote明記。monthは裏取りできたときだけ。`/timeline`は年単位(クール区切りなし、年内は月順)
+- **`title`は邦題、`originalTitle`は原題**(邦題と同じ邦画では省略)。パラサイトの原題は기생충のようにハングル等もそのまま入れる(あらすじには非日本語文字を入れない)
+- **スタッフは単一ファイル2ロール方式**: `staff.json`を`directorIds`(必須≥1)と`screenwriterIds`(任意。監督兼任のみなら空)の両方から参照する(anime-dbの監督/シリーズ構成と同じ設計)
+- **`studioIds`(制作会社)は必須≥1**。クレジット上の製作会社を最大2社程度登録し、製作委員会・出資のみの会社は登録しない
+- **キャストは各作品の主要キャスト最大5名まで**(`cast: [{actorId, character}]`、役名必須)。apply_batch.pyが6名以上を拒否する。シード時は3名/作品に抑えた。キャスト詳細ページは役名つき出演一覧(公開順固定)
+- **`runtime`は上映時間(分)**。`status`(放送状態)や`episodes`は映画に不要なので撤去した
+- spoilerタグ機構はそのまま維持(現状「どんでん返し」1タグのみspoiler)。レコメンドのスコア計算からも除外される
+
+## データフロー(source → generated)
+
+- `public/data/source/*.json` … 一次データ(works/staff/studios/actors/themes/awards + covers-cache)
+- `public/data/generated/*.json` … `scripts/generate-manifest.mjs`が生成(`.gitignore`対象)
+- 生成スクリプトの検証(失敗するとビルドが落ちる): 全id参照整合 / `directorIds`・`studioIds`空配列不可 / `region`・`medium`・`originalType`のenum検証 / `release.month`は1-12 / cast役名必須
+
+## データ取得パイプライン(TMDb一本柱)
+
+**TMDb API v3(`https://api.themoviedb.org/3`)がAniList(anime-db)の役割を担う。**
+
+- **認証はBearerトークン(API Read Access Token)**。`scripts/.tmdb-token`(**gitignore対象、絶対にコミットしない**)か環境変数`TMDB_TOKEN`から読む。トークンはユーザーのTMDbアカウントで発行済み。APIコールにだけ必要で、**画像CDN(`image.tmdb.org`)へのホットリンクは認証不要**なのでGitHub Actionsビルドにトークンは要らない
+- **`scripts/tmdb.py`** … 共有ラッパ。`language=ja-JP`既定(邦題・日本語データ優先、無ければ原語フォールバック)。レート制限は緩い(公式~50req/秒)が既定0.3秒スリープ+429時Retry-After尊重
+- **`scripts/suggest_candidates.py`** … discover/movieの人気順で未登録作品をカタログに列挙させる。`--lang ja`で邦画に絞れる。`--min-votes`(既定200)でノイズ除去。出力は`邦題|tmdbId`形式でそのままprobeへ。**日本語ローカライズが無い作品は原題のまま返る**ので目視確認
+- **`scripts/probe_tmdb.py`** … 主力裏取りツール。works.jsonとの重複判定(タイトル正規化+tmdbId)を検索前に行いDUPはネットワークアクセスしない。1候補につき監督・脚本・製作会社・キャスト6名・日本公開年月(release_datesのJP劇場公開)・上映時間・ジャンル・ポスターを取得。`regionGuess`(original_language==ja)と`animation`(ジャンルid16)も出す
+  - **海外作品の人名はTMDbでも英語表記で返ることがある**(例: Frank Darabont、Chris Buck。有名俳優はカタカナで返ることが多い)。登録は日本で流通しているカタカナ表記に直し、sourceNoteに「TMDb表記: ...」を書き残す
+  - **役名(character)は英語で返ることが多い**。登録時に日本語の役名表記へ直す
+  - **同名リメイク・続編の誤マッチに注意**(『告白』のような一般名詞タイトルは特に)。OKでもtitleの目視確認を省略しない
+- **`scripts/fetch-covers.mjs`** … works.jsonの`tmdbId`をキーに`/movie/{id}`を直接引くため、タイトル検索ベースと違い誤ヒットが構造的に起きない。画像は`image.tmdb.org/t/p/w500{poster_path}`へのホットリンク。検証はcontent-type+実バイト数。`--only`/`--force`(非破壊)/`--retry-misses`
+- **`scripts/apply_batch.py`** … キーは`newStaff`/`newStudios`/`newActors`/`newThemes`/`newAwards`/`works`。**applyは1回だけ**、実行前に既存id衝突件数をレポートで確認する
+- **`scripts/find_people.py --names 是枝裕和 東宝 菅田将暉`** … staff/studios/actorsの既存idをJSON全体を読まずに引く。バッチ前に必ず通す
+- あらすじは150〜250字で**必ず独自要約**(TMDbのoverviewも転記禁止)。書き出し後に`[Ѐ-ӿ가-힯]`と`[A-Za-z]{4,}`で機械点検する(「原題は The ...。」のような文はoriginalTitleフィールドと重複するのであらすじに書かない — シード時にこの点検で検出して削除した)
+
+## 購入リンク・画像
+
+- 購入リンクは`amazonSearchUrl(title, "Blu-ray")`(`src/ui/common/WorkCover.tsx`)の検索URLのみ。アフィリエイトタグ`izenmi-22`(姉妹サイト共通)。AffiliateNoticeはAmazonのみの表記に変更済み(楽天は本サイトでは不使用)
+- ポスターはTMDbのw500(縦長)で、既存の表紙枠CSSがそのまま合う。**Aboutページに出典と削除対応の記載+TMDb規約必須のクレジット文**(This product uses the TMDB API but is not endorsed or certified by TMDB.)を置いている
+
+## デザイン方針
+
+- **メインアクセントはシネマゴールド(`--color-gold`/`-strong`/`-deep`)**。ranobe-db水色・manga-dbオレンジ・game-dbグリーン・mystery-db藤色・tech-dbティール・anime-db桜ピンクと区別。装飾用パステルの`--color-yellow`とは別変数
+- **公開区分バッジ(`.season-badge`、公開年月=gold/邦画=blue/海外=peach/アニメ=purple)**。クラス名はscaffold由来の`season-badge`のまま(汎用ピルバッジとして流用)
+- ページ背景は黒一色固定、装飾最小、見出し`M PLUS Rounded 1c`。favicon(`public/favicon.svg`)は黒背景+「映」の1文字ロゴ(`#ffc85c`)。全面塗り(角丸なし)でアルファを残さない
+- Google Analytics: **未設置**。movie-db専用のGA4測定IDが発行されたら`index.html`のコメント位置にgtagスニペットを追加する(姉妹サイトのIDは流用しない)
+
+## コマンド
+
+```sh
+npm install
+npm run dev       # http://localhost:5173/movie-db/
+npm run build      # 型チェック + データ整合性チェック + ビルド + プリレンダー
+npm run preview
+npm run fetch-covers
+node scripts/generate-ogp.mjs    # 手動実行
+node scripts/generate-icons.mjs  # 手動実行
+```
+
+`main`へのpushで`.github/workflows/deploy.yml`が自動ビルド・GitHub Pagesデプロイを行う。SEO/SSG(useSeo・prerender.mjs・sitemap生成・SITE_ORIGIN定数の理由)はmystery-dbのCLAUDE.mdの記述がそのまま当てはまる。**プリレンダーのポート4319が他プロジェクトのpreviewに使われていることがある**(`PRERENDER_PORT=4327 npm run build`で回避。2026-08-08に実際に踏んだ)。
+
+## データ規模の推移
+
+25作品(初回シード、2026-08-08)。スタッフ32・制作会社20・キャスト71・テーマ35(うちspoiler 1)・アワード5。邦画12(実写7+アニメ5)・海外13(実写11+アニメ2)。ポスターは25/25(100%)解決。全作品をTMDbで裏取りし、キャストはシード時3名/作品に抑えた(上限5名)。受賞歴は未登録(下記)。
+
+## 既知の未着手事項
+
+- **受賞歴が0件**。awards.jsonに5賞(日本アカデミー賞・キネマ旬報ベスト・テン・アカデミー賞・カンヌ国際映画祭・ブルーリボン賞)を用意済みだが、`awardResults`は未投入。取り込みは姉妹サイト共通の受賞パイプライン(Wikipediaの賞ページを正とし、**既存作品への付与→未登録作の追加の2段構え**)で行うこと
+- **姉妹サイトへの相互リンクが未設定**。`relatedAnimeUrl`(君の名は。天気の子などanime-db重複作品)、`relatedNovelUrl`/`relatedComicUrl`(告白・ショーシャンク・SLAM DUNKなど原作もの)を手動設定する。逆方向(姉妹サイト側から本サイトへのリンク、各サイトのSISTER_SITESカードへの映画DB追加)も未着手
+- **GA4測定IDが未発行**(ユーザーのGoogleアカウント操作が必要)
+- **Google Search Consoleへのsitemap登録**(ユーザー操作が必要)

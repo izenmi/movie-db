@@ -1,0 +1,127 @@
+{
+  "shin-godzilla": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8ulwqKiHxz5uH0g0I1BVeNDTWlo.jpg",
+    "matchedTitle": "シン・ゴジラ",
+    "tmdbId": 315011
+  },
+  "shoplifters": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2HuqsYY2GA90Fvhe5dFFCNxCF3R.jpg",
+    "matchedTitle": "万引き家族",
+    "tmdbId": 505192
+  },
+  "seven-samurai": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8podTebyeH6sn31atpdappdgaCE.jpg",
+    "matchedTitle": "七人の侍",
+    "tmdbId": 346
+  },
+  "one-cut-of-the-dead": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wFbAxK10CiJA1XxgJaEc16UeHTb.jpg",
+    "matchedTitle": "カメラを止めるな！",
+    "tmdbId": 513434
+  },
+  "confessions": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/p8vr7jVwflsSqAq91nWcOPZ2RIv.jpg",
+    "matchedTitle": "告白",
+    "tmdbId": 54186
+  },
+  "godzilla-minus-one": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/buvBq2zLP7CcJth8tjrI4znvfEO.jpg",
+    "matchedTitle": "ゴジラ-1.0",
+    "tmdbId": 940721
+  },
+  "hanataba": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bORrc6h7HWUS5uLczrZx7uDzfBL.jpg",
+    "matchedTitle": "花束みたいな恋をした",
+    "tmdbId": 695932
+  },
+  "spirited-away": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8TEs6twIANAc2qiU8m17JO8Ujcx.jpg",
+    "matchedTitle": "千と千尋の神隠し",
+    "tmdbId": 129
+  },
+  "your-name": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yLglTwyFOUZt5fNKm0PWL1PK5gm.jpg",
+    "matchedTitle": "君の名は。",
+    "tmdbId": 372058
+  },
+  "weathering-with-you": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/sGBRqb0Y3DlUpmYXPGUsy587ofd.jpg",
+    "matchedTitle": "天気の子",
+    "tmdbId": 568160
+  },
+  "the-first-slam-dunk": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rdPlVH2t6wmGYbe2Ii7P2pyi5hm.jpg",
+    "matchedTitle": "THE FIRST SLAM DUNK",
+    "tmdbId": 783675
+  },
+  "the-boy-and-the-heron": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/aISxbDBgdeiPRbhVyfGP7a4LYk5.jpg",
+    "matchedTitle": "君たちはどう生きるか",
+    "tmdbId": 508883
+  },
+  "the-shawshank-redemption": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xQY1yhixcSSfKRhdlhzwN8Mra6q.jpg",
+    "matchedTitle": "ショーシャンクの空に",
+    "tmdbId": 278
+  },
+  "inception": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qzb0slJerd5bQgJxteJ5oAmfp09.jpg",
+    "matchedTitle": "インセプション",
+    "tmdbId": 27205
+  },
+  "interstellar": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/auQjFBfCWSL6DpQhWVCZ6wFtDm6.jpg",
+    "matchedTitle": "インターステラー",
+    "tmdbId": 157336
+  },
+  "the-dark-knight": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/nftQJb9550PtYFXhmTs7XiN0QhR.jpg",
+    "matchedTitle": "ダークナイト",
+    "tmdbId": 155
+  },
+  "back-to-the-future": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dZFaLrpdH2roAt5ZCjAye6DynT1.jpg",
+    "matchedTitle": "バック・トゥ・ザ・フューチャー",
+    "tmdbId": 105
+  },
+  "titanic": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ofhCnW6i7mQIiLSSucBHqZQ7XT7.jpg",
+    "matchedTitle": "タイタニック",
+    "tmdbId": 597
+  },
+  "avengers-endgame": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uNWEDJzeH8VLHrs2iHkosYp2Y6W.jpg",
+    "matchedTitle": "アベンジャーズ／エンドゲーム",
+    "tmdbId": 299534
+  },
+  "la-la-land": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/z3sNuGYZdms8rjlV08LYjLkvzoA.jpg",
+    "matchedTitle": "ラ・ラ・ランド",
+    "tmdbId": 313369
+  },
+  "mad-max-fury-road": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/auGxRPeTiC5p95sWktXJ4uIi6a4.jpg",
+    "matchedTitle": "マッドマックス 怒りのデス・ロード",
+    "tmdbId": 76341
+  },
+  "parasite": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xOvSmS1oMZUBUTqNU8slwRIokaZ.jpg",
+    "matchedTitle": "パラサイト 半地下の家族",
+    "tmdbId": 496243
+  },
+  "joker": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/j9ArCk5Za4Hw32WnRtiCPtmDcxZ.jpg",
+    "matchedTitle": "ジョーカー",
+    "tmdbId": 475557
+  },
+  "toy-story": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/t2cblh0eLbkhjsCOLnl3w65XnT8.jpg",
+    "matchedTitle": "トイ・ストーリー",
+    "tmdbId": 862
+  },
+  "frozen": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5UfIxiiEbqfT1X1SEyV4EZFcTZU.jpg",
+    "matchedTitle": "アナと雪の女王",
+    "tmdbId": 109445
+  }
+}

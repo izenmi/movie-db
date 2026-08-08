@@ -1,0 +1,62 @@
+[
+  {
+    "id": "japan-academy",
+    "name": "日本アカデミー賞",
+    "organizer": "日本アカデミー賞協会",
+    "description": "日本映画界最大級の映画賞。最優秀作品賞をはじめ各部門の優秀賞・最優秀賞を毎年選出する。",
+    "firstYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E8%B3%9E"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kinema-junpo",
+    "name": "キネマ旬報ベスト・テン",
+    "organizer": "キネマ旬報社",
+    "description": "映画雑誌『キネマ旬報』が毎年選出する日本最古の映画ランキング。",
+    "firstYear": 1924,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%9E%E6%97%AC%E5%A0%B1%E3%83%99%E3%82%B9%E3%83%88%E3%83%BB%E3%83%86%E3%83%B3"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "academy-awards",
+    "name": "アカデミー賞",
+    "organizer": "映画芸術科学アカデミー",
+    "description": "アメリカで最も権威ある映画賞。作品賞・監督賞・主演賞など多数の部門がある。通称オスカー。",
+    "firstYear": 1929,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E8%B3%9E"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "cannes",
+    "name": "カンヌ国際映画祭",
+    "organizer": "カンヌ国際映画祭",
+    "description": "世界三大映画祭のひとつ。最高賞はパルム・ドール。",
+    "firstYear": 1946,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8C%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "blue-ribbon",
+    "name": "ブルーリボン賞",
+    "organizer": "東京映画記者会",
+    "description": "東京のスポーツ紙映画記者による映画賞。記者ならではの選出で知られる。",
+    "firstYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3%E8%B3%9E_(%E6%98%A0%E7%94%BB)"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  }
+]

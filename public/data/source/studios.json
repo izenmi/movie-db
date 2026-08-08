@@ -1,0 +1,186 @@
+[
+  {
+    "id": "toho",
+    "name": "東宝",
+    "nameKana": "とうほう",
+    "description": "日本最大手の映画会社のひとつ。ゴジラシリーズや黒澤明作品など数多くの名作を製作・配給してきた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%AE%9D"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "aoi-pro",
+    "name": "AOI Pro.",
+    "nameKana": "アオイプロ",
+    "description": "日本の映像制作会社。CM制作を母体に映画・ドラマも手がけ、『万引き家族』の制作プロダクションを務めた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "enbu-seminar",
+    "name": "ENBUゼミナール",
+    "nameKana": "エンブゼミナール",
+    "description": "俳優・監督養成の映画学校。ワークショップ発の映画『カメラを止めるな!』を制作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "little-more",
+    "name": "リトルモア",
+    "nameKana": "リトルモア",
+    "description": "日本の出版社・映像制作会社。『花束みたいな恋をした』などの映画製作にも携わる。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "studio-ghibli",
+    "name": "スタジオジブリ",
+    "nameKana": "スタジオジブリ",
+    "description": "宮崎駿・高畑勲らが設立したアニメーション・スタジオ。長編アニメーション映画の名作を数多く生み出してきた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B8%E3%83%96%E3%83%AA"
+    },
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "comix-wave-films",
+    "name": "コミックス・ウェーブ・フィルム",
+    "nameKana": "コミックスウェーブフィルム",
+    "description": "新海誠監督作品の制作で知られる日本のアニメーション・スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "toei-animation",
+    "name": "東映アニメーション",
+    "nameKana": "とうえいアニメーション",
+    "description": "日本の大手アニメーション制作会社。『THE FIRST SLAM DUNK』ほか劇場・TV作品を多数制作。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "castle-rock",
+    "name": "キャッスル・ロック・エンターテインメント",
+    "nameKana": "キャッスルロックエンターテインメント",
+    "description": "アメリカの映画製作会社。『ショーシャンクの空に』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "warner-bros",
+    "name": "ワーナー・ブラザース",
+    "nameKana": "ワーナーブラザース",
+    "description": "ハリウッドのメジャースタジオのひとつ。DC映画やノーラン作品などを製作・配給する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "syncopy",
+    "name": "シンコピー",
+    "nameKana": "シンコピー",
+    "description": "クリストファー・ノーランと妻エマ・トーマスの製作会社。ノーラン監督作品を一貫して製作する。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "universal",
+    "name": "ユニバーサル・ピクチャーズ",
+    "nameKana": "ユニバーサルピクチャーズ",
+    "description": "ハリウッドのメジャースタジオのひとつ。1912年創立の老舗。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "amblin",
+    "name": "アンブリン・エンターテインメント",
+    "nameKana": "アンブリンエンターテインメント",
+    "description": "スティーヴン・スピルバーグが設立した製作会社。『バック・トゥ・ザ・フューチャー』などを製作。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "paramount",
+    "name": "パラマウント・ピクチャーズ",
+    "nameKana": "パラマウントピクチャーズ",
+    "description": "ハリウッドのメジャースタジオのひとつ。『タイタニック』の共同製作・北米配給を担った。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "lightstorm",
+    "name": "ライトストーム・エンターテインメント",
+    "nameKana": "ライトストームエンターテインメント",
+    "description": "ジェームズ・キャメロンの製作会社。『タイタニック』『アバター』を製作。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "marvel-studios",
+    "name": "マーベル・スタジオ",
+    "nameKana": "マーベルスタジオ",
+    "description": "マーベル・シネマティック・ユニバース(MCU)を製作するアメリカの映画スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "summit",
+    "name": "サミット・エンターテインメント",
+    "nameKana": "サミットエンターテインメント",
+    "description": "アメリカの映画会社。『ラ・ラ・ランド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kennedy-miller-mitchell",
+    "name": "ケネディ・ミラー・ミッチェル",
+    "nameKana": "ケネディミラーミッチェル",
+    "description": "ジョージ・ミラーらのオーストラリアの製作会社。『マッドマックス』シリーズを製作。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "barunson",
+    "name": "バルンソンE&A",
+    "nameKana": "バルンソンイーアンドエー",
+    "description": "韓国の映画製作会社。『パラサイト 半地下の家族』を製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "pixar",
+    "name": "ピクサー・アニメーション・スタジオ",
+    "nameKana": "ピクサーアニメーションスタジオ",
+    "description": "世界初の長編フルCGアニメ映画『トイ・ストーリー』を生んだアメリカのアニメーション・スタジオ。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "disney-animation",
+    "name": "ウォルト・ディズニー・アニメーション・スタジオ",
+    "nameKana": "ウォルトディズニーアニメーションスタジオ",
+    "description": "ディズニーの長編アニメーション部門。『アナと雪の女王』などを制作。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  }
+]

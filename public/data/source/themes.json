@@ -1,0 +1,144 @@
+[
+  {
+    "id": "sf",
+    "name": "SF"
+  },
+  {
+    "id": "action",
+    "name": "アクション"
+  },
+  {
+    "id": "human-drama",
+    "name": "ヒューマンドラマ"
+  },
+  {
+    "id": "family",
+    "name": "家族"
+  },
+  {
+    "id": "romance",
+    "name": "恋愛"
+  },
+  {
+    "id": "musical",
+    "name": "ミュージカル"
+  },
+  {
+    "id": "suspense",
+    "name": "サスペンス"
+  },
+  {
+    "id": "crime",
+    "name": "クライム"
+  },
+  {
+    "id": "jidaigeki",
+    "name": "時代劇"
+  },
+  {
+    "id": "kaiju",
+    "name": "怪獣"
+  },
+  {
+    "id": "panic",
+    "name": "パニック"
+  },
+  {
+    "id": "time-travel",
+    "name": "タイムトラベル"
+  },
+  {
+    "id": "space",
+    "name": "宇宙"
+  },
+  {
+    "id": "dream",
+    "name": "夢"
+  },
+  {
+    "id": "hero",
+    "name": "ヒーロー"
+  },
+  {
+    "id": "comedy",
+    "name": "コメディ"
+  },
+  {
+    "id": "youth",
+    "name": "青春"
+  },
+  {
+    "id": "sports",
+    "name": "スポーツ"
+  },
+  {
+    "id": "fantasy",
+    "name": "ファンタジー"
+  },
+  {
+    "id": "adventure",
+    "name": "アドベンチャー"
+  },
+  {
+    "id": "social",
+    "name": "社会派"
+  },
+  {
+    "id": "inequality",
+    "name": "格差社会"
+  },
+  {
+    "id": "disaster",
+    "name": "災害"
+  },
+  {
+    "id": "postwar",
+    "name": "戦後"
+  },
+  {
+    "id": "classic",
+    "name": "名作クラシック"
+  },
+  {
+    "id": "dystopia",
+    "name": "ディストピア"
+  },
+  {
+    "id": "friendship",
+    "name": "友情"
+  },
+  {
+    "id": "prison",
+    "name": "刑務所"
+  },
+  {
+    "id": "revenge",
+    "name": "復讐"
+  },
+  {
+    "id": "coming-of-age",
+    "name": "成長"
+  },
+  {
+    "id": "isekai",
+    "name": "異世界"
+  },
+  {
+    "id": "body-swap",
+    "name": "入れ替わり"
+  },
+  {
+    "id": "filmmaking",
+    "name": "映画愛"
+  },
+  {
+    "id": "school",
+    "name": "学園"
+  },
+  {
+    "id": "twist",
+    "name": "どんでん返し",
+    "description": "終盤で物語の見え方が反転する作品。",
+    "spoiler": true
+  }
+]
