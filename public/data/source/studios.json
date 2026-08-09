@@ -1730,5 +1730,320 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pacific Data Images。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "luckychap-entertainment",
+    "name": "ラッキーチャップ・エンターテインメント",
+    "nameKana": "ラッキーチャップエンターテインメント",
+    "description": "映画製作会社。『バービー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: LuckyChap Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toho-laboratory",
+    "name": "東宝現像所",
+    "nameKana": "とうほうげんぞうしょ",
+    "description": "映画製作会社。『ゴジラ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toho Laboratory。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "double-dare-you",
+    "name": "ダブル・デア・ユー",
+    "nameKana": "ダブルデアユー",
+    "description": "映画製作会社。『フランケンシュタイン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Double Dare You。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "demilo-films",
+    "name": "デミロ・フィルムズ",
+    "nameKana": "デミロフィルムズ",
+    "description": "映画製作会社。『フランケンシュタイン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Demilo Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "orion-nova-productions",
+    "name": "オライオン・ノヴァ・プロダクションズ",
+    "nameKana": "オライオンノヴァプロダクションズ",
+    "description": "映画製作会社。『十二人の怒れる男』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Orion-Nova Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oz-company",
+    "name": "オズ",
+    "nameKana": "おず",
+    "description": "映画製作会社。『呪怨 劇場版』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Oz Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "xanadeux-company",
+    "name": "ザナドゥー",
+    "nameKana": "ザナドゥー",
+    "description": "映画製作会社。『呪怨 劇場版』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Xanadeux Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "phoenix-pictures",
+    "name": "フェニックス・ピクチャーズ",
+    "nameKana": "フェニックスピクチャーズ",
+    "description": "映画製作会社。『シャッター アイランド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Phoenix Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tristar-pictures",
+    "name": "トライスター・ピクチャーズ",
+    "nameKana": "トライスターピクチャーズ",
+    "description": "映画製作会社。『死霊のはらわた』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: TriStar Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "filmdistrict",
+    "name": "フィルムディストリクト",
+    "nameKana": "フィルムディストリクト",
+    "description": "映画製作会社。『死霊のはらわた』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: FilmDistrict。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "beyond-c",
+    "name": "ビヨンドシー",
+    "nameKana": "ビヨンドシー",
+    "description": "映画製作会社。『ベルセルク 黄金時代篇II ドルドレイ攻略』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Beyond C.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "graphinica",
+    "name": "グラフィニカ",
+    "nameKana": "グラフィニカ",
+    "description": "映画製作会社。『ベルセルク 黄金時代篇II ドルドレイ攻略』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Graphinica。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "herald-ace",
+    "name": "ヘラルド・エース",
+    "nameKana": "ヘラルドエース",
+    "description": "映画製作会社。『Love Letter』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Herald Ace。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bad-hat-harry-productions",
+    "name": "バッド・ハット・ハリー・プロダクションズ",
+    "nameKana": "バッドハットハリープロダクションズ",
+    "description": "映画製作会社。『X-MEN：アポカリプス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bad Hat Harry Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nintendo",
+    "name": "任天堂",
+    "nameKana": "にんてんどう",
+    "description": "映画製作会社。『劇場版ポケットモンスター 幻のポケモン ルギア爆誕』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nintendo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyokuichi-tokyo-movie",
+    "name": "キョクイチ東京ムービー",
+    "nameKana": "きょくいちとうきょうむーびー",
+    "description": "映画製作会社。『名探偵コナン 瞳の中の暗殺者』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyokuichi-Tokyo Movie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "offscreen",
+    "name": "オフスクリーン",
+    "nameKana": "オフスクリーン",
+    "description": "映画製作会社。『ミッキー17』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Offscreen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dna-films",
+    "name": "DNAフィルムズ",
+    "nameKana": "でぃーえぬえーふぃるむず",
+    "description": "映画製作会社。『28日後...』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DNA Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "carolco-pictures",
+    "name": "カロルコ・ピクチャーズ",
+    "nameKana": "カロルコピクチャーズ",
+    "description": "映画製作会社。『ターミネーター2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Carolco Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yomiuri-telecasting-corporation",
+    "name": "読売テレビ",
+    "nameKana": "よみうりてれび",
+    "description": "映画製作会社。『僕のヒーローアカデミア THE MOVIE ～2人の英雄～』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yomiuri Telecasting Corporation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokyo-movie-shinsha",
+    "name": "東京ムービー新社",
+    "nameKana": "とうきょうむーびーしんしゃ",
+    "description": "映画製作会社。『ルパン三世 カリオストロの城』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo Movie Shinsha。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "telecom-animation-film",
+    "name": "テレコム・アニメーションフィルム",
+    "nameKana": "テレコムアニメーションフィルム",
+    "description": "映画製作会社。『ルパン三世 カリオストロの城』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Telecom Animation Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brookstreet-pictures",
+    "name": "ブルックストリート・ピクチャーズ",
+    "nameKana": "ブルックストリートピクチャーズ",
+    "description": "映画製作会社。『ブルータリスト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brookstreet Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kaplan-morrison",
+    "name": "カプラン・モリソン",
+    "nameKana": "カプランモリソン",
+    "description": "映画製作会社。『ブルータリスト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kaplan Morrison。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-rudin-productions",
+    "name": "スコット・ルーディン・プロダクションズ",
+    "nameKana": "スコットルーディンプロダクションズ",
+    "description": "映画製作会社。『トゥルーマン・ショー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Rudin Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peregrine",
+    "name": "ペレグリン",
+    "nameKana": "ペレグリン",
+    "description": "映画製作会社。『シャイニング』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peregrine。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "p-a-works",
+    "name": "P.A.WORKS",
+    "nameKana": "ぴーえーわーくす",
+    "description": "映画製作会社。『さよならの朝に約束の花をかざろう』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "a24",
+    "name": "A24",
+    "nameKana": "えーにじゅうよん",
+    "description": "映画製作会社。『マーティ・シュプリーム 世界をつかめ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "central-pictures",
+    "name": "セントラル・ピクチャーズ",
+    "nameKana": "セントラルピクチャーズ",
+    "description": "映画製作会社。『マーティ・シュプリーム 世界をつかめ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Central Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "iac-films",
+    "name": "IACフィルムズ",
+    "nameKana": "あいえーしーふぃるむず",
+    "description": "映画製作会社。『エブリシング・エブリウェア・オール・アット・ワンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: IAC Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "agbo",
+    "name": "AGBO",
+    "nameKana": "えーじーびーおー",
+    "description": "映画製作会社。『エブリシング・エブリウェア・オール・アット・ワンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "at-x",
+    "name": "AT-X",
+    "nameKana": "えーてぃーえっくす",
+    "description": "映画製作会社。『ノーゲーム・ノーライフ ゼロ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seven-bucks-productions",
+    "name": "セブン・バックス・プロダクションズ",
+    "nameKana": "セブンバックスプロダクションズ",
+    "description": "映画製作会社。『レッド・ワン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seven Bucks Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-detective-agency",
+    "name": "ディテクティブ・エージェンシー",
+    "nameKana": "ディテクティブエージェンシー",
+    "description": "映画製作会社。『レッド・ワン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Detective Agency。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gk-films",
+    "name": "GKフィルムズ",
+    "nameKana": "じーけーふぃるむず",
+    "description": "映画製作会社。『ワールド・ウォーZ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: GK Films。",
+    "updatedAt": "2026-08-09"
   }
 ]
