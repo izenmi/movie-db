@@ -62178,5 +62178,1920 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Wonder"
+  },
+  {
+    "id": "flamin-hot",
+    "title": "フレーミングホット！チートス物語",
+    "titleKana": "ふれーみんぐほっとちーとすものがたり",
+    "directorIds": [
+      "eva-longoria"
+    ],
+    "screenwriterIds": [
+      "linda-yvette-chavez",
+      "lewis-colick"
+    ],
+    "studioIds": [
+      "franklin-entertainment",
+      "searchlight-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "jesse-garcia",
+        "character": "リチャード・モンタニェス"
+      },
+      {
+        "actorId": "annie-gonzalez",
+        "character": "ジュディ・モンタニェス"
+      },
+      {
+        "actorId": "emilio-rivera",
+        "character": "ヴァチョ・モンタニェス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "true-story",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 6
+    },
+    "runtime": 99,
+    "originalType": "other",
+    "synopsis": "工場の清掃員だったリチャード・モンタニェスが、辛い味付けの新商品を思いつく。学歴も後ろ盾もない彼は、社長に直談判するため独学で発表の準備を進める。実際に商品化されるまでの過程と、家族の支えが並行して描かれる。本人の主張には異論も出たが、映画は自伝に沿って作られている。",
+    "tmdbId": 626332,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Flamin' Hot"
+  },
+  {
+    "id": "kung-fu-hustle",
+    "title": "カンフーハッスル",
+    "titleKana": "かんふーはっする",
+    "directorIds": [
+      "stephen-chow"
+    ],
+    "screenwriterIds": [
+      "tsang-kan-cheong"
+    ],
+    "studioIds": [
+      "huayi-brothers-taihe-film-investment",
+      "star-overseas"
+    ],
+    "cast": [
+      {
+        "actorId": "stephen-chow",
+        "character": "シン"
+      },
+      {
+        "actorId": "yuen-qiu",
+        "character": "大家の女房"
+      },
+      {
+        "actorId": "yuen-wah",
+        "character": "大家"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "crime",
+      "fantasy",
+      "martial-arts"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 1
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "一九三〇年代の上海、斧頭会が街を牛耳るなか、貧民街の豚小屋砦だけが手つかずで残っていた。組織に憧れるチンピラのシンが騒ぎを起こしたことで、両者の衝突が始まる。だが砦の住人には、正体を隠した達人が何人も混じっていた。漫画のような誇張と本格的な武術を混ぜた作りで知られる。",
+    "tmdbId": 9470,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "功夫"
+  },
+  {
+    "id": "rascal-does-not-dream-of-a-sister-venturing-out",
+    "title": "青春ブタ野郎はおでかけシスターの夢を見ない",
+    "titleKana": "せいしゅんぶたやろうはおでかけしすたーのゆめをみない",
+    "directorIds": [
+      "soichi-masui"
+    ],
+    "screenwriterIds": [
+      "masahiro-yokotani"
+    ],
+    "studioIds": [
+      "kadokawa",
+      "cloverworks"
+    ],
+    "cast": [
+      {
+        "actorId": "kaito-ishikawa",
+        "character": "梓川咲太"
+      },
+      {
+        "actorId": "asami-seto",
+        "character": "桜島麻衣"
+      },
+      {
+        "actorId": "yurika-kubo",
+        "character": "梓川花楓"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "school",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 6
+    },
+    "runtime": 74,
+    "originalType": "lightnovel",
+    "synopsis": "高校三年になる直前の春、引きこもりだった妹の花楓が学校に通いたいと言い出す。記憶を失う前の自分と今の自分の間で、彼女は揺れ続けていた。咲太は妹の願いを支えながら、麻衣との残り少ない学生生活とも向き合う。ランドセルガール編と対になる前編にあたる作品となっている。",
+    "tmdbId": 1056803,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "rascal-does-not-dream"
+  },
+  {
+    "id": "her-blue-sky",
+    "title": "空の青さを知る人よ",
+    "titleKana": "そらのあおさをしるひとよ",
+    "directorIds": [
+      "tatsuyuki-nagai"
+    ],
+    "screenwriterIds": [
+      "mari-okada"
+    ],
+    "studioIds": [
+      "cloverworks",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "shion-wakayama",
+        "character": "相生あおい"
+      },
+      {
+        "actorId": "ryo-yoshizawa",
+        "character": "金室慎之介"
+      },
+      {
+        "actorId": "riho-yoshioka",
+        "character": "相生あかね"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "music",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 10
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "両親を亡くした姉妹のもと、高校生のあおいはベースに打ち込む日々を送る。町の祭りに、姉の元恋人だったミュージシャンの慎之介が帰ってくる。同時に、十三年前の姿のままの若い慎之介が現れ、あおいの前に立つ。長井龍雪と岡田麿里らによる作品群の一本にあたる。音楽と過去の後悔を重ね、姉妹の関係を軸に据えた作品となっている。",
+    "tmdbId": 615165,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-killer",
+    "title": "ザ・キラー",
+    "titleKana": "ざきらー",
+    "directorIds": [
+      "david-fincher"
+    ],
+    "screenwriterIds": [
+      "andrew-kevin-walker"
+    ],
+    "studioIds": [
+      "netflix"
+    ],
+    "cast": [
+      {
+        "actorId": "michael-fassbender",
+        "character": "殺し屋"
+      },
+      {
+        "actorId": "tilda-swinton",
+        "character": "専門家"
+      },
+      {
+        "actorId": "charles-parnell",
+        "character": "弁護士ホッジス"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "suspense",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 10
+    },
+    "runtime": 118,
+    "originalType": "manga",
+    "synopsis": "標的を仕留め損ねた殺し屋が、雇い主から報復の対象にされる。恋人を襲われた彼は、関係者を一人ずつ追って各地を移動する。冷徹な独白を続けながら、実際には計画通りに運ばない場面が積み重なる。手順と反復を淡々と描く構成が、この作品の特徴となっている。独白と実際の行動のずれが、静かな可笑しみを生んでいる。",
+    "tmdbId": 800158,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Killer"
+  },
+  {
+    "id": "a-quiet-place-day-one",
+    "title": "クワイエット・プレイス：DAY 1",
+    "titleKana": "くわいえっとぷれいすでいわん",
+    "directorIds": [
+      "michael-sarnoski"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "paramount",
+      "platinum-dunes"
+    ],
+    "cast": [
+      {
+        "actorId": "lupita-nyongo",
+        "character": "サミラ"
+      },
+      {
+        "actorId": "joseph-quinn",
+        "character": "エリック"
+      },
+      {
+        "actorId": "alex-wolff",
+        "character": "ルーベン"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "suspense",
+      "apocalypse",
+      "monster",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 6
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "末期がんで余命わずかなサミラが、外出の日にニューヨークで襲来の瞬間に遭遇する。音に反応する怪物が街を蹂躙し、生存者は声を殺して逃げるしかない。彼女は飼い猫と、偶然出会った青年エリックとともに移動する。生き延びることより、やり残したことを選ぶ物語となっている。前二作の襲来初日を描く外伝にあたる作品となっている。",
+    "tmdbId": 762441,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "A Quiet Place: Day One",
+    "seriesId": "quiet-place"
+  },
+  {
+    "id": "the-smurfs",
+    "title": "スマーフ",
+    "titleKana": "すまーふ",
+    "directorIds": [
+      "raja-gosnell"
+    ],
+    "screenwriterIds": [
+      "j-david-stem",
+      "david-n-weiss"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "sony-pictures-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "hank-azaria",
+        "character": "ガーガメル"
+      },
+      {
+        "actorId": "neil-patrick-harris",
+        "character": "パトリック・ウィンズロー"
+      },
+      {
+        "actorId": "jayma-mays",
+        "character": "グレース・ウィンズロー"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "comedy",
+      "fantasy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 9
+    },
+    "runtime": 103,
+    "originalType": "manga",
+    "synopsis": "魔法使いガーガメルに追われた青い妖精スマーフたちが、不思議な穴に落ちて現代のニューヨークに現れる。広告代理店で働く夫婦の家に転がり込み、村へ帰る方法を探す。追ってきたガーガメルも人間の街で騒動を起こす。ベルギーの漫画を原作に、実写と動画を合成して作られている。",
+    "tmdbId": 41513,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Smurfs"
+  },
+  {
+    "id": "my-happy-marriage",
+    "title": "わたしの幸せな結婚",
+    "titleKana": "わたしのしあわせなけっこん",
+    "directorIds": [
+      "ayuko-tsukahara"
+    ],
+    "screenwriterIds": [
+      "tomoe-kanno"
+    ],
+    "studioIds": [
+      "toho",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "ren-meguro",
+        "character": "久堂清霞"
+      },
+      {
+        "actorId": "mio-imada",
+        "character": "斎森美世"
+      },
+      {
+        "actorId": "keisuke-watanabe",
+        "character": "辰石一志"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 3
+    },
+    "runtime": 115,
+    "originalType": "lightnovel",
+    "synopsis": "継母と異母妹に虐げられて育った斎森美世が、冷酷と噂される軍人久堂清霞のもとへ嫁がされる。誰にも望まれなかった彼女は、この結婚も長く続かないと諦めていた。だが清霞は美世を大切に扱い、彼女の隠された力が周囲を動かしていく。近代日本を舞台にした人気小説の実写化作品にあたる。",
+    "tmdbId": 1037348,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-spiral",
+    "title": "らせん",
+    "titleKana": "らせん",
+    "directorIds": [
+      "george-iida"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "basara-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "koichi-sato",
+        "character": "安藤満男"
+      },
+      {
+        "actorId": "miki-nakatani",
+        "character": "高野舞"
+      },
+      {
+        "actorId": "hinako-saeki",
+        "character": "山村貞子"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "horror",
+      "mystery",
+      "suspense",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1998,
+      "month": 1
+    },
+    "runtime": 97,
+    "originalType": "novel",
+    "synopsis": "自殺願望を抱える解剖医の安藤が、旧友高山竜司の遺体を解剖することになる。胃から出てきた紙片の暗号を追ううちに、呪いのビデオの存在に行き着く。彼は科学の言葉で現象を説明しようとするが、事態は別の方向へ進む。リングと同時に公開された続編で、原作小説に忠実な内容となっている。",
+    "tmdbId": 9706,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "ring"
+  },
+  {
+    "id": "bolt",
+    "title": "ボルト",
+    "titleKana": "ぼると",
+    "directorIds": [
+      "chris-williams",
+      "byron-howard"
+    ],
+    "screenwriterIds": [
+      "dan-fogelman"
+    ],
+    "studioIds": [
+      "disney-animation",
+      "walt-disney-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "john-travolta",
+        "character": "ボルト"
+      },
+      {
+        "actorId": "miley-cyrus",
+        "character": "ペニー"
+      },
+      {
+        "actorId": "susie-essman",
+        "character": "ミトンズ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "comedy",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2009,
+      "month": 8
+    },
+    "runtime": 97,
+    "originalType": "original",
+    "synopsis": "自分を本物の超能力犬だと信じ込んでいる撮影所育ちのボルトが、飼い主を救うため外の世界へ飛び出す。野良猫のミトンズとハムスターのライノを道連れに、大陸を横断する旅が始まる。力が使えないと知ってなお、彼は少女のもとへ向かう。ディズニーの制作体制が変わる転機の作品とされる。",
+    "tmdbId": 13053,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bolt"
+  },
+  {
+    "id": "terminator-3-rise-of-the-machines",
+    "title": "ターミネーター3",
+    "titleKana": "たーみねーたーすりー",
+    "directorIds": [
+      "jonathan-mostow"
+    ],
+    "screenwriterIds": [
+      "john-brancato",
+      "michael-ferris"
+    ],
+    "studioIds": [
+      "intermedia-films",
+      "imf-internationale-medien-und-film-3-produktions"
+    ],
+    "cast": [
+      {
+        "actorId": "arnold-schwarzenegger",
+        "character": "ターミネーター"
+      },
+      {
+        "actorId": "nick-stahl",
+        "character": "ジョン・コナー"
+      },
+      {
+        "actorId": "claire-danes",
+        "character": "ケイト・ブリュースター"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "sf",
+      "robot",
+      "apocalypse"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 7
+    },
+    "runtime": 110,
+    "originalType": "original",
+    "synopsis": "審判の日を回避したはずのジョン・コナーは、身元を隠して漂うように生きていた。そこへ新型のT-Xが送り込まれ、未来の抵抗軍の幹部となる者たちを狙う。守るために現れたのは、かつてと同じ型の機械だった。避けたはずの結末に向かう構成が、この続編の特色となっている。シュワルツェネッガーが同役で出演した最後の劇場公開作となった。",
+    "tmdbId": 296,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Terminator 3: Rise of the Machines",
+    "seriesId": "terminator"
+  },
+  {
+    "id": "brightburn",
+    "title": "ブライトバーン／恐怖の拡散者",
+    "titleKana": "ぶらいとばーんきょうふのかくさんしゃ",
+    "directorIds": [
+      "david-yarovesky"
+    ],
+    "screenwriterIds": [
+      "brian-gunn",
+      "mark-gunn"
+    ],
+    "studioIds": [
+      "troll-court-entertainment",
+      "screen-gems"
+    ],
+    "cast": [
+      {
+        "actorId": "jackson-a-dunn",
+        "character": "ブランドン・ブレイヤー"
+      },
+      {
+        "actorId": "elizabeth-banks",
+        "character": "トーリ・ブレイヤー"
+      },
+      {
+        "actorId": "david-denman",
+        "character": "カイル・ブレイヤー"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "human-drama",
+      "hero",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 11
+    },
+    "runtime": 91,
+    "originalType": "original",
+    "synopsis": "子どもに恵まれなかった夫婦が、森に落ちてきた宇宙船から赤ん坊を見つけて育てる。十二歳になったブランドンは、常識では説明できない力に目覚めはじめる。だが彼が選んだのは、人助けではなく思い通りにならない者への攻撃だった。超人の誕生譚をホラーに転換した発想が話題を呼んだ。",
+    "tmdbId": 531309,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Brightburn"
+  },
+  {
+    "id": "the-disappearance-of-haruhi-suzumiya",
+    "title": "涼宮ハルヒの消失",
+    "titleKana": "すずみやはるひのしょうしつ",
+    "directorIds": [
+      "yasuhiro-takemoto",
+      "tatsuya-ishihara"
+    ],
+    "screenwriterIds": [
+      "fumihiko-shimo"
+    ],
+    "studioIds": [
+      "kyoto-animation",
+      "lantis"
+    ],
+    "cast": [
+      {
+        "actorId": "tomokazu-sugita",
+        "character": "キョン"
+      },
+      {
+        "actorId": "aya-hirano",
+        "character": "涼宮ハルヒ"
+      },
+      {
+        "actorId": "minori-chihara",
+        "character": "長門有希"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "mystery",
+      "human-drama",
+      "time-travel",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 2
+    },
+    "runtime": 162,
+    "originalType": "lightnovel",
+    "synopsis": "冬のある朝、キョンが登校すると涼宮ハルヒが存在しない世界になっていた。SOS団は消え、長門有希はただの内気な文芸部員で、朝比奈みくるは彼を知らない。元の世界に戻る鍵を探すうち、彼は自分の望みと向き合うことになる。テレビシリーズの人気を受けて制作された劇場版にあたる。",
+    "tmdbId": 36865,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "haruhi-suzumiya"
+  },
+  {
+    "id": "liz-and-the-blue-bird",
+    "title": "リズと青い鳥",
+    "titleKana": "りずとあおいとり",
+    "directorIds": [
+      "naoko-yamada"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "kyoto-animation",
+      "pony-canyon"
+    ],
+    "cast": [
+      {
+        "actorId": "atsumi-tanezaki",
+        "character": "鎧塚みぞれ"
+      },
+      {
+        "actorId": "nao-toyama",
+        "character": "傘木希美"
+      },
+      {
+        "actorId": "ayaka-asai",
+        "character": "加藤葉月"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "music",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 4
+    },
+    "runtime": 91,
+    "originalType": "novel",
+    "synopsis": "吹奏楽部の三年生、鎧塚みぞれと傘木希美は、コンクールの自由曲で掛け合いのソロを担当する。互いを大切に思うほど、二人の距離は微妙にずれていく。物語の童話と現実の関係が、少しずつ反転していく構成をとる。山田尚子監督が別作品の登場人物を主役に据えた外伝にあたる。足音や呼吸まで拾う音響設計が、この作品の緊張を支えている。",
+    "tmdbId": 482150,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "freaky-friday",
+    "title": "フォーチュン・クッキー",
+    "titleKana": "ふぉーちゅんくっきー",
+    "directorIds": [
+      "mark-waters"
+    ],
+    "screenwriterIds": [
+      "leslie-dixon",
+      "heather-hach"
+    ],
+    "studioIds": [
+      "casual-friday-productions",
+      "gunn-films"
+    ],
+    "cast": [
+      {
+        "actorId": "lindsay-lohan",
+        "character": "アンナ・コールマン"
+      },
+      {
+        "actorId": "jamie-lee-curtis",
+        "character": "テス・コールマン"
+      },
+      {
+        "actorId": "harold-gould",
+        "character": "祖父"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "fantasy",
+      "body-swap"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 5
+    },
+    "runtime": 97,
+    "originalType": "novel",
+    "synopsis": "几帳面な精神科医テスと、ロックに夢中な娘アンナが、中華料理店の占いで体を入れ替えてしまう。互いの生活を演じるうちに、相手が抱えていた重圧を知ることになる。母は結婚式を、娘はバンドの審査を控えていた。何度も映画化された小説を、二〇〇三年に再映画化した作品にあたる。",
+    "tmdbId": 10330,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Freaky Friday"
+  },
+  {
+    "id": "spirit-stallion-of-the-cimarron",
+    "title": "スピリット",
+    "titleKana": "すぴりっと",
+    "directorIds": [
+      "kelly-asbury",
+      "lorna-cook"
+    ],
+    "screenwriterIds": [
+      "john-fusco",
+      "michael-lucker"
+    ],
+    "studioIds": [
+      "dreamworks-animation",
+      "dreamworks-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "matt-damon",
+        "character": "スピリット"
+      },
+      {
+        "actorId": "james-cromwell",
+        "character": "大佐"
+      },
+      {
+        "actorId": "daniel-studi",
+        "character": "リトル・クリーク"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "human-drama",
+      "western",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2003,
+      "month": 4
+    },
+    "runtime": 83,
+    "originalType": "original",
+    "synopsis": "西部開拓時代、野生馬の群れを率いる若い牡馬スピリットが騎兵隊に捕らえられる。調教を拒み続けた彼は、同じく囚われた先住民の青年と出会い、ともに脱走する。台詞をほとんど与えず、馬の表情と動きだけで感情を描く構成をとる。手描きと三次元の映像を組み合わせて作られている。",
+    "tmdbId": 9023,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spirit: Stallion of the Cimarron"
+  },
+  {
+    "id": "ben-hur",
+    "title": "ベン・ハー",
+    "titleKana": "べんはー",
+    "directorIds": [
+      "william-wyler"
+    ],
+    "screenwriterIds": [
+      "karl-tunberg"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "charlton-heston",
+        "character": "ユダ・ベン・ハー"
+      },
+      {
+        "actorId": "stephen-boyd",
+        "character": "メッサラ"
+      },
+      {
+        "actorId": "hugh-griffith",
+        "character": "イルデリム族長"
+      }
+    ],
+    "themeIds": [
+      "history",
+      "human-drama",
+      "adventure",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1960,
+      "month": 4
+    },
+    "runtime": 212,
+    "originalType": "novel",
+    "synopsis": "ローマ支配下のエルサレムで、豪族の子ユダ・ベン・ハーが幼馴染の司令官メッサラに裏切られる。奴隷として送られたガレー船で司令官の命を救い、彼は自由と地位を取り戻す。復讐を胸に戦車競走でメッサラと対決する。戦車競走の場面と、多数の受賞で知られる大作にあたる。アカデミー賞十一部門を受賞し、長く記録に残る成績を収めた。",
+    "tmdbId": 665,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Ben-Hur"
+  },
+  {
+    "id": "crayon-shin-chan-shrouded-in-mystery-the-flowers-of",
+    "title": "クレヨンしんちゃん 謎メキ！花の天カス学園",
+    "titleKana": "くれよんしんちゃんなぞめきはなのてんかすがくえん",
+    "directorIds": [
+      "yo-miura",
+      "michio-mihara"
+    ],
+    "screenwriterIds": [
+      "kimiko-ueno"
+    ],
+    "studioIds": [
+      "futabasha",
+      "adk"
+    ],
+    "cast": [
+      {
+        "actorId": "yumiko-kobayashi",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "tamao-hayashi",
+        "character": "桜田ネネ"
+      },
+      {
+        "actorId": "teiyu-ichiryusai",
+        "character": "佐藤マサオ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "school",
+      "mystery"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 4
+    },
+    "runtime": 104,
+    "originalType": "manga",
+    "synopsis": "カスカベ防衛隊の全員が、名門天カス学園に体験入学することになる。学園の頂点に立つ生徒会と、そこで起きる怪事件に巻き込まれていく。風間くんとしんのすけの喧嘩が、話の底に流れている。学園ものと推理ものを掛け合わせた劇場版第二十九作にあたる。友情の描き方に踏み込んだ作りで、後半の展開が評価された。",
+    "tmdbId": 795564,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "an-american-werewolf-in-london",
+    "title": "狼男アメリカン",
+    "titleKana": "おおかみおとこあめりかん",
+    "directorIds": [
+      "john-landis"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "lyncanthrope-films",
+      "polygram-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "david-naughton",
+        "character": "デビッド・ケスラー"
+      },
+      {
+        "actorId": "griffin-dunne",
+        "character": "ジャック・グッドマン"
+      },
+      {
+        "actorId": "jenny-agutter",
+        "character": "アレックス・プライス看護師"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "horror",
+      "fantasy",
+      "monster"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1981,
+      "month": 8
+    },
+    "runtime": 98,
+    "originalType": "original",
+    "synopsis": "英国を旅する米国人学生二人が、荒野で獣に襲われる。生き残ったデビッドは病院で目覚めるが、死んだ友人の幽霊が現れて警告を告げる。満月の夜、彼は自分の体に起きる変化を止められない。変身場面の特殊メイクが高く評価され、アカデミー賞のメイクアップ賞を初めて受けた作品にあたる。",
+    "tmdbId": 814,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "An American Werewolf in London"
+  },
+  {
+    "id": "airplane",
+    "title": "フライングハイ",
+    "titleKana": "ふらいんぐはい",
+    "directorIds": [
+      "jerry-zucker",
+      "david-zucker"
+    ],
+    "screenwriterIds": [
+      "jim-abrahams"
+    ],
+    "studioIds": [
+      "paramount",
+      "howard-w-koch-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-hays",
+        "character": "テッド・ストライカー"
+      },
+      {
+        "actorId": "julie-hagerty",
+        "character": "イレイン・ディッキンソン"
+      },
+      {
+        "actorId": "leslie-nielsen",
+        "character": "ルマック医師"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "disaster"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1980,
+      "month": 12
+    },
+    "runtime": 88,
+    "originalType": "other",
+    "synopsis": "機内食による食中毒で操縦士が倒れ、乗客の元軍用機乗りが操縦桿を握ることになる。恋人との関係に悩む彼を、管制塔の癖の強い面々が支援する。真面目な災害映画の型を借りて、一秒ごとに冗談を詰め込む構成をとる。以後のパロディ喜劇の原型となった作品として知られる。レスリー・ニールセンの真顔の演技が、後の役柄を決定づけた。",
+    "tmdbId": 813,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Airplane!"
+  },
+  {
+    "id": "coming-to-america",
+    "title": "星の王子 ニューヨークへ行く",
+    "titleKana": "ほしのおうじにゅーよーくへいく",
+    "directorIds": [
+      "john-landis"
+    ],
+    "screenwriterIds": [
+      "david-sheffield",
+      "barry-w-blaustein"
+    ],
+    "studioIds": [
+      "eddie-murphy-productions",
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "eddie-murphy",
+        "character": "アキーム王子"
+      },
+      {
+        "actorId": "arsenio-hall",
+        "character": "セミー"
+      },
+      {
+        "actorId": "shari-headley",
+        "character": "リサ・マクダウェル"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1988,
+      "month": 12
+    },
+    "runtime": 117,
+    "originalType": "original",
+    "synopsis": "アフリカの架空の王国の王子アキームが、決められた結婚を嫌ってニューヨークへ渡る。身分を隠して安アパートに住み、ファストフード店で働きながら理想の相手を探す。出会ったリサには既に婚約者がいた。エディ・マーフィが一人で複数の役を演じる趣向でも知られる。三十年以上を経て続編も作られ、代表作の一つとなっている。",
+    "tmdbId": 9602,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Coming to America"
+  },
+  {
+    "id": "love-chunibyo-other-delusions-take-on-me",
+    "title": "映画 中二病でも恋がしたい! -Take On Me-",
+    "titleKana": "えいがちゅうにびょうでもこいがしたいているおんみー",
+    "directorIds": [
+      "tatsuya-ishihara"
+    ],
+    "screenwriterIds": [
+      "jukki-hanada"
+    ],
+    "studioIds": [
+      "kyoto-animation",
+      "lantis"
+    ],
+    "cast": [
+      {
+        "actorId": "jun-fukuyama",
+        "character": "冨樫勇太"
+      },
+      {
+        "actorId": "maaya-uchida",
+        "character": "小鳥遊六花"
+      },
+      {
+        "actorId": "chinatsu-akasaki",
+        "character": "丹生谷森夏"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "fantasy",
+      "romance",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 1
+    },
+    "runtime": 94,
+    "originalType": "lightnovel",
+    "synopsis": "高校最後の春休み、六花の姉が彼女をイタリアへ連れ帰ろうとする。それを阻もうと、勇太と六花は仲間とともに日本を南へ逃げる旅に出る。道中の騒ぎのなかで、二人は関係を先へ進める決心をしていく。テレビシリーズの続きにあたる劇場版として作られている。道中の騒々しさと、静かな決着の対比が印象に残る一本となっている。",
+    "tmdbId": 460399,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "one-piece-episode-of-chopper-plus-bloom-in-the",
+    "title": "ONE PIECE エピソード オブ チョッパー＋ 冬に咲く、奇跡の桜",
+    "titleKana": "わんぴーすえぴそーどおぶちょっぱーふゆにさくきせきのさくら",
+    "directorIds": [
+      "junji-shimizu"
+    ],
+    "screenwriterIds": [
+      "hirohiko-uesaka"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "mayumi-tanaka",
+        "character": "モンキー・D・ルフィ"
+      },
+      {
+        "actorId": "kazuya-nakai",
+        "character": "ロロノア・ゾロ"
+      },
+      {
+        "actorId": "akemi-okamura",
+        "character": "ナミ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "comedy",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2008,
+      "month": 3
+    },
+    "runtime": 116,
+    "originalType": "manga",
+    "synopsis": "ナミが高熱で倒れ、一味は医療大国ドラム王国を目指す。そこで出会った青い鼻のトナカイ、チョッパーは人間にも動物にも受け入れられずにいた。彼を育てた医者ヒルルクの願いが、雪山に咲く桜として実を結ぶ。原作の名高い章を再構成した劇場版第九作にあたる。原作でも屈指の泣き所を、劇場版として作り直した作品にあたる。",
+    "tmdbId": 44731,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "ＯＮＥ ＰＩＥＣＥ（ワンピース） エピソードオブチョッパー＋冬に咲く、奇跡の桜",
+    "seriesId": "one-piece"
+  },
+  {
+    "id": "paw-patrol-the-movie",
+    "title": "パウ・パトロール ザ・ムービー",
+    "titleKana": "ぱうぱとろーるざむーびー",
+    "directorIds": [
+      "cal-brunker"
+    ],
+    "screenwriterIds": [
+      "bob-barlen",
+      "billy-frolick"
+    ],
+    "studioIds": [
+      "spin-master",
+      "nickelodeon-movies"
+    ],
+    "cast": [
+      {
+        "actorId": "iain-armitage",
+        "character": "チェイス"
+      },
+      {
+        "actorId": "will-brisbin",
+        "character": "ケント"
+      },
+      {
+        "actorId": "marsai-martin",
+        "character": "リバティ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "comedy",
+      "family",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 8
+    },
+    "runtime": 87,
+    "originalType": "other",
+    "synopsis": "子犬たちの救助隊パウ・パトロールが、大都市アドベンチャー・シティへ活動の場を広げる。かつてこの街で辛い経験をしたチェイスは、任務のたびに萎縮してしまう。新市長となった悪党の暴走で、街は次々と危機に陥る。人気の子ども向けテレビ番組を劇場版にした作品にあたる。子ども向けながら、恐怖を克服する主題を丁寧に扱っている。",
+    "tmdbId": 675445,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "PAW Patrol: The Movie"
+  },
+  {
+    "id": "the-dictator",
+    "title": "ディクテーター 身元不明でニューヨーク",
+    "titleKana": "でぃくてーたーみもとふめいでにゅーよーく",
+    "directorIds": [
+      "larry-charles"
+    ],
+    "screenwriterIds": [
+      "sacha-baron-cohen",
+      "alec-berg"
+    ],
+    "studioIds": [
+      "paramount",
+      "berg-mandel-schaffer-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "sacha-baron-cohen",
+        "character": "アラディーン"
+      },
+      {
+        "actorId": "ben-kingsley",
+        "character": "タミル"
+      },
+      {
+        "actorId": "anna-faris",
+        "character": "ゾーイ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "social",
+      "politics"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 9
+    },
+    "runtime": 83,
+    "originalType": "original",
+    "synopsis": "架空の独裁国家の元首アラディーンが、国連演説のためニューヨークを訪れる。側近の裏切りで替え玉を立てられ、彼は身元を証明できないまま街に放り出される。自然食品店で働きながら、初めて庶民の暮らしを知る。過激な冗談を積み重ねた風刺喜劇として作られている。独裁と民主主義を同時に茶化す構成が、この作品の狙いとなっている。",
+    "tmdbId": 76493,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Dictator"
+  },
+  {
+    "id": "the-greatest-showman",
+    "title": "グレイテスト・ショーマン",
+    "titleKana": "ぐれいてすとしょーまん",
+    "directorIds": [
+      "michael-gracey"
+    ],
+    "screenwriterIds": [
+      "bill-condon",
+      "jenny-bicks"
+    ],
+    "studioIds": [
+      "chernin-entertainment",
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "hugh-jackman",
+        "character": "P・T・バーナム"
+      },
+      {
+        "actorId": "zac-efron",
+        "character": "フィリップ・カーライル"
+      },
+      {
+        "actorId": "michelle-williams",
+        "character": "チャリティ・バーナム"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "musical",
+      "biography"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 2
+    },
+    "runtime": 104,
+    "originalType": "other",
+    "synopsis": "貧しい生まれのバーナムが、見世物小屋のような興行で一山当てようとする。世間から隠れて生きてきた人々を集め、歌と曲芸の舞台を作り上げる。成功が大きくなるほど、彼は最初に集めた仲間をないがしろにしていく。史実からは離れた作りだが、楽曲の力で世界的な人気を得た作品となっている。",
+    "tmdbId": 316029,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Greatest Showman"
+  },
+  {
+    "id": "godzilla-vs-mechagodzilla-ii",
+    "title": "ゴジラvsメカゴジラ",
+    "titleKana": "ごじらたいめかごじら",
+    "directorIds": [
+      "takao-okawara"
+    ],
+    "screenwriterIds": [
+      "wataru-mimura"
+    ],
+    "studioIds": [
+      "toho-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "masahiro-takashima",
+        "character": "青木一馬"
+      },
+      {
+        "actorId": "ryoko-sano",
+        "character": "五条梓"
+      },
+      {
+        "actorId": "megumi-odaka",
+        "character": "三枝未希"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "kaiju",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 12
+    },
+    "runtime": 107,
+    "originalType": "original",
+    "synopsis": "未来の技術を応用した対ゴジラ兵器メカゴジラが完成する。同じ頃、ベーリング海の孤島で発見された卵から、ゴジラの子どもとされる生物が孵化する。ゴジラは我が子を求めて日本へ向かい、人類の兵器と激突する。平成シリーズ第五作にあたり、シリーズ屈指の人気作とされる。親子の情という主題を持ち込んだ点が、当時の新機軸となった。",
+    "tmdbId": 6593,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "godzilla"
+  },
+  {
+    "id": "fullmetal-alchemist-the-revenge-of-scar",
+    "title": "鋼の錬金術師 完結編 復讐者スカー",
+    "titleKana": "はがねのれんきんじゅつしかんけつへんふくしゅうしゃすかー",
+    "directorIds": [
+      "fumihiko-sori"
+    ],
+    "screenwriterIds": [
+      "takeshi-miyamoto"
+    ],
+    "studioIds": [
+      "warner-bros-japan",
+      "oxybot"
+    ],
+    "cast": [
+      {
+        "actorId": "ryosuke-yamada",
+        "character": "エドワード・エルリック"
+      },
+      {
+        "actorId": "atomu-mizuishi",
+        "character": "アルフォンス・エルリック"
+      },
+      {
+        "actorId": "mackenyu",
+        "character": "スカー"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "action",
+      "adventure",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 5
+    },
+    "runtime": 125,
+    "originalType": "manga",
+    "synopsis": "国家錬金術師ばかりを狙う連続殺人犯スカーが中央に現れる。エドとアルも標的にされ、圧倒的な力の前に敗走を強いられる。人造人間たちの企みと、イシュヴァール殲滅戦の過去が絡み合っていく。実写版の後編二部作のうち、前半にあたる作品となっている。同時撮影された後編と合わせて公開された二部作の一方となっている。",
+    "tmdbId": 960700,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "fullmetal-alchemist"
+  },
+  {
+    "id": "the-equalizer-2",
+    "title": "イコライザー2",
+    "titleKana": "いこらいざーつー",
+    "directorIds": [
+      "antoine-fuqua"
+    ],
+    "screenwriterIds": [
+      "richard-wenk"
+    ],
+    "studioIds": [
+      "lonetree-entertainment",
+      "fuqua-films"
+    ],
+    "cast": [
+      {
+        "actorId": "denzel-washington",
+        "character": "ロバート・マッコール"
+      },
+      {
+        "actorId": "pedro-pascal",
+        "character": "デイヴ・ヨーク"
+      },
+      {
+        "actorId": "ashton-sanders",
+        "character": "マイルズ・ウィッテカー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "crime",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 10
+    },
+    "runtime": 121,
+    "originalType": "original",
+    "synopsis": "タクシー運転手として静かに暮らすマッコールのもとに、旧知の同僚が殺されたという報せが届く。捜査の過程で、犯人が自分の過去とつながっていることを知る。近所の少年を暴力から遠ざけようとする一方で、彼は容赦のない報復に向かう。デンゼル・ワシントン初の続編出演作にあたる。",
+    "tmdbId": 345887,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Equalizer 2",
+    "seriesId": "equalizer"
+  },
+  {
+    "id": "another-simple-favor",
+    "title": "アナザー・シンプル・フェイバー",
+    "titleKana": "あなざーしんぷるふぇいばー",
+    "directorIds": [
+      "paul-feig"
+    ],
+    "screenwriterIds": [
+      "laeta-kalogridis",
+      "jessica-sharzer"
+    ],
+    "studioIds": [
+      "feigco-entertainment",
+      "lionsgate"
+    ],
+    "cast": [
+      {
+        "actorId": "anna-kendrick",
+        "character": "ステファニー・スマザーズ"
+      },
+      {
+        "actorId": "blake-lively",
+        "character": "エミリー・ネルソン"
+      },
+      {
+        "actorId": "michele-morrone",
+        "character": "ダンテ・ヴェルサーノ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "suspense",
+      "mystery",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 3
+    },
+    "runtime": 120,
+    "originalType": "novel",
+    "synopsis": "出所したエミリーが、イタリアの富豪との結婚式にステファニーを招く。招待は和解のためではなく、別の目的があった。カプリ島の華やかな祝宴の裏で、また人が死ぬ。前作の二人の関係をさらにねじれた形で描いた続編となっている。派手な衣装と島の風景を背景に、嘘の応酬が続く作品となっている。前作から五年を経て制作された。",
+    "tmdbId": 974573,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Another Simple Favor",
+    "seriesId": "simple-favor"
+  },
+  {
+    "id": "bridget-joness-diary",
+    "title": "ブリジット・ジョーンズの日記",
+    "titleKana": "ぶりじっとじょーんずのにっき",
+    "directorIds": [
+      "sharon-maguire"
+    ],
+    "screenwriterIds": [
+      "helen-fielding",
+      "andrew-davis"
+    ],
+    "studioIds": [
+      "universal",
+      "studiocanal"
+    ],
+    "cast": [
+      {
+        "actorId": "renee-zellweger",
+        "character": "ブリジット・ジョーンズ"
+      },
+      {
+        "actorId": "colin-firth",
+        "character": "マーク・ダーシー"
+      },
+      {
+        "actorId": "hugh-grant",
+        "character": "ダニエル・クリーヴァー"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 9
+    },
+    "runtime": 97,
+    "originalType": "novel",
+    "synopsis": "三十二歳の出版社勤務ブリジットが、年始に日記をつけて生活を立て直すと決意する。軽薄な上司ダニエルと、無愛想な弁護士マークの間で気持ちが揺れていく。仕事も恋も思い通りにいかない日々が、飾らない筆致で綴られる。高慢と偏見を下敷きにした人気小説の映画化にあたる。レネー・ゼルウィガーの体当たりの演技で世界的な人気を得た。",
+    "tmdbId": 634,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bridget Jones's Diary"
+  },
+  {
+    "id": "crayon-shin-chan-jungle-that-invites-storm",
+    "title": "クレヨンしんちゃん 嵐を呼ぶジャングル",
+    "titleKana": "くれよんしんちゃんあらしをよぶじゃんぐる",
+    "directorIds": [
+      "keiichi-hara"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shin-ei-animation",
+      "adk"
+    ],
+    "cast": [
+      {
+        "actorId": "akiko-yajima",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "miki-narahashi",
+        "character": "野原みさえ"
+      },
+      {
+        "actorId": "keiji-fujiwara",
+        "character": "野原ひろし"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "adventure",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2000,
+      "month": 4
+    },
+    "runtime": 89,
+    "originalType": "manga",
+    "synopsis": "アクション仮面の映画を記念した豪華客船の旅で、謎のサル軍団が大人たちをさらう。取り残されたカスカベ防衛隊は、ひろしとみさえを救うため南の島に上陸する。ジャングルを進む子どもたちの前に、組織の首領が立ちはだかる。原恵一監督による初期劇場版の一本にあたる。ひろしとみさえの活躍が印象に残る、シリーズ屈指の人気作とされる。",
+    "tmdbId": 117087,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "doraemon-nobitas-three-visionary-swordsmen",
+    "title": "映画ドラえもん のび太と夢幻三剣士",
+    "titleKana": "えいがどらえもんのびたとむげんさんけんし",
+    "directorIds": [
+      "tsutomu-shibayama"
+    ],
+    "screenwriterIds": [
+      "fujiko-f-fujio"
+    ],
+    "studioIds": [
+      "shin-ei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuyo-oyama",
+        "character": "ドラえもん"
+      },
+      {
+        "actorId": "noriko-ohara",
+        "character": "野比のび太"
+      },
+      {
+        "actorId": "michiko-nomura",
+        "character": "源静香"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "comedy",
+      "fantasy",
+      "sf",
+      "dream"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1994,
+      "month": 3
+    },
+    "runtime": 98,
+    "originalType": "manga",
+    "synopsis": "好きな夢を見られる道具を手に入れたのび太が、剣士として活躍する夢の世界へ入り込む。だが夢の世界の危機は、少しずつ現実にも影響を及ぼしはじめる。夢と現実の境目が曖昧になるなか、のび太は自力で最後の戦いに挑む。大長編シリーズでも異色の趣向を持つ一本とされる。夢と現実が入れ替わる展開が、当時の観客に強い印象を残した。",
+    "tmdbId": 161715,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "doraemon"
+  },
+  {
+    "id": "death-on-the-nile",
+    "title": "ナイル殺人事件",
+    "titleKana": "ないるさつじんじけん",
+    "directorIds": [
+      "kenneth-branagh"
+    ],
+    "screenwriterIds": [
+      "michael-green"
+    ],
+    "studioIds": [
+      "genre-films",
+      "20th-century-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "kenneth-branagh",
+        "character": "エルキュール・ポアロ"
+      },
+      {
+        "actorId": "tom-bateman",
+        "character": "ブーク"
+      },
+      {
+        "actorId": "annette-bening",
+        "character": "ユーフェミア・ブーク"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "crime",
+      "suspense",
+      "detective"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 2
+    },
+    "runtime": 127,
+    "originalType": "novel",
+    "synopsis": "新婚旅行のためナイル川を下る豪華客船に、名探偵ポアロが乗り合わせる。花嫁の莫大な資産をめぐり、乗客の誰もが動機を持っていた。船内で殺人が起き、逃げ場のない状況で捜査が始まる。ケネス・ブラナーが監督と主演を兼ねたシリーズの第二作にあたる。豪華な配役と、公開延期を重ねた経緯でも話題になった作品にあたる。",
+    "tmdbId": 505026,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Death on the Nile",
+    "seriesId": "poirot-branagh"
+  },
+  {
+    "id": "saw-iii",
+    "title": "ソウ3",
+    "titleKana": "そうすりー",
+    "directorIds": [
+      "darren-lynn-bousman"
+    ],
+    "screenwriterIds": [
+      "leigh-whannell"
+    ],
+    "studioIds": [
+      "twisted-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "tobin-bell",
+        "character": "ジョン・クレイマー"
+      },
+      {
+        "actorId": "shawnee-smith",
+        "character": "アマンダ・ヤング"
+      },
+      {
+        "actorId": "angus-macfadyen",
+        "character": "ジェフ・ラインハート"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "suspense",
+      "crime",
+      "revenge",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 11
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "息子を飲酒運転で失った男ジェフが、加害者と関係者を裁く一連の仕掛けに放り込まれる。一方、衰弱したジグソウは弟子のアマンダに看護させながら最後の計画を進めていた。師弟の関係の綻びが、話の焦点となっていく。シリーズの前半三部作を締めくくる一作にあたる。仕掛けの過激さが増し、シリーズの方向を決定づけた一作となった。",
+    "tmdbId": 214,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Saw III",
+    "seriesId": "saw"
+  },
+  {
+    "id": "tokyo-sonata",
+    "title": "トウキョウソナタ",
+    "titleKana": "とうきょうそなた",
+    "directorIds": [
+      "kiyoshi-kurosawa"
+    ],
+    "screenwriterIds": [
+      "max-mannix"
+    ],
+    "studioIds": [
+      "nikkatsu-corporation",
+      "fortissimo-films"
+    ],
+    "cast": [
+      {
+        "actorId": "teruyuki-kagawa",
+        "character": "佐々木竜平"
+      },
+      {
+        "actorId": "kyoko-koizumi",
+        "character": "佐々木恵"
+      },
+      {
+        "actorId": "kai-inowaki",
+        "character": "佐々木健二"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 9
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "リストラされた父が、家族に告げられないまま毎朝スーツで家を出る。長男は米軍に志願し、次男は親に隠れてピアノを習いはじめる。母もまた、日常から抜け出したいという願いを押し殺していた。それぞれの秘密が同じ夜に露見し、家族はいったん壊れる。黒沢清監督がカンヌで審査員賞を受けた作品にあたる。",
+    "tmdbId": 8937,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mobile-suit-gundam-00-the-movie-a-wakening-of-the",
+    "title": "劇場版 機動戦士ガンダム00",
+    "titleKana": "げきじょうばんきどうせんしがんだむだぶるおー",
+    "directorIds": [
+      "seiji-mizushima"
+    ],
+    "screenwriterIds": [
+      "yosuke-kuroda"
+    ],
+    "studioIds": [
+      "sunrise",
+      "bandai-visual"
+    ],
+    "cast": [
+      {
+        "actorId": "mamoru-miyano",
+        "character": "刹那・F・セイエイ"
+      },
+      {
+        "actorId": "shin-ichiro-miki",
+        "character": "ロックオン・ストラトス"
+      },
+      {
+        "actorId": "hiroyuki-yoshino",
+        "character": "アレルヤ・ハプティズム"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "sf",
+      "war",
+      "robot",
+      "alien"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 9
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "イノベイターとの戦いが終わり、世界が統合へ向かいはじめた二三一四年。火星から未知の金属生命体が地球へ接近し、あらゆる兵器を無力化していく。刹那たちソレスタルビーイングは、対話の可能性を探るために出撃する。テレビシリーズの結末の先を描いた完全新作にあたる。シリーズでも珍しく異星の存在との対話を主題に据えている。",
+    "tmdbId": 37048,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "gundam"
+  },
+  {
+    "id": "trading-places",
+    "title": "大逆転",
+    "titleKana": "だいぎゃくてん",
+    "directorIds": [
+      "john-landis"
+    ],
+    "screenwriterIds": [
+      "timothy-harris",
+      "herschel-weingrod"
+    ],
+    "studioIds": [
+      "cinema-group-ventures",
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "dan-aykroyd",
+        "character": "ルイス・ウィンソープ三世"
+      },
+      {
+        "actorId": "eddie-murphy",
+        "character": "ビリー・レイ・ヴァレンタイン"
+      },
+      {
+        "actorId": "ralph-bellamy",
+        "character": "ランドルフ・デューク"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "social",
+      "inequality"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1983,
+      "month": 12
+    },
+    "runtime": 116,
+    "originalType": "original",
+    "synopsis": "大富豪の兄弟が、環境が人を決めるかを賭けの対象にする。エリート証券マンは無一文で街に放り出され、路上の詐欺師は豪邸と職を与えられる。仕組まれたと気づいた二人は、手を組んで兄弟に報復する。人種と階級を扱いながら痛快に締めくくる喜劇として知られる。エディ・マーフィとダン・エイクロイドの掛け合いが持ち味となっている。",
+    "tmdbId": 1621,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Trading Places"
+  },
+  {
+    "id": "trainspotting",
+    "title": "トレインスポッティング",
+    "titleKana": "とれいんすぽってぃんぐ",
+    "directorIds": [
+      "danny-boyle"
+    ],
+    "screenwriterIds": [
+      "john-hodge"
+    ],
+    "studioIds": [
+      "figment-films",
+      "the-noel-gay-motion-picture-company"
+    ],
+    "cast": [
+      {
+        "actorId": "ewan-mcgregor",
+        "character": "レントン"
+      },
+      {
+        "actorId": "ewen-bremner",
+        "character": "スパッド"
+      },
+      {
+        "actorId": "jonny-lee-miller",
+        "character": "シック・ボーイ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 11
+    },
+    "runtime": 93,
+    "originalType": "novel",
+    "synopsis": "エディンバラで薬物に溺れる若者たちが、自堕落な日々を送っている。抜け出そうとしてはまた戻るレントンは、仲間との腐れ縁からも離れられない。仲間の赤ん坊が死んだ一件が、彼を決定的に動かす。音楽と編集の勢いで、破滅的な生活を突き放して描いた作品となっている。英国映画の代表作の一本とされ、後年に続編も制作された。",
+    "tmdbId": 627,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Trainspotting"
   }
 ]
