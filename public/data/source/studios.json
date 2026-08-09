@@ -9970,5 +9970,122 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lay-duce。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyoraku-industrial-holdings",
+    "name": "京楽産業ホールディングス",
+    "nameKana": "きょうらくさんぎょう",
+    "description": "映画製作会社。『ハーモニー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyoraku Industrial Holdings。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rankin-bass-productions",
+    "name": "ランキン・バス・プロダクションズ",
+    "nameKana": "ランキンバスプロダクションズ",
+    "description": "映画製作会社。『キングコングの逆襲』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rankin/Bass Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "g-company",
+    "name": "Gカンパニー",
+    "nameKana": "おぱん",
+    "description": "映画製作会社。『愛の新世界』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: G Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toa-kogyo",
+    "name": "東亜興業",
+    "nameKana": "とうあこうぎょう",
+    "description": "映画製作会社。『愛の新世界』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toa Kogyo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chunichi-shimbun",
+    "name": "中日新聞社",
+    "nameKana": "ちゅうにちしんぶんしゃ",
+    "description": "映画製作会社。『怒り』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chunichi Shimbun。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kansai-television",
+    "name": "関西テレビ放送",
+    "nameKana": "かんさいてれびほうそう",
+    "description": "映画製作会社。『きょうのキラ君』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kansai Television。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hakuhodo-dy-music-pictures",
+    "name": "博報堂DYミュージック&ピクチャーズ",
+    "nameKana": "はくほうどうでぃーわいみゅーじっく",
+    "description": "映画製作会社。『きょうのキラ君』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hakuhodo DY Music & Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "happinet",
+    "name": "ハピネット",
+    "nameKana": "はぴねっと",
+    "description": "映画製作会社。『MOTHER マザー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Happinet。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yonki-no-kai-productions",
+    "name": "四騎の会",
+    "nameKana": "よんきのかい",
+    "description": "映画製作会社。『どですかでん』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yonki-no-Kai Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bandai-namco-arts",
+    "name": "バンダイナムコアーツ",
+    "nameKana": "ばんだいなむこあーつ",
+    "description": "映画製作会社。『プリンセス・プリンシパル Crown Handler 第1章』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bandai Namco Arts。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokyo-mx",
+    "name": "TOKYO MX",
+    "nameKana": "とうきょうえむえっくす",
+    "description": "映画製作会社。『劇場版 デート・ア・ライブ 万由里ジャッジメント』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo MX。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shuka",
+    "name": "シャフト",
+    "nameKana": "しゅか",
+    "description": "映画製作会社。『劇場版 夏目友人帳 ～うつせみに結ぶ～』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shuka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asatsu",
+    "name": "旭通信社",
+    "nameKana": "あさひつうしんしゃ",
+    "description": "映画製作会社。『クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Asatsu。",
+    "updatedAt": "2026-08-09"
   }
 ]

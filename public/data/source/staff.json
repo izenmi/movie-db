@@ -19141,5 +19141,248 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yukiyoshi Ôhashi。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takashi-nakamura",
+    "name": "なかむらたかし",
+    "nameKana": "なかむらたかし",
+    "description": "映画監督。『ハーモニー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takashi Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hisashi-kimura",
+    "name": "木村ひさし",
+    "nameKana": "きむらひさし",
+    "description": "映画監督。『貞子DX』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hisashi Kimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshio-takeuchi",
+    "name": "竹内啓雄",
+    "nameKana": "たけうちよしお",
+    "description": "映画監督・脚本家。『ジャングル大帝 劇場版』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshio Takeuchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taiji-yabushita",
+    "name": "藪下泰司",
+    "nameKana": "やぶしたたいじ",
+    "description": "映画監督・脚本家。『白蛇伝』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Taiji Yabushita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shin-uehara",
+    "name": "上原信",
+    "nameKana": "うえはらしん",
+    "description": "脚本家。『白蛇伝』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shin Uehara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroshi-negishi",
+    "name": "根岸弘",
+    "nameKana": "ねぎしひろし",
+    "description": "映画監督・脚本家。『天地無用! in LOVE』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroshi Negishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryoe-tsukimura",
+    "name": "月村了衛",
+    "nameKana": "つきむらりょうえ",
+    "description": "脚本家。『天地無用! in LOVE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryoe Tsukimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshinobu-fujioka",
+    "name": "藤岡美暢",
+    "nameKana": "ふじおかよしのぶ",
+    "description": "脚本家。『貞子3D』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshinobu Fujioka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takahiko-kyougoku",
+    "name": "京極尚彦",
+    "nameKana": "きょうごくたかひこ",
+    "description": "映画監督・脚本家。『ラブライブ！The School Idol Movie』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takahiko Kyougoku。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsuhiko-kamoi",
+    "name": "鴨井達比古",
+    "nameKana": "かもいたつひこ",
+    "description": "脚本家。『仁義の墓場』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsuhiko Kamoi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sho-kenzan",
+    "name": "見山昌",
+    "nameKana": "けんざんしょう",
+    "description": "脚本家。『愛の新世界』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sho Kenzan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kei-shimamoto",
+    "name": "島本圭",
+    "nameKana": "しまもとけい",
+    "description": "脚本家。『愛の新世界』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kei Shimamoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shuichi-yoshida",
+    "name": "吉田修一",
+    "nameKana": "よしだしゅういち",
+    "description": "脚本家。『怒り』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shuichi Yoshida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chieko-nakagawa",
+    "name": "中川千英子",
+    "nameKana": "なかがわちえこ",
+    "description": "脚本家。『きょうのキラ君』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chieko Nakagawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "youichi-mouri",
+    "name": "毛利陽一",
+    "nameKana": "もうりよういち",
+    "description": "映画監督。『鉄拳 ブラッド・ベンジェンス』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Youichi Mouri。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hatsuki-tsuji",
+    "name": "辻初樹",
+    "nameKana": "つじはつき",
+    "description": "映画監督。『るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hatsuki Tsuji。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsuo-nogami",
+    "name": "野上龍雄",
+    "nameKana": "のがみたつお",
+    "description": "脚本家。『魔界転生』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsuo Nogami。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noriaki-akitaya",
+    "name": "秋田谷典昭",
+    "nameKana": "あきたやのりあき",
+    "description": "映画監督。『PERSONA3 THE MOVIE —#1 Spring of Birth—』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noriaki Akitaya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsushi-omori",
+    "name": "大森立嗣",
+    "nameKana": "おおもりたつし",
+    "description": "映画監督・脚本家。『MOTHER マザー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsushi Ōmori。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akio-sakai",
+    "name": "境宗久",
+    "nameKana": "さかいあきお",
+    "description": "映画監督。『銀河英雄伝説　わが征くは星の大海』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akio Sakai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masaki-tachibana",
+    "name": "橘正紀",
+    "nameKana": "たちばなまさき",
+    "description": "映画監督。『プリンセス・プリンシパル Crown Handler 第1章』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masaki Tachibana。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noboru-kimura",
+    "name": "木村暢",
+    "nameKana": "きむらのぼる",
+    "description": "脚本家。『プリンセス・プリンシパル Crown Handler 第1章』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noboru Kimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kanta-kamei",
+    "name": "亀井幹太",
+    "nameKana": "かめいかんた",
+    "description": "映画監督。『冴えない彼女の育てかた Fine』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kanta Kamei。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fumiaki-maruto",
+    "name": "丸戸史明",
+    "nameKana": "まるとふみあき",
+    "description": "脚本家。『冴えない彼女の育てかた Fine』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fumiaki Maruto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takahiro-omori",
+    "name": "大森貴弘",
+    "nameKana": "おおもりたかひろ",
+    "description": "映画監督。『劇場版 夏目友人帳 ～うつせみに結ぶ～』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takahiro Omori。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hideki-ito",
+    "name": "伊藤秀樹",
+    "nameKana": "いとうひでき",
+    "description": "映画監督。『劇場版 夏目友人帳 ～うつせみに結ぶ～』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hideki Ito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miya-asakawa",
+    "name": "浅川美也",
+    "nameKana": "あさかわみや",
+    "description": "脚本家。『コードギアス 亡国のアキト 第1章 翼竜は舞い降りた』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miya Asakawa。",
+    "updatedAt": "2026-08-09"
   }
 ]

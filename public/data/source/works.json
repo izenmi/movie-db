@@ -92928,5 +92928,1861 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harmony",
+    "title": "ハーモニー",
+    "titleKana": "はーもにー",
+    "directorIds": [
+      "michael-arias",
+      "takashi-nakamura"
+    ],
+    "screenwriterIds": [
+      "koji-yamamoto"
+    ],
+    "studioIds": [
+      "kyoraku-industrial-holdings",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "miyuki-sawashiro",
+        "character": "霧慧トァン"
+      },
+      {
+        "actorId": "reina-ueda",
+        "character": "御冷ミァハ"
+      },
+      {
+        "actorId": "aya-suzaki",
+        "character": "零下堂キアン"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "sf",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 11
+    },
+    "runtime": 119,
+    "originalType": "novel",
+    "synopsis": "大災禍からの復興後、世界は極端な健康志向と調和を旨とする社会になった。体内の装置がすべてを管理する日々に、少女トァンは違和感を抱き続けている。かつて自死を選んだ友ミァハの言葉が、彼女の中に残っていた。伊藤計劃の小説を映像化した作品にあたる。淡い色調の映像と、思弁的な会話が全編を占めている作品にあたる。",
+    "tmdbId": 357411,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crayon-shin-chan-intense-battle-robo-dad-strikes",
+    "title": "クレヨンしんちゃん ガチンコ! 逆襲のロボとーちゃん",
+    "titleKana": "くれよんしんちゃんぎゃくしゅうのろぼとーちゃん",
+    "directorIds": [
+      "wataru-takahashi"
+    ],
+    "screenwriterIds": [
+      "kazuki-nakashima"
+    ],
+    "studioIds": [
+      "shin-ei-animation",
+      "tv-asahi"
+    ],
+    "cast": [
+      {
+        "actorId": "akiko-yajima",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "miki-narahashi",
+        "character": "野原みさえ"
+      },
+      {
+        "actorId": "keiji-fujiwara",
+        "character": "野原ひろし"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 4
+    },
+    "runtime": 97,
+    "originalType": "manga",
+    "synopsis": "怪しいエステを受けたひろしが、翌朝ロボットの姿になっていた。記憶も感情もそのままの父を、野原一家は受け入れようとする。だが背後には、父権を否定しようとする組織が動いていた。父と子の関係を主題に据えた劇場版第二十二作にあたる。父を主役に据えた構成が、大人の観客からも高く評価された。",
+    "tmdbId": 305143,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "sadako-dx",
+    "title": "貞子DX",
+    "titleKana": "さだこでぃーえっくす",
+    "directorIds": [
+      "hisashi-kimura"
+    ],
+    "screenwriterIds": [
+      "yuya-takahashi"
+    ],
+    "studioIds": [
+      "kadokawa",
+      "kadokawa-daiei-studio"
+    ],
+    "cast": [
+      {
+        "actorId": "fuka-koshiba",
+        "character": "一条歩夏"
+      },
+      {
+        "actorId": "kazuma-kawamura",
+        "character": "前田王司"
+      },
+      {
+        "actorId": "naomi-nishida",
+        "character": "一条智恵子"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "comedy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 10
+    },
+    "runtime": 100,
+    "originalType": "novel",
+    "synopsis": "呪いの動画が拡散し、視聴から二十四時間で人が死ぬ現象が広がる。知能指数の極めて高い大学院生の一条歩夏が、その法則を解こうとする。占い師を名乗る青年とともに、彼女は貞子と対峙する。喜劇の要素を大きく取り入れた一本にあたる。論理で恐怖に挑む発想が、この作品の趣向となっている。軽妙な語り口も特徴となる。",
+    "tmdbId": 940417,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "sadako-reboot"
+  },
+  {
+    "id": "jungle-emperor-leo",
+    "title": "ジャングル大帝 劇場版",
+    "titleKana": "じゃんぐるたいていげきじょうばん",
+    "directorIds": [
+      "yoshio-takeuchi"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shochiku",
+      "tezuka-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "masane-tsukayama",
+        "character": "レオ"
+      },
+      {
+        "actorId": "chieko-baisho",
+        "character": "ライヤ"
+      },
+      {
+        "actorId": "tomoko-ishimura",
+        "character": "ルネ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "animal"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1997,
+      "month": 8
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "白いライオンのレオが、妻ライヤと二頭の子とジャングルで暮らしている。人間たちが月光石を求めて山へ押し寄せ、動物たちの生活が脅かされる。噴火が迫るなか、レオは群れを守る決断をする。手塚治虫の漫画を大人向けに映像化した作品にあたる。命の連なりを主題に据え、重い結末を選んだ作品にあたる。",
+    "tmdbId": 14368,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "king-kong-escapes",
+    "title": "キングコングの逆襲",
+    "titleKana": "きんぐこんぐのぎゃくしゅう",
+    "directorIds": [
+      "ishiro-honda"
+    ],
+    "screenwriterIds": [
+      "takeshi-kimura"
+    ],
+    "studioIds": [
+      "toho",
+      "rankin-bass-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-takarada",
+        "character": "野村次郎"
+      },
+      {
+        "actorId": "mie-hama",
+        "character": "マダム・ピラニア"
+      },
+      {
+        "actorId": "rhodes-reason",
+        "character": "カール・ネルソン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "horror",
+      "sf",
+      "kaiju"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1967,
+      "month": 7
+    },
+    "runtime": 104,
+    "originalType": "other",
+    "synopsis": "科学者ドクター・フーが、放射性元素の採掘のため機械の巨猿を製造する。制御に失敗した彼は、本物のキングコングを捕らえて操ろうとする。催眠から解けたコングが、東京で機械の同型と対決する。米国のテレビ番組と組んで作られた作品にあたる。機械の巨猿の造形と、東京タワーでの対決が見どころとなっている。",
+    "tmdbId": 39276,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "little-forest-winter-spring",
+    "title": "リトル・フォレスト 冬・春",
+    "titleKana": "りとるふぉれすとふゆはる",
+    "directorIds": [
+      "junichi-mori"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shochiku",
+      "robot-communications"
+    ],
+    "cast": [
+      {
+        "actorId": "ai-hashimoto",
+        "character": "いち子"
+      },
+      {
+        "actorId": "takahiro-miura",
+        "character": "ユウ太"
+      },
+      {
+        "actorId": "mayu-matsuoka",
+        "character": "キッコ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "gourmet",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 1
+    },
+    "runtime": 120,
+    "originalType": "manga",
+    "synopsis": "東北の小さな集落で、いち子が自給自足の暮らしを続けている。冬は保存食を作り、春は山菜を採る日々が淡々と過ぎる。姿を消した母から届いた手紙が、彼女の迷いに触れる。二部作の後編にあたる作品となっている。料理の描写を軸に、四季の巡りをそのまま映した作りとなっている。橋本愛の主演作にあたる。台詞の少ない構成も特徴となる。",
+    "tmdbId": 336026,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "little-forest"
+  },
+  {
+    "id": "the-tale-of-the-white-serpent",
+    "title": "白蛇伝",
+    "titleKana": "はくじゃでん",
+    "directorIds": [
+      "taiji-yabushita"
+    ],
+    "screenwriterIds": [
+      "shin-uehara"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "hisaya-morishige",
+        "character": "許仙"
+      },
+      {
+        "actorId": "mariko-miyagi",
+        "character": "白娘"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "romance",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1958,
+      "month": 9
+    },
+    "runtime": 79,
+    "originalType": "novel",
+    "synopsis": "白蛇の精である白娘が、幼い頃に自分を可愛がった許仙の前に人の姿で現れる。二人は恋に落ちるが、法海和尚が妖怪を退けようと動き出す。人と妖の間で、白娘は自らの力を捨てる選択を迫られる。日本初の総天然色による長編アニメにあたる。後の作り手たちに影響を与えた、日本アニメの原点の一つにあたる。",
+    "tmdbId": 64777,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tenchi-muyo-in-love",
+    "title": "天地無用! in LOVE",
+    "titleKana": "てんちむよういんらぶ",
+    "directorIds": [
+      "hiroshi-negishi"
+    ],
+    "screenwriterIds": [
+      "ryoe-tsukimura"
+    ],
+    "studioIds": [
+      "anime-international-company",
+      "pioneer-ldc"
+    ],
+    "cast": [
+      {
+        "actorId": "masami-kikuchi",
+        "character": "柾木天地"
+      },
+      {
+        "actorId": "ai-orikasa",
+        "character": "魎呼"
+      },
+      {
+        "actorId": "chisa-yokoyama",
+        "character": "砂沙美"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "time-travel",
+      "sf"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1996,
+      "month": 4
+    },
+    "runtime": 94,
+    "originalType": "original",
+    "synopsis": "脱走した凶悪犯の影響で、過去の時間軸に変化が起きる。その煽りで天地の存在そのものが消えかかってしまう。原因を正すため、一同は母が学生だった時代へ跳ぶ。テレビシリーズの人気を受けて作られた劇場版にあたる。母の若い頃を描く構成が、この作品の情感を支えている。テレビ版の登場人物が総出演する。",
+    "tmdbId": 34935,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sadako-3d",
+    "title": "貞子3D",
+    "titleKana": "さだこすりーでぃー",
+    "directorIds": [
+      "tsutomu-hanabusa"
+    ],
+    "screenwriterIds": [
+      "yoshinobu-fujioka"
+    ],
+    "studioIds": [
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "satomi-ishihara",
+        "character": "鮎川茜"
+      },
+      {
+        "actorId": "koji-seto",
+        "character": "安藤孝則"
+      },
+      {
+        "actorId": "hikaru-yamamoto",
+        "character": "柏田清"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 5
+    },
+    "runtime": 96,
+    "originalType": "novel",
+    "synopsis": "配信された動画を見た者が、次々と不審な死を遂げる事件が起きる。教師の茜は、事件を追ううちに自分と貞子の因縁を知る。呪いが映像から実体へ移り変わっていく。立体映像を前提に作られた作品にあたる。配信文化を取り込み、呪いの伝わり方を現代化した作品にあたる。石原さとみが主演を務めている。",
+    "tmdbId": 140441,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "sadako-reboot"
+  },
+  {
+    "id": "outrage-coda",
+    "title": "アウトレイジ 最終章",
+    "titleKana": "あうとれいじさいしゅうしょう",
+    "directorIds": [
+      "takeshi-kitano"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "tv-tokyo",
+      "office-kitano"
+    ],
+    "cast": [
+      {
+        "actorId": "takeshi-kitano",
+        "character": "大友"
+      },
+      {
+        "actorId": "toshiyuki-nishida",
+        "character": "西野"
+      },
+      {
+        "actorId": "ken-mitsuishi",
+        "character": "五味"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "suspense",
+      "human-drama",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 10
+    },
+    "runtime": 104,
+    "originalType": "original",
+    "synopsis": "大友は韓国に渡り、日韓を仕切る実力者のもとで働いている。花菱会の幹部が起こした揉め事が、再び全面抗争の火種となる。組織の力学に翻弄されながら、大友は最後の始末をつける。三部作の完結編にあたる作品となっている。抑制の効いた演出と、乾いた暴力描写が全編を貫いている。三部作を締めくくる一本にあたる。",
+    "tmdbId": 452323,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "outrage"
+  },
+  {
+    "id": "blame",
+    "title": "BLAME! ブラム",
+    "titleKana": "ぶらむ",
+    "directorIds": [
+      "hiroyuki-seshita"
+    ],
+    "screenwriterIds": [
+      "sadayuki-murai"
+    ],
+    "studioIds": [
+      "polygon-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "takahiro-sakurai",
+        "character": "霧亥"
+      },
+      {
+        "actorId": "kana-hanazawa",
+        "character": "シボ"
+      },
+      {
+        "actorId": "sora-amamiya",
+        "character": "づる"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "sf",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2017,
+      "month": 5
+    },
+    "runtime": 105,
+    "originalType": "manga",
+    "synopsis": "無限に増殖を続ける階層都市で、人類は防衛システムに駆除される存在になっている。都市の制御権を取り戻す遺伝子を求め、霧亥が果てしなく歩き続ける。小さな集落の少女たちと出会い、彼は同行することになる。弐瓶勉の漫画を映像化した作品にあたる。三次元の作画で、無限に広がる階層都市が描き出されている。",
+    "tmdbId": 409421,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "ブラム"
+  },
+  {
+    "id": "love-live-the-school-idol-movie",
+    "title": "ラブライブ! The School Idol Movie",
+    "titleKana": "らぶらいぶざすくーるあいどるむーびー",
+    "directorIds": [
+      "takahiko-kyougoku"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "sunrise",
+      "bandai-visual"
+    ],
+    "cast": [
+      {
+        "actorId": "emi-nitta",
+        "character": "高坂穂乃果"
+      },
+      {
+        "actorId": "aya-uchida",
+        "character": "南ことり"
+      },
+      {
+        "actorId": "suzuko-mimori",
+        "character": "園田海未"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "comedy",
+      "school",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 6
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "大会を制した九人が、三年生の卒業を機に活動の終わりを決めていた。だがある知らせを受け、彼女たちは最後の舞台に立つことになる。ニューヨークでの公演を経て、それぞれの答えが見えてくる。テレビシリーズの完結編にあたる作品となっている。楽曲と踊りの場面に、劇場版ならではの規模が投じられている。",
+    "tmdbId": 333623,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "graveyard-of-honor",
+    "title": "仁義の墓場",
+    "titleKana": "じんぎのはかば",
+    "directorIds": [
+      "kinji-fukasaku"
+    ],
+    "screenwriterIds": [
+      "tatsuhiko-kamoi",
+      "hiro-matsuda"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "tetsuya-watari",
+        "character": "石川力夫"
+      },
+      {
+        "actorId": "tatsuo-umemiya",
+        "character": "今井兼三郎"
+      },
+      {
+        "actorId": "yumi-takigawa",
+        "character": "石川ちえ子"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "action",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1975,
+      "month": 2
+    },
+    "runtime": 94,
+    "originalType": "other",
+    "synopsis": "戦後の混乱期、新宿で暴れ回る石川力夫の生き様を描く。組織の掟すら無視する彼は、親分にまで銃を向けて破門される。逃亡と服役を繰り返し、彼は自分の破滅へ突き進んでいく。実在の人物をもとにした深作欣二監督の作品にあたる。手持ち撮影と記録映像風の演出が、荒々しい迫力を生んでいる。",
+    "tmdbId": 71851,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "a-new-love-in-tokyo",
+    "title": "愛の新世界",
+    "titleKana": "あいのしんせかい",
+    "directorIds": [
+      "banmei-takahashi"
+    ],
+    "screenwriterIds": [
+      "sho-kenzan",
+      "kei-shimamoto"
+    ],
+    "studioIds": [
+      "g-company",
+      "toa-kogyo"
+    ],
+    "cast": [
+      {
+        "actorId": "sawa-suzuki",
+        "character": "レイ"
+      },
+      {
+        "actorId": "reiko-kataoka",
+        "character": "アユミ"
+      },
+      {
+        "actorId": "aya-sugimoto",
+        "character": "サエコ"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1994,
+      "month": 12
+    },
+    "runtime": 115,
+    "originalType": "original",
+    "synopsis": "小劇団の女優レイが、夜は渋谷の店で働きながら生活している。同じビルで知り合った女性たちと、それぞれの事情を抱えたまま親しくなる。自分の居場所を探す彼女たちの日々が、淡々と描かれる。高橋伴明監督の作品にあたる。抑えた演出で、生きづらさを抱えた人々を描いた作品にあたる。ヨコハマ映画祭でも評価された。",
+    "tmdbId": 108433,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rage",
+    "title": "怒り",
+    "titleKana": "いかり",
+    "directorIds": [
+      "sang-il-lee"
+    ],
+    "screenwriterIds": [
+      "shuichi-yoshida"
+    ],
+    "studioIds": [
+      "toho-pictures",
+      "chunichi-shimbun"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-watanabe",
+        "character": "槇洋平"
+      },
+      {
+        "actorId": "mirai-moriyama",
+        "character": "田中信吾"
+      },
+      {
+        "actorId": "aoi-miyazaki",
+        "character": "槇愛子"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "human-drama",
+      "suspense",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 9
+    },
+    "runtime": 141,
+    "originalType": "novel",
+    "synopsis": "凄惨な殺人事件の犯人が整形して逃亡し、一年が過ぎている。千葉、東京、沖縄で、それぞれ素性の知れない男が現れる。周囲の人々は、彼らを信じるか疑うかの間で揺れる。吉田修一の小説を李相日監督が映画化した作品にあたる。三つの土地の物語を並行して描く構成が、この作品の骨格となる。豪華な配役でも話題を集めた。",
+    "tmdbId": 359344,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-great-war-of-archimedes",
+    "title": "アルキメデスの大戦",
+    "titleKana": "あるきめですのたいせん",
+    "directorIds": [
+      "takashi-yamazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "robot-communications",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "masaki-suda",
+        "character": "櫂直"
+      },
+      {
+        "actorId": "tasuku-emoto",
+        "character": "田中正二郎"
+      },
+      {
+        "actorId": "minami-hamabe",
+        "character": "尾崎鏡子"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "action",
+      "mystery",
+      "human-drama",
+      "history"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 7
+    },
+    "runtime": 130,
+    "originalType": "manga",
+    "synopsis": "昭和八年、巨大戦艦の建造計画に山本五十六が異を唱える。彼が招いた数学の天才、櫂直が見積もりの不正を暴こうとする。限られた時間で、彼は膨大な計算に挑む。三田紀房の漫画を山崎貴監督が映画化した作品にあたる。冒頭の大和の沈没場面に、大規模な視覚効果が投じられている。数字で戦う会話劇としても成立している。",
+    "tmdbId": 605389,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "closest-love-to-heaven",
+    "title": "きょうのキラ君",
+    "titleKana": "きょうのきらくん",
+    "directorIds": [
+      "taisuke-kawamura"
+    ],
+    "screenwriterIds": [
+      "chieko-nakagawa"
+    ],
+    "studioIds": [
+      "kansai-television",
+      "hakuhodo-dy-music-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "taishi-nakagawa",
+        "character": "吉良雄二"
+      },
+      {
+        "actorId": "marie-iitoyo",
+        "character": "岡村ニノン"
+      },
+      {
+        "actorId": "shono-hayama",
+        "character": "矢部和宏"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 2
+    },
+    "runtime": 110,
+    "originalType": "manga",
+    "synopsis": "人と関わらずに生きてきた女子高生ニノが、隣に住む人気者のキラに恋をする。距離を縮めていくうち、彼女は彼が抱える事情を知る。限られた時間のなかで、二人は共に過ごそうとする。人気少女漫画を実写化した作品にあたる。抑えた演出で、限られた時間の重みを描いた作品にあたる。中川大志と飯豊まりえが主演を務めている。",
+    "tmdbId": 438640,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tekken-blood-vengeance",
+    "title": "鉄拳 ブラッド・ベンジェンス",
+    "titleKana": "てっけんぶらっどべんじぇんす",
+    "directorIds": [
+      "youichi-mouri"
+    ],
+    "screenwriterIds": [
+      "dai-sato"
+    ],
+    "studioIds": [
+      "digital-frontier",
+      "bandai-namco-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "isshin-chiba",
+        "character": "風間仁"
+      },
+      {
+        "actorId": "unsho-ishizuka",
+        "character": "三島平八"
+      },
+      {
+        "actorId": "yuki-matsuoka",
+        "character": "アリサ・ボスコノビッチ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "martial-arts",
+      "game-world"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 9
+    },
+    "runtime": 100,
+    "originalType": "game",
+    "synopsis": "企業の依頼で、女子高生のシャオユウが京都の学校へ潜入する。標的の神谷真を調べるうち、彼女は一族の因縁に巻き込まれる。三島家をめぐる争いが、学園を舞台に噴出する。人気格闘ゲームを三次元映像で作った作品にあたる。三次元の作画で格闘描写を再現した点が、この作品の見どころとなる。",
+    "tmdbId": 79516,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "patlabor-the-movie",
+    "title": "機動警察パトレイバー the Movie",
+    "titleKana": "きどうけいさつぱとれいばーざむーびー",
+    "directorIds": [
+      "mamoru-oshii"
+    ],
+    "screenwriterIds": [
+      "kazunori-ito"
+    ],
+    "studioIds": [
+      "studio-deen",
+      "tfc"
+    ],
+    "cast": [
+      {
+        "actorId": "mina-tominaga",
+        "character": "泉野明"
+      },
+      {
+        "actorId": "toshio-furukawa",
+        "character": "篠原遊馬"
+      },
+      {
+        "actorId": "ryusuke-ohbayashi",
+        "character": "後藤喜一"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "mystery",
+      "robot",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1989,
+      "month": 7
+    },
+    "runtime": 100,
+    "originalType": "manga",
+    "synopsis": "作業用ロボットの暴走事故が、東京各地で相次いで発生する。特車二課の面々は、制御用の基本ソフトに仕掛けられた罠に気づく。設計者は既にこの世におらず、手がかりは都市そのものに残されていた。押井守監督の代表作の一本にあたる。都市の風景を長く映す演出と、社会派の主題で高く評価されている。",
+    "tmdbId": 14571,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "機動警察パトレイバー 劇場版",
+    "seriesId": "patlabor"
+  },
+  {
+    "id": "samurai-x-the-motion-picture",
+    "title": "るろうに剣心 維新志士への鎮魂歌",
+    "titleKana": "るろうにけんしんいしんししへのれくいえむ",
+    "directorIds": [
+      "hatsuki-tsuji"
+    ],
+    "screenwriterIds": [
+      "yukiyoshi-ohashi"
+    ],
+    "studioIds": [
+      "studio-deen"
+    ],
+    "cast": [
+      {
+        "actorId": "mayo-suzukaze",
+        "character": "緋村剣心"
+      },
+      {
+        "actorId": "miki-fujitani",
+        "character": "神谷薫"
+      },
+      {
+        "actorId": "yuji-ueda",
+        "character": "相楽左之助"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "jidaigeki",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1997,
+      "month": 12
+    },
+    "runtime": 91,
+    "originalType": "manga",
+    "synopsis": "横浜を訪れた剣心が、時雨滝魅という剣士と出会い意気投合する。だが時雨は、幕末に故郷を失った者たちを率いて武力蜂起を企てていた。維新が置き去りにしたものが、二人を斬り合わせる。テレビシリーズの劇場版にあたる。幕末が残した禍根を主題に据えた、暗い調子の一本となっている。",
+    "tmdbId": 39977,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "rurouni-kenshin"
+  },
+  {
+    "id": "mobile-suit-zeta-gundam-a-new-translation-iii-love",
+    "title": "機動戦士ZガンダムIII A New Translation 星の鼓動は愛",
+    "titleKana": "きどうせんしぜーたがんだむさんほしのこどうはあい",
+    "directorIds": [
+      "yoshiyuki-tomino"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "sunrise",
+      "sotsu"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuo-tobita",
+        "character": "カミーユ・ビダン"
+      },
+      {
+        "actorId": "hirotaka-suzuoki",
+        "character": "ブライト・ノア"
+      },
+      {
+        "actorId": "bin-shimada",
+        "character": "パプテマス・シロッコ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "war",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2006,
+      "month": 3
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "エゥーゴとティターンズの戦いに、第三の勢力アクシズが介入する。カミーユは重なる犠牲のなかで、精神を消耗させていく。強化人間たちとの戦いが、彼を追い詰めていく。テレビ版を再構成した三部作の完結編にあたる。結末がテレビ版から大きく変更され、公開時に議論を呼んだ。新規作画の比率も高い。",
+    "tmdbId": 30606,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "zeta-gundam-movie"
+  },
+  {
+    "id": "samurai-reincarnation",
+    "title": "魔界転生",
+    "titleKana": "まかいてんしょう",
+    "directorIds": [
+      "kinji-fukasaku"
+    ],
+    "screenwriterIds": [
+      "tatsuo-nogami"
+    ],
+    "studioIds": [
+      "toei-company",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "sonny-chiba",
+        "character": "柳生十兵衛"
+      },
+      {
+        "actorId": "kenji-sawada",
+        "character": "天草四郎"
+      },
+      {
+        "actorId": "akiko-kana",
+        "character": "細川ガラシャ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "horror",
+      "jidaigeki"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1981,
+      "month": 6
+    },
+    "runtime": 105,
+    "originalType": "novel",
+    "synopsis": "島原の乱で死んだ天草四郎が、恨みを抱えて蘇る。彼は同じく無念の死を遂げた剣豪たちを次々と魔界衆として復活させる。柳生十兵衛が、父も含めた化け物たちに立ち向かう。山田風太郎の小説を深作欣二監督が映画化した作品にあたる。火に包まれた城での対決が、この作品の見どころとなっている。",
+    "tmdbId": 74289,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "persona3-the-movie-1-spring-of-birth",
+    "title": "PERSONA3 THE MOVIE #1 Spring of Birth",
+    "titleKana": "ぺるそなすりーざむーびーいちすぷりんぐおぶばーす",
+    "directorIds": [
+      "noriaki-akitaya",
+      "tomohisa-taguchi"
+    ],
+    "screenwriterIds": [
+      "jun-kumagai"
+    ],
+    "studioIds": [
+      "anime-international-company",
+      "atlus"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-ishida",
+        "character": "結城理"
+      },
+      {
+        "actorId": "megumi-toyoguchi",
+        "character": "岳羽ゆかり"
+      },
+      {
+        "actorId": "kohsuke-toriumi",
+        "character": "伊織順平"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "game-world",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 11
+    },
+    "runtime": 91,
+    "originalType": "game",
+    "synopsis": "転校してきた高校二年の理が、一日の狭間にある影時間に巻き込まれる。異形のシャドウに襲われた彼は、自らの内から同じ力を呼び出す。特別課外活動部に加わり、彼は塔での戦いを始める。四部作の第一作にあたる作品となっている。原作ゲームの序盤を、映像作品として再構成した一本にあたる。",
+    "tmdbId": 212153,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "persona3-movie"
+  },
+  {
+    "id": "sing-a-bit-of-harmony",
+    "title": "アイの歌声を聴かせて",
+    "titleKana": "あいのうたごえをきかせて",
+    "directorIds": [
+      "yasuhiro-yoshiura"
+    ],
+    "screenwriterIds": [
+      "ichiro-okouchi"
+    ],
+    "studioIds": [
+      "j-c-staff",
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "tao-tsuchiya",
+        "character": "芦森詩音"
+      },
+      {
+        "actorId": "haruka-fukuhara",
+        "character": "天野悟美"
+      },
+      {
+        "actorId": "asuka-kudo",
+        "character": "トウマ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sf",
+      "ai",
+      "school",
+      "music"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 10
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "高校に転入してきた美少女シオンが、突然歌い出して周囲を驚かせる。彼女の正体は試験運用中の人工知能だった。ひとりでいる同級生サトミを幸せにするという命題のもと、彼女は突飛な行動を繰り返す。歌と友情を軸にした長編アニメにあたる。歌の場面と伏線の回収が、高く評価されている作品にあたる。",
+    "tmdbId": 741335,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mother",
+    "title": "MOTHER マザー",
+    "titleKana": "まざー",
+    "directorIds": [
+      "tatsushi-omori"
+    ],
+    "screenwriterIds": [
+      "takehiko-minato"
+    ],
+    "studioIds": [
+      "star-sands",
+      "happinet"
+    ],
+    "cast": [
+      {
+        "actorId": "masami-nagasawa",
+        "character": "三隅秋子"
+      },
+      {
+        "actorId": "daiken-okudaira",
+        "character": "周平"
+      },
+      {
+        "actorId": "sadao-abe",
+        "character": "川田遼"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2020,
+      "month": 7
+    },
+    "runtime": 126,
+    "originalType": "other",
+    "synopsis": "その場しのぎで生きる秋子が、息子の周平を連れて各地を転々とする。歪んだ愛情に応えようとする周平は、他の生き方を知らずに育つ。追い詰められた末に、彼は取り返しのつかない行為に至る。実際に起きた事件に着想を得た作品にあたる。長澤まさみが従来の印象を覆す役に挑んだ作品としても知られる。",
+    "tmdbId": 698860,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "legend-of-the-galactic-heroes-my-conquest-is-the",
+    "title": "銀河英雄伝説 わが征くは星の大海",
+    "titleKana": "ぎんがえいゆうでんせつわがゆくはほしのたいかい",
+    "directorIds": [
+      "noboru-ishiguro",
+      "akio-sakai"
+    ],
+    "screenwriterIds": [
+      "takeshi-shudo"
+    ],
+    "studioIds": [
+      "kitty-films",
+      "madhouse"
+    ],
+    "cast": [
+      {
+        "actorId": "kei-tomiyama",
+        "character": "ヤン・ウェンリー"
+      },
+      {
+        "actorId": "masashi-hironaka",
+        "character": "ジークフリード・キルヒアイス"
+      },
+      {
+        "actorId": "ryo-horikawa",
+        "character": "ラインハルト・フォン・ローエングラム"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "war",
+      "space"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1988,
+      "month": 2
+    },
+    "runtime": 59,
+    "originalType": "novel",
+    "synopsis": "銀河帝国と自由惑星同盟が、百五十年にわたり戦争を続けている。帝国の若き将ラインハルトと、同盟の戦術家ヤン・ウェンリーが同じ戦場で対峙する。両者の資質が、以後の歴史を決めることになる。長大な連作の出発点にあたる作品となっている。艦隊戦の描写と古典音楽の使用が、この連作の様式を決めた。",
+    "tmdbId": 154738,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "legend-of-the-galactic-heroes"
+  },
+  {
+    "id": "psycho-pass-providence",
+    "title": "劇場版 PSYCHO-PASS サイコパス PROVIDENCE",
+    "titleKana": "げきじょうばんさいこぱすぷろゔぃでんす",
+    "directorIds": [
+      "naoyoshi-shiotani"
+    ],
+    "screenwriterIds": [
+      "makoto-fukami",
+      "tow-ubukata"
+    ],
+    "studioIds": [
+      "production-i-g",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "kana-hanazawa",
+        "character": "常守朱"
+      },
+      {
+        "actorId": "tomokazu-seki",
+        "character": "狡噛慎也"
+      },
+      {
+        "actorId": "kenji-nojima",
+        "character": "宜野座伸元"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "mystery",
+      "suspense",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 5
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "外国船舶で起きた事件の捜査から、常守朱が国家間の思惑に巻き込まれる。厚生省の統計本部長が、事件の中心に立っていた。シビュラシステムの根幹に関わる秘密が、次第に明かされる。テレビ一期と三期をつなぐ位置づけの作品にあたる。シリーズの過去と現在を接続する重要な位置づけの作品にあたる。",
+    "tmdbId": 1012652,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "psycho-pass"
+  },
+  {
+    "id": "dodeska-den",
+    "title": "どですかでん",
+    "titleKana": "どですかでん",
+    "directorIds": [
+      "akira-kurosawa"
+    ],
+    "screenwriterIds": [
+      "shinobu-hashimoto"
+    ],
+    "studioIds": [
+      "yonki-no-kai-productions",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "yoshitaka-zushi",
+        "character": "六ちゃん"
+      },
+      {
+        "actorId": "kin-sugai",
+        "character": "おくに"
+      },
+      {
+        "actorId": "toshiyuki-tonomura",
+        "character": "沢上太郎"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1970,
+      "month": 10
+    },
+    "runtime": 140,
+    "originalType": "novel",
+    "synopsis": "ゴミ捨て場のような一角に、貧しい人々が寄り集まって暮らしている。走らない電車を運転する真似を続ける少年、夢の家を語る乞食の父子、変わり者ばかりが並ぶ。黒澤明監督の初の色彩作品にあたり、極彩色の美術が特徴となっている。興行的には振るわなかったが、色彩の実験として再評価が進んでいる。",
+    "tmdbId": 33205,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "survival-family",
+    "title": "サバイバルファミリー",
+    "titleKana": "さばいばるふぁみりー",
+    "directorIds": [
+      "shinobu-yaguchi"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "altamira-pictures",
+      "dentsu"
+    ],
+    "cast": [
+      {
+        "actorId": "fumiyo-kohinata",
+        "character": "鈴木義之"
+      },
+      {
+        "actorId": "eri-fukatsu",
+        "character": "鈴木光恵"
+      },
+      {
+        "actorId": "yuki-izumisawa",
+        "character": "鈴木賢司"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "adventure",
+      "apocalypse",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 2
+    },
+    "runtime": 117,
+    "originalType": "original",
+    "synopsis": "ある日突然、あらゆる電気が使えなくなり都市機能が停止する。鈴木一家は自転車で西へ向かい、祖父の住む鹿児島を目指す。頼りない父を筆頭に、それぞれが不器用に生き延びていく。矢口史靖監督が家族を主題にした作品にあたる。電気のない生活を丁寧に描き、笑いと実感を両立させている。",
+    "tmdbId": 429918,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "princess-principal-crown-handler-chapter-1",
+    "title": "プリンセス・プリンシパル Crown Handler 第1章",
+    "titleKana": "ぷりんせすぷりんしぱるくらうんはんどらー",
+    "directorIds": [
+      "masaki-tachibana"
+    ],
+    "screenwriterIds": [
+      "noboru-kimura"
+    ],
+    "studioIds": [
+      "actas",
+      "bandai-namco-arts"
+    ],
+    "cast": [
+      {
+        "actorId": "aoi-koga",
+        "character": "アンジェ"
+      },
+      {
+        "actorId": "akira-sekine",
+        "character": "プリンセス"
+      },
+      {
+        "actorId": "you-taichi",
+        "character": "ドロシー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "human-drama",
+      "mystery",
+      "spy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 2
+    },
+    "runtime": 53,
+    "originalType": "original",
+    "synopsis": "十九世紀末のロンドンで、共和国の諜報班が王国内で活動している。彼女たちは拘束された古本屋店主の奪還に成功する。だが王国側の追及も、少しずつ迫っていた。テレビシリーズの続きにあたる劇場版連作の第一章となっている。美術と諜報描写の質が高く、続く章への布石となっている。",
+    "tmdbId": 542507,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dragon-ball-super-broly",
+    "title": "ドラゴンボール超 ブロリー",
+    "titleKana": "どらごんぼーるちょうぶろりー",
+    "directorIds": [
+      "tatsuya-nagamine"
+    ],
+    "screenwriterIds": [
+      "akira-toriyama"
+    ],
+    "studioIds": [
+      "toei-company",
+      "shueisha"
+    ],
+    "cast": [
+      {
+        "actorId": "masako-nozawa",
+        "character": "孫悟空"
+      },
+      {
+        "actorId": "aya-hisakawa",
+        "character": "ブルマ"
+      },
+      {
+        "actorId": "ryo-horikawa",
+        "character": "ベジータ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "martial-arts"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 12
+    },
+    "runtime": 100,
+    "originalType": "manga",
+    "synopsis": "力の大会を経て、悟空はさらなる強さを求めて修行を続けている。そこへ、辺境の惑星で育った規格外のサイヤ人ブロリーが現れる。復活したフリーザの思惑が、三者を同じ戦場に引き寄せる。サイヤ人の起源にも踏み込んだ作品にあたる。作画の密度と戦闘描写の速度が、シリーズでも屈指と評されている。",
+    "tmdbId": 503314,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "dragon-ball"
+  },
+  {
+    "id": "date-a-live-mayuri-judgement",
+    "title": "劇場版 デート・ア・ライブ 万由里ジャッジメント",
+    "titleKana": "げきじょうばんでーとあらいぶまゆりじゃっじめんと",
+    "directorIds": [
+      "keitaro-motonaga"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kadokawa",
+      "tokyo-mx"
+    ],
+    "cast": [
+      {
+        "actorId": "marina-inoue",
+        "character": "夜刀神十香"
+      },
+      {
+        "actorId": "ayana-taketatsu",
+        "character": "五河琴里"
+      },
+      {
+        "actorId": "misuzu-togashi",
+        "character": "鳶一折紙"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "sf",
+      "action",
+      "comedy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 8
+    },
+    "runtime": 62,
+    "originalType": "lightnovel",
+    "synopsis": "士道の前に、万由里と名乗る新たな精霊が現れる。彼女は士道と精霊たちの関係を見極めると宣言する。誰かを選ばなければ、世界が危機に陥るという条件が課される。テレビシリーズの完全新作にあたる劇場版となっている。シリーズの登場人物が総出演する構成で、賑やかな一本となっている。",
+    "tmdbId": 331061,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doraemon-nobita-and-the-animal-planet",
+    "title": "映画ドラえもん のび太とアニマル惑星",
+    "titleKana": "えいがどらえもんのびたとあにまるぷらねっと",
+    "directorIds": [
+      "tsutomu-shibayama"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shin-ei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuyo-oyama",
+        "character": "ドラえもん"
+      },
+      {
+        "actorId": "noriko-ohara",
+        "character": "野比のび太"
+      },
+      {
+        "actorId": "michiko-nomura",
+        "character": "源静香"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "family",
+      "sf",
+      "comedy",
+      "animal",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1990,
+      "month": 3
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "ピンクの霧をくぐったのび太が、動物たちが話す森に迷い込む。争いのない優しい惑星だったが、そこへ侵略者が現れる。汚染された星から逃れてきた者たちの事情が明らかになる。環境問題を扱った大長編の一本にあたる。優しい世界と侵略者の対比が、この作品の主題となっている。汚染された星の描写も印象に残る。",
+    "tmdbId": 161707,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "doraemon"
+  },
+  {
+    "id": "persona3-the-movie-2-midsummer-knights-dream",
+    "title": "PERSONA3 THE MOVIE #2 Midsummer Knight's Dream",
+    "titleKana": "ぺるそなすりーざむーびーにみっどさまーないつどりーむ",
+    "directorIds": [
+      "tomohisa-taguchi"
+    ],
+    "screenwriterIds": [
+      "jun-kumagai"
+    ],
+    "studioIds": [
+      "a-1-pictures",
+      "atlus"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-ishida",
+        "character": "結城理"
+      },
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "アイギス"
+      },
+      {
+        "actorId": "rie-tanaka",
+        "character": "桐条美鶴"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "game-world",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 6
+    },
+    "runtime": 99,
+    "originalType": "game",
+    "synopsis": "影時間の謎を追い、理たちはシャドウとの戦いを重ねていく。当初は流されるままだった理も、仲間との関わりを深めていく。彼のそばに置かれた機械の少女アイギスが、その変化を見つめる。四部作の第二作にあたる作品となっている。仲間との関係の深まりが、この作品の中心を占めている。",
+    "tmdbId": 297189,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "persona3-movie"
+  },
+  {
+    "id": "saekano-the-movie-finale",
+    "title": "冴えない彼女の育てかた Fine",
+    "titleKana": "さえないひろいんのそだてかたふぃーね",
+    "directorIds": [
+      "kanta-kamei"
+    ],
+    "screenwriterIds": [
+      "fumiaki-maruto"
+    ],
+    "studioIds": [
+      "cloverworks",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "yoshitsugu-matsuoka",
+        "character": "安芸倫也"
+      },
+      {
+        "actorId": "kiyono-yasuno",
+        "character": "加藤恵"
+      },
+      {
+        "actorId": "saori-onishi",
+        "character": "澤村・スペンサー・英梨々"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "human-drama",
+      "filmmaking",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 10
+    },
+    "runtime": 115,
+    "originalType": "lightnovel",
+    "synopsis": "同人ゲームの制作集団を再始動させた倫也が、最後の作品に取りかかる。かつて離れた二人の作り手が、それぞれの理由で戻ってくる。制作の完成と同時に、加藤恵との関係にも決着がつく。シリーズの完結編にあたる作品となっている。創作と恋愛を並行させた構成に、丁寧な決着がつけられている。",
+    "tmdbId": 608826,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "natsumes-book-of-friends-the-movie-ephemeral-bond",
+    "title": "劇場版 夏目友人帳 うつせみに結ぶ",
+    "titleKana": "げきじょうばんなつめゆうじんちょううつせみにむすぶ",
+    "directorIds": [
+      "takahiro-omori",
+      "hideki-ito"
+    ],
+    "screenwriterIds": [
+      "sadayuki-murai"
+    ],
+    "studioIds": [
+      "shuka",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroshi-kamiya",
+        "character": "夏目貴志"
+      },
+      {
+        "actorId": "kazuhiko-inoue",
+        "character": "ニャンコ先生"
+      },
+      {
+        "actorId": "kazuma-horie",
+        "character": "多軌透"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 9
+    },
+    "runtime": 104,
+    "originalType": "manga",
+    "synopsis": "妖が見える夏目が、かつての同級生との再会で苦い記憶を呼び起こされる。同じ頃、祖母レイコを知る女性と知り合う。名前を返した妖の記憶が、過去と現在をつなぐ。テレビシリーズの初の劇場版にあたる作品となっている。穏やかな語り口と背景美術が、シリーズの持ち味を保っている。",
+    "tmdbId": 507411,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "air-doll",
+    "title": "空気人形",
+    "titleKana": "くうきにんぎょう",
+    "directorIds": [
+      "hirokazu-koreeda"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "eisei-gekijo",
+      "engine-film"
+    ],
+    "cast": [
+      {
+        "actorId": "bae-doona",
+        "character": "のぞみ"
+      },
+      {
+        "actorId": "arata-iura",
+        "character": "純一"
+      },
+      {
+        "actorId": "itsuji-itao",
+        "character": "秀雄"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 9
+    },
+    "runtime": 116,
+    "originalType": "manga",
+    "synopsis": "中年男が愛用する空気人形が、ある朝突然に心を持つ。彼が仕事に出た後、人形は服を着て街へ出かける。レンタル店で働き、店員の青年に恋をする。是枝裕和監督が業田良家の短編漫画を映像化した作品にあたる。ペ・ドゥナの繊細な演技と、都市の孤独の描写が高く評価された。カンヌ国際映画祭でも上映されている。",
+    "tmdbId": 25053,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "code-geass-akito-the-exiled-1-the-wyvern-arrives",
+    "title": "コードギアス 亡国のアキト 第1章 翼竜は舞い降りた",
+    "titleKana": "こーどぎあすぼうこくのあきとよくりゅうはまいおりた",
+    "directorIds": [
+      "kazuki-akane"
+    ],
+    "screenwriterIds": [
+      "miya-asakawa"
+    ],
+    "studioIds": [
+      "sunrise"
+    ],
+    "cast": [
+      {
+        "actorId": "miyu-irino",
+        "character": "日向アキト"
+      },
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "レイラ・マルカル"
+      },
+      {
+        "actorId": "takehito-koyasu",
+        "character": "アンドレア・ファルネーゼ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "war",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2012,
+      "month": 8
+    },
+    "runtime": 51,
+    "originalType": "original",
+    "synopsis": "ブリタニアの侵攻に押されるヨーロッパ連合が、日本人少年兵の特殊部隊を編成する。生存率の低い任務に投入された彼らを、レイラが指揮する。日向アキトだけが、生きて帰り続けていた。全五章の第一章にあたる作品となっている。三次元と手描きを併用した戦闘描写が、この連作の特徴となっている。",
+    "tmdbId": 185526,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "code-geass-akito"
+  },
+  {
+    "id": "crayon-shin-chan-blitzkrieg-pigs-hoofs-secret",
+    "title": "クレヨンしんちゃん 電撃! ブタのヒヅメ大作戦",
+    "titleKana": "くれよんしんちゃんでんげきぶたのひづめだいさくせん",
+    "directorIds": [
+      "keiichi-hara"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shin-ei-animation",
+      "asatsu"
+    ],
+    "cast": [
+      {
+        "actorId": "akiko-yajima",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "miki-narahashi",
+        "character": "野原みさえ"
+      },
+      {
+        "actorId": "keiji-fujiwara",
+        "character": "野原ひろし"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "spy",
+      "adventure"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1998,
+      "month": 4
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "秘密組織から新兵器の部品を奪った女性諜報員が、屋形船に逃げ込む。乗り合わせた野原一家とふたば幼稚園の面々が、追跡に巻き込まれる。空中要塞での攻防に、しんのすけたちが挑む。原恵一監督の初期劇場版にあたる作品となっている。軽快な活劇と、大人向けの皮肉が同居した一本となっている。",
+    "tmdbId": 128875,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
   }
 ]
