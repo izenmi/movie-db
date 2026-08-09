@@ -920,5 +920,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bourne",
+    "name": "「ボーン」シリーズ",
+    "nameKana": "ぼーんしりーず",
+    "description": "記憶を失った工作員ジェイソン・ボーンを主人公とするスパイ・アクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "terrifier",
+    "name": "「テリファー」シリーズ",
+    "nameKana": "てりふぁーしりーず",
+    "description": "殺人ピエロのアートを主人公とする残酷描写に振り切ったホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nightmare-on-elm-street",
+    "name": "「エルム街の悪夢」シリーズ",
+    "nameKana": "えるむがいのあくむしりーず",
+    "description": "夢の中で襲ってくる殺人鬼フレディを描くホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
