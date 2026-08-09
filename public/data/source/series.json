@@ -785,5 +785,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "star-trek",
+    "name": "「スター・トレック」映画シリーズ",
+    "nameKana": "すたーとれっくえいがしりーず",
+    "description": "宇宙艦エンタープライズの航海を描くアメリカのSF映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-bond",
+    "name": "「007」シリーズ",
+    "nameKana": "だぶるおーせぶんしりーず",
+    "description": "英国情報部員ジェームズ・ボンドの活躍を描くスパイ映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "monsterverse",
+    "name": "「モンスターバース」シリーズ",
+    "nameKana": "もんすたーばーすしりーず",
+    "description": "ゴジラとキングコングが共存する世界を描くハリウッドの怪獣映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

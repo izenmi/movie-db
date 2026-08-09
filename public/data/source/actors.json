@@ -10384,5 +10384,626 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Natasha Richardson。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "thomas-jane",
+    "name": "トーマス・ジェーン",
+    "nameKana": "トーマスジェーン",
+    "description": "俳優。『パニッシャー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Thomas Jane。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "will-patton",
+    "name": "ウィル・パットン",
+    "nameKana": "ウィルパットン",
+    "description": "俳優。『パニッシャー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Will Patton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "zachary-quinto",
+    "name": "ザカリー・クイント",
+    "nameKana": "ザカリークイント",
+    "description": "俳優。『スター・トレック』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Zachary Quinto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leonard-nimoy",
+    "name": "レナード・ニモイ",
+    "nameKana": "レナードニモイ",
+    "description": "俳優。『スター・トレック』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leonard Nimoy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hayato-isohata",
+    "name": "五十畑迅人",
+    "nameKana": "いそあたはやと",
+    "description": "俳優。『ホーホケキョとなりの山田くん』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hayato Isohata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masako-araki",
+    "name": "荒木雅子",
+    "nameKana": "あらきまさこ",
+    "description": "俳優。『ホーホケキョとなりの山田くん』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masako Araki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naomi-uno",
+    "name": "宇野なおみ",
+    "nameKana": "うのなおみ",
+    "description": "俳優。『ホーホケキョとなりの山田くん』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naomi Uno。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andy-serkis",
+    "name": "アンディ・サーキス",
+    "nameKana": "アンディサーキス",
+    "description": "俳優。『猿の惑星：創世記』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Andy Serkis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "freida-pinto",
+    "name": "フリーダ・ピント",
+    "nameKana": "フリーダピント",
+    "description": "俳優。『猿の惑星：創世記』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Freida Pinto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rudy-youngblood",
+    "name": "ルディ・ヤングブラッド",
+    "nameKana": "ルディヤングブラッド",
+    "description": "俳優。『アポカリプト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rudy Youngblood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "raoul-max-trujillo",
+    "name": "ラウル・マックス・トルヒーヨ",
+    "nameKana": "ラウルマックストルヒーヨ",
+    "description": "俳優。『アポカリプト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Raoul Max Trujillo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gerardo-taracena",
+    "name": "ヘラルド・タラセナ",
+    "nameKana": "ヘラルドタラセナ",
+    "description": "俳優。『アポカリプト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gerardo Taracena。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miyoko-shoji",
+    "name": "荘司美代子",
+    "nameKana": "しょじみよこ",
+    "description": "俳優。『千年女優』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miyoko Shoji。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nobuyo-oyama",
+    "name": "大山のぶ代",
+    "nameKana": "おやまのぶよ",
+    "description": "俳優。『映画ドラえもん のび太の恐竜』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nobuyo Oyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noriko-ohara",
+    "name": "小原乃梨子",
+    "nameKana": "おあらのりこ",
+    "description": "俳優。『映画ドラえもん のび太の恐竜』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noriko Ohara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michiko-nomura",
+    "name": "野村道子",
+    "nameKana": "のむらみちこ",
+    "description": "俳優。『映画ドラえもん のび太の恐竜』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michiko Nomura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "domhnall-gleeson",
+    "name": "ドーナル・グリーソン",
+    "nameKana": "ドーナルグリーソン",
+    "description": "俳優。『レヴェナント：蘇えりし者』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Domhnall Gleeson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rebecca-hall",
+    "name": "レベッカ・ホール",
+    "nameKana": "レベッカホール",
+    "description": "俳優。『ゴジラxコング 新たなる帝国』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rebecca Hall。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-stevens",
+    "name": "ダン・スティーヴンス",
+    "nameKana": "ダンスティーヴンス",
+    "description": "俳優。『ゴジラxコング 新たなる帝国』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Stevens。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jai-courtney",
+    "name": "ジェイ・コートニー",
+    "nameKana": "ジェイコートニー",
+    "description": "俳優。『ターミネーター：新起動／ジェニシス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jai Courtney。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lily-gladstone",
+    "name": "リリー・グラッドストーン",
+    "nameKana": "リリーグラッドストーン",
+    "description": "俳優。『キラーズ・オブ・ザ・フラワームーン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lily Gladstone。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jon-bernthal",
+    "name": "ジョン・バーンサル",
+    "nameKana": "ジョンバーンサル",
+    "description": "俳優。『フォードVSフェラーリ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jon Bernthal。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "callum-turner",
+    "name": "カラム・ターナー",
+    "nameKana": "カラムターナー",
+    "description": "俳優。『エタニティ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Callum Turner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryota-katayose",
+    "name": "片寄涼太",
+    "nameKana": "かたよせりょた",
+    "description": "俳優。『きみと、波にのれたら』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryota Katayose。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rina-kawaei",
+    "name": "川栄李奈",
+    "nameKana": "かわえいりな",
+    "description": "俳優。『きみと、波にのれたら』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rina Kawaei。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "honoka-matsumoto",
+    "name": "松本穂香",
+    "nameKana": "まつもとほのか",
+    "description": "俳優。『きみと、波にのれたら』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Honoka Matsumoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asha-banks",
+    "name": "アーシャ・バンクス",
+    "nameKana": "アーシャバンクス",
+    "description": "俳優。『俺の過ち： ロンドン編』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Asha Banks。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matthew-broome",
+    "name": "マシュー・ブルーム",
+    "nameKana": "マシューブルーム",
+    "description": "俳優。『俺の過ち： ロンドン編』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matthew Broome。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eve-macklin",
+    "name": "イヴ・マックリン",
+    "nameKana": "イヴマックリン",
+    "description": "俳優。『俺の過ち： ロンドン編』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eve Macklin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lea-seydoux",
+    "name": "レア・セドゥ",
+    "nameKana": "レアセドゥ",
+    "description": "俳優。『007／ノー・タイム・トゥ・ダイ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Léa Seydoux。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anna-nagase",
+    "name": "永瀬アンナ",
+    "nameKana": "ながせあんあ",
+    "description": "俳優。『劇場版総集編 呪術廻戦 懐玉・玉折』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anna Nagase。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miki-nakatani",
+    "name": "中谷美紀",
+    "nameKana": "なかたにみき",
+    "description": "俳優。『リング 2』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miki Nakatani。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hitomi-sato",
+    "name": "佐藤仁美",
+    "nameKana": "さとひとみ",
+    "description": "俳優。『リング 2』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hitomi Sato。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyoko-fukada",
+    "name": "深田恭子",
+    "nameKana": "ふかだきょこ",
+    "description": "俳優。『リング 2』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyoko Fukada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ellen-burstyn",
+    "name": "エレン・バースティン",
+    "nameKana": "エレンバースティン",
+    "description": "俳優。『エクソシスト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ellen Burstyn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "linda-blair",
+    "name": "リンダ・ブレア",
+    "nameKana": "リンダブレア",
+    "description": "俳優。『エクソシスト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Linda Blair。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jason-miller",
+    "name": "ジェイソン・ミラー",
+    "nameKana": "ジェイソンミラー",
+    "description": "俳優。『エクソシスト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jason Miller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-baldwin",
+    "name": "スティーヴン・ボールドウィン",
+    "nameKana": "スティーヴンボールドウィン",
+    "description": "俳優。『ユージュアル・サスペクツ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Baldwin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "benicio-del-toro",
+    "name": "ベニチオ・デル・トロ",
+    "nameKana": "ベニチオデルトロ",
+    "description": "俳優。『ユージュアル・サスペクツ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Benicio del Toro。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-spade",
+    "name": "デヴィッド・スペード",
+    "nameKana": "デヴィッドスペード",
+    "description": "俳優。『ラマになった王様』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Spade。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eartha-kitt",
+    "name": "アーサ・キット",
+    "nameKana": "アーサキット",
+    "description": "俳優。『ラマになった王様』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eartha Kitt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kumiko-aso",
+    "name": "麻生久美子",
+    "nameKana": "あそくみこ",
+    "description": "俳優。『回路』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kumiko Aso。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "haruhiko-kato",
+    "name": "加藤晴彦",
+    "nameKana": "かとはるひこ",
+    "description": "俳優。『回路』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Haruhiko Kato。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koyuki",
+    "name": "小雪",
+    "nameKana": "こゆき",
+    "description": "俳優。『回路』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Koyuki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sayaka-senbongi",
+    "name": "千本木彩花",
+    "nameKana": "せんぼんぎさやか",
+    "description": "俳優。『甲鉄城のカバネリ 海門決戦』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sayaka Senbongi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maaya-uchida",
+    "name": "内田真礼",
+    "nameKana": "うちだまあや",
+    "description": "俳優。『甲鉄城のカバネリ 海門決戦』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maaya Uchida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amber-heard",
+    "name": "アンバー・ハード",
+    "nameKana": "アンバーハード",
+    "description": "俳優。『アクアマン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amber Heard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wagner-moura",
+    "name": "ヴァグネル・モウラ",
+    "nameKana": "ヴァグネルモウラ",
+    "description": "俳優。『シビル・ウォー アメリカ最後の日』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wagner Moura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-marsden",
+    "name": "ジェームズ・マースデン",
+    "nameKana": "ジェームズマースデン",
+    "description": "俳優。『ソニック・ザ・ムービー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Marsden。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tika-sumpter",
+    "name": "ティカ・サンプター",
+    "nameKana": "ティカサンプター",
+    "description": "俳優。『ソニック・ザ・ムービー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tika Sumpter。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toru-furuya",
+    "name": "古谷徹",
+    "nameKana": "ふるやとる",
+    "description": "俳優。『機動戦士ガンダム 逆襲のシャア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toru Furuya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fuyumi-shiraishi",
+    "name": "白石冬美",
+    "nameKana": "しらいしふゆみ",
+    "description": "俳優。『機動戦士ガンダム 逆襲のシャア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fuyumi Shiraishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masahiro-matsuoka",
+    "name": "松岡昌宏",
+    "nameKana": "まつおかまさひろ",
+    "description": "俳優。『ゴジラ ファイナルウォーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masahiro Matsuoka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rei-kikukawa",
+    "name": "菊川怜",
+    "nameKana": "きくかわれい",
+    "description": "俳優。『ゴジラ ファイナルウォーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rei Kikukawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "don-frye",
+    "name": "ドン・フライ",
+    "nameKana": "ドンフライ",
+    "description": "俳優。『ゴジラ ファイナルウォーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Don Frye。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dpharaoh-woon-a-tai",
+    "name": "ディファラオ・ウーナタイ",
+    "nameKana": "ディファラオウーナタイ",
+    "description": "俳優。『ウォーフェア 戦地最前線』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: D'Pharaoh Woon-A-Tai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "will-poulter",
+    "name": "ウィル・ポールター",
+    "nameKana": "ウィルポールター",
+    "description": "俳優。『ウォーフェア 戦地最前線』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Will Poulter。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cosmo-jarvis",
+    "name": "コスモ・ジャーヴィス",
+    "nameKana": "コスモジャーヴィス",
+    "description": "俳優。『ウォーフェア 戦地最前線』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cosmo Jarvis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jackie-chan",
+    "name": "ジャッキー・チェン",
+    "nameKana": "ジャッキーチェン",
+    "description": "俳優。『ラッシュアワー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jackie Chan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-tucker",
+    "name": "クリス・タッカー",
+    "nameKana": "クリスタッカー",
+    "description": "俳優。『ラッシュアワー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Tucker。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tom-wilkinson",
+    "name": "トム・ウィルキンソン",
+    "nameKana": "トムウィルキンソン",
+    "description": "俳優。『ラッシュアワー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tom Wilkinson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "theo-james",
+    "name": "テオ・ジェームズ",
+    "nameKana": "テオジェームズ",
+    "description": "俳優。『THE MONKEY／ザ・モンキー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Theo James。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatiana-maslany",
+    "name": "タチアナ・マスラニー",
+    "nameKana": "タチアナマスラニー",
+    "description": "俳優。『THE MONKEY／ザ・モンキー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatiana Maslany。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "christian-convery",
+    "name": "クリスチャン・コンヴァリー",
+    "nameKana": "クリスチャンコンヴァリー",
+    "description": "俳優。『THE MONKEY／ザ・モンキー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Christian Convery。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsutomu-isobe",
+    "name": "磯部勉",
+    "nameKana": "いそべつとむ",
+    "description": "俳優。『MEMORIES』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tsutomu Isobe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shozo-iizuka",
+    "name": "飯塚昭三",
+    "nameKana": "いいずかしょぞ",
+    "description": "俳優。『MEMORIES』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shozo Iizuka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "katherine-waterston",
+    "name": "キャサリン・ウォーターストン",
+    "nameKana": "キャサリンウォーターストン",
+    "description": "俳優。『ファンタスティック・ビーストと魔法使いの旅』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Katherine Waterston。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-fogler",
+    "name": "ダン・フォグラー",
+    "nameKana": "ダンフォグラー",
+    "description": "俳優。『ファンタスティック・ビーストと魔法使いの旅』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Fogler。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "justice-smith",
+    "name": "ジャスティス・スミス",
+    "nameKana": "ジャスティススミス",
+    "description": "俳優。『ダンジョンズ＆ドラゴンズ／アウトローたちの誇り』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Justice Smith。",
+    "updatedAt": "2026-08-09"
   }
 ]
