@@ -27526,5 +27526,52 @@
     "updatedAt": "2026-08-09",
     "originalTitle": "The Twilight Saga: New Moon",
     "seriesId": "twilight"
+  },
+  {
+    "id": "apocalypse-now",
+    "title": "地獄の黙示録",
+    "titleKana": "じごくのもくしろく",
+    "directorIds": [
+      "francis-ford-coppola"
+    ],
+    "screenwriterIds": [
+      "john-milius"
+    ],
+    "studioIds": [
+      "american-zoetrope"
+    ],
+    "cast": [
+      {
+        "actorId": "martin-sheen",
+        "character": "ウィラード大尉"
+      },
+      {
+        "actorId": "marlon-brando",
+        "character": "カーツ大佐"
+      },
+      {
+        "actorId": "frederic-forrest",
+        "character": "シェフ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "war",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1980,
+      "month": 2
+    },
+    "runtime": 155,
+    "originalType": "novel",
+    "synopsis": "ベトナム戦争のさなか、ウィラード大尉はジャングルの奥地で独自の王国を築いた元大佐カーツの暗殺を命じられる。哨戒艇で川を遡る旅は、サーフィンのために村を焼く部隊や、指揮系統の消えた前線を通り過ぎていく。理性が剥がれ落ちる旅路の果てで、彼は伝説の男と対面する。長期化した撮影と混乱そのものが伝説となり、戦争映画の代表作となった。",
+    "tmdbId": 28,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Apocalypse Now"
   }
 ]

@@ -2793,5 +2793,10 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/kczsfE0BeHqHor9xX6Nk5e8XzRw.jpg",
     "matchedTitle": "ニュームーン／トワイライト・サーガ",
     "tmdbId": 18239
+  },
+  "apocalypse-now": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8I0pvceI5Ci716qLO65eGkkQBMJ.jpg",
+    "matchedTitle": "地獄の黙示録",
+    "tmdbId": 28
   }
 }
