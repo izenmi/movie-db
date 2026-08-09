@@ -70,7 +70,35 @@ node scripts/generate-icons.mjs  # 手動実行
 
 ## データ規模の推移
 
-25作品(初回シード、2026-08-08)。シリーズ6・スタッフ32・制作会社20・キャスト71・テーマ35(うちspoiler 1)・アワード5。邦画12(実写7+アニメ5)・海外13(実写11+アニメ2)。ポスターは25/25(100%)解決。全作品をTMDbで裏取りし、キャストはシード時3名/作品に抑えた(上限5名)。受賞歴は未登録(下記)。
+25作品(初回シード、2026-08-08) → **1031作品**(2026-08-09に1006作品を一括追加)。
+邦画410(実写118+アニメ292)・海外621(実写527+アニメ94)。年代は2010年代328・2000年代213・2020年代286が中心で、1940〜70年代も43本収録。
+シリーズ122・スタッフ1248・制作会社664・キャスト1686・テーマ70(うちspoiler 1)。**ポスターは1031/1031(100%)解決**。
+受賞歴は未登録のまま(下記)。
+
+## 大量追加パイプライン(`scripts/bulk.py`。数百件規模の追加はこれを使う)
+
+TMDbが `language=en-US` で人名のラテン表記、`ja-JP` で日本語表記を返し分けることを利用して、
+**slug採番・nameKana生成・既存エンティティ照合を全自動化**した。モデルが書くのは
+「邦題のかな・あらすじ・日本語の役名・カタカナ社名」だけになる。
+
+```sh
+python3 scripts/bulk.py sweep --pages 20 --min-votes 200   # 候補プールを作る(work/candidates.json)
+python3 scripts/bulk.py draft --tag bNN --n 40             # 40件裏取りして work/bNN.todo.txt を出す
+#   → todo を読んで work/bNN.fill.txt を書く(書式は bulk.py の docstring)
+python3 scripts/bulk.py finalize --tag bNN                 # 検証してバッチJSON化(何度でもやり直せる)
+python3 scripts/apply_batch.py work/bNN.batch.json         # 反映(applyは成功した1回だけ)
+```
+
+- `work/` は**gitignore対象**。`candidates.json`(候補プール)・`used.json`(消費済みtmdbId)・
+  `entity-cache.json`(人物のja/en名)・`studio-aliases.json`(社名→studioId)が蓄積され、次のバッチが軽くなる
+- **あらすじは5文書く**。4文だと125字前後になり finalize の下限130字に引っかかる。最後の1文を
+  「作品の位置づけ・評価・見どころ」にすると150〜250字の基準に自然に収まる
+- テーマidは themes.json にあるものだけ(`game`/`science` は無い。ゲーム原作は originalType=game)
+- ラテン文字・数字混じりの邦題(PERFECT DAYS/HELLO WORLD/AKIRA/アメスパ2 等)は titleKana が
+  自動生成されないので fill で必ず指定する
+- 日活ロマンポルノ・ギニーピッグ等のポルノ/ゴア専門作品は `X|<slug>` で落とす方針で運用した
+- `kana.py` はローマ字→ひらがな変換。日本人名は en の「名 姓」を反転して生成する(Hiroki Hasegawa
+  → はせがわひろき)。**titleKanaは全てひらがな**、**人名・社名のnameKanaはカタカナ**(既存データの慣習)
 
 ## 既知の未着手事項
 
