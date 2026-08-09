@@ -46,9 +46,26 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%B8%E3%83%A9"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。監督クレジットは総監督・庵野秀明/監督・樋口真嗣。制作プロダクションの東宝映画は東宝として登録。",
-    "updatedAt": "2026-08-08",
-    "seriesId": "godzilla"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。監督クレジットは総監督・庵野秀明/監督・樋口真嗣。制作プロダクションの東宝映画は東宝として登録。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "godzilla",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2016,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2017,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2016,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "shoplifters",
@@ -95,8 +112,25 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%87%E5%BC%95%E3%81%8D%E5%AE%B6%E6%97%8F"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2018,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2019,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2018,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "seven-samurai",
@@ -145,8 +179,15 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E4%B8%83%E4%BA%BA%E3%81%AE%E4%BE%8D"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1954,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "one-cut-of-the-dead",
@@ -193,9 +234,16 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B%E3%81%AA!"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。劇場公開は2017年11月の限定公開を起点とし、2018年に拡大公開された旨をseriesNoteに記載。",
-    "updatedAt": "2026-08-08",
-    "seriesNote": "2017年11月に都内で先行上映され、2018年6月から全国拡大公開されて大ヒットした。"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。劇場公開は2017年11月の限定公開を起点とし、2018年に拡大公開された旨をseriesNoteに記載。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesNote": "2017年11月に都内で先行上映され、2018年6月から全国拡大公開されて大ヒットした。",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2018,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "confessions",
@@ -243,8 +291,25 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%91%8A%E7%99%BD_(%E6%B9%8A%E3%81%8B%E3%81%AA%E3%81%88)"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2010,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2011,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2010,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "godzilla-minus-one",
@@ -292,9 +357,26 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B8%E3%83%A9-1.0"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08",
-    "seriesId": "godzilla"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "godzilla",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2023,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2024,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "hanataba",
@@ -341,8 +423,15 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%9D%9F%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E6%81%8B%E3%82%92%E3%81%97%E3%81%9F"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2021,
+        "result": "日本映画 第10位"
+      }
+    ]
   },
   {
     "id": "spirited-away",
@@ -389,8 +478,25 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%8D%83%E3%81%A8%E5%8D%83%E5%B0%8B%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2001,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2002,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2001,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "your-name",
@@ -583,8 +689,15 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%A9%E3%81%86%E7%94%9F%E3%81%8D%E3%82%8B%E3%81%8B_(%E6%98%A0%E7%94%BB)"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "日本映画 第9位"
+      }
+    ]
   },
   {
     "id": "the-shawshank-redemption",
@@ -632,9 +745,16 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%AF%E3%81%AE%E7%A9%BA%E3%81%AB"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "The Shawshank Redemption"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Shawshank Redemption",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "inception",
@@ -683,9 +803,16 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "Inception"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Inception",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2010,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "interstellar",
@@ -733,9 +860,16 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%83%A9%E3%83%BC"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "Interstellar"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Interstellar",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2014,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "the-dark-knight",
@@ -784,10 +918,17 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。日本公開2008年8月。原作はDCコミックス『バットマン』のためoriginalType=manga。",
-    "updatedAt": "2026-08-08",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。日本公開2008年8月。原作はDCコミックス『バットマン』のためoriginalType=manga。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
     "originalTitle": "The Dark Knight",
-    "seriesId": "dark-knight-trilogy"
+    "seriesId": "dark-knight-trilogy",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "back-to-the-future",
@@ -888,9 +1029,21 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF_(1997%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "Titanic"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Titanic",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1997,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "avengers-endgame",
@@ -989,9 +1142,16 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "La La Land"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "La La Land",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2017,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "mad-max-fury-road",
@@ -1038,10 +1198,17 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%89%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_%E6%80%92%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はジョージ・ミラーほか(ニコ・ラサウリス、ブレンダン・マッカーシー)。",
-    "updatedAt": "2026-08-08",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はジョージ・ミラーほか(ニコ・ラサウリス、ブレンダン・マッカーシー)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
     "originalTitle": "Mad Max: Fury Road",
-    "seriesId": "mad-max"
+    "seriesId": "mad-max",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "parasite",
@@ -1089,9 +1256,26 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88_%E5%8D%8A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%AE%B6%E6%97%8F"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はポン・ジュノ、ハン・ジヌォンの共同(ハン・ジヌォンは未登録)。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "기생충"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はポン・ジュノ、ハン・ジヌォンの共同(ハン・ジヌォンは未登録)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "기생충",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2019,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "cannes",
+        "year": 2019,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2020,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "joker",
@@ -1139,9 +1323,16 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%AB%E3%83%BC_(%E6%98%A0%E7%94%BB)"
     },
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。原作はDCコミックスのキャラクターのためoriginalType=manga。",
-    "updatedAt": "2026-08-08",
-    "originalTitle": "Joker"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。原作はDCコミックスのキャラクターのためoriginalType=manga。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Joker",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2019,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "toy-story",
@@ -1969,8 +2160,20 @@
     "synopsis": "北の果ての村に住む青年アシタカは、タタリ神と化した猪神を倒した際に呪いを受け、その源を求めて西へ旅立つ。たどり着いた森では、鉄を生み出すタタラ場を率いるエボシ御前と、山犬に育てられた少女サンが、それぞれの生を懸けて争っていた。人と自然のどちらも切り捨てられない板挟みのなかで、アシタカは共に生きる道を探す。",
     "tmdbId": 128,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1998,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1997,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
@@ -2156,8 +2359,15 @@
     "synopsis": "入院中の母の療養のため、父と共に田舎へ引っ越してきた小学生のサツキと妹のメイ。新しい家の周りにはススワタリが潜み、裏山の大楠にはトトロと呼ばれる不思議な生き物が眠っていた。ネコバスに乗り、夜空を舞い、子どもだけが出会える存在との交流を重ねる姉妹は、母を思う不安と寂しさを抱えながら成長していく。",
     "tmdbId": 8392,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1988,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "captain-america-brave-new-world",
@@ -2753,9 +2963,21 @@
     "synopsis": "ニューヨークの五大ファミリーの一角を築いたヴィトー・コルレオーネ。堅気の道を歩むはずだった末息子マイケルは、父が銃撃されたことを機に一族の抗争へ足を踏み入れる。復讐と亡命を経て帰国した彼は、冷徹な計算で敵を排除し、父が守ろうとした家族の掟ごと自らを闇に沈めていく。マフィア映画の金字塔。",
     "tmdbId": 238,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Godfather"
+    "originalTitle": "The Godfather",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1972,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1972,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "the-lord-of-the-rings-the-return-of-the-king",
@@ -2801,10 +3023,22 @@
     "synopsis": "指輪を捨てる旅の終わりが近づき、フロドとサムはゴラムに導かれて滅びの山を目指す。一方アラゴルンは、王としての宿命を受け入れ、死者の軍団を率いてゴンドールの防衛に加わる。ミナス・ティリスを舞台にした大会戦と、指輪の誘惑に耐えかねる小さなホビットの最後の一歩が交錯する三部作の完結編。",
     "tmdbId": 122,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "The Lord of the Rings: The Return of the King",
-    "seriesId": "lotr"
+    "seriesId": "lotr",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2003,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2004,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "perfect-days",
@@ -2848,8 +3082,15 @@
     "synopsis": "東京の公共トイレを清掃する平山は、決まった時刻に目覚め、カセットテープの音楽を聴きながら車を走らせ、木漏れ日を写真に収める日々を送る。姪の突然の訪問や、同僚の身勝手さ、行きつけの店の主の事情が、規則正しい生活にさざ波を立てる。多くを語らない男の表情から、その来歴と静かな充足が浮かび上がる。",
     "tmdbId": 976893,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "kikis-delivery-service",
@@ -2893,8 +3134,15 @@
     "synopsis": "13歳になった魔女は一年間よその町で暮らす。掟に従って旅立ったキキは、黒猫のジジを連れて海辺の街にたどり着き、空を飛ぶ力だけを頼りに宅配屋を始める。パン屋のおソノや飛行機に憧れる少年トンボと出会い、働くことの手応えを知る一方、ある日突然箒で飛べなくなり、自分の力の意味と向き合うことになる。",
     "tmdbId": 16859,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "the-fantastic-4-first-steps",
@@ -3044,9 +3292,21 @@
     "synopsis": "理論物理学者ロバート・オッペンハイマーは、第二次大戦下でマンハッタン計画の科学部門を率い、砂漠の町ロスアラモスに研究者を集めて原子爆弾を完成させる。実験の成功と実戦投下がもたらしたものを前に、彼は名声と罪悪感の間で引き裂かれ、戦後は赤狩りの標的として公聴会にかけられていく。",
     "tmdbId": 872585,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Oppenheimer"
+    "originalTitle": "Oppenheimer",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2023,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "ikiru",
@@ -3091,8 +3351,15 @@
     "synopsis": "市役所で判で押したような日々を送ってきた市民課長の渡辺は、胃がんで余命わずかと知る。無為に過ごした三十年に打ちのめされ、夜の街をさまよい、若い部下の生気に触れた彼は、住民が陳情していた小さな公園の建設に残された時間を注ぎ込む。通夜の席で語られる回想を通じ、一人の男の最期の生き方が浮かび上がる。",
     "tmdbId": 3782,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1952,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "door",
@@ -3919,8 +4186,15 @@
     "synopsis": "息子の様子がおかしいことに気づいたシングルマザーの早織は、学校に乗り込んで担任の体罰を追及する。だが同じ出来事を教師の視点、そして子どもたちの視点から見直すと、大人が信じた筋書きは次々に崩れていく。湖のほとりの町を舞台に、誰が怪物なのかという問いを三つの視点で反転させていく群像劇。",
     "tmdbId": 1050035,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "doctor-strange-in-the-multiverse-of-madness",
@@ -4018,10 +4292,17 @@
     "synopsis": "昼は会社員、夜はハッカーとして生きるトーマス・アンダーソンは、モーフィアスと名乗る男から、自分が生きてきた世界が機械の作り出した仮想現実だと告げられる。赤い薬を選んで現実に目覚めた彼は、人類最後の都市を守る戦いに巻き込まれ、救世主と呼ばれる存在としての力を自覚していく。",
     "tmdbId": 603,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "The Matrix",
-    "seriesId": "matrix"
+    "seriesId": "matrix",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "top-gun-maverick",
@@ -4069,9 +4350,16 @@
     "synopsis": "音速の限界に挑む試験飛行で軍上層部と衝突したマーヴェリックは、エリート養成機関トップガンの教官として呼び戻される。訓練生の中には、彼が死なせた親友グースの息子ルースターがいた。生還が困難とされる任務を前に、過去の負い目を抱えた男が、若い操縦士たちに生き延びる術を叩き込んでいく。",
     "tmdbId": 361743,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Top Gun: Maverick"
+    "originalTitle": "Top Gun: Maverick",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2022,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "warriors-of-the-wind",
@@ -4116,8 +4404,15 @@
     "synopsis": "巨大産業文明が滅びて千年。人類は瘴気を放つ菌類の森、腐海と巨大な蟲に脅かされながら細々と暮らしていた。辺境の風の谷に住む族長の娘ナウシカは、蟲と心を通わせる不思議な力を持つ。大国トルメキアが古代兵器の復活をもくろんで谷に侵攻し、彼女は争いを止めるために自ら蟲の群れの前に立つ。",
     "tmdbId": 81,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1984,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "pulp-fiction",
@@ -4162,9 +4457,21 @@
     "synopsis": "ボスの命令で仕事をこなす二人組の殺し屋、八百長を拒んだボクサー、強盗を企てる恋人たち。ロサンゼルスの一角で起きた出来事が、時系列を入れ替えた章立てで語られ、些細な会話と突発的な暴力が同じ密度で並べられる。断片が終盤で一つにつながる構成が、その後の映画に大きな影響を与えた。",
     "tmdbId": 680,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Pulp Fiction"
+    "originalTitle": "Pulp Fiction",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1994,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-batman",
@@ -4311,8 +4618,15 @@
     "synopsis": "昭和初期の東京。料亭で働くことになった女中の定は、店の主人である吉蔵と関係を結び、二人は仕事も世間も捨てて宿を転々とする。互いだけを見つめる日々のなかで、定の独占欲は次第に理性の枠を越えていく。実際の事件に着想を得て、社会から切り離された男女の関係を突き詰めた大島渚監督の問題作。",
     "tmdbId": 5879,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1976,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "harakiri",
@@ -4360,8 +4674,15 @@
     "synopsis": "太平のはじまりで浪人があふれた江戸。井伊家の門前に現れた老浪人津雲半四郎は、庭先を借りての切腹を願い出る。応対した家老は、以前同じ口上で来た若者を突き放した顛末を語るが、半四郎の真の目的はその若者の死の責任を問うことにあった。武士の面目という建前を、静かな語りで解体していく時代劇。",
     "tmdbId": 14537,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1962,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "my-hero-academia-youre-next",
@@ -4847,8 +5168,15 @@
     "synopsis": "学年新聞の四コマ漫画で称賛されてきた小学生の藤野は、不登校の同級生京本の絵の巧さに打ちのめされる。卒業の日に初めて対面した二人は意気投合し、共同で漫画を描きはじめる。やがて別々の道を選んだ後に訪れる出来事が、描き続けることの意味を問い直す。約六十分の短編アニメーション。",
     "tmdbId": 1244492,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "the-torture-club",
@@ -5090,8 +5418,15 @@
     "synopsis": "鉱山町で働く少年パズーは、空から降ってきた少女シータを受け止める。彼女が首から下げた飛行石は、伝説の浮遊都市ラピュタへの鍵だった。政府の特務機関と空賊ドーラ一家に追われながら雲の中の島を目指す二人は、そこで滅びた文明の力と、それを支配しようとする者に直面する。",
     "tmdbId": 10515,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1986,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "the-cat-returns",
@@ -5186,9 +5521,16 @@
     "synopsis": "五十歳を迎えた元人気女優のエリザベスは、若さを失ったという理由で番組を降ろされる。彼女が手を出した闇の薬は、自分の細胞からもう一人の若い自分を生み出すというものだった。二人で一つの生を分け合う規則が破られるたび、代償は肉体そのものに刻まれていく。美の基準に追い立てられる女性の苦痛を、過激な身体変容の映像に置き換えた一作。",
     "tmdbId": 933260,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Substance"
+    "originalTitle": "The Substance",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "star-wars",
@@ -5283,9 +5625,16 @@
     "synopsis": "かつて将来を嘱望されながら大事故で表舞台を去ったドライバー、ソニー・ヘイズが、最下位を低迷するF1チームの再建を頼まれる。チームメイトとなるのは自信過剰な若手ジョシュア。世代も流儀も異なる二人は衝突を繰り返しながら、限られたシーズンで結果を出すために走る。実際のレース現場で撮影された走行映像が、速度と危うさを画面に焼きつける。",
     "tmdbId": 911430,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "F1"
+    "originalTitle": "F1",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "high-and-low",
@@ -5335,8 +5684,15 @@
     "synopsis": "製靴会社の重役権藤は、会社の実権を握るため私財を投じる決断をした矢先、息子が誘拐されたと告げられる。だが攫われたのは運転手の子だった。それでも身代金を払うか否かという選択を経て、物語は特急列車での受け渡しと、刑事たちの執拗な捜査へ移っていく。富める者と貧しい者を高台と下町の対比で描き、社会の断層を照らし出す。",
     "tmdbId": 12493,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1963,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "gladiator",
@@ -5385,9 +5741,21 @@
     "synopsis": "皇帝マルクス・アウレリウスの信頼を得た将軍マキシマスは、次の統治を託されようとした矢先、皇帝の息子コモドゥスに家族を殺され奴隷に落とされる。剣闘士として生き延びた彼は闘技場の人気を味方につけ、群衆の熱狂を武器に、権力の座にある仇へ復讐の刃を向ける。剣闘士の生き様を通して、権力と民衆の熱狂の危うさを描いた歴史大作。",
     "tmdbId": 98,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Gladiator"
+    "originalTitle": "Gladiator",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2000,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2000,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "thor-ragnarok",
@@ -5829,8 +6197,20 @@
     "synopsis": "戦国の世を武力で制した老将一文字秀虎は、家督を三人の息子に分け与えて隠居しようとする。父の甘さを諫めた三男は追放され、残る二人は城と権力をめぐって刃を向け合う。狂気に追い込まれた秀虎がさまよう荒野を、色彩設計と大規模な合戦描写で描いた黒澤明の晩年の代表作。老いと因果応報を能の様式を取り入れた画面で描き、国際的にも高く評価された。",
     "tmdbId": 11645,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1985,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1985,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "dune",
@@ -6317,8 +6697,20 @@
     "synopsis": "荒廃した社会で制定された法により、中学三年のクラスがまるごと孤島へ送られ、最後の一人になるまで殺し合うよう命じられる。首輪をはめられ武器を渡された生徒たちは、逃亡や連帯を試みながら次々と脱落していく。かつての担任キタノが見下ろすなか、七原秋也と中川典子は島からの脱出を目指す。",
     "tmdbId": 3176,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2000,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2000,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "harry-potter-and-the-deathly-hallows-part-2",
@@ -6513,8 +6905,15 @@
     "synopsis": "飛行機に憧れる少年堀越二郎は、関東大震災の混乱のなかで少女菜穂子と出会い、やがて航空機設計者として頭角を現す。美しい機体を作りたいという純粋な願いは、時代の要請によって戦闘機の設計へと結びついていく。療養する菜穂子との限られた時間と、創造に取り憑かれた男の生涯を重ねて描く。",
     "tmdbId": 149870,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "my-hero-academia-heroes-rising",
@@ -7015,8 +7414,15 @@
     "synopsis": "地方都市に暮らす中学生の雄一は、歌手リリイ・シュシュの音楽とネット掲示板だけを心の拠り所にしている。夏の旅行を境に変わってしまった同級生星野は、暴力と支配で教室を塗り替えていく。誰にも助けを求められない少年少女の孤立を、緑の田園風景と電子音の中に沈めて描く。田園と電子音の対比が、出口のない教室の空気を静かに刻みつける。",
     "tmdbId": 16664,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2001,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "the-incredible-hulk",
@@ -7259,8 +7665,15 @@
     "synopsis": "大戦間のアドリア海。魔法で豚の顔になった元空軍のエースは、賞金稼ぎの飛行艇乗りポルコ・ロッソとして空賊たちに恐れられていた。彼を叩きのめすため空賊が雇ったのは、腕自慢のアメリカ人カーチス。愛機の修理を任された少女フィオを乗せ、ポルコは決着をつけるため空へ舞い上がる。",
     "tmdbId": 11621,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1992,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-godfather-part-ii",
@@ -7307,10 +7720,22 @@
     "synopsis": "一族を継いだマイケルは、ラスベガスやキューバへ事業を広げる一方、身内の裏切りと議会の追及に晒される。物語はそれと並行して、シチリアから移民した若き日のヴィトーが、街の顔役を倒して名を上げていく過程を描く。築く父と守るために失う息子。二つの時間が静かに対比される。",
     "tmdbId": 240,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "The Godfather Part II",
-    "seriesId": "godfather"
+    "seriesId": "godfather",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1974,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1975,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "the-super-mario-bros-movie",
@@ -7603,9 +8028,21 @@
     "synopsis": "知能指数は低くとも、母の言葉を胸に走り続けたフォレスト・ガンプは、大学のフットボール選手、ベトナム帰還兵、エビ漁の経営者と、思いがけない形でアメリカ現代史の要所に立ち会っていく。何度離れても心に居続ける幼なじみジェニーへの想いが、長い人生を貫く一本の線になる。",
     "tmdbId": 13,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Forrest Gump"
+    "originalTitle": "Forrest Gump",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1994,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-last-naruto-the-movie",
@@ -8691,9 +9128,21 @@
     "synopsis": "かつて過激な革命運動に身を投じていた男ボブは、酒とマリファナに逃げる冴えない中年になり、娘と二人で潜伏生活を送っていた。十六年前の因縁を忘れない軍人ロックジョーが二人を突き止め、娘が連れ去られる。ボブは合言葉すら思い出せないまま、かつての同志や空手道場の師範を頼って娘を取り戻しに走る。",
     "tmdbId": 1054867,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "One Battle After Another"
+    "originalTitle": "One Battle After Another",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2025,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "gone-girl",
@@ -8936,9 +9385,16 @@
     "synopsis": "名門音楽学校に入学したドラマーのニーマンは、伝説的な指導者フレッチャーのバンドに引き上げられる。だがそこで待っていたのは、罵倒と暴力、テンポの微妙なずれを執拗に責め立てる稽古だった。血の滲む手でスティックを握り続ける青年と、天才を生むためなら手段を選ばない教師の関係が極限まで加速する。",
     "tmdbId": 244786,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Whiplash"
+    "originalTitle": "Whiplash",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "guardians-of-the-galaxy-vol-2",
@@ -9924,9 +10380,21 @@
     "synopsis": "ナチス占領下のポーランドで、実業家オスカー・シンドラーは軍幹部に取り入り、安価な労働力としてユダヤ人を工場に集める。金儲けから始まった行為は、収容所での虐殺を目の当たりにするうちに変質し、彼は私財を投じて名簿に名を書き加えていく。約千二百人の命が救われた実話の映画化。",
     "tmdbId": 424,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Schindler's List"
+    "originalTitle": "Schindler's List",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1993,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "mission-impossible-the-final-reckoning",
@@ -10126,8 +10594,15 @@
     "synopsis": "竹から生まれた小さな姫は、山里で野山を駆け回って育つ。翁は姫の幸せを願い都に屋敷を構えるが、そこで待っていたのは眉を剃り歯を染め、望まぬ求婚に応じる暮らしだった。生きた心地とは何かを求め続けた姫が、月へ帰る日を迎える。線描を生かした筆致で描かれた高畑勲監督の遺作。",
     "tmdbId": 149871,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "ratatouille",
@@ -10273,9 +10748,16 @@
     "synopsis": "退職を控えたベテラン刑事サマセットと、血気盛んな新人ミルズが組まされる。二人が追うのは、キリスト教の七つの大罪になぞらえて標的を選び、緻密に演出した現場を残す連続殺人犯だった。雨の降り続く街で罪の一覧が埋まっていくなか、犯人は自ら出頭し、最後の二つを完成させるための場所へ二人を導く。",
     "tmdbId": 807,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Se7en"
+    "originalTitle": "Se7en",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "spy-x-family-code-white",
@@ -10471,9 +10953,16 @@
     "synopsis": "マサチューセッツ工科大学の清掃員として働く青年ウィルは、廊下に貼り出された数学の難問を軽々と解いてしまう天才だった。だが施設で虐待を受けた過去から、彼は誰も信じず、才能を試すように人を突き放して生きている。彼を託された心理学者ショーンとの面談を重ねるうち、固く閉ざした心が少しずつ緩んでいく。",
     "tmdbId": 489,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Good Will Hunting"
+    "originalTitle": "Good Will Hunting",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "real-steel",
@@ -10763,9 +11252,16 @@
     "synopsis": "二十代でウォール街に飛び込んだジョーダン・ベルフォートは、屑株を高値で売りさばく手法で証券会社を急成長させる。麻薬と派手なパーティーに溺れながら莫大な富を築いた彼を、やがてFBIが追いはじめる。実在の相場師の手記をもとに、欲望の加速をひたすら誇張して描いた三時間の喜劇。",
     "tmdbId": 106646,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Wolf of Wall Street"
+    "originalTitle": "The Wolf of Wall Street",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2014,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "blue-lock-the-movie-episode-nagi",
@@ -11205,8 +11701,15 @@
     "synopsis": "荒れ果てた羅生門の下で、杣売りと旅法師が奇怪な裁判の話を語りはじめる。山中で侍が殺され妻が襲われた事件について、盗賊、妻、死んだ侍の霊、そして目撃者が、それぞれまったく異なる証言をする。誰もが自分に都合よく語るために真相は宙吊りになり、人間の業と救いが問われる。",
     "tmdbId": 548,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1950,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "attack-on-titan",
@@ -11448,8 +11951,15 @@
     "synopsis": "結婚を十日後に控えた直子のもとに、かつて関係を持っていた従兄の賢治が帰省する。二人は数年ぶりに再会し、当時の写真をきっかけに、失われたはずの時間へ引き戻されていく。世間から切り離された数日間の逢瀬を、静かな会話と生活音だけで積み上げていく。荒井晴彦監督の恋愛映画。",
     "tmdbId": 625976,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2019,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "dragon-ball-z-bardock-the-father-of-goku",
@@ -12040,9 +12550,16 @@
     "synopsis": "マフィアに潜入した覆面捜査官ビリーと、警察に送り込まれた組織のスパイであるコリン。二人は互いの存在を知らないまま、それぞれの組織で自分の正体が漏れないよう神経をすり減らしていく。相手の名を突き止めた方が勝つという状況で、追う者と追われる者の立場が何度も入れ替わる。",
     "tmdbId": 1422,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Departed"
+    "originalTitle": "The Departed",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2006,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "barbie",
@@ -12285,9 +12802,16 @@
     "synopsis": "父親殺しの罪に問われた少年の裁判で、十二人の陪審員が評決を出すために別室に集まる。誰もが有罪で決まりだと考えるなか、ただ一人が無罪に票を投じ、疑わしい点を一つずつ検証しようと提案する。密室での議論が進むにつれ、証言の綻びと各人の偏見が浮かび上がる。ほぼ一室だけで進む法廷劇。",
     "tmdbId": 389,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "12 Angry Men"
+    "originalTitle": "12 Angry Men",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1959,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "sonic-the-hedgehog-3",
@@ -12627,9 +13151,16 @@
     "synopsis": "山で命を落とした婚約者を忘れられない渡辺博子は、卒業アルバムに残る彼の旧住所へ宛てて手紙を出す。届くはずのない便りに返事が来て、差出人は同姓同名の女性だった。二人の文通は、少年時代の藤井樹をめぐる記憶を掘り起こしていく。小樽の雪景色を背景にした岩井俊二監督の代表作。",
     "tmdbId": 47002,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "ラブレター"
+    "originalTitle": "ラブレター",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "x-men-apocalypse",
@@ -13225,10 +13756,17 @@
     "synopsis": "人類滅亡の未来を防ごうとして危険人物とみなされ、サラ・コナーは精神病院に収容されていた。少年ジョンを狙って現れたのは、液体金属で姿を変える新型の刺客と、彼を守るため送り込まれた旧型のターミネーターだった。機械が人を守るという逆転が、続編の主題になっている。液体金属の表現は当時のCG技術の到達点として広く知られている。",
     "tmdbId": 280,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Terminator 2: Judgment Day",
-    "seriesId": "terminator"
+    "seriesId": "terminator",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "my-hero-academia-two-heroes",
@@ -13424,9 +13962,16 @@
     "synopsis": "穏やかな島の町で保険会社に勤めるトゥルーマンは、自分の人生が生まれたときからテレビ番組として生中継されていることを知らない。妻も友人も雇われた役者で、天候さえ演出されていた。積み重なる違和感に気づいた彼は、海の向こうにあるはずの現実を確かめようとする。見られる人生という設定が、後の配信社会を先取りしたと評価されている。",
     "tmdbId": 37165,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Truman Show"
+    "originalTitle": "The Truman Show",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "the-shining",
@@ -13719,9 +14264,21 @@
     "synopsis": "コインランドリーを営むエヴリンは、税務調査と父の介護、娘との断絶に押しつぶされそうになっていた。税務署の一室で、別の宇宙から来た夫を名乗る存在に告げられたのは、無数の並行世界の自分の能力を借りて世界を救えという指令だった。荒唐無稽な設定を通して、母娘の和解が描かれる。",
     "tmdbId": 545611,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Everything Everywhere All at Once"
+    "originalTitle": "Everything Everywhere All at Once",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2022,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "no-game-no-life-zero",
@@ -14459,8 +15016,15 @@
     "synopsis": "夏休み、祖母と暮らす小学生の正男は、会ったことのない母を訪ねる旅に出る。付き添うのは、近所に住む無職で口の悪い中年男の菊次郎。金を競輪ですってしまい、ヒッチハイクで進む道中は寄り道と失敗の連続になる。旅の終わりに待つ現実と、それでも少年に見せようとする優しさを描く。",
     "tmdbId": 4291,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "american-pie",
@@ -14556,9 +15120,16 @@
     "synopsis": "ブルックリンで育ったヘンリー・ヒルは、少年時代からマフィアに憧れ、使い走りから組織の一員へ這い上がる。強奪、密輸、そして薬物へと手を広げるうち、羽振りのよい生活は疑心暗鬼と裏切りに侵食されていく。実在の証言をもとに、犯罪組織の日常を語りの速度で描き切った一作。",
     "tmdbId": 769,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "GoodFellas"
+    "originalTitle": "GoodFellas",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1990,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "top-gun",
@@ -15299,9 +15870,16 @@
     "synopsis": "ノルマンディー上陸作戦の直後、三人の兄を戦死で失った一等兵ライアンを本国へ帰還させるため、ミラー大尉と八人の兵士が敵地へ送り出される。たった一人を救うために自分たちが死ぬかもしれないという理不尽を抱えたまま、彼らは村や橋を渡り歩く。冒頭の上陸場面の描写で知られる戦争映画。",
     "tmdbId": 857,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Saving Private Ryan"
+    "originalTitle": "Saving Private Ryan",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "despicable-me-4",
@@ -16149,8 +16727,15 @@
     "synopsis": "黒澤明が自ら見た夢をもとに構成した八つの短編からなる作品。狐の嫁入りを覗いてしまう少年、雪山で死の誘惑と戦う登山隊、戦争から一人だけ生還した隊長、原発事故で赤く染まる富士山など、美しさと恐ろしさが同居する光景が並ぶ。最後の水車村の挿話で、人と自然の関わりに静かな答えが示される。",
     "tmdbId": 12516,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1990,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "only-yesterday",
@@ -16194,8 +16779,15 @@
     "synopsis": "東京で働く二十七歳のタエ子は、休暇を利用して山形の農家へ手伝いに向かう。列車に揺られる彼女の前に、小学五年生の自分が繰り返し現れる。分数の割り算につまずいた記憶や初恋の痛みを反芻しながら、彼女は現在の自分がどう生きたいのかを見つめ直す。紅花摘みと農村の描写が印象に残る。",
     "tmdbId": 15080,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "日本映画 第9位"
+      }
+    ]
   },
   {
     "id": "the-chronicles-of-narnia-the-lion-the-witch-and-the",
@@ -16396,8 +16988,15 @@
     "synopsis": "二つのやくざ勢力が睨み合う宿場町に、一人の浪人が流れ着く。桑畑三十郎と名乗った彼は、両方に用心棒として自分を売り込み、双方を戦わせて共倒れを狙う。腕っぷしと機転で状況をかき回す男の前に、拳銃を持つ若い刺客が立ちはだかる。後の西部劇にも影響を与えた黒澤明の娯楽時代劇。",
     "tmdbId": 11878,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1961,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "boruto-naruto-the-movie",
@@ -16644,8 +17243,15 @@
     "synopsis": "世界中の生活を支える仮想空間オズが暮らしの前提になった夏。数学の得意な高校生の健二は、憧れの先輩に頼まれて長野の旧家へ同行し、婚約者のふりをする羽目になる。彼が解いた暗号がきっかけで人工知能が暴走し、大家族と一人の少年が総出でシステムの奪還に挑む。仮想空間の派手な攻防と、田舎の大家族の食卓が同じ熱量で描かれる。",
     "tmdbId": 28874,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2009,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "pom-poko",
@@ -16690,8 +17296,15 @@
     "synopsis": "多摩丘陵の宅地開発によって住処を追われつつある狸たちが、伝承の化け学を復活させて人間に対抗しようと決める。妖怪大作戦で世論を動かそうとする者、人に化けて紛れ込む者、闘争を主張する者と、路線は割れていく。開発と共存という重い主題を、賑やかな喜劇として描いた高畑勲監督作。",
     "tmdbId": 15283,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "puss-in-boots-the-last-wish",
@@ -17409,8 +18022,15 @@
     "synopsis": "尾道に暮らす老夫婦が、成人した子どもたちを訪ねて東京へ出てくる。開業医の長男も美容院を営む長女も仕事に追われ、両親を持て余して熱海の旅館へ送り出す。唯一心を尽くすのは、戦死した次男の妻紀子だった。家族が少しずつほどけていく様子を、低い視点の構図で静かに写し取る。",
     "tmdbId": 18148,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1953,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "dragon-ball-z-wrath-of-the-dragon",
@@ -17556,9 +18176,16 @@
     "synopsis": "裕福な医師ビルは、妻アリスから過去に他の男に心を動かされたと打ち明けられ、平静を失う。その夜から始まる彷徨の果てに、彼は仮面をつけた者たちが集う秘密の儀式に紛れ込む。夫婦の間に横たわる欲望と嫉妬を、夢のような照明と構図で描いたキューブリック監督の遺作。仮面舞踏会の場面の異様な静けさが、作品全体の緊張を象徴している。",
     "tmdbId": 345,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Eyes Wide Shut"
+    "originalTitle": "Eyes Wide Shut",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "get-out",
@@ -17651,8 +18278,20 @@
     "synopsis": "舞台俳優で演出家の家福は、妻の秘密を問いただせないまま彼女を亡くす。二年後、広島での演劇祭に招かれた彼は、専属の運転手として寡黙な若い女性みさきをあてがわれる。多言語の舞台稽古と車内の対話を重ねるうちに、二人は語れなかった喪失を言葉にしていく。村上春樹の短編を膨らませ、国際的な映画賞で高い評価を得た作品。",
     "tmdbId": 758866,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2022,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2021,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "death-note-relight-1-visions-of-a-god",
@@ -18392,8 +19031,20 @@
     "synopsis": "母親が幼い四人の子どもをアパートに残して家を出る。学校に通ったこともない長男の明が、わずかな生活費で弟妹の暮らしを支えようとする。誰にも知られないまま季節が巡り、部屋は少しずつ荒れていく。実際の事件に着想を得て、子どもたちの時間を静かに追った是枝裕和監督作。柳楽優弥がカンヌ国際映画祭で史上最年少の男優賞を受賞した作品。",
     "tmdbId": 2517,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2004,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2004,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "one-piece-film-z",
@@ -19023,9 +19674,16 @@
     "synopsis": "ナチス占領下のフランスで、家族を殺されたユダヤ人の娘ショシャナが映画館の主として身を隠す。一方、連合軍の秘密部隊はドイツ兵を狩り続けていた。ナチス高官が集う上映会という一点に、それぞれの計画が収束する。史実を大胆に書き換えた語り口と、長い会話場面の緊張が特徴。",
     "tmdbId": 16869,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Inglourious Basterds"
+    "originalTitle": "Inglourious Basterds",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2009,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "dragon-ball-z-fusion-reborn",
@@ -19466,8 +20124,15 @@
     "synopsis": "一九四二年、ジャワ島の日本軍捕虜収容所。規律を重んじる所長ヨノイは、収容された英国軍少佐セリアズに心を乱される。日本語を解する俘虜ロレンスと軍曹ハラの間にも、立場を越えた奇妙な友情が生まれる。文化と規範が衝突する場所で、赦しの言葉が交わされるまでを描く。坂本龍一による主題曲が、作品とともに世界的に知られている。",
     "tmdbId": 11948,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1983,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "city-hunter",
@@ -19855,9 +20520,26 @@
     "synopsis": "ニューヨークでストリップダンサーとして働くアニは、ロシアの新興財閥の御曹司イヴァンと出会い、勢いのままラスベガスで結婚する。夢のような生活は、事態を知った両親が送り込んだ手下たちの登場で一夜にして崩れる。婚姻を無効にするため街を駆け回る一日を通して、階級の壁が容赦なく描かれる。カンヌのパルム・ドールとアカデミー作品賞を受けた一作。",
     "tmdbId": 1064213,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Anora"
+    "originalTitle": "Anora",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2024,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "cannes",
+        "year": 2024,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "woman-in-the-dunes",
@@ -19904,8 +20586,20 @@
     "synopsis": "昆虫採集のため海辺の砂丘を訪れた教師は、村人にすすめられるまま砂の穴の底にある家に泊まる。翌朝、縄梯子は外され、彼は女と二人きりで砂をかき出す労役に組み込まれる。逃亡と失敗を繰り返すうち、閉じ込められているのは自分だけなのかという疑問が芽生えていく。安部公房の小説を映画化した前衛的な作品。",
     "tmdbId": 16672,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1964,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1964,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "poor-things",
@@ -19954,9 +20648,16 @@
     "synopsis": "命を絶った女性の身体に赤子の脳を移植して蘇らせた天才外科医と、その被造物ベラ。世間の常識を知らないまま急速に成長する彼女は、放蕩者の弁護士と大陸を巡る旅に出る。行く先々で快楽と貧困と学問に触れ、自分の意思で生きる道を選び取っていく。奇怪な美術と大胆な語り口で高い評価を得た。",
     "tmdbId": 792307,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Poor Things"
+    "originalTitle": "Poor Things",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "aliens",
@@ -20003,10 +20704,17 @@
     "synopsis": "五十七年の漂流の末に救出されたリプリーは、あの惑星に入植地が作られ、連絡が途絶えたことを知らされる。海兵隊の案内役として現地へ戻った彼女を待っていたのは、無数に増殖したエイリアンだった。生き残った少女ニュートを守るため、彼女は女王との対決に挑む。ホラーから戦争アクションへ舵を切った続編。",
     "tmdbId": 679,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Aliens",
-    "seriesId": "alien"
+    "seriesId": "alien",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1986,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "wreck-it-ralph",
@@ -21553,9 +22261,21 @@
     "synopsis": "一九六二年、ニューヨークの用心棒トニーは、黒人ピアニストのシャーリー博士の運転手として南部演奏旅行に同行する。黒人が泊まれる宿を記した旅行案内書を頼りに進む道中で、差別の現実と二人の価値観の違いが噛み合っていく。実話をもとにした作品で、アカデミー作品賞を受賞した。",
     "tmdbId": 490132,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Green Book"
+    "originalTitle": "Green Book",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2018,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2019,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "psycho",
@@ -21995,9 +22715,16 @@
     "synopsis": "クリスマスイブ、別居中の妻を訪ねてロサンゼルスの高層ビルを訪れたニューヨーク市警のマクレーン。パーティーの最中に武装集団がビルを占拠し、彼は靴も履かないまま非常階段へ逃れる。無線で外の警察とやり取りしながら、たった一人でテロリストを削っていく。アクション映画の型を作った記念碑的な一作。",
     "tmdbId": 562,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Die Hard"
+    "originalTitle": "Die Hard",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "jumanji-the-next-level",
@@ -22188,8 +22915,25 @@
     "synopsis": "任侠の家に生まれ、抗争で父を失った少年喜久雄は、上方歌舞伎の名門に引き取られる。血筋を持つ俊介と芸を競い合いながら、二人は舞台の上で高め合い、また互いを追い詰めていく。血と才能のどちらが芸を継ぐのかという問いを軸に、半世紀に及ぶ役者人生が描かれる。歌舞伎の場面を長回しで捉えた大作。",
     "tmdbId": 1379266,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2025,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2026,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "taxi-driver",
@@ -22236,9 +22980,21 @@
     "synopsis": "ベトナム帰りで不眠に苦しむトラヴィスは、夜のニューヨークをタクシーで流しながら、街に溢れる汚れへの憎悪を募らせていく。選挙運動員の女性に振られ、少女娼婦のアイリスと出会った彼は、自分を英雄に仕立てる計画を立てはじめる。孤独が暴力へ転じる過程を克明に追い、アメリカ映画の転換点となった一作。",
     "tmdbId": 103,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Taxi Driver"
+    "originalTitle": "Taxi Driver",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1976,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1976,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "once-upon-a-time-in-hollywood",
@@ -22285,9 +23041,16 @@
     "synopsis": "一九六九年のハリウッド。落ち目のテレビ俳優リックと、彼のスタントマン兼運転手クリフは、変わりゆく業界で居場所を探していた。隣家には新進の女優シャロン・テートが越してきており、物語は実際に起きた事件の日へ向かう。歴史をずらした結末と、当時の街並みの再現が語り草になっている。",
     "tmdbId": 466272,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Once Upon a Time... in Hollywood"
+    "originalTitle": "Once Upon a Time... in Hollywood",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2019,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "kingdom-of-heaven",
@@ -23719,9 +24482,16 @@
     "synopsis": "陽気なユダヤ系イタリア人グイドは、恋した女性ドーラを口説き落とし、息子ジョズエと幸せに暮らしていた。だが一家は強制収容所へ送られ、父は幼い息子に、これは点数を競うゲームなのだと言い聞かせる。恐怖を笑いで覆い隠し続ける父の嘘が、最後まで貫かれる。前半の喜劇と後半の悲劇の落差が強い印象を残す。",
     "tmdbId": 637,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "La vita è bella"
+    "originalTitle": "La vita è bella",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "cowboy-bebop-the-movie",
@@ -23915,9 +24685,16 @@
     "synopsis": "時間の流れが逆行する物質の存在を知った名もなき男は、世界の破滅を防ぐ任務に就く。武器商人セイターが未来から送られた技術を握っていることを突き止め、彼の妻キャットを味方につけて計画を追う。順行と逆行が同じ画面で交差する戦闘が、物語の中心に据えられている。理解より体感を優先した構成が議論を呼んだ。",
     "tmdbId": 577922,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Tenet"
+    "originalTitle": "Tenet",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2020,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "the-wizard-of-oz",
@@ -24164,9 +24941,16 @@
     "synopsis": "人類の黎明期、猿人の前に黒い石板が現れ、道具を使うことを教える。数百万年後、月面で同じ石板が発掘され、その信号が指し示す木星へ探査船が送られる。船を管理する人工知能HAL9000が乗員を排除しはじめ、生き残った船長は木星の彼方で人類の次の段階を目にする。映像と音楽だけで語る記念碑的作品。",
     "tmdbId": 62,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "2001: A Space Odyssey"
+    "originalTitle": "2001: A Space Odyssey",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1968,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "scream-vi",
@@ -25791,9 +26575,16 @@
     "synopsis": "一九六一年、有人宇宙飛行計画を進めるアメリカ航空宇宙局で、計算手として働く三人の黒人女性がいた。人種と性別を理由に別棟のトイレを使わされながら、キャサリンは軌道計算の精度で、ドロシーは新型計算機の知識で、メアリーは技術者への道で壁を破っていく。実話をもとに、静かな抵抗を描いた作品。",
     "tmdbId": 381284,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Hidden Figures"
+    "originalTitle": "Hidden Figures",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2017,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "jurassic-world",
@@ -25942,8 +26733,20 @@
     "synopsis": "戦に敗れた国の姫と黄金を隠し持つ将軍が、敵地を抜けて味方の領地を目指す。道連れとなるのは、欲に目のくらんだ二人の百姓だった。金に釣られては裏切りかけ、それでも旅を続ける四人の道中を、乾いた笑いとともに描く。二人の百姓の視点で語る構成は、後のスター・ウォーズにも影響を与えた。",
     "tmdbId": 1059,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1958,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1958,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "wake-up-dead-man-a-knives-out-mystery",
@@ -26133,8 +26936,20 @@
     "synopsis": "鎌倉の古い家に暮らす三姉妹のもとに、十五年前に家を出た父の訃報が届く。葬儀で出会った腹違いの妹すずを、長女の幸は自分たちの家に迎え入れる。梅酒を仕込み、しらす丼を食べ、季節が巡るなかで、四人はそれぞれの傷と折り合いをつけていく。吉田秋生の漫画を是枝裕和が映画化した作品。",
     "tmdbId": 315846,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2016,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "die-hard-2",
@@ -26231,9 +27046,21 @@
     "synopsis": "ワルシャワのラジオでピアノを弾いていたユダヤ人シュピルマンは、ドイツ軍の侵攻で職と家族を失う。ゲットーから収容所へ送られる直前に助けられた彼は、廃墟の町を転々としながら息を潜めて生き延びる。飢えと孤独の果てに出会ったドイツ将校の前で、彼は久しぶりに鍵盤に触れる。実話をもとにした作品。",
     "tmdbId": 423,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Pianist"
+    "originalTitle": "The Pianist",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2002,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2003,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "the-pursuit-of-happyness",
@@ -26679,8 +27506,20 @@
     "synopsis": "武田信玄が戦の最中に銃弾で命を落とし、家臣たちは死を三年伏せる策を選ぶ。影武者に据えられたのは、処刑寸前だった盗人だった。信玄そっくりの男は、家臣や孫にまで慕われるうちに、自分が誰なのか分からなくなっていく。壮大な合戦描写と色彩設計で国際的な評価を得た一作。影武者という立場から権力の空虚さを照らし出す構成が印象的な作品。",
     "tmdbId": 11953,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1980,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1980,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "vampire-hunter-d-bloodlust",
@@ -27570,9 +28409,16 @@
     "synopsis": "ベトナム戦争のさなか、ウィラード大尉はジャングルの奥地で独自の王国を築いた元大佐カーツの暗殺を命じられる。哨戒艇で川を遡る旅は、サーフィンのために村を焼く部隊や、指揮系統の消えた前線を通り過ぎていく。理性が剥がれ落ちる旅路の果てで、彼は伝説の男と対面する。長期化した撮影と混乱そのものが伝説となり、戦争映画の代表作となった。",
     "tmdbId": 28,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Apocalypse Now"
+    "originalTitle": "Apocalypse Now",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1980,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "unfaithful",
@@ -27763,9 +28609,21 @@
     "synopsis": "刑務所での労役を逃れるため精神病院へ移送されたマクマーフィーは、規則で管理された病棟の空気に反発する。賭けやバスケット、無断の遠出で患者たちに生気を取り戻させていく彼を、婦長ラチェッドは静かに追い詰める。自由と管理の衝突を描き、アカデミー賞主要五部門を独占した。",
     "tmdbId": 510,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "One Flew Over the Cuckoo's Nest"
+    "originalTitle": "One Flew Over the Cuckoo's Nest",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1975,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1976,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "tron-legacy",
@@ -28408,9 +29266,21 @@
     "synopsis": "荒野で麻薬取引の残骸と大金を見つけたルウェリンは、金を持ち去ったことで冷酷な殺し屋シガーに追われる身となる。空気銃を武器にコイン投げで人の生死を決める男の追跡は、法の手が届かないまま続く。老いた保安官が世の変化を語る言葉が、物語全体に重い影を落とす。音楽をほとんど使わない演出が、乾いた緊張を最後まで持続させる。",
     "tmdbId": 6977,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "No Country for Old Men"
+    "originalTitle": "No Country for Old Men",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2007,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "transformers-one",
@@ -28510,9 +29380,16 @@
     "synopsis": "リオデジャネイロの貧民街で育った少年ブスカペは、暴力から距離を置き写真家を夢見ていた。同じ街で育った少年リトル・ゼは、麻薬取引を握って街を支配する存在へ成り上がる。世代交代と抗争の連鎖を、少年たちの視点から二十年にわたって描く。実話をもとにした群像劇。手持ちカメラと素人俳優の起用が、生々しい迫力を画面に与えている。",
     "tmdbId": 598,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Cidade de Deus"
+    "originalTitle": "Cidade de Deus",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2003,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "one-piece-the-movie",
@@ -29110,9 +29987,16 @@
     "synopsis": "宝石店を襲う計画が警察に筒抜けだったことで、覆面の強盗団は逃走先の倉庫で疑心暗鬼に陥る。色の名前で呼び合う男たちは、誰が密告者かを探りながら互いに銃を向ける。強盗の場面そのものを描かず、前後の会話だけで組み立てた構成が特徴。タランティーノの監督デビュー作。低予算ながら会話劇の緊張だけで見せ切り、その後の作風を決定づけた。",
     "tmdbId": 500,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Reservoir Dogs"
+    "originalTitle": "Reservoir Dogs",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1993,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "oceans-eleven",
@@ -29505,8 +30389,15 @@
     "synopsis": "幕末、暴虐の限りを尽くす明石藩主の暗殺を密命された島田新左衛門は、腕利きの侍を集めて十三人の刺客を組織する。宿場町を丸ごと罠に変え、二百人を超える一行を迎え撃つ。後半の五十分近くを占める大立ち回りが圧巻で、一九六三年の作品を三池崇史が撮り直した。多勢を相手にした籠城戦の物量が、時代劇としての見応えを作っている。",
     "tmdbId": 58857,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2010,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "beetlejuice-beetlejuice",
@@ -29898,8 +30789,15 @@
     "synopsis": "偶然が人生をわずかに狂わせる三つの短編で構成される。親友の恋の相手が元恋人だと気づくモデル、教授を陥れようとする学生、二十年ぶりに旧友と再会したはずの女性。それぞれの会話が、思いがけない方向へ転がっていく。台詞の応酬だけで見せる濱口竜介監督の短編集。言葉のやり取りだけで人物の関係を反転させる手際が際立つ。",
     "tmdbId": 795811,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2021,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "the-sixth-sense",
@@ -29945,9 +30843,16 @@
     "synopsis": "かつての患者に撃たれた精神科医マルコムは、死者が見えると訴える少年コールの治療に取り組む。誰にも信じてもらえない少年の孤独に寄り添ううち、彼の見ているものが現実だと理解していく。終盤で全体の見え方が反転する構成が、公開当時に大きな衝撃を与えた。死者が見えるという設定を、恐怖より孤独の物語として扱っている。",
     "tmdbId": 745,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Sixth Sense"
+    "originalTitle": "The Sixth Sense",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "black-hawk-down",
@@ -30630,9 +31535,16 @@
     "synopsis": "南北戦争下のマサチューセッツで育った四姉妹の物語を、大人になった現在と少女時代を交互に描く形で語り直す。作家を志すジョー、絵の才能を持つエイミー、家庭を選ぶメグ、病弱なベス。それぞれの選択が、女性が生きる道の狭さと向き合う。原作の結末そのものを問い直す構成が特徴。",
     "tmdbId": 331482,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Little Women"
+    "originalTitle": "Little Women",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2020,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "encanto",
@@ -30923,9 +31835,16 @@
     "synopsis": "一九四〇年、ドイツ軍に追い詰められた四十万の兵士が、フランス北端の海岸で救出を待っていた。防波堤で一週間を過ごす兵士、海を渡る民間船の一日、空を守る戦闘機の一時間。長さの異なる三つの時間が並行して進み、終盤で一点に交わる。台詞を削ぎ落とした構成が特徴となる。時間の圧縮と音響設計によって、体験に近い戦争映画が組み上げられている。",
     "tmdbId": 374720,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Dunkirk"
+    "originalTitle": "Dunkirk",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2017,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "penguins-of-madagascar",
@@ -32017,9 +32936,16 @@
     "synopsis": "二十世紀初頭のオクラホマ、石油で巨万の富を得た先住民オセージ族の人々が次々と不審死を遂げる。帰還兵アーネストは、地元の実力者である叔父の勧めでオセージの女性モリーと結婚する。愛情と加担が同居する日常のなかで、組織的な殺人の全容が明らかになっていく。実際の事件を描いた大作。",
     "tmdbId": 466420,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Killers of the Flower Moon"
+    "originalTitle": "Killers of the Flower Moon",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "ford-v-ferrari",
@@ -32069,9 +32995,16 @@
     "synopsis": "フェラーリが君臨するル・マンで勝つため、フォードは元レーサーのキャロル・シェルビーに開発を託す。彼が起用したのは、腕は一流だが協調性のない英国人ドライバー、ケン・マイルズだった。企業の思惑に振り回されながら、二人は車を仕上げていく。実話をもとにした一作。実車を使った撮影と音響で、レースの速度と危うさが表現されている。",
     "tmdbId": 359724,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Ford v Ferrari"
+    "originalTitle": "Ford v Ferrari",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2020,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "eternity",
@@ -32509,9 +33442,16 @@
     "synopsis": "女優クリスの娘リーガンに、説明のつかない異変が起こりはじめる。医学では手に負えないと悟った母は、信仰に迷いを抱える神父カラスに助けを求める。少女に憑いたものと、老練な神父メリンによる悪魔祓いが、寝室という狭い空間で繰り広げられる。ホラー映画の歴史を変えた古典。",
     "tmdbId": 9552,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Exorcist"
+    "originalTitle": "The Exorcist",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1974,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "the-usual-suspects",
@@ -32559,9 +33499,16 @@
     "synopsis": "船の炎上事件で生き残った小物の詐欺師ヴァーバルが、捜査官に事件の経緯を語りはじめる。六週間前に集められた五人の犯罪者は、伝説の犯罪王カイザー・ソゼの指示で危険な仕事を請け負ったという。語られる物語の信頼性そのものが、最後の一分で崩れ落ちる。語り手を信用できるかという問いを、映画の構造そのものに埋め込んだ作品。",
     "tmdbId": 629,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Usual Suspects"
+    "originalTitle": "The Usual Suspects",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "the-emperors-new-groove",
@@ -32801,9 +33748,16 @@
     "synopsis": "連邦から州が離脱し内戦状態となったアメリカで、四人の報道関係者が大統領への取材を狙ってニューヨークからワシントンを目指す。道中で目にするのは、立場も理由も判然としないまま殺し合う光景だった。戦場を記録する者の職業倫理と麻痺を、乾いた視線で描く。どちらの陣営が正しいかを描かない姿勢が、公開時に議論を呼んだ。",
     "tmdbId": 929590,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Civil War"
+    "originalTitle": "Civil War",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "sonic-the-hedgehog",
@@ -33341,9 +34295,16 @@
     "synopsis": "完璧主義のバレリーナ、ニナは白鳥の湖の主役に抜擢される。だが清楚な白鳥は演じられても、官能的な黒鳥を表現できないと指摘され、追い詰められていく。奔放な新入りリリーへの嫉妬と、母の過干渉が精神を蝕み、現実と幻覚の境が崩れていく。心理的な恐怖として描かれた芸術家の物語。",
     "tmdbId": 44214,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Black Swan"
+    "originalTitle": "Black Swan",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2011,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "pokemon-lucario-and-the-mystery-of-mew",
@@ -33492,9 +34453,16 @@
     "synopsis": "昼は自動車修理工とスタントマン、夜は強盗の逃走を請け負う運転手として生きる寡黙な男。同じアパートに住む人妻アイリーンと親しくなった彼は、出所した夫のために危険な仕事を引き受ける。だが計画は罠で、彼は組織を敵に回すことになる。抑制された台詞と電子音楽が独特の空気を作る。",
     "tmdbId": 64690,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Drive"
+    "originalTitle": "Drive",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2012,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "about-time",
@@ -34090,8 +35058,20 @@
     "synopsis": "楽団の解散でチェロ奏者の職を失った大悟は、妻を連れて故郷の山形へ戻る。求人広告を頼りに訪ねた会社の仕事は、遺体を清め棺に納める納棺師だった。偏見と向き合いながら死者を送る手つきを覚えていくうちに、彼は父との未解決の記憶に触れる。アカデミー外国語映画賞を受賞した作品。",
     "tmdbId": 16804,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2009,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "grown-ups-2",
@@ -34336,9 +35316,16 @@
     "synopsis": "教皇の死を受け、世界中の枢機卿がバチカンに集まり後継を選ぶ選挙が始まる。進行役を任された枢機卿ローレンスは、有力候補たちの過去に不都合な事実があることに気づく。密室での投票が繰り返されるたび、信仰と権力欲の境目が曖昧になっていく。原作小説の映画化。儀式の細部を丁寧に映すことで、閉ざされた組織の緊張を伝えている。",
     "tmdbId": 974576,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Conclave"
+    "originalTitle": "Conclave",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "heretic",
@@ -34976,8 +35963,15 @@
     "synopsis": "ロリータ服だけを愛し他人を寄せつけない桃子と、暴走族に属するイチゴ。偽ブランド品の取引をきっかけに知り合った二人は、まるで噛み合わないまま行動を共にするようになる。派手な色彩と早口の語りで、田舎町の少女二人の友情を跳ねるように描いた作品。独特の編集と語りが、日本映画の青春像を刷新した一本として語られる。",
     "tmdbId": 26275,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2004,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "no-other-choice",
@@ -35371,9 +36365,16 @@
     "synopsis": "禁酒法時代のニューヨークで悪事を重ねた少年たちが、やがてギャングとして力を持つ。仲間を密告したという疑いを背負って街を去ったヌードルスは、三十五年後に届いた一通の手紙で故郷に戻る。少年期、青年期、老年期を行き来しながら、失われた時間そのものを描く四時間近い大作。",
     "tmdbId": 311,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Once Upon a Time in America"
+    "originalTitle": "Once Upon a Time in America",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1984,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "call-me-chihiro",
@@ -36064,8 +37065,20 @@
     "synopsis": "長崎で学んだ若き医師保本は、望まぬまま小石川養生所へ赴任し、通称赤ひげと呼ばれる所長に反発する。貧しい患者たちの生と死に立ち会ううちに、彼は医術が何のためにあるのかを考えはじめる。三時間を超える長さで、人の情の深さを描いた黒澤明監督作。三船敏郎と黒澤明が組んだ最後の作品としても記憶されている。",
     "tmdbId": 3780,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1965,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1965,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "detective-conan-the-scarlet-bullet",
@@ -36162,10 +37175,17 @@
     "synopsis": "クローン大戦の終盤、アナキン・スカイウォーカーは妻の死を予知する夢に苛まれる。彼女を救う力を求めた末に、彼は最高議長パルパティーンの誘いを受け入れてしまう。ジェダイの粛清と、溶岩の惑星でのオビ=ワンとの対決を経て、ダース・ベイダーが誕生する。英雄が堕ちる過程を描き、旧三部作へ滑らかにつながる結末を用意した。",
     "tmdbId": 1895,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Star Wars: Episode III - Revenge of the Sith",
-    "seriesId": "star-wars"
+    "seriesId": "star-wars",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "kill-bill-vol-2",
@@ -37807,9 +38827,16 @@
     "synopsis": "平凡な男オ・デスは、理由も告げられず十五年間監禁され、ある日突然解放される。誰が何のために閉じ込めたのかを追ううちに、彼は若い女性ミドと出会い、心を通わせる。だが復讐の相手が用意した答えは、想像を絶する残酷なものだった。長い廊下での一場面の格闘でも知られる。カンヌ国際映画祭でグランプリを受賞し、韓国映画の評価を押し上げた。",
     "tmdbId": 670,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "올드보이"
+    "originalTitle": "올드보이",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2004,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "how-to-train-your-dragon-2",
@@ -38298,9 +39325,16 @@
     "synopsis": "十三世紀のスコットランド、イングランドの支配に苦しむ農民ウィリアム・ウォレスは、妻を処刑されたことで蜂起する。素朴な民兵を率いた彼は、正規軍を打ち破り独立の象徴となっていく。貴族たちの裏切りと、王女との交流を挟みながら物語は苛烈な結末へ向かう。アカデミー作品賞を受賞した歴史劇。",
     "tmdbId": 197,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Braveheart"
+    "originalTitle": "Braveheart",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1995,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "rogue-one-a-star-wars-story",
@@ -38598,9 +39632,16 @@
     "synopsis": "想像の世界で遊ぶことを覚えて育ったアメリは、モンマルトルのカフェで働きながら人間観察を続けていた。部屋で見つけた古い宝箱を持ち主に返したことをきっかけに、彼女は他人をこっそり幸せにする遊びに熱中する。だが自分自身の恋にだけは踏み出せない。色彩設計と語りの軽やかさで世界的に愛された作品。",
     "tmdbId": 194,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Le Fabuleux Destin d'Amélie Poulain"
+    "originalTitle": "Le Fabuleux Destin d'Amélie Poulain",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2001,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "death-note-relight-2-ls-successors",
@@ -39781,8 +40822,15 @@
     "synopsis": "絵を描くのが好きな十八歳のすずは、広島から呉へ嫁ぎ、慣れない家事に追われる日々を送る。配給が細り、空襲が日常になっても、彼女は工夫を重ねて食卓を整え続ける。大切なものを失いながらも続いていく生活を、淡い色彩で丁寧に描いた作品。市民の視点から戦時下を捉えた一本。",
     "tmdbId": 378108,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2016,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "jack-reacher",
@@ -40075,9 +41123,16 @@
     "synopsis": "暴力とベートーヴェンを愛する少年アレックスは、仲間を率いて悪事を重ねた末に逮捕される。刑期を短縮する代わりに受けたのは、暴力を想像しただけで嘔吐を催すよう仕向ける矯正治療だった。社会に戻った彼を待っていたのは、かつての被害者たちの報復だった。人間の自由意志を問う古典。",
     "tmdbId": 185,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "A Clockwork Orange"
+    "originalTitle": "A Clockwork Orange",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1972,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "anatomy-of-a-fall",
@@ -40125,9 +41180,21 @@
     "synopsis": "雪深い山荘で夫が転落死し、作家である妻サンドラに殺人の疑いがかけられる。唯一その場にいたのは、視覚に障害のある十一歳の息子だけだった。法廷では夫婦の口論の録音や創作の内容までが証拠として扱われ、結婚生活そのものが解剖されていく。カンヌのパルム・ドールを受賞した作品。",
     "tmdbId": 915935,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Anatomie d'une chute"
+    "originalTitle": "Anatomie d'une chute",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2023,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "bruce-almighty",
@@ -40219,8 +41286,15 @@
     "synopsis": "長野の高原の集落で、巧は娘の花と静かに暮らしている。東京の芸能事務所が補助金目当てにグランピング場の建設を計画し、説明会で住民との溝が露わになる。相手を悪者にしないまま進む対話の先に、唐突で解釈の分かれる結末が待つ。濱口竜介監督の音楽映画的な一作。当初は音楽映像として企画され、その成り立ちが作品の質感に残っている。",
     "tmdbId": 1156125,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "buddha-2-the-endless-journey",
@@ -40616,9 +41690,21 @@
     "synopsis": "郊外の一軒家に暮らすレスターは、仕事にも家庭にも意味を見出せず、娘の同級生に心を奪われる。妻は不動産業で成功を演じ、隣家の元軍人は息子を力で押さえつけている。理想的に見える住宅街の内側で、それぞれの抑圧が音もなく崩れていく。アカデミー作品賞を受賞した作品。風に舞うビニール袋の場面が、この作品の記号として記憶されている。",
     "tmdbId": 14,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "American Beauty"
+    "originalTitle": "American Beauty",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1999,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2000,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "suicide-squad",
@@ -41005,8 +42091,15 @@
     "synopsis": "補習を逃れたい一心で吹奏楽部の代役に手を挙げた落ちこぼれの女子高生たちが、成り行きでビッグバンドを組むことになる。楽器も譜面も分からないまま、彼女たちはアルバイトや山でのひと騒動を経て音を合わせていく。最後の演奏場面を実演で見せる作りが心地よい青春喜劇。素人から始めた出演者が実際に演奏できるまで練習した点も話題となった。",
     "tmdbId": 36592,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2004,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "a-nightmare-on-elm-street",
@@ -41101,9 +42194,16 @@
     "synopsis": "森に取り残された小さな異星人が、少年エリオットの家の物置に隠れる。言葉を交わせないまま二人は心を通わせ、家族も秘密を共有するようになる。だが政府の追跡が迫り、故郷へ帰りたがる相手を空へ送り返す時が来る。月を横切る自転車の場面が象徴的な一作。子どもの目線に据えたカメラと音楽が、世代を超えて愛され続けている。",
     "tmdbId": 601,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "E.T. the Extra-Terrestrial"
+    "originalTitle": "E.T. the Extra-Terrestrial",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1982,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "alien3",
@@ -41298,9 +42398,16 @@
     "synopsis": "一九一七年、二人の若い英国兵に、最前線の部隊へ攻撃中止を伝える任務が下される。敵陣を横切り、廃墟と塹壕を抜ける道のりには、常に死が転がっている。全編を一続きの映像に見せる撮影手法で、兵士の体感時間をそのまま観客に押しつける構成が採られている。戦争を英雄譚ではなく個人の移動として描く点に、この作品の独自性がある。",
     "tmdbId": 530915,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "1917"
+    "originalTitle": "1917",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2020,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "taken",
@@ -41492,8 +42599,20 @@
     "synopsis": "同僚を撃たれ、妻は不治の病、自身も職を追われた刑事の西は、借金を重ねて銀行強盗を計画する。妻との最後の旅に出る一方、車椅子になった元同僚は絵を描きはじめる。静かな時間と唐突な暴力が交互に置かれ、台詞を削ぎ落とした演出で描かれる。ヴェネツィアで金獅子賞を受けた作品。",
     "tmdbId": 5910,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1998,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "the-zone-of-interest",
@@ -41538,9 +42657,16 @@
     "synopsis": "アウシュビッツ収容所の所長一家が、塀のすぐ隣で理想的な家庭生活を営んでいる。庭に花を植え、子どもを遊ばせる彼らの日常の背後で、絶えず煙と物音が続く。惨劇そのものは一切映さず、音と生活の対比だけで加担のありようを描く。手法の徹底で高い評価を得た作品。音響設計が高く評価され、国際長編映画賞と音響賞を受賞した。",
     "tmdbId": 467244,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Zone of Interest"
+    "originalTitle": "The Zone of Interest",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "madame-web",
@@ -41684,8 +42810,15 @@
     "synopsis": "鎌倉で父と二人暮らしを続ける二十七歳の紀子は、結婚を勧められても首を縦に振らない。父は自分が再婚すると嘘をつき、娘を送り出そうとする。何も起こらない日常の細部を積み上げ、去っていく者と残される者を静かに描く。小津安二郎の代表作の一つとされる。父と娘という主題を繰り返し扱った監督の、代表的な一本とされる。",
     "tmdbId": 20530,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1949,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "terra-formars",
@@ -42174,8 +43307,15 @@
     "synopsis": "東日本大震災の津波により、福島第一原子力発電所は全電源を失う。冷却できないまま炉心溶融が迫るなか、現場の所長と作業員たちは決死の作業に踏み切る。本店や官邸との齟齬に苛立ちながら、彼らは家族を避難させて現場に残る。実際の事故対応をもとにした作品。現場に残った人々の視点に絞り、事故対応の緊迫を再現している。",
     "tmdbId": 563067,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2020,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "doraemon-nobita-and-the-winged-braves",
@@ -42955,9 +44095,16 @@
     "synopsis": "月を目指したアポロ十三号は、飛行中の爆発で電力と酸素を失う。着陸を断念し、地球へ帰るための計算と応急処置が地上と機内で同時に進められる。限られた部品で二酸化炭素の除去装置を作る場面など、実際の記録に基づく細部が緊張を支えている。実際の管制官たちの働きを丁寧に描き、地味な計算を見せ場に変えている。危機管理の物語としても知られる。",
     "tmdbId": 568,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Apollo 13"
+    "originalTitle": "Apollo 13",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "black-phone-2",
@@ -43840,8 +44987,15 @@
     "synopsis": "神父の父に懺悔を強いられた少年ユウは、罪を作るために盗撮の技術を磨いていく。運命の女ヨーコとの出会い、そして新興宗教の勧誘員コイケの介入が、彼の人生を大きく引きずり回す。四時間近い上映時間のなかで、宗教と性と純愛が乱暴に混ざり合う。園子温監督の代表作の一つ。長尺を感じさせない疾走感で、日本映画の枠を大きくはみ出した作品。",
     "tmdbId": 28422,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2009,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "star-trek-beyond",
@@ -43942,9 +45096,21 @@
     "synopsis": "修道女見習いのマリアは、七人の子を持つ厳格な元海軍大佐の家に家庭教師として送られる。歌を通じて子どもたちの心を開いた彼女は、やがて大佐とも惹かれ合う。だがナチス・ドイツによる併合が家族の運命を変えていく。実話をもとにした舞台の映画化で、数々の名曲が生まれた。ドレミの歌や主題歌が世界的に知られ、今なお繰り返し上映されている。",
     "tmdbId": 15121,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Sound of Music"
+    "originalTitle": "The Sound of Music",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1965,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1965,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "independence-day",
@@ -44239,9 +45405,16 @@
     "synopsis": "やり手とは言えない弁護士リタが、麻薬組織の首領から破格の依頼を受ける。それは性別を変えて別人として生き直すための手助けだった。手術を経てエミリアとなった元首領は、慈善活動を通じて過去の罪と向き合おうとする。歌唱を交えた大胆な構成で賛否を呼んだ作品。主演女優が国際的な賞を受け、同時に描写をめぐる批判も集めた作品。",
     "tmdbId": 974950,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Emilia Pérez"
+    "originalTitle": "Emilia Pérez",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2025,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "lupin-the-third-the-mystery-of-mamo",
@@ -44335,8 +45508,15 @@
     "synopsis": "エリート会社員の良多は、六年間育てた息子が出生時に取り違えられていたと知らされる。相手は電器店を営む賑やかな一家で、暮らしぶりも育て方もまるで違った。血のつながりか、共に過ごした時間か。交換を前提に交流を重ねるうち、父としての自分が問い直されていく。カンヌ国際映画祭で審査員賞を受賞し、国際的にも高く評価された。",
     "tmdbId": 177945,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "日本映画 第6位"
+      }
+    ]
   },
   {
     "id": "x",
@@ -44963,8 +46143,15 @@
     "synopsis": "盲目の按摩師として旅を続ける市が、やくざに支配された宿場町にたどり着く。用心棒に雇われた浪人や、親の仇を探す姉弟と関わるうちに、市は町を縛る構図に踏み込んでいく。金髪の按摩という意匠と、下駄の音を音楽に取り込む演出が話題を呼んだ北野武監督作。最後のタップダンスの場面が、時代劇の枠を越えた祝祭になっている。",
     "tmdbId": 246,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2003,
+        "result": "日本映画 第7位"
+      }
+    ]
   },
   {
     "id": "hunter-x-hunter-the-last-mission",
@@ -46732,8 +47919,25 @@
     "synopsis": "信州の寒村では、七十になった老人を山へ捨てる習わしが続いていた。おりんは自ら歯を折り、山へ行く覚悟を整える。息子の辰平は母を背負って山道を登らねばならない。生きるために口減らしを選ぶ共同体の掟を、自然の生態と重ねて描く。カンヌでパルム・ドールを受賞した。動物の交尾や捕食を織り込み、人の営みを自然の一部として捉えている。",
     "tmdbId": 42113,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1983,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1984,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1983,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "now-you-see-me-2",
@@ -47125,8 +48329,20 @@
     "synopsis": "小さな熱帯魚店を営む社本は、娘の万引きをきっかけに同業の村田と関わりを持つ。人当たりのよい村田は、実際には人を殺しては証拠を消す手口を繰り返す男だった。逃げられないまま加担させられていく社本の内側が、少しずつ壊れていく。実際の事件に着想を得た作品。実際の事件を下敷きに、平凡な男が壊れていく過程を執拗に描く。",
     "tmdbId": 68341,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2011,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2011,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "shrek-forever-after",
@@ -48504,10 +49720,22 @@
     "synopsis": "フィラデルフィアの三流ボクサー、ロッキーは、取り立て屋の仕事で日銭を稼ぐ日々を送っていた。世界王者アポロの気まぐれで挑戦者に指名された彼は、無名のまま試合に臨む。勝つことではなく最後まで立っていることを目標に据えた男の姿が、静かな感動を呼ぶ。主演俳優自身が脚本を書き、アカデミー作品賞を受賞した出世作。",
     "tmdbId": 1366,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Rocky",
-    "seriesId": "rocky"
+    "seriesId": "rocky",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1976,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1977,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "godzilla-vs-kong",
@@ -48603,8 +49831,15 @@
     "synopsis": "殺害された女性、川尻松子の五十三年の生涯を、甥の笙が周囲の証言からたどっていく。教師の職を追われ、男に尽くしては裏切られ、それでも誰かに愛されたいと願い続けた人生。極彩色の映像と歌の場面を差し込みながら、悲惨な出来事を寓話のように描く。中谷美紀の演技と過剰な演出が噛み合い、日本映画の中でも異彩を放つ。",
     "tmdbId": 31512,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2006,
+        "result": "日本映画 第6位"
+      }
+    ]
   },
   {
     "id": "godzilla-vs-spacegodzilla",
@@ -50445,8 +51680,15 @@
     "synopsis": "戦国の世、陶工の源十郎は一儲けを夢見て都へ向かい、屋敷に住む若狭という女性に迎え入れられる。だが彼女は死霊であり、男は妻と子を残して幻の暮らしに溺れていく。もう一人の男は侍になる夢を追い、妻を失う。上田秋成の怪異譚を下敷きに、戦乱と人の欲を描いた古典。移動撮影と長回しによる幽玄な画面が、映画史の古典として語られる。",
     "tmdbId": 14696,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1953,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "tomb-raider",
@@ -50695,9 +51937,16 @@
     "synopsis": "南北戦争前夜のジョージア。大農園の令嬢スカーレット・オハラは、思い通りにならない恋に苛立ちながら奔放に生きていた。戦争が全てを焼き払い、彼女は生き延びるために手段を選ばなくなる。時代の変化と一人の女性の意地を四時間にわたって描いた大作。当時の技術を尽くした色彩と大規模な場面が、今も語り継がれている。",
     "tmdbId": 770,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Gone with the Wind"
+    "originalTitle": "Gone with the Wind",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1939,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "lucy",
@@ -50889,9 +52138,16 @@
     "synopsis": "内戦後のスペイン、少女オフェリアはゲリラ掃討を指揮する冷酷な義父の駐屯地へ母と移り住む。廃墟の迷宮で牧神と名乗る存在に出会った彼女は、地下の王国の王女であると告げられ、三つの試練を課される。過酷な現実と幻想が交互に描かれ、どちらも同じ重さで少女に迫る。美術と造形が高く評価された作品。",
     "tmdbId": 1417,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "El laberinto del fauno"
+    "originalTitle": "El laberinto del fauno",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2007,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "the-patriot",
@@ -51085,8 +52341,15 @@
     "synopsis": "藩の不正を訴えようとして罠にはまった九人の若侍を、通りかかった浪人が助ける。椿三十郎と名乗った男は、身分も金もないまま知恵と腕だけで彼らを導いていく。城代家老を救い出す策の数々と、最後の一瞬の決闘が語り草になっている。『用心棒』に続く黒澤明の娯楽時代劇。洒脱な会話と、一瞬で決着する最後の立ち合いが強い印象を残す。",
     "tmdbId": 11712,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1962,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "the-fugitive",
@@ -51235,9 +52498,16 @@
     "synopsis": "一九五九年のオレゴン、十二歳の少年四人が行方不明の遺体を探して線路沿いを歩き出す。二日間の旅の間に、家庭の事情や将来の不安が焚き火のそばで語られる。何者にもなれないかもしれないという予感を抱えた少年期の終わりを、大人になった語り手の回想として描く。スティーヴン・キングの中編を原作に、青春映画の代表作となった。",
     "tmdbId": 235,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Stand by Me"
+    "originalTitle": "Stand by Me",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1987,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "the-virgin-psychics",
@@ -51480,9 +52750,16 @@
     "synopsis": "スラム育ちの青年ジャマールがクイズ番組で正解を続け、不正を疑われて警察に連行される。取り調べで語られたのは、一問ごとに対応する過酷な半生だった。兄との決別と、幼なじみラティカへの一途な想いが、彼をその場所へ導いていく。アカデミー作品賞を受賞した作品。インドの実景と軽快な音楽が、過酷な内容に推進力を与えている。",
     "tmdbId": 12405,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Slumdog Millionaire"
+    "originalTitle": "Slumdog Millionaire",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2008,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "detective-conan-the-disappearance-of-conan-edogawa",
@@ -52107,9 +53384,16 @@
     "synopsis": "移民の家に生まれたフレディ・マーキュリーが、ロンドンのバンドに加わりクイーンを結成するまで。革新的な曲作りと成功の一方で、彼は孤独と自己認識に苦しんでいく。バンドを離れて回り道をした彼が、ライヴ・エイドの舞台に立つまでを描く。主演俳優がアカデミー主演男優賞を受賞した。",
     "tmdbId": 424694,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Bohemian Rhapsody"
+    "originalTitle": "Bohemian Rhapsody",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2018,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "dragon-ball-mystical-adventure",
@@ -52251,9 +53535,16 @@
     "synopsis": "動物園を営む一家の船が嵐で沈み、少年パイは救命ボートに一人取り残される。同乗していたのはベンガルトラのリチャード・パーカーだった。二百二十七日に及ぶ漂流のなかで、少年は恐怖と共存する方法を編み出す。語り終えた後に提示されるもう一つの物語が、作品の核心となる。立体映像と水の表現が高く評価され、監督賞を受賞している。",
     "tmdbId": 87827,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Life of Pi"
+    "originalTitle": "Life of Pi",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "the-fabelmans",
@@ -52300,9 +53591,16 @@
     "synopsis": "初めて観た映画に取り憑かれた少年サミーは、家族を撮り続けるうちにフィルムに映り込んだ母の秘密を知ってしまう。技術者の父と芸術家肌の母の間で揺れる家庭と、撮ることの残酷さを同時に描く。監督自身の少年期を下敷きにした自伝的な作品となっている。映画を作ることが人を救いも傷つけもするという両義性が描かれる。",
     "tmdbId": 804095,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Fabelmans"
+    "originalTitle": "The Fabelmans",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2023,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "ralph-breaks-the-internet",
@@ -52554,9 +53852,16 @@
     "synopsis": "プリンストンで頭角を現した数学者ジョン・ナッシュは、画期的な理論を打ち立てる一方、政府の暗号解読という秘密任務に没頭していく。だがその任務も同僚も、彼の精神が生んだ幻だった。統合失調症と生涯向き合った実在の学者と、その妻の支えを描く。アカデミー作品賞受賞作。観客も主人公と同じ錯覚を共有する構成が、大きな効果を上げている。",
     "tmdbId": 453,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "A Beautiful Mind"
+    "originalTitle": "A Beautiful Mind",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2001,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "sonatine",
@@ -52602,9 +53907,16 @@
     "synopsis": "抗争の助っ人として沖縄へ送られたヤクザの村川は、罠にはめられ仲間を失う。逃れた海辺で、彼らは相撲や花火や罰ゲームに興じる奇妙な休暇を過ごす。死を待つ時間の穏やかさと、唐突に訪れる暴力が交互に置かれる。北野武の作家性を決定づけた一本とされる。青と静寂を基調にした画面が、暴力の唐突さをより際立たせている。",
     "tmdbId": 7500,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Sonatine"
+    "originalTitle": "Sonatine",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1993,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "paddington-in-peru",
@@ -52852,8 +54164,25 @@
     "synopsis": "幕末の庄内藩で、妻を亡くし老母と娘二人を抱える下級武士の井口清兵衛。同僚の誘いを断って内職に励む彼は、たそがれと陰口を叩かれていた。幼なじみの朋江との再会が心を動かすなか、剣の腕を見込まれて上意討ちを命じられる。市井の武士の生活を丁寧に描き、国内外で高く評価された。",
     "tmdbId": 12496,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2002,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2003,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2002,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "cinema-paradiso",
@@ -52898,9 +54227,16 @@
     "synopsis": "シチリアの小さな村で、少年トトは映画館の映写技師アルフレドと親しくなる。検閲で切り取られたキスの場面のフィルムを集めながら、彼は映画に取り憑かれていく。数十年後、映画監督となったトトが訃報を受けて帰郷し、託されたものを目にする。音楽と回想の使い方で、映画愛を語る古典となった。",
     "tmdbId": 11216,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Nuovo Cinema Paradiso"
+    "originalTitle": "Nuovo Cinema Paradiso",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "the-jungle-book",
@@ -54766,9 +56102,16 @@
     "synopsis": "一九三三年のニューヨーク、行き詰まった映画監督が幻の島での撮影を強行する。女優アンを連れて上陸した一行は、島の民に彼女を生贄として奪われ、巨大な猿コングと対面する。捕らえて見世物にされたコングが、摩天楼の上で最期を迎えるまでを描く。三時間を超える大作としてリメイクされた。",
     "tmdbId": 254,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "King Kong"
+    "originalTitle": "King Kong",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "straw",
@@ -55401,9 +56744,16 @@
     "synopsis": "イラク戦争に狙撃手として四度派遣されたクリス・カイルは、多くの仲間を救い伝説と呼ばれるようになる。だが帰国するたびに家庭になじめず、彼の中で戦場と日常の境が曖昧になっていく。実在の狙撃手の手記をもとに、帰還兵が抱えるものを描いた作品。英雄視と批判の両方を招き、公開当時に大きな論争を呼んだ作品。",
     "tmdbId": 190859,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "American Sniper"
+    "originalTitle": "American Sniper",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "in-time",
@@ -56425,9 +57775,16 @@
     "synopsis": "事故で記憶を失った女と、女優を夢見てハリウッドにやってきたベティが、無人の家で出会う。二人は女の正体を探るうちに奇妙な出来事に巻き込まれる。中盤である一線を越えた後、人物も関係も入れ替わり、それまでの物語の意味が反転する。解釈をめぐる議論が続く一作。二十一世紀を代表する一本として、各種の映画投票で上位に挙げられる。",
     "tmdbId": 1018,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Mulholland Drive"
+    "originalTitle": "Mulholland Drive",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2002,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "summer-days-with-coo",
@@ -56475,8 +57832,15 @@
     "synopsis": "川辺で拾った石の中から、仮死状態だった河童の子が現れる。クゥと名づけて共に暮らしはじめた小学生の康一だが、その存在が知られると世間の好奇の目が家族に集中する。人間の身勝手さと、居場所を失う者の孤独を正面から扱った長編アニメーション。少年向けの外見をとりながら、差別や報道のあり方まで踏み込んでいる。",
     "tmdbId": 17234,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2007,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "even-if-this-love-disappears-tonight",
@@ -56617,9 +57981,16 @@
     "synopsis": "二十世紀初頭のカリフォルニア、石油採掘に取り憑かれた男ダニエル・プレインビューが、土地を買い漁って財を築いていく。信仰を掲げる若い伝道師との対立が、事業の進展とともに執拗さを増していく。憎悪だけが残っていく男の生涯を、長い沈黙と不協和音で描く。主演がアカデミー主演男優賞を受賞した。",
     "tmdbId": 7345,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "There Will Be Blood"
+    "originalTitle": "There Will Be Blood",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "cloudy-with-a-chance-of-meatballs",
@@ -56912,9 +58283,16 @@
     "synopsis": "地球に飛来した火星人が、友好を装いながら各地で殺戮を始める。虚栄心にまみれた大統領や報道陣、投機家たちが右往左往するなか、事態はまったく収拾しない。豪華な配役を惜しみなく使い捨てる構成で、往年の侵略映画とカード玩具を下敷きにした風刺喜劇となっている。往年のB級侵略映画への愛情と皮肉が同居した、独特の味わいを持つ。",
     "tmdbId": 75,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Mars Attacks!"
+    "originalTitle": "Mars Attacks!",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1997,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "tag",
@@ -57545,9 +58923,16 @@
     "synopsis": "海兵隊の新兵訓練所で、鬼教官の罵倒と規律が若者たちを兵士へ作り替えていく。前半で描かれる訓練の帰結と、後半のベトナムの市街戦が、断絶したまま並べられる。人が殺せる存在に変えられていく過程を冷徹に見つめた、キューブリック監督の戦争映画。前半の訓練所の場面が特に有名で、教官役の演技が語り草となっている。",
     "tmdbId": 600,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Full Metal Jacket"
+    "originalTitle": "Full Metal Jacket",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1988,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "sleepy-hollow",
@@ -57642,9 +59027,16 @@
     "synopsis": "ハーバードの学生マークが立ち上げた学内向けの交流サイトが、瞬く間に世界規模に広がっていく。共同創業者の親友との訴訟と、着想を盗まれたと主張する双子との訴訟が、証言として交互に語られる。誰も完全には正しくない構成で、成功の代償を描く。脚本と音楽が高く評価された。",
     "tmdbId": 37799,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Social Network"
+    "originalTitle": "The Social Network",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2011,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "zodiac",
@@ -57693,9 +59085,16 @@
     "synopsis": "一九六〇年代末のサンフランシスコで、暗号文を新聞社に送りつける連続殺人犯が現れる。事件に取り憑かれた新聞漫画家グレイスミスは、刑事や記者が去った後も独りで調査を続ける。犯人が特定されないまま人生だけが消費されていく過程を、資料に忠実に描く。事件の解決ではなく、追う者が消耗していく過程に焦点を当てている。",
     "tmdbId": 1949,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Zodiac"
+    "originalTitle": "Zodiac",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2007,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "doraemon-nobita-and-the-robot-kingdom",
@@ -57985,8 +59384,15 @@
     "synopsis": "大阪で麦と激しい恋に落ちた朝子は、彼の突然の失踪で置き去りにされる。二年後の東京で、彼女は麦とうり二つの亮平と出会い、穏やかな関係を築く。だがある日、麦が再び現れる。同じ顔をした二人の間で揺れる女性を、静かな緊張のなかで描く。カンヌ国際映画祭で注目された作品。",
     "tmdbId": 487850,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2018,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-others",
@@ -58721,8 +60127,15 @@
     "synopsis": "亡くなった長男の命日に、横山家の兄弟が実家に集まる。台所と食卓を中心に、他愛ない会話のなかへ積年の恨みや後悔がにじみ出てくる。誰も本音を口にしないまま一日が過ぎ、取り返しのつかない距離だけが残る。是枝裕和監督が自らの家族の記憶をもとに撮った一作。派手な出来事を排し、日常の会話だけで構成した点が高く評価された。",
     "tmdbId": 25050,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "the-princess-diaries",
@@ -59063,8 +60476,15 @@
     "synopsis": "文化祭を三日後に控え、ギターの担当が抜けたバンドが解散寸前に追い込まれる。残ったメンバーは、たまたま廊下にいた韓国人留学生ソンに歌を任せる。噛み合わない練習と眠い放課後の時間が淡々と重ねられる。派手な展開を避けた作りで、青春映画として長く愛されている。ブルーハーツの楽曲を演奏する終盤の場面が、強い余韻を残す。",
     "tmdbId": 27337,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "日本映画 第6位"
+      }
+    ]
   },
   {
     "id": "dilwale-dulhania-le-jayenge",
@@ -59542,9 +60962,16 @@
     "synopsis": "トラック運転手だったフランク・シーランが、マフィアの後ろ盾を得て組織の実行役になっていく。彼は労働組合の実力者ジミー・ホッファの護衛となり、深い友情を結ぶ。だが組織と組合の対立が、彼に決定的な役目を負わせる。老人になった俳優たちを若く見せる技術が話題を呼んだ。",
     "tmdbId": 398978,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Irishman"
+    "originalTitle": "The Irishman",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2019,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "puella-magi-madoka-magica-the-movie-part-i",
@@ -59639,9 +61066,16 @@
     "synopsis": "認知症が進む老人アンソニーの目を通して、部屋も人物も少しずつ入れ替わっていく。同じ会話が繰り返され、娘の顔が別人になり、時間の順序が壊れていく。観客も彼と同じ混乱に置かれる構成となっている。舞台劇を原作とし、主演がアカデミー主演男優賞を受賞した。編集と美術で主観の崩壊を表現した点が高く評価されている。",
     "tmdbId": 600354,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Father"
+    "originalTitle": "The Father",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2021,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "saint-seiya-evil-goddess-eris",
@@ -60764,8 +62198,15 @@
     "synopsis": "二〇〇五年、大和の沈没地点へ向かいたいという女性が枕崎の漁港を訪れる。かつて乗組員だった神尾は、彼女を船に乗せて過去を語りはじめる。少年兵として乗り込んだ日々と、沖縄への水上特攻の顛末が交互に描かれる。実物大に近い甲板の巨大セットを組んで撮影された作品となっている。",
     "tmdbId": 19659,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "godzilla-raids-again",
@@ -61057,8 +62498,15 @@
     "synopsis": "平安末期、国司の父が左遷され、母と幼い姉弟が旅の途中で人買いにさらわれる。姉弟は山椒大夫のもとで奴隷として使われ、母は佐渡に売られる。姉の安寿は弟の厨子王を逃がすために自らを犠牲にする。溝口健二監督がヴェネチア国際映画祭で銀獅子賞を受けた作品にあたる。長回しの撮影と美術の水準の高さが、今日まで語り継がれている。",
     "tmdbId": 20532,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1954,
+        "result": "日本映画 第9位"
+      }
+    ]
   },
   {
     "id": "the-ministry-of-ungentlemanly-warfare",
@@ -61254,8 +62702,15 @@
     "synopsis": "明治の農村で、人力車夫の妻せきが年下の復員兵豊次と関係を持つ。二人は夫を殺して井戸に沈めるが、その夜から夫の亡霊が村に現れるようになる。人目を恐れる暮らしのなかで、二人は互いを追い詰めていく。大島渚監督がカンヌ国際映画祭で監督賞を受けた作品にあたる。官能と怪談の要素を重ねた作りで、前作と対をなす一本となっている。",
     "tmdbId": 49096,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1978,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "one-piece-choppers-kingdom-on-the-island-of-strange",
@@ -61983,9 +63438,21 @@
     "synopsis": "第一次大戦下、英国の若い将校ロレンスがアラブ反乱軍への連絡将校として砂漠へ送られる。彼は部族をまとめ、不可能とされた砂漠横断とアカバ攻略を成し遂げる。英雄として祭り上げられるほど、彼は自分の残虐さと帰属の無さに引き裂かれていく。七十ミリの砂漠の映像で知られる古典的な大作にあたる。",
     "tmdbId": 947,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Lawrence of Arabia"
+    "originalTitle": "Lawrence of Arabia",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1962,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1963,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "her",
@@ -63013,9 +64480,16 @@
     "synopsis": "ローマ支配下のエルサレムで、豪族の子ユダ・ベン・ハーが幼馴染の司令官メッサラに裏切られる。奴隷として送られたガレー船で司令官の命を救い、彼は自由と地位を取り戻す。復讐を胸に戦車競走でメッサラと対決する。戦車競走の場面と、多数の受賞で知られる大作にあたる。アカデミー賞十一部門を受賞し、長く記録に残る成績を収めた。",
     "tmdbId": 665,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Ben-Hur"
+    "originalTitle": "Ben-Hur",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1959,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "crayon-shin-chan-shrouded-in-mystery-the-flowers-of",
@@ -63943,8 +65417,15 @@
     "synopsis": "リストラされた父が、家族に告げられないまま毎朝スーツで家を出る。長男は米軍に志願し、次男は親に隠れてピアノを習いはじめる。母もまた、日常から抜け出したいという願いを押し殺していた。それぞれの秘密が同じ夜に露見し、家族はいったん壊れる。黒沢清監督がカンヌで審査員賞を受けた作品にあたる。",
     "tmdbId": 8937,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "mobile-suit-gundam-00-the-movie-a-wakening-of-the",
@@ -64723,9 +66204,21 @@
     "synopsis": "吃音に悩むヨーク公が、兄の退位で思いがけず国王ジョージ六世となる。開戦を告げる演説を控え、彼は型破りな言語療法士ライオネルの訓練を受ける。身分の差を無視した治療のなかで、二人の間に友情が生まれる。アカデミー作品賞を受けた作品にあたる。コリン・ファースがアカデミー主演男優賞を受けた作品でもある。",
     "tmdbId": 45269,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The King's Speech"
+    "originalTitle": "The King's Speech",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2010,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2011,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "night-is-short-walk-on-girl",
@@ -65164,9 +66657,21 @@
     "synopsis": "かつてヒーロー映画で人気を得た俳優リーガンが、舞台演出で再起を図る。頭の中では過去の役の声が彼を嘲り、劇場の内外では人間関係が次々と破綻していく。全編が一続きの長回しに見えるよう繋がれた構成をとる。アカデミー作品賞と監督賞を受けた作品にあたる。打楽器のみの音楽と、劇場の狭い通路を進む撮影が印象に残る。",
     "tmdbId": 194662,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
+    "originalTitle": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2014,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "invasion-of-astro-monster",
@@ -67138,9 +68643,21 @@
     "synopsis": "南北戦争の英雄となったダンバー中尉が、辺境の砦への赴任を志願する。誰もいない砦で独り暮らすうち、彼は近隣のスー族と少しずつ交流を始める。彼らの言葉と暮らしを学んだ彼は、やがて自軍から裏切り者と見なされる。アカデミー作品賞と監督賞を受けた作品にあたる。先住民の言葉をそのまま用いた点でも画期的な作品となった。",
     "tmdbId": 581,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Dances with Wolves"
+    "originalTitle": "Dances with Wolves",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1990,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "contact",
@@ -67390,9 +68907,16 @@
     "synopsis": "一九八六年、韓国の農村で若い女性が同じ手口で次々と殺される。勘に頼る地元刑事とソウルから来た理詰めの刑事は、方針をめぐって衝突する。捜査が進むほど、有力な容疑者は次々と消えていく。実際の未解決事件を題材にしたポン・ジュノ監督の作品にあたる。公開から十六年後に犯人が特定され、改めて注目を集めた作品にあたる。",
     "tmdbId": 11423,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "살인의 추억"
+    "originalTitle": "살인의 추억",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2004,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "lost-paradise",
@@ -68269,9 +69793,16 @@
     "synopsis": "ヨハネスブルグ上空に現れた宇宙船から、難民となった異星人が地上へ降ろされる。二十八年後、彼らは隔離地区に押し込められ、住民との軋轢が続いていた。強制移住を担当した職員ヴィカスは、事故で自らも異星人へ変わりはじめる。記録映像の形式を取り入れた構成が特徴となっている。",
     "tmdbId": 17654,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "District 9"
+    "originalTitle": "District 9",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2010,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "children-of-men",
@@ -71071,9 +72602,16 @@
     "synopsis": "公務に疲れた某国の王女アンが、滞在中のローマで大使館を抜け出す。街で拾った新聞記者ジョーは、正体を知りながら特ダネを狙って同行する。二人は一日だけの自由な時間をローマで過ごす。オードリー・ヘプバーンがアカデミー主演女優賞を受けた作品にあたる。モノクロのローマの街並みが、今なお観光の象徴となっている。",
     "tmdbId": 804,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Roman Holiday"
+    "originalTitle": "Roman Holiday",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1954,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "from-dusk-till-dawn",
@@ -71268,8 +72806,15 @@
     "synopsis": "小泉八雲の怪談集から四話を選んで映像化した作品。妻を捨てた武士が戻る「黒髪」、吹雪の夜の約束を破る「雪女」、平家の亡霊に招かれる「耳無芳一の話」、茶碗に映る顔の「茶碗の中」が並ぶ。すべてを撮影所内の巨大な人工背景で作り上げている。カンヌ国際映画祭で審査員特別賞を受けた作品にあたる。",
     "tmdbId": 30959,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1964,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "home-alone-3",
@@ -71848,9 +73393,16 @@
     "synopsis": "一九四〇年代の仏領モロッコで、酒場を営む米国人リックのもとへかつての恋人イルザが現れる。彼女は抵抗運動の指導者の妻となっており、出国許可証を必要としていた。中立を貫いてきたリックは、決断を迫られる。映画史に残る古典として知られる作品にあたる。数々の名台詞と主題曲が、今も広く引用され続けている。",
     "tmdbId": 289,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Casablanca"
+    "originalTitle": "Casablanca",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1943,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "the-graduate",
@@ -71898,9 +73450,16 @@
     "synopsis": "大学を出たベンジャミンが、進路を決められないまま実家で無為に過ごす。父の知人であるロビンソン夫人に誘惑され、関係を重ねるようになる。だが彼女の娘エレインに惹かれたことで、事態は取り返しがつかなくなる。結婚式の場面と主題歌で広く記憶されている作品にあたる。若者の閉塞感を捉えた作品として、時代を象徴する一本となった。",
     "tmdbId": 37247,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Graduate"
+    "originalTitle": "The Graduate",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1968,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "kaiji-the-ultimate-gambler",
@@ -72344,9 +73903,16 @@
     "synopsis": "爆弾魔に翻弄された特殊部隊員ジャックのもとに、次の標的が告げられる。時速八十キロを下回ると爆発するバスが、乗客を乗せたまま高速道路を走り続ける。乗客のアニーが運転を代わり、ジャックは車体の下へ潜り込む。単純な設定を徹底した娯楽作として名高い一本にあたる。公開当時の興行を席巻し、キアヌ・リーブスの代表作となった。",
     "tmdbId": 1637,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Speed"
+    "originalTitle": "Speed",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "外国映画 第8位"
+      }
+    ]
   },
   {
     "id": "101-dalmatians",
@@ -72828,9 +74394,16 @@
     "synopsis": "一九六二年の香港で、同じ日に隣り合う部屋へ越してきた男女がいる。それぞれの配偶者が不倫していると知った二人は、互いに惹かれながらも一線を越えない。狭い廊下と階段ですれ違う場面が繰り返される。抑制された演出と衣装の美しさで知られる作品にあたる。反復する音楽と赤い色調が、強い余韻を残す作品となっている。",
     "tmdbId": 843,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "花樣年華"
+    "originalTitle": "花樣年華",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2001,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "saint-seiya-the-heated-battle-of-the-gods",
@@ -72924,8 +74497,15 @@
     "synopsis": "工場勤めの吉井は、転売で稼ぐ日々に手応えを覚えていた。専業になり郊外へ移った彼のもとに、正体不明の悪意が集まりはじめる。名前も知らない者たちが結託し、彼を狩る側に回る。黒沢清監督が現代の匿名的な悪意を扱った作品にあたる。淡々とした導入から後半で一気に暴力へ転じる構成をとる。ヴェネチア国際映画祭でも上映された。",
     "tmdbId": 1244244,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2024,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-terminal",
@@ -73116,8 +74696,20 @@
     "synopsis": "聴覚に障害のある清掃員の茂が、捨てられていた壊れたサーフボードを拾う。恋人の貴子とともに海へ通い、彼は黙々と波に挑み続ける。台詞のほとんどない構成で、砂浜と海だけが繰り返し映される。北野武監督の初期の代表作にあたる作品となっている。久石譲の音楽と静かな画面が、独特の空気を作り上げている。",
     "tmdbId": 23606,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1991,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "日本映画 第6位"
+      }
+    ]
   },
   {
     "id": "inuyasha-the-movie-2-the-castle-beyond-the-looking",
@@ -73260,9 +74852,16 @@
     "synopsis": "売れない脚本家ジョーが、借金取りから逃げて廃屋のような邸宅に迷い込む。そこには無声映画の大女優ノーマが、復帰を信じて住み続けていた。彼女の脚本の手直しを引き受けたジョーは、次第に囲われた存在になっていく。ハリウッド自身を暗く描いた古典にあたる。終盤の階段を降りる場面が、映画史に残る名場面とされている。",
     "tmdbId": 599,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Sunset Boulevard"
+    "originalTitle": "Sunset Boulevard",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1951,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "darkest-hour",
@@ -73794,9 +75393,16 @@
     "synopsis": "借金に追われた自動車販売員が、妻の狂言誘拐を二人の男に依頼する。だが計画は最初の段階から狂い、無関係な人々が次々と犠牲になる。雪原の田舎町で、身重の女性署長が淡々と捜査を進める。乾いた笑いと暴力を並置した作風で高く評価された作品にあたる。フランシス・マクドーマンドがアカデミー主演女優賞を受けている。",
     "tmdbId": 275,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Fargo"
+    "originalTitle": "Fargo",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "lupin-the-iiird-fujikos-lie",
@@ -74483,9 +76089,16 @@
     "synopsis": "一八四一年、自由黒人として暮らしていた音楽家ソロモンが、騙されて拉致される。名を奪われ南部の農園へ売られた彼は、十二年にわたる奴隷生活を強いられる。逃げるか耐えるかの判断を、彼は何度も迫られる。アカデミー作品賞を受けた作品にあたる。目を逸らさない長回しが、この作品の厳しさを支えている。",
     "tmdbId": 76203,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "12 Years a Slave"
+    "originalTitle": "12 Years a Slave",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2013,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "crayon-shin-chan-honeymoon-hurricane-the-lost",
@@ -74632,9 +76245,16 @@
     "synopsis": "一九一〇年のロンドンで、家庭を顧みない銀行家の家に、傘を差した家庭教師が空から降りてくる。彼女は歌と魔法で子どもたちを連れ出し、絵の中や煙突の上へ導く。父親の凝り固まった価値観が、少しずつ揺らいでいく。実写と手描き動画を組み合わせた古典にあたる。楽曲の完成度が高く、公開から半世紀以上愛され続けている。",
     "tmdbId": 433,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Mary Poppins"
+    "originalTitle": "Mary Poppins",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1965,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "dark-city",
@@ -75068,9 +76688,16 @@
     "synopsis": "ベトナム戦争の機密文書の存在が明るみに出て、政府は報道の差し止めに動く。ワシントン・ポストの発行人キャサリンは、社の存続と報道の自由の間で決断を迫られる。編集主幹ベンは掲載を強く主張する。実際の事件をもとにした作品にあたる。報道の自由を主題に、スピルバーグが短期間で仕上げた作品にあたる。",
     "tmdbId": 446354,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Post"
+    "originalTitle": "The Post",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2018,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "stray-dog",
@@ -75119,8 +76746,15 @@
     "synopsis": "戦後の東京で、若い刑事村上が満員バスの中で拳銃を掏られる。その銃が凶行に使われ、彼は責任を感じて執拗に犯人を追う。ベテラン刑事の佐藤とともに、闇市や場末を歩き回る。焼け跡の東京を記録した作品としても価値が高い一本にあたる。黒澤明と三船敏郎が組んだ初期の代表作の一本にあたる。",
     "tmdbId": 30368,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1949,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "patema-inverted",
@@ -75407,9 +77041,16 @@
     "synopsis": "禁酒法下のシカゴで、財務省の捜査官ネスがアル・カポネの摘発に挑む。買収された警察を避け、彼はベテラン警官マローンら少数の仲間で部隊を組む。清廉さを貫くほど、彼らは容赦のない報復を受ける。駅の階段の場面が映画史に残る一本となっている。ショーン・コネリーがアカデミー助演男優賞を受けた作品でもある。",
     "tmdbId": 117,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Untouchables"
+    "originalTitle": "The Untouchables",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1987,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-running-man",
@@ -76083,9 +77724,16 @@
     "synopsis": "一九五〇年代のロサンゼルスで、深夜の喫茶店で六人が惨殺される事件が起きる。粗暴な刑事バド、出世欲の強いエド、芸能界と癒着したジャックが、それぞれの動機で真相に近づく。警察内部の腐敗が、事件の根にあった。脚色賞を受け、犯罪映画の傑作とされている。三人の刑事を対等に描く群像構成が、この作品の骨格となっている。",
     "tmdbId": 2118,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "L.A. Confidential"
+    "originalTitle": "L.A. Confidential",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "scream-2",
@@ -76626,9 +78274,16 @@
     "synopsis": "船外作業中の宇宙飛行士たちを、破壊された衛星の破片が襲う。船を失った医療技師ライアンは、宇宙服の酸素だけを頼りに漂流する。地上との通信も途絶えるなか、彼女は次の基地を目指す。長回しと無重力の映像表現で、複数の技術賞を受けた作品にあたる。長回しと無重力の映像表現で、複数の技術賞を受けた作品にあたる。",
     "tmdbId": 49047,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Gravity"
+    "originalTitle": "Gravity",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "godzilla-2000-millennium",
@@ -76867,9 +78522,16 @@
     "synopsis": "七〇年代のカリフォルニアで、皿洗いの青年エディが成人映画の監督に見出される。疑似家族のような撮影集団のなかで、彼は瞬く間に人気者となる。だが八〇年代に入り、業界の様変わりと薬物が全員を蝕んでいく。長回しと群像描写で監督の評価を確立した作品にあたる。時代の変化を音楽と撮影で描き分けた点が高く評価されている。",
     "tmdbId": 4995,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Boogie Nights"
+    "originalTitle": "Boogie Nights",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "the-sword-of-doom",
@@ -77013,9 +78675,21 @@
     "synopsis": "ペンシルベニアの製鋼所で働く三人の若者が、婚礼の宴の後でベトナムへ送られる。捕虜となった彼らは、賭けの見世物としてロシアンルーレットを強いられる。帰還した後も、それぞれが元の生活へ戻れずにいた。アカデミー作品賞を受けた作品にあたる。婚礼の場面に長い時間を割いた構成が、後半との落差を生んでいる。",
     "tmdbId": 11778,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Deer Hunter"
+    "originalTitle": "The Deer Hunter",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1978,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1979,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "the-addams-family",
@@ -77161,9 +78835,21 @@
     "synopsis": "荒事から足を洗った元無法者マニーが、賞金目当てに再び銃を取る。旧友ネッドと若いガンマンを連れ、彼は娼婦を傷つけた男たちを追う。町を支配する保安官ビルは、賞金稼ぎを暴力で排除していた。西部劇の英雄像を解体した作品として、作品賞と監督賞を受けている。イーストウッド監督が自らの西部劇の系譜に決着をつけた一本とされる。",
     "tmdbId": 33,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Unforgiven"
+    "originalTitle": "Unforgiven",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1992,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1993,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "friday-the-13th",
@@ -77401,9 +79087,16 @@
     "synopsis": "平穏な田舎町の野原で、大学生ジェフリーが切り取られた人間の耳を拾う。興味本位で調べはじめた彼は、歌手ドロシーと暴力的な男フランクの関係に足を踏み入れる。表向きの穏やかさの下に、別の世界が広がっていた。デヴィッド・リンチの代表作の一本にあたる。デニス・ホッパーの怪演が、この作品の恐怖を決定づけている。",
     "tmdbId": 793,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Blue Velvet"
+    "originalTitle": "Blue Velvet",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1987,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "stand-and-deliver",
@@ -77649,9 +79342,16 @@
     "synopsis": "退屈な生活に嫌気が差した主婦テルマと、給仕のルイーズが週末の旅に出る。立ち寄った酒場でテルマが襲われ、ルイーズが相手を撃ってしまう。引き返せなくなった二人は、車で西へ走り続ける。女性の逃避行を正面から描いた作品として大きな反響を呼んだ。終盤の選択が、公開当時から議論を呼び続けている。",
     "tmdbId": 1541,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Thelma & Louise"
+    "originalTitle": "Thelma & Louise",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-texas-chain-saw-massacre",
@@ -78238,9 +79938,21 @@
     "synopsis": "清朝最後の皇帝として三歳で即位した溥儀の生涯を、収容所での回想として描く。紫禁城に閉じ込められた少年期、満州国の元首とされた壮年期、そして一市民となった晩年。時代に翻弄され続けた一人の人物が浮かび上がる。アカデミー賞九部門を受けた作品にあたる。紫禁城での実地撮影が実現し、映像の規模で大きな話題を呼んだ。",
     "tmdbId": 746,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Last Emperor"
+    "originalTitle": "The Last Emperor",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1987,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1988,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "lethal-weapon-4",
@@ -78337,9 +80049,21 @@
     "synopsis": "遺産目当てに実家へ戻ったチャーリーが、自閉症の兄レイモンドの存在を知る。遺産の管理者となった兄を強引に連れ出し、二人は車で大陸を横断する。数字にだけ突出した兄との旅が、弟の価値観を変えていく。アカデミー作品賞を受けた作品にあたる。ダスティン・ホフマンが主演男優賞を受けた作品でもある。",
     "tmdbId": 380,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Rain Man"
+    "originalTitle": "Rain Man",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1988,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "doraemon-nobita-and-the-spiral-city",
@@ -78577,8 +80301,15 @@
     "synopsis": "事故で顔に大やけどを負った男が、精巧な仮面を得て別人として街を歩く。妻を誘惑して自分への愛を試そうとするが、その企みは彼自身を蝕んでいく。顔とは何かという問いが、全編を貫いている。安部公房と勅使河原宏が組んだ作品にあたる。実験的な美術と音楽が、原作の思弁性を映像に置き換えている。",
     "tmdbId": 29452,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1966,
+        "result": "日本映画 第5位"
+      }
+    ]
   },
   {
     "id": "the-x-files",
@@ -78672,9 +80403,21 @@
     "synopsis": "大学を中退して志願した青年クリスが、ベトナムの前線に配属される。良心的なイライアス軍曹と、冷酷なバーンズ軍曹が小隊を二分していた。村での虐殺を境に、部隊は内部から崩れていく。監督自身の従軍体験をもとにした作品にあたる。アカデミー作品賞と監督賞を受け、戦争映画の潮目を変えた一本となった。",
     "tmdbId": 792,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Platoon"
+    "originalTitle": "Platoon",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1986,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1987,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "conan-the-barbarian",
@@ -78916,9 +80659,16 @@
     "synopsis": "工場の流れ作業に追われた男が、ねじを回し続けるうちに正気を失う。職を転々とし、投獄と釈放を繰り返すなか、彼は身寄りのない少女と出会う。機械化された社会の非情さを、笑いに変えて描いている。台詞をほぼ使わない構成でも知られる古典にあたる。最後に主人公が歌う場面が、映画史に残る名場面とされている。",
     "tmdbId": 3082,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Modern Times"
+    "originalTitle": "Modern Times",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1938,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-anthem-of-the-heart",
@@ -79162,9 +80912,21 @@
     "synopsis": "冷戦下の政府施設で清掃員として働く、声を失った女性イライザ。運び込まれた半魚人と、彼女は言葉を使わずに心を通わせる。解剖されようとしている彼を、彼女は仲間とともに連れ出そうとする。アカデミー作品賞と監督賞を受けた作品にあたる。水と緑を基調にした色彩設計が、全編を統一している。",
     "tmdbId": 399055,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Shape of Water"
+    "originalTitle": "The Shape of Water",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2017,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2018,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "kingdom-iii-the-flame-of-destiny",
@@ -79739,8 +81501,20 @@
     "synopsis": "不満はないが満たされない日々を送る会社員の杉山が、電車の窓から見えるダンス教室の女性に惹かれる。動機を隠したまま通いはじめた彼は、社交ダンスそのものにのめり込んでいく。妻には言えないまま、彼は大会を目指す。米国でも大きな話題となった作品にあたる。日本アカデミー賞の主要部門を独占した作品としても知られる。",
     "tmdbId": 11239,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1997,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "gran-torino",
@@ -79786,9 +81560,16 @@
     "synopsis": "妻を亡くした偏屈な元工員ウォルトが、隣家のアジア系一家と関わることになる。愛車を盗もうとした少年タオを、彼は雑用を通じて鍛えはじめる。街を支配する不良集団が、一家に手を出したとき彼は動く。イーストウッド監督が主演も務めた作品にあたる。偏見を抱えた老人が変わっていく過程が、静かに描かれている。",
     "tmdbId": 13223,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Gran Torino"
+    "originalTitle": "Gran Torino",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2009,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "miracle-on-34th-street",
@@ -80373,9 +82154,21 @@
     "synopsis": "砂漠を無言で歩く男トラヴィスが、四年ぶりに弟に保護される。彼は預けたままの息子と再会し、少しずつ言葉を取り戻していく。二人は、姿を消した母親を探して車で南へ向かう。覗き部屋越しの長い告白が、この作品の核となっている。荒野の風景とライ・クーダーの音楽が、強い印象を残している。カンヌ最高賞を受けた作品にあたる。",
     "tmdbId": 655,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Paris, Texas"
+    "originalTitle": "Paris, Texas",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1984,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1985,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "snakes-and-earrings",
@@ -80807,9 +82600,16 @@
     "synopsis": "森に生まれた小鹿バンビが、兎のとんすけや臭鼬のフラワーと友情を育む。季節が移るなかで、彼は歩き方も鳴き声も少しずつ覚えていく。だが人間の狩りが、彼から母を奪う。台詞を抑え、動物の動きの観察に徹した作画で知られる長編にあたる。母を失う場面は、世代を越えて語り継がれる衝撃を残している。",
     "tmdbId": 3170,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Bambi"
+    "originalTitle": "Bambi",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1951,
+        "result": "外国映画 第7位"
+      }
+    ]
   },
   {
     "id": "crayon-shin-chan-my-moving-story-cactus-large-attack",
@@ -80945,9 +82745,16 @@
     "synopsis": "古いアパートに越してきた若い夫婦のもとに、親切すぎる隣人夫妻が出入りするようになる。妊娠したローズマリーは、体調の悪化と周囲の異様な干渉に不安を募らせる。夫の態度も、少しずつ変わっていく。心理的な恐怖を積み上げる構成で知られる作品にあたる。隣人の善意が恐怖に変わる過程が、丁寧に積み上げられている。",
     "tmdbId": 805,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Rosemary's Baby"
+    "originalTitle": "Rosemary's Baby",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1969,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "the-tin-drum",
@@ -80994,9 +82801,16 @@
     "synopsis": "三歳で自ら成長を止めた少年オスカルが、ブリキの太鼓を叩き続ける。奇声でガラスを割る力を持つ彼の目を通して、ナチス台頭期のダンツィヒが描かれる。大人たちの愚かさが、子どもの視点で容赦なく暴かれる。カンヌ最高賞と外国語映画賞を受けた作品にあたる。子役の存在感と、寓話としての強度が高く評価されている。",
     "tmdbId": 659,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Die Blechtrommel"
+    "originalTitle": "Die Blechtrommel",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1981,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "singin-in-the-rain",
@@ -81187,9 +83001,16 @@
     "synopsis": "新聞王ケーンが謎の言葉を残して死に、記者がその意味を追う。関係者への聞き取りを通じて、一人の男の生涯が断片的に組み上げられていく。だが証言はそれぞれ食い違い、実像は定まらない。革新的な撮影と構成で、長く映画史の頂点に置かれてきた作品にあたる。深い被写界深度を用いた撮影が、映画の技法を大きく更新した。",
     "tmdbId": 15,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Citizen Kane"
+    "originalTitle": "Citizen Kane",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1966,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "a-star-is-born",
@@ -81769,8 +83590,20 @@
     "synopsis": "一八六五年の京都、新選組に加納惣三郎という美貌の若者が入隊する。剣の腕も立つ彼をめぐり、隊内の人間関係が乱れていく。土方歳三は、隊の規律を保つために事態の収拾を図る。大島渚監督の最後の作品にあたる。武士の世界を舞台に、欲望と規律の緊張を静かに描いている。北野武が土方役を演じた点でも話題を呼んだ。松田龍平の映画初出演作にあたる。",
     "tmdbId": 20617,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1999,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2000,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "death-becomes-her",
@@ -82150,8 +83983,15 @@
     "synopsis": "夫の郁夫が理由も告げずに列車に飛び込み、ゆみ子は幼い息子と残される。五年後、彼女は奥能登の漁村へ再婚して移り住む。穏やかな暮らしのなかでも、あの夜の理由が彼女を離さない。是枝裕和監督の劇映画第一作にあたる作品となっている。引きの構図を多用した画面が、喪失の感覚を静かに支えている。ヴェネチア国際映画祭でも高く評価された。",
     "tmdbId": 18872,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "under-siege",
@@ -82245,9 +84085,16 @@
     "synopsis": "家族が留守にした四日間、農場の主婦フランチェスカのもとに写真家ロバートが道を尋ねに来る。互いの人生を語り合ううちに、二人は深く惹かれ合う。共に去るか留まるかの選択が、雨の交差点で迫られる。原作の甘さを削ぎ落とした演出で高く評価されている。メリル・ストリープの抑えた演技が、作品の核となっている。",
     "tmdbId": 688,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Bridges of Madison County"
+    "originalTitle": "The Bridges of Madison County",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "外国映画 第3位"
+      }
+    ]
   },
   {
     "id": "teasing-master-takagi-san-the-movie",
@@ -82439,9 +84286,16 @@
     "synopsis": "出世を望む平社員バクスターが、上司の逢瀬のために自室を貸している。恋心を寄せるエレベーター係のフランが、実は上司の相手だと知る。孤独なクリスマスの夜、彼女は彼の部屋で命を絶とうとする。喜劇と苦さを併せ持ち、アカデミー作品賞を受けた一本にあたる。ジャック・レモンとシャーリー・マクレーンの掛け合いが絶妙となっている。",
     "tmdbId": 284,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Apartment"
+    "originalTitle": "The Apartment",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1960,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "gantz-perfect-answer",
@@ -82586,9 +84440,21 @@
     "synopsis": "宮廷楽長サリエリが、老いた身で自らの罪を告白しはじめる。若きモーツァルトの下品な振る舞いと、その音楽の完璧さの落差が彼を苦しめた。凡庸な自分を呪いながら、彼は天才を破滅へ導こうとする。アカデミー賞八部門を受けた作品にあたる。モーツァルトの楽曲を全編に配し、宮廷の美術も再現されている。",
     "tmdbId": 279,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Amadeus"
+    "originalTitle": "Amadeus",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1984,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1985,
+        "result": "外国映画 第1位"
+      }
+    ]
   },
   {
     "id": "the-naked-gun-from-the-files-of-police-squad",
@@ -82681,8 +84547,15 @@
     "synopsis": "藩主の側室を息子の嫁として押しつけられた笹原家に、やがて返せという命が下る。夫婦仲は睦まじく、当主の伊三郎は理不尽な要求を拒む。武士の面目と家の存続を天秤にかけ、彼は刀を取る。小林正樹と三船敏郎が組んだ時代劇にあたる。抑制された前半から、終盤の立ち回りへ一気に転じる構成をとる。ヴェネチア国際映画祭で受賞している。",
     "tmdbId": 27031,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1967,
+        "result": "日本映画 第1位"
+      }
+    ]
   },
   {
     "id": "sailor-moon-s-the-movie-hearts-in-ice",
@@ -82969,9 +84842,16 @@
     "synopsis": "十八世紀アイルランドの青年バリーが、決闘を機に故郷を出る。軍隊、賭博、詐欺を経て、彼は貴族の未亡人と結婚し爵位を手に入れる。だが成り上がった地位は、彼自身の性分によって崩れていく。蝋燭の光だけで撮影した場面で知られる作品にあたる。絵画のような構図が全編を貫き、撮影賞など四部門を受けている。",
     "tmdbId": 3175,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Barry Lyndon"
+    "originalTitle": "Barry Lyndon",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1976,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-outsiders",
@@ -84178,8 +86058,15 @@
     "synopsis": "絵に取り憑かれた男、葛飾北斎の生涯を晩年まで追う。曲亭馬琴との交流と、娘お栄との日々が並行して描かれる。老いてなお筆を止めず、彼は代表作を次々と生み出していく。新藤兼人が脚本と監督を務めた作品にあたる。絵師としての執念と、市井の暮らしが並行して描かれている。緒形拳と田中裕子の演技が支えとなっている。",
     "tmdbId": 77467,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1981,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "happy-hour",
@@ -84224,9 +86111,16 @@
     "synopsis": "神戸に暮らす三十代の女性四人が、互いを親友だと思って過ごしている。だが一人が離婚調停を隠していたと分かり、四人の関係は静かに崩れていく。仕事、家庭、恋、そのすべてに答えの出ない時間が続く。五時間を超える上映時間で国際的な評価を得た作品にあたる。演技経験のない出演者を起用し、長い時間をかけて作られた作品にあたる。",
     "tmdbId": 354759,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Happy Hour"
+    "originalTitle": "Happy Hour",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "to-kill-a-mockingbird",
@@ -84414,8 +86308,15 @@
     "synopsis": "問題ばかり起こしていた高校生のマサルとシンジが、それぞれ別の道を進む。シンジはボクシングで頭角を現し、マサルは組の若い衆になる。順調に見えた二人の道は、どちらも思わぬ形でつまずく。北野武監督が事故からの復帰後に撮った作品にあたる。どこにも行き着かない若さを、乾いた視線で描いた作品にあたる。",
     "tmdbId": 27233,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "日本映画 第2位"
+      }
+    ]
   },
   {
     "id": "the-sting",
@@ -84462,9 +86363,21 @@
     "synopsis": "仲間を殺された若い詐欺師フッカーが、大物ロネガンへの復讐を決意する。ベテランのゴンドーフと組み、偽の賭博場を仕立てた大がかりな仕掛けを準備する。誰が誰を騙しているのかが、最後まで見えない。アカデミー作品賞を受けた作品にあたる。軽快なラグタイムの音楽が、全編の調子を作っている。",
     "tmdbId": 9277,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Sting"
+    "originalTitle": "The Sting",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1973,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1974,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-fault-in-our-stars",
@@ -85342,9 +87255,16 @@
     "synopsis": "言語学者ヒギンズが、下町訛りの花売り娘イライザを淑女に仕立てる賭けをする。厳しい発音の訓練を経て、彼女は社交界で通用するまでになる。だが変わった後の彼女の居場所は、どこにもなかった。アカデミー作品賞を受けた作品にあたる。オードリー・ヘプバーンの衣装と楽曲で、今も広く愛されている。",
     "tmdbId": 11113,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "My Fair Lady"
+    "originalTitle": "My Fair Lady",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1964,
+        "result": "作品賞"
+      }
+    ]
   },
   {
     "id": "the-dirty-dozen",
@@ -85874,9 +87794,16 @@
     "synopsis": "裕福な女性メラニーが、気になる男を追って海辺の町を訪れる。その日から、鳥の群れが理由もなく人を襲いはじめる。学校、ガソリンスタンド、そして家の中まで、逃げ場は次第になくなる。音楽を使わず鳥の声だけで恐怖を作った構成で知られる作品にあたる。理由を一切説明しない構成が、恐怖の質を決定づけている。",
     "tmdbId": 571,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Birds"
+    "originalTitle": "The Birds",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1963,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "the-bad-sleep-well",
@@ -85925,8 +87852,15 @@
     "synopsis": "公団の副総裁の娘と、その秘書である西の結婚披露宴が開かれる。だが西の正体は、汚職で切り捨てられ死んだ男の息子だった。組織の中枢へ入り込んだ彼は、内側から報復を進める。黒澤明が現代の企業犯罪を扱った作品にあたる。冒頭の披露宴の長い場面が、映画史に残る導入として知られている。企業の腐敗を正面から扱っている。",
     "tmdbId": 31589,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1960,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "eden-of-the-east-movie-i-the-king-of-eden",
@@ -86070,9 +88004,16 @@
     "synopsis": "敵対する両家の若者、ロミオとジュリエットが舞踏会で出会い恋に落ちる。修道士の助けで密かに結婚するが、決闘の末にロミオは追放される。すれ違いから生まれた誤解が、二人を破局へ導く。当時十代の俳優を起用した点でも知られる作品にあたる。衣装と美術がアカデミー賞を受け、映像の美しさで知られている。",
     "tmdbId": 6003,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Romeo and Juliet"
+    "originalTitle": "Romeo and Juliet",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1968,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "nosferatu-1922",
@@ -86747,9 +88688,16 @@
     "synopsis": "十字軍から戻った騎士が、死神と出会い将棋の勝負を持ちかける。疫病が広がる村々を旅しながら、彼は神の沈黙について問い続ける。旅芸人の一家との出会いが、束の間の救いをもたらす。海辺での対局の場面が映画史に刻まれている作品にあたる。信仰と死をめぐる問いを、寓話の形で提示した代表作にあたる。",
     "tmdbId": 490,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Det sjunde inseglet"
+    "originalTitle": "Det sjunde inseglet",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1963,
+        "result": "外国映画 第6位"
+      }
+    ]
   },
   {
     "id": "the-swimming-pool",
@@ -87381,9 +89329,16 @@
     "synopsis": "閉店間際の銀行を襲った二人組が、警察に包囲されて立てこもる。金は既に運び出された後で、計画は最初から破綻していた。報道が集まるにつれ、犯人は群衆の英雄に祭り上げられていく。実際に起きた事件を題材にした作品にあたる。アル・パチーノの熱演と、群衆の反応の描写が高く評価されている。実話の緊張がそのまま持ち込まれている。",
     "tmdbId": 968,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Dog Day Afternoon"
+    "originalTitle": "Dog Day Afternoon",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1976,
+        "result": "外国映画 第5位"
+      }
+    ]
   },
   {
     "id": "a-chinese-odyssey-part-one-pandoras-box",
@@ -88588,9 +90543,16 @@
     "synopsis": "革命前夜のロシアで、医師で詩人でもあるジバゴが妻とラーラの間で揺れる。革命と内戦が、彼の生活も職業も次々に奪っていく。極寒の地を転々としながら、二人は幾度もすれ違う。壮大な自然描写と主題曲で知られる大作にあたる。雪原の家の場面など、映像の記憶に残る場面が多く含まれる。",
     "tmdbId": 907,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Doctor Zhivago"
+    "originalTitle": "Doctor Zhivago",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1966,
+        "result": "外国映画 第9位"
+      }
+    ]
   },
   {
     "id": "murder-on-the-orient-express",
@@ -88783,9 +90745,16 @@
     "synopsis": "放浪者が街角で花を売る盲目の娘と出会い、彼女に金持ちだと思い込まれる。手術費用を工面するため、彼は掃除夫や拳闘まで手を出す。金を渡した後、彼は投獄されてしまう。最後の再会の場面が映画史上屈指の名場面とされている作品にあたる。発声映画の時代に無声で作られ、それでも大成功を収めた一本にあたる。",
     "tmdbId": 901,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "City Lights"
+    "originalTitle": "City Lights",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1934,
+        "result": "外国映画 第10位"
+      }
+    ]
   },
   {
     "id": "rio-bravo",
@@ -89120,9 +91089,16 @@
     "synopsis": "列車強盗を繰り返す二人組が、執拗な追跡部隊に追い詰められる。米国に居場所を失った彼らは、恋人を連れてボリビアへ渡る。慣れない土地でも同じ稼業を続けるが、包囲は狭まっていく。軽妙な会話と主題歌で愛され続けている作品にあたる。アカデミー賞四部門を受け、西部劇の代表作の一つとなっている。",
     "tmdbId": 642,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "Butch Cassidy and the Sundance Kid"
+    "originalTitle": "Butch Cassidy and the Sundance Kid",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1970,
+        "result": "外国映画 第4位"
+      }
+    ]
   },
   {
     "id": "escape-from-alcatraz",
@@ -89795,8 +91771,15 @@
     "synopsis": "妻を亡くした平山が、娘と息子と三人で穏やかに暮らしている。友人たちに勧められ、彼は娘の縁談を考えはじめる。旧友の落ちぶれた姿と、その娘の境遇が彼の背を押す。小津安二郎監督の遺作にあたる作品となっている。家族が離れていくことを静かに受け入れる姿勢が全編を貫いている。晩年の代表作として評価が高い。",
     "tmdbId": 50759,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1962,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "the-many-adventures-of-winnie-the-pooh",
@@ -90077,9 +92060,21 @@
     "synopsis": "連続殺人犯を追うため、FBI訓練生クラリスが収監中の精神科医レクターに助言を求める。人を喰らう天才は、彼女の過去と引き換えに手がかりを与える。面会を重ねるうち、事件と彼女自身の傷が絡み合っていく。アカデミー賞の主要五部門を独占した作品にあたる。レクターの登場時間は短いが、強烈な印象を残している。",
     "tmdbId": 274,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "originalTitle": "The Silence of the Lambs"
+    "originalTitle": "The Silence of the Lambs",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1991,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "外国映画 第2位"
+      }
+    ]
   },
   {
     "id": "suicide-club",
@@ -90698,9 +92693,16 @@
     "synopsis": "関東を制した組織を潰すため、刑事の片岡が関西の組織との対立を煽る。刑務所を出た大友が、その策略に組み込まれていく。裏切りと報復が、際限なく連鎖していく。北野武監督によるシリーズ第二作にあたる。派手さより駆け引きに重心を置いた構成となっている。会話の応酬が全編を支えている。前作から五年後を描いた作品にあたる。",
     "tmdbId": 121828,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
-    "seriesId": "outrage"
+    "seriesId": "outrage",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2012,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "human-lost",
@@ -90936,8 +92938,15 @@
     "synopsis": "精神病院で下働きをする老人が、入院中の妻を見守り続けている。娘が結婚の報告に訪れ、父の姿を目にする。現実と幻覚の境目が曖昧なまま、映像だけで物語が進む。字幕を一切用いない前衛的な構成で知られる無声映画にあたる。長く失われたと思われていたが、監督の自宅で発見され復元された。",
     "tmdbId": 94525,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1926,
+        "result": "日本映画 第4位"
+      }
+    ]
   },
   {
     "id": "009-1-the-end-of-the-beginning",
@@ -91132,8 +93141,20 @@
     "synopsis": "前科のある三隅が、解雇された工場の社長を殺したとして逮捕される。自供したはずの彼は、面会のたびに供述を変えていく。弁護士の重盛は、真実そのものが揺らぐ感覚に囚われる。是枝裕和監督が初めて法廷を舞台にした作品にあたる。真実にたどり着けないことを主題に据えた点が、この作品の核となる。役所広司の演技も高く評価された。",
     "tmdbId": 434775,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2018,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2017,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "inuyasha-the-movie-3-swords-of-an-honorable-ruler",
@@ -93534,8 +95555,15 @@
     "synopsis": "戦後の混乱期、新宿で暴れ回る石川力夫の生き様を描く。組織の掟すら無視する彼は、親分にまで銃を向けて破門される。逃亡と服役を繰り返し、彼は自分の破滅へ突き進んでいく。実在の人物をもとにした深作欣二監督の作品にあたる。手持ち撮影と記録映像風の演出が、荒々しい迫力を生んでいる。",
     "tmdbId": 71851,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1975,
+        "result": "日本映画 第8位"
+      }
+    ]
   },
   {
     "id": "a-new-love-in-tokyo",
@@ -93582,8 +95610,15 @@
     "synopsis": "小劇団の女優レイが、夜は渋谷の店で働きながら生活している。同じビルで知り合った女性たちと、それぞれの事情を抱えたまま親しくなる。自分の居場所を探す彼女たちの日々が、淡々と描かれる。高橋伴明監督の作品にあたる。抑えた演出で、生きづらさを抱えた人々を描いた作品にあたる。ヨコハマ映画祭でも評価された。",
     "tmdbId": 108433,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "日本映画 第9位"
+      }
+    ]
   },
   {
     "id": "rage",
@@ -93630,8 +95665,15 @@
     "synopsis": "凄惨な殺人事件の犯人が整形して逃亡し、一年が過ぎている。千葉、東京、沖縄で、それぞれ素性の知れない男が現れる。周囲の人々は、彼らを信じるか疑うかの間で揺れる。吉田修一の小説を李相日監督が映画化した作品にあたる。三つの土地の物語を並行して描く構成が、この作品の骨格となる。豪華な配役でも話題を集めた。",
     "tmdbId": 359344,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2016,
+        "result": "日本映画 第10位"
+      }
+    ]
   },
   {
     "id": "the-great-war-of-archimedes",
@@ -94258,8 +96300,15 @@
     "synopsis": "ゴミ捨て場のような一角に、貧しい人々が寄り集まって暮らしている。走らない電車を運転する真似を続ける少年、夢の家を語る乞食の父子、変わり者ばかりが並ぶ。黒澤明監督の初の色彩作品にあたり、極彩色の美術が特徴となっている。興行的には振るわなかったが、色彩の実験として再評価が進んでいる。",
     "tmdbId": 33205,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1970,
+        "result": "日本映画 第3位"
+      }
+    ]
   },
   {
     "id": "survival-family",
@@ -94688,8 +96737,15 @@
     "synopsis": "中年男が愛用する空気人形が、ある朝突然に心を持つ。彼が仕事に出た後、人形は服を着て街へ出かける。レンタル店で働き、店員の青年に恋をする。是枝裕和監督が業田良家の短編漫画を映像化した作品にあたる。ペ・ドゥナの繊細な演技と、都市の孤独の描写が高く評価された。カンヌ国際映画祭でも上映されている。",
     "tmdbId": 25053,
     "externalLinks": {},
-    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
-    "updatedAt": "2026-08-09"
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2009,
+        "result": "日本映画 第6位"
+      }
+    ]
   },
   {
     "id": "code-geass-akito-the-exiled-1-the-wyvern-arrives",
