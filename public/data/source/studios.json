@@ -2045,5 +2045,275 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: GK Films。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peters-entertainment",
+    "name": "ピーターズ・エンターテインメント",
+    "nameKana": "ピーターズエンターテインメント",
+    "description": "映画製作会社。『マン・オブ・スティール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peters Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-colorido",
+    "name": "スタジオコロリド",
+    "nameKana": "スタジオコロリド",
+    "description": "映画製作会社。『泣きたい私は猫をかぶる』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Colorido。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "two-flints",
+    "name": "トゥー・フリンツ",
+    "nameKana": "トゥーフリンツ",
+    "description": "映画製作会社。『イット・フォローズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Two Flints。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "northern-lights-films",
+    "name": "ノーザン・ライツ・フィルムズ",
+    "nameKana": "ノーザンライツフィルムズ",
+    "description": "映画製作会社。『イット・フォローズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Northern Lights Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "a-steven-haft-production",
+    "name": "スティーヴン・ハフト・プロダクション",
+    "nameKana": "スティーヴンハフトプロダクション",
+    "description": "映画製作会社。『いまを生きる』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: A Steven Haft Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "witt-thomas-productions",
+    "name": "ウィット・トーマス・プロダクションズ",
+    "nameKana": "ウィットトーマスプロダクションズ",
+    "description": "映画製作会社。『いまを生きる』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Witt/Thomas Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sean-bailey-productions",
+    "name": "ショーン・ベイリー・プロダクションズ",
+    "nameKana": "ショーンベイリープロダクションズ",
+    "description": "映画製作会社。『トロン：アレス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sean Bailey Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yumeta-company",
+    "name": "ゆめ太カンパニー",
+    "nameKana": "ゆめたかんぱにー",
+    "description": "映画製作会社。『デジモンアドベンチャー LAST EVOLUTION 絆』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yumeta Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "zide-perry-productions",
+    "name": "ザイド・ペリー・プロダクションズ",
+    "nameKana": "ザイドペリープロダクションズ",
+    "description": "映画製作会社。『アメリカン・パイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Zide-Perry Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "winkler-films",
+    "name": "ウィンクラー・フィルムズ",
+    "nameKana": "ウィンクラーフィルムズ",
+    "description": "映画製作会社。『グッドフェローズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Winkler Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gaumont",
+    "name": "ゴーモン",
+    "nameKana": "ゴーモン",
+    "description": "映画製作会社。『フィフス・エレメント』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gaumont。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "united-artists",
+    "name": "ユナイテッド・アーティスツ",
+    "nameKana": "ユナイテッドアーティスツ",
+    "description": "映画製作会社。『続・夕陽のガンマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: United Artists。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pea",
+    "name": "PEA",
+    "nameKana": "ぴーいーえー",
+    "description": "映画製作会社。『続・夕陽のガンマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "quad-productions",
+    "name": "クアッド・プロダクションズ",
+    "nameKana": "クアッドプロダクションズ",
+    "description": "映画製作会社。『最強のふたり』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Quad Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "double-dream",
+    "name": "ダブル・ドリーム",
+    "nameKana": "ダブルドリーム",
+    "description": "映画製作会社。『ザ・フラッシュ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Double Dream。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-swan",
+    "name": "スタジオスワン",
+    "nameKana": "スタジオスワン",
+    "description": "映画製作会社。『るろうに剣心』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Swan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rockworks",
+    "name": "ロックワークス",
+    "nameKana": "ロックワークス",
+    "description": "映画製作会社。『るろうに剣心』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: ROCKWORKS。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsunoko-production",
+    "name": "タツノコプロ",
+    "nameKana": "たつのこぷろ",
+    "description": "映画製作会社。『新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsunoko Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bad-robot",
+    "name": "バッド・ロボット",
+    "nameKana": "バッドロボット",
+    "description": "映画製作会社。『スター・ウォーズ／スカイウォーカーの夜明け』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bad Robot。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sunrise",
+    "name": "サンライズ",
+    "nameKana": "サンライズ",
+    "description": "映画製作会社。『機動戦士ガンダム 閃光のハサウェイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SUNRISE。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tfc",
+    "name": "TFC",
+    "nameKana": "てぃーえふしー",
+    "description": "映画製作会社。『機動戦士ガンダム 閃光のハサウェイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crystal-sky-pictures",
+    "name": "クリスタル・スカイ・ピクチャーズ",
+    "nameKana": "クリスタルスカイピクチャーズ",
+    "description": "映画製作会社。『ゴーストライダー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Crystal Sky Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brad-grey-pictures",
+    "name": "ブラッド・グレイ・ピクチャーズ",
+    "nameKana": "ブラッドグレイピクチャーズ",
+    "description": "映画製作会社。『最終絶叫計画』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brad Grey Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gold-miller-productions",
+    "name": "ゴールド・ミラー・プロダクションズ",
+    "nameKana": "ゴールドミラープロダクションズ",
+    "description": "映画製作会社。『最終絶叫計画』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gold/Miller Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toff-guy-films",
+    "name": "トフ・ガイ・フィルムズ",
+    "nameKana": "トフガイフィルムズ",
+    "description": "映画製作会社。『キャッシュトラック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toff Guy Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "digital-frontier",
+    "name": "デジタル・フロンティア",
+    "nameKana": "デジタルフロンティア",
+    "description": "映画製作会社。『バイオハザード ダムネーション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Digital Frontier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shirogumi",
+    "name": "白組",
+    "nameKana": "しろぐみ",
+    "description": "映画製作会社。『STAND BY ME ドラえもん』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shirogumi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "second-mate-productions",
+    "name": "セカンド・メイト・プロダクションズ",
+    "nameKana": "セカンドメイトプロダクションズ",
+    "description": "映画製作会社。『パイレーツ・オブ・カリビアン／ワールド・エンド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Second Mate Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "berlanti-productions",
+    "name": "バーランティ・プロダクションズ",
+    "nameKana": "バーランティプロダクションズ",
+    "description": "映画製作会社。『フリー・ガイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Berlanti Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "21-laps-entertainment",
+    "name": "21ラップス・エンターテインメント",
+    "nameKana": "にじゅういちらっぷすえんためんと",
+    "description": "映画製作会社。『フリー・ガイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 21 Laps Entertainment。",
+    "updatedAt": "2026-08-09"
   }
 ]

@@ -497,5 +497,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gundam",
+    "name": "「機動戦士ガンダム」劇場版シリーズ",
+    "nameKana": "きどうせんしがんだむげきじょうばんしりーず",
+    "description": "富野由悠季が生んだモビルスーツによる戦争を描くアニメの劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doraemon",
+    "name": "「ドラえもん」劇場版シリーズ",
+    "nameKana": "どらえもんげきじょうばんしりーず",
+    "description": "藤子・F・不二雄の漫画を原作とする長寿劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scary-movie",
+    "name": "「最終絶叫計画」シリーズ",
+    "nameKana": "さいしゅうぜっきょうけいかくしりーず",
+    "description": "ホラー映画の名場面を片端から茶化すパロディコメディ映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cars",
+    "name": "「カーズ」シリーズ",
+    "nameKana": "かーずしりーず",
+    "description": "車が主人公の世界を舞台にしたピクサーの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
