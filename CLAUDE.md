@@ -44,6 +44,7 @@
 ## 購入リンク・画像
 
 - 購入リンクは`amazonSearchUrl(title, "Blu-ray")`(`src/ui/common/WorkCover.tsx`)の検索URLのみ。アフィリエイトタグ`izenmi-22`(姉妹サイト共通)。AffiliateNoticeはAmazonのみの表記に変更済み(楽天は本サイトでは不使用)
+- **配信リンクも検索URL方式のみ**: `netflixSearchUrl`(netflix.com/search)と`primeVideoSearchUrl`(Amazonの`i=instant-video`検索、アフィリエイトタグ有効)。作品ごとの配信有無・配信先IDはラインアップ変動で誤リンク化するため**意図的にデータ化しない**(TMDbのwatch/providersを使う案は見送り)
 - ポスターはTMDbのw500(縦長)で、既存の表紙枠CSSがそのまま合う。**Aboutページに出典と削除対応の記載+TMDb規約必須のクレジット文**(This product uses the TMDB API but is not endorsed or certified by TMDB.)を置いている
 
 ## デザイン方針

@@ -42,3 +42,15 @@ export function amazonSearchUrl(title: string, extra?: string): string {
   const params = new URLSearchParams({ k: query, tag: AMAZON_AFFILIATE_TAG });
   return `https://www.amazon.co.jp/s?${params.toString()}`;
 }
+
+/** 配信サービスへのリンクも検索URL形式のみ。作品ごとの配信有無・作品IDを持つと
+ *  ラインアップ変動で古くなる(=誤リンクになる)ため、意図的にデータ化しない。 */
+export function netflixSearchUrl(title: string): string {
+  return `https://www.netflix.com/search?q=${encodeURIComponent(title)}`;
+}
+
+/** Prime VideoはAmazonの動画カテゴリ検索(i=instant-video)。アフィリエイトタグも有効。 */
+export function primeVideoSearchUrl(title: string): string {
+  const params = new URLSearchParams({ k: title, i: "instant-video", tag: AMAZON_AFFILIATE_TAG });
+  return `https://www.amazon.co.jp/s?${params.toString()}`;
+}
