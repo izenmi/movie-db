@@ -9673,5 +9673,35 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/j8Z2iPQVavtZvtQW9a8Yy0vb9Ri.jpg",
     "matchedTitle": "クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦",
     "tmdbId": 128875
+  },
+  "spriggan": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lEu7ocS9qkNJAcauEhdzgn3CwHD.jpg",
+    "matchedTitle": "スプリガン",
+    "tmdbId": 16767
+  },
+  "freeze-me": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dXRW0EQvW8DAqixwtNKJZ7ZQWjI.jpg",
+    "matchedTitle": "フリーズ・ミー",
+    "tmdbId": 37998
+  },
+  "baby-assassins": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/o963U5RqlP8JxuWiLVcvFmBCYVr.jpg",
+    "matchedTitle": "ベイビーわるきゅーれ",
+    "tmdbId": 847143
+  },
+  "slayers-return": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gPdqgPra6orgEvkFwdkGMKiIwzk.jpg",
+    "matchedTitle": "スレイヤーズ RETURN",
+    "tmdbId": 125521
+  },
+  "the-seven-deadly-sins-prisoners-of-the-sky": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/r6pPUVUKU5eIpYj4oEzidk5ZibB.jpg",
+    "matchedTitle": "劇場版 七つの大罪 天空の囚われ人",
+    "tmdbId": 507569
+  },
+  "hotarubi-no-mori-e": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7ZTL7uAfqGygKM2gJGYm36y46NU.jpg",
+    "matchedTitle": "蛍火の杜へ",
+    "tmdbId": 92321
   }
 }

@@ -94784,5 +94784,286 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "spriggan",
+    "title": "スプリガン",
+    "titleKana": "すぷりがん",
+    "directorIds": [
+      "hirotsugu-kawasaki"
+    ],
+    "screenwriterIds": [
+      "yasutaka-ito"
+    ],
+    "studioIds": [
+      "tbs",
+      "bandai-visual"
+    ],
+    "cast": [
+      {
+        "actorId": "showtaro-morikubo",
+        "character": "御神苗優"
+      },
+      {
+        "actorId": "ken-shiroyama",
+        "character": "マイゼル博士"
+      },
+      {
+        "actorId": "takehito-koyasu",
+        "character": "ジャン・ジャクモンド"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1998,
+      "month": 9
+    },
+    "runtime": 90,
+    "originalType": "manga",
+    "synopsis": "古代文明の遺産を封印する組織アーカムに、高校生の御神苗優が所属している。トルコのアララト山で発見された方舟をめぐり、米国の機関が動き出す。強化された兵士たちとの戦いが、雪山と地下で続く。大友克洋が総監修を務めた作品にあたる。作画の密度が高く、九〇年代の劇場アニメを代表する一本とされる。",
+    "tmdbId": 16767,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "freeze-me",
+    "title": "フリーズ・ミー",
+    "titleKana": "ふりーずみー",
+    "directorIds": [
+      "takashi-ishii"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kss",
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "harumi-inoue",
+        "character": "山崎ちひろ"
+      },
+      {
+        "actorId": "shingo-tsurumi",
+        "character": "小島篤"
+      },
+      {
+        "actorId": "kazuki-kitamura",
+        "character": "広川昇"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "horror",
+      "suspense",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 5
+    },
+    "runtime": 101,
+    "originalType": "original",
+    "synopsis": "結婚を控えたちひろの前に、五年前に彼女を襲った男が現れる。仲間も次々と押しかけ、彼女の生活は一気に壊されていく。追い詰められた彼女は、ある方法で反撃に出る。石井隆監督が撮った復讐劇にあたる作品となっている。抑えた演出のなかで、追い詰められた者の選択が描かれている。井上晴美の体当たりの演技が支えとなっている。",
+    "tmdbId": 37998,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "baby-assassins",
+    "title": "ベイビーわるきゅーれ",
+    "titleKana": "べいびーわるきゅーれ",
+    "directorIds": [
+      "yugo-sakamoto"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shaiker",
+      "shibuya-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "akari-takaishi",
+        "character": "杉本ちさと"
+      },
+      {
+        "actorId": "saori-izawa",
+        "character": "深川まひろ"
+      },
+      {
+        "actorId": "mone-akitani",
+        "character": "浜岡ひまり"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "comedy",
+      "mystery",
+      "crime",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 7
+    },
+    "runtime": 95,
+    "originalType": "original",
+    "synopsis": "殺し屋の組織に所属する女子高生二人が、卒業を機に同居と就職を命じられる。人を殺す以外の生活を知らない彼女たちは、接客も家事もまるでできない。仕事と日常の落差が、そのまま可笑しみになる。実戦的な立ち回りで評判を得た作品にあたる。低予算ながら格闘描写の質が突出し、続編が複数作られている。",
+    "tmdbId": 847143,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "baby-assassins"
+  },
+  {
+    "id": "slayers-return",
+    "title": "スレイヤーズ RETURN",
+    "titleKana": "すれいやーずりたーん",
+    "directorIds": [
+      "hiroshi-watanabe"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "toei-animation",
+      "j-c-staff"
+    ],
+    "cast": [
+      {
+        "actorId": "megumi-hayashibara",
+        "character": "リナ・インバース"
+      },
+      {
+        "actorId": "maria-kawamura",
+        "character": "ナーガ"
+      },
+      {
+        "actorId": "akiko-hiramatsu",
+        "character": "サリーナ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "fantasy",
+      "adventure"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1996,
+      "month": 8
+    },
+    "runtime": 61,
+    "originalType": "lightnovel",
+    "synopsis": "魔道士リナとナーガの前に、村を襲われたという少女が現れる。発掘作業の目的は、エルフに伝わる古代の兵器だった。強欲と誤解が絡み合い、事態は大がかりな騒動へ発展する。劇場版シリーズの第二作にあたる作品となっている。リナとナーガの掛け合いが、この作品の中心を占めている。",
+    "tmdbId": 125521,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "slayers"
+  },
+  {
+    "id": "the-seven-deadly-sins-prisoners-of-the-sky",
+    "title": "劇場版 七つの大罪 天空の囚われ人",
+    "titleKana": "げきじょうばんななつのたいざいてんくうのとらわれびと",
+    "directorIds": [
+      "noriyuki-abe",
+      "yasuto-nishikata"
+    ],
+    "screenwriterIds": [
+      "makoto-uezu"
+    ],
+    "studioIds": [
+      "a-1-pictures",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "yuki-kaji",
+        "character": "メリオダス"
+      },
+      {
+        "actorId": "sora-amamiya",
+        "character": "エリザベス"
+      },
+      {
+        "actorId": "misaki-kuno",
+        "character": "ホーク"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 8
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "王国に平穏が戻った頃、メリオダスたちは幻の食材を求めて辺境へ向かう。たどり着いた天空の民の里で、封じられていた魔神が復活する。里を守る少年と少女の願いに、一行は力を貸すことになる。シリーズ初の完全新作となる劇場版にあたる。空を舞台にした戦闘描写が、この作品の見どころとなっている。",
+    "tmdbId": 507569,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "seven-deadly-sins"
+  },
+  {
+    "id": "hotarubi-no-mori-e",
+    "title": "蛍火の杜へ",
+    "titleKana": "ほたるびのもりへ",
+    "directorIds": [
+      "takahiro-omori"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "brains-base"
+    ],
+    "cast": [
+      {
+        "actorId": "izumi-sawada",
+        "character": "蛍の母"
+      },
+      {
+        "actorId": "hayato-taya",
+        "character": "涼太"
+      },
+      {
+        "actorId": "ayane-sakura",
+        "character": "竹川蛍"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "fantasy",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 9
+    },
+    "runtime": 45,
+    "originalType": "manga",
+    "synopsis": "山神の森で迷った少女蛍が、狐の面をつけた少年ギンに助けられる。人に触れると消えてしまう体だと知り、二人は距離を保ったまま毎夏を重ねる。彼女が成長するほど、その約束は重くなっていく。四十五分の中編として作られた作品にあたる。淡い色彩と静かな語り口が、短い尺に強い余韻を残している。",
+    "tmdbId": 92321,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
