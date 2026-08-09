@@ -9358,5 +9358,446 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Walter Hill。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "morio-asaka",
+    "name": "浅香守生",
+    "nameKana": "あさかもりお",
+    "description": "映画監督。『劇場版 カードキャプターさくら』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Morio Asaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nanase-okawa",
+    "name": "大川七瀬",
+    "nameKana": "おおかわななせ",
+    "description": "脚本家。『劇場版 カードキャプターさくら』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nanase Okawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "krysty-wilson-cairns",
+    "name": "クリスティ・ウィルソン=ケアンズ",
+    "nameKana": "うぃそんあいん",
+    "description": "脚本家。『1917 命をかけた伝令』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Krysty Wilson-Cairns。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pierre-morel",
+    "name": "ピエール・モレル",
+    "nameKana": "ピエールモレル",
+    "description": "映画監督。『96時間』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pierre Morel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roger-kumble",
+    "name": "ロジャー・カンブル",
+    "nameKana": "ロジャーカンブル",
+    "description": "映画監督。『アフター －壊れる絆－』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roger Kumble。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anna-todd",
+    "name": "アンナ・トッド",
+    "nameKana": "アンナトッド",
+    "description": "脚本家。『アフター －壊れる絆－』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anna Todd。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mario-celaya",
+    "name": "マリオ・セラヤ",
+    "nameKana": "マリオセラヤ",
+    "description": "脚本家。『アフター －壊れる絆－』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mario Celaya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takuya-igarashi",
+    "name": "五十嵐卓哉",
+    "nameKana": "いがらしたくや",
+    "description": "映画監督。『文豪ストレイドッグス DEAD APPLE』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takuya Igarashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-glazer",
+    "name": "ジョナサン・グレイザー",
+    "nameKana": "ジョナサングレイザー",
+    "description": "映画監督・脚本家。『関心領域』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan Glazer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sj-clarkson",
+    "name": "S・J・クラークソン",
+    "nameKana": "らそん",
+    "description": "映画監督・脚本家。『マダム・ウェブ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SJ Clarkson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "claire-parker",
+    "name": "クレア・パーカー",
+    "nameKana": "クレアパーカー",
+    "description": "脚本家。『マダム・ウェブ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Claire Parker。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "clyde-geronimi",
+    "name": "クライド・ジェロニミ",
+    "nameKana": "クライドジェロニミ",
+    "description": "映画監督。『眠れる森の美女』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Clyde Geronimi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "erdman-penner",
+    "name": "アードマン・ペナー",
+    "nameKana": "アードマンペナー",
+    "description": "脚本家。『眠れる森の美女』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Erdman Penner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matthew-vaughn",
+    "name": "マシュー・ヴォーン",
+    "nameKana": "マシューヴォーン",
+    "description": "映画監督・脚本家。『キングスマン』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matthew Vaughn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jane-goldman",
+    "name": "ジェーン・ゴールドマン",
+    "nameKana": "ジェーンゴールドマン",
+    "description": "脚本家。『キングスマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jane Goldman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shawn-wayans",
+    "name": "ショーン・ウェイアンズ",
+    "nameKana": "ショーンウェイアンズ",
+    "description": "脚本家。『最'新'絶叫計画』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shawn Wayans。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jordan-vogt-roberts",
+    "name": "ジョーダン・ヴォート＝ロバーツ",
+    "nameKana": "ゔぉろべじょだん",
+    "description": "映画監督。『キングコング：髑髏島の巨神』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jordan Vogt-Roberts。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "max-borenstein",
+    "name": "マックス・ボレンスタイン",
+    "nameKana": "マックスボレンスタイン",
+    "description": "脚本家。『キングコング：髑髏島の巨神』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Max Borenstein。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michihito-fujii",
+    "name": "藤井道人",
+    "nameKana": "ふじいみちひと",
+    "description": "映画監督。『余命10年』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michihito Fujii。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshikazu-okada",
+    "name": "岡田惠和",
+    "nameKana": "おかだよしかず",
+    "description": "脚本家。『余命10年』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshikazu Okada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-mckay",
+    "name": "クリス・マッケイ",
+    "nameKana": "クリスマッケイ",
+    "description": "映画監督。『トゥモロー・ウォー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris McKay。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-f-sandberg",
+    "name": "デヴィッド・F・サンドバーグ",
+    "nameKana": "さんべだゔぃ",
+    "description": "映画監督。『アナベル 死霊人形の誕生』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David F. Sandberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tony-kaye",
+    "name": "トニー・ケイ",
+    "nameKana": "トニーケイ",
+    "description": "映画監督。『アメリカン・ヒストリーX』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tony Kaye。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-mckenna",
+    "name": "デヴィッド・マッケンナ",
+    "nameKana": "デヴィッドマッケンナ",
+    "description": "脚本家。『アメリカン・ヒストリーX』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David McKenna。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "setsuro-wakamatsu",
+    "name": "若松節朗",
+    "nameKana": "わかまつせつろ",
+    "description": "映画監督。『Fukushima 50』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Setsuro Wakamatsu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoichi-maekawa",
+    "name": "前川洋一",
+    "nameKana": "まえかわよいち",
+    "description": "脚本家。『Fukushima 50』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoichi Maekawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nobuaki-kishima",
+    "name": "岸間信明",
+    "nameKana": "きしまのぶあき",
+    "description": "脚本家。『映画ドラえもん のび太と翼の勇者たち』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nobuaki Kishima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "park-hoon-jung",
+    "name": "パク・フンジョン",
+    "nameKana": "パクフンジョン",
+    "description": "映画監督・脚本家。『THE WITCH／魔女 -増殖-』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Park Hoon-jung。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sergio-donati",
+    "name": "セルジオ・ドナーティ",
+    "nameKana": "セルジオドナーティ",
+    "description": "脚本家。『ウエスタン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sergio Donati。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gavin-oconnor",
+    "name": "ギャヴィン・オコナー",
+    "nameKana": "ギャヴィンオコナー",
+    "description": "映画監督。『ザ・コンサルタント2』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gavin O'Connor。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bill-dubuque",
+    "name": "ビル・ドゥビューク",
+    "nameKana": "ビルドゥビューク",
+    "description": "脚本家。『ザ・コンサルタント2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bill Dubuque。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuichi-fukuda",
+    "name": "福田雄一",
+    "nameKana": "ふくだゆいち",
+    "description": "映画監督・脚本家。『赤ずきん、旅の途中で死体と出会う。』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuichi Fukuda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuo-kamata",
+    "name": "鎌田哲生",
+    "nameKana": "かまたてつお",
+    "description": "脚本家。『赤ずきん、旅の途中で死体と出会う。』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuo Kamata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoko-kuno",
+    "name": "久野遥子",
+    "nameKana": "くのよこ",
+    "description": "映画監督。『化け猫あんずちゃん』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoko Kuno。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nobuhiro-yamashita",
+    "name": "山下敦弘",
+    "nameKana": "やましたのぶひろ",
+    "description": "映画監督。『化け猫あんずちゃん』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nobuhiro Yamashita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinji-imaoka",
+    "name": "今岡信治",
+    "nameKana": "いまおかしんじ",
+    "description": "脚本家。『化け猫あんずちゃん』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinji Imaoka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jesse-eisenberg",
+    "name": "ジェシー・アイゼンバーグ",
+    "nameKana": "ジェシーアイゼンバーグ",
+    "description": "映画監督・脚本家。『リアル・ペイン〜心の旅〜』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jesse Eisenberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-turman",
+    "name": "ジョン・ターマン",
+    "nameKana": "ジョンターマン",
+    "description": "脚本家。『ハルク』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Turman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshinobu-yamakawa",
+    "name": "山川吉樹",
+    "nameKana": "やまかわよしのぶ",
+    "description": "映画監督・脚本家。『HELLS』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshinobu Yamakawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "darren-lynn-bousman",
+    "name": "ダーレン・リン・バウズマン",
+    "nameKana": "ダーレンリンバウズマン",
+    "description": "映画監督・脚本家。『ソウ2』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Darren Lynn Bousman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leigh-whannell",
+    "name": "リー・ワネル",
+    "nameKana": "リーワネル",
+    "description": "脚本家。『ソウ2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leigh Whannell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-crichton",
+    "name": "マイケル・クライトン",
+    "nameKana": "マイケルクライトン",
+    "description": "脚本家。『ジュラシック・パーク』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Crichton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "satoshi-kuwabara",
+    "name": "桑原智",
+    "nameKana": "くわばらさとし",
+    "description": "映画監督。『遊☆戯☆王 THE DARK SIDE OF DIMENSIONS』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Satoshi Kuwabara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masahiro-hikokubo",
+    "name": "彦久保雅博",
+    "nameKana": "ひこくぼまさひろ",
+    "description": "脚本家。『遊☆戯☆王 THE DARK SIDE OF DIMENSIONS』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masahiro Hikokubo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuki-takahashi",
+    "name": "高橋和希",
+    "nameKana": "たかはしかずき",
+    "description": "脚本家。『遊☆戯☆王 THE DARK SIDE OF DIMENSIONS』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuki Takahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masashi-sogo",
+    "name": "十川誠志",
+    "nameKana": "そごまさし",
+    "description": "脚本家。『劇場版 BLEACH MEMORIES OF NOBODY』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masashi Sogo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "al-reinert",
+    "name": "アル・ライナート",
+    "nameKana": "アルライナート",
+    "description": "脚本家。『アポロ13』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Al Reinert。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "teruko-utsumi",
+    "name": "内海照子",
+    "nameKana": "うつみてるこ",
+    "description": "脚本家。『映画ドラえもん のび太の地球交響楽』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Teruko Utsumi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takaharu-ozaki",
+    "name": "尾崎隆晴",
+    "nameKana": "おざきたかはる",
+    "description": "映画監督。『ゴブリンスレイヤー -GOBLIN'S CROWN-』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takaharu Ozaki。",
+    "updatedAt": "2026-08-09"
   }
 ]

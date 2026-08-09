@@ -947,5 +947,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saw",
+    "name": "「ソウ」シリーズ",
+    "nameKana": "そうしりーず",
+    "description": "ジグソウが仕掛ける死の遊戯を描くホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "annabelle",
+    "name": "「アナベル」シリーズ",
+    "nameKana": "あなべるしりーず",
+    "description": "「死霊館」から派生した呪いの人形アナベルを描くホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kingsman",
+    "name": "「キングスマン」シリーズ",
+    "nameKana": "きんぐすまんしりーず",
+    "description": "英国の秘密スパイ組織を描くアクション・コメディ映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "after",
+    "name": "「アフター」シリーズ",
+    "nameKana": "あふたーしりーず",
+    "description": "大学生テッサと問題児ハーディンの恋を描く恋愛映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
