@@ -21703,5 +21703,1925 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "seriesId": "doraemon"
+  },
+  {
+    "id": "elemental",
+    "title": "マイ・エレメント",
+    "titleKana": "まいえれめんと",
+    "directorIds": [
+      "peter-sohn"
+    ],
+    "screenwriterIds": [
+      "john-hoberg",
+      "brenda-hsueh"
+    ],
+    "studioIds": [
+      "pixar"
+    ],
+    "cast": [
+      {
+        "actorId": "leah-lewis",
+        "character": "エンバー"
+      },
+      {
+        "actorId": "mamoudou-athie",
+        "character": "ウェイド"
+      },
+      {
+        "actorId": "ronnie-del-carmen",
+        "character": "バーニー"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "romance",
+      "fantasy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 8
+    },
+    "runtime": 102,
+    "originalType": "original",
+    "synopsis": "火、水、土、風の四つの元素が住民として暮らす街エレメント・シティ。火の一族の娘エンバーは、父の店を継ぐことを期待されながら、短気な自分に苛立っていた。水漏れの検査で訪れた役人ウェイドと出会い、触れれば互いに危険な二人は少しずつ惹かれ合う。移民の子として親の願いと自分の望みの間で揺れる姿が、寓話の形で描かれる。",
+    "tmdbId": 976573,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Elemental"
+  },
+  {
+    "id": "fifty-shades-of-grey",
+    "title": "フィフティ・シェイズ・オブ・グレイ",
+    "titleKana": "ふぃふてぃしぇいずおぶぐれい",
+    "directorIds": [
+      "sam-taylor-johnson"
+    ],
+    "screenwriterIds": [
+      "kelly-marcel"
+    ],
+    "studioIds": [
+      "universal",
+      "focus-features"
+    ],
+    "cast": [
+      {
+        "actorId": "dakota-johnson",
+        "character": "アナスタシア・スティール"
+      },
+      {
+        "actorId": "jamie-dornan",
+        "character": "クリスチャン・グレイ"
+      },
+      {
+        "actorId": "jennifer-ehle",
+        "character": "カーラ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "suspense"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 2
+    },
+    "runtime": 125,
+    "originalType": "novel",
+    "synopsis": "大学生アナスタシアは、学生新聞の代理取材で若き実業家クリスチャン・グレイに会う。完璧に見える彼には、支配と従属の関係を求める性癖と、それを契約書で取り決めるという流儀があった。惹かれながらも条件を飲めないアナは、彼の内側にある傷に近づいていく。ベストセラー小説の映画化で、続編二作が作られた。",
+    "tmdbId": 216015,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fifty Shades of Grey",
+    "seriesId": "fifty-shades"
+  },
+  {
+    "id": "the-magnificent-seven",
+    "title": "荒野の七人",
+    "titleKana": "こうやのしちにん",
+    "directorIds": [
+      "john-sturges"
+    ],
+    "screenwriterIds": [
+      "william-roberts",
+      "walter-bernstein"
+    ],
+    "studioIds": [
+      "alpha-productions",
+      "the-mirisch-company"
+    ],
+    "cast": [
+      {
+        "actorId": "yul-brynner",
+        "character": "クリス・アダムス"
+      },
+      {
+        "actorId": "eli-wallach",
+        "character": "カルベラ"
+      },
+      {
+        "actorId": "steve-mcqueen",
+        "character": "ヴィン"
+      }
+    ],
+    "themeIds": [
+      "western",
+      "action",
+      "adventure",
+      "human-drama",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1961,
+      "month": 5
+    },
+    "runtime": 128,
+    "originalType": "other",
+    "synopsis": "野盗に収穫を奪われ続けるメキシコの村人たちが、なけなしの銭を持って国境を越え、腕の立つガンマンを雇いに出る。集まったのは、事情も動機もばらばらな七人の流れ者だった。村人に戦い方を教えながら砦を築き、圧倒的な数の敵を迎え撃つ。黒澤明の『七人の侍』を西部劇として翻案した作品で、主題曲も広く知られる。",
+    "tmdbId": 966,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Magnificent Seven"
+  },
+  {
+    "id": "100-meters",
+    "title": "ひゃくえむ。",
+    "titleKana": "ひゃくえむ",
+    "directorIds": [
+      "kenji-iwaisawa"
+    ],
+    "screenwriterIds": [
+      "yasuyuki-muto"
+    ],
+    "studioIds": [
+      "pony-canyon",
+      "asmik-ace"
+    ],
+    "cast": [
+      {
+        "actorId": "tori-matsuzaka",
+        "character": "トガシ"
+      },
+      {
+        "actorId": "shota-sometani",
+        "character": "小宮"
+      },
+      {
+        "actorId": "yuma-uchida",
+        "character": "蒲木"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sports",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 9
+    },
+    "runtime": 106,
+    "originalType": "manga",
+    "synopsis": "生まれつき足が速く、走ることで居場所を得てきたトガシ。転校生の小宮は、辛い現実から逃れるようにがむしゃらに走っていた。トガシの手ほどきで才能を開花させた小宮は、やがて彼を追い越し、二人は競技者として長い年月をぶつけ合う。百メートルという十秒足らずの世界に人生を賭ける者たちを描いた長編アニメ。",
+    "tmdbId": 1295026,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-boy-and-the-beast",
+    "title": "バケモノの子",
+    "titleKana": "ばけもののこ",
+    "directorIds": [
+      "mamoru-hosoda"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "nippon-television-network-corporation",
+      "studio-chizu"
+    ],
+    "cast": [
+      {
+        "actorId": "koji-yakusho",
+        "character": "熊徹"
+      },
+      {
+        "actorId": "aoi-miyazaki",
+        "character": "幼い九太"
+      },
+      {
+        "actorId": "shota-sometani",
+        "character": "少年期の九太"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "human-drama",
+      "family",
+      "fantasy",
+      "coming-of-age"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 7
+    },
+    "runtime": 119,
+    "originalType": "original",
+    "synopsis": "母を失い居場所をなくした少年が、渋谷の路地からバケモノたちの世界へ迷い込む。粗暴で不器用な熊徹の弟子となった彼は、九太と名づけられ、稽古と喧嘩の日々を送る。人間の世界へ戻り高校生の楓と出会ったことで、二つの世界の間で自分の在り方を問われる。血のつながらない親子の物語として描かれる。",
+    "tmdbId": 315465,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "die-hard",
+    "title": "ダイ・ハード",
+    "titleKana": "だいはーど",
+    "directorIds": [
+      "john-mctiernan"
+    ],
+    "screenwriterIds": [
+      "jeb-stuart",
+      "steven-e-de-souza"
+    ],
+    "studioIds": [
+      "gordon-company",
+      "silver-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "bruce-willis",
+        "character": "ジョン・マクレーン"
+      },
+      {
+        "actorId": "alan-rickman",
+        "character": "ハンス・グルーバー"
+      },
+      {
+        "actorId": "alexander-godunov",
+        "character": "カール"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "christmas",
+      "survival",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 2
+    },
+    "runtime": 131,
+    "originalType": "novel",
+    "synopsis": "クリスマスイブ、別居中の妻を訪ねてロサンゼルスの高層ビルを訪れたニューヨーク市警のマクレーン。パーティーの最中に武装集団がビルを占拠し、彼は靴も履かないまま非常階段へ逃れる。無線で外の警察とやり取りしながら、たった一人でテロリストを削っていく。アクション映画の型を作った記念碑的な一作。",
+    "tmdbId": 562,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Die Hard"
+  },
+  {
+    "id": "jumanji-the-next-level",
+    "title": "ジュマンジ／ネクスト・レベル",
+    "titleKana": "じゅまんじねくすとれべる",
+    "directorIds": [
+      "jake-kasdan"
+    ],
+    "screenwriterIds": [
+      "scott-rosenberg",
+      "jeff-pinkner"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "seven-bucks-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "dwayne-johnson",
+        "character": "ブレイブストーン博士"
+      },
+      {
+        "actorId": "kevin-hart",
+        "character": "フィンバー"
+      },
+      {
+        "actorId": "jack-black",
+        "character": "オベロン教授"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "fantasy",
+      "game-world"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 12
+    },
+    "runtime": 123,
+    "originalType": "original",
+    "synopsis": "壊したはずのゲーム機を修理したことで、四人は再びジュマンジの世界に引き込まれる。しかも今回は祖父とその旧友まで巻き込まれ、中身と外見がちぐはぐな状態で冒険が始まる。砂漠と雪山を越えて宝石を返すという課題に、老人の体と若者の体が入り混じったまま挑む。前作の趣向をずらして笑いを増やした続編。",
+    "tmdbId": 512200,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Jumanji: The Next Level",
+    "seriesId": "jumanji"
+  },
+  {
+    "id": "fall",
+    "title": "FALL／フォール",
+    "titleKana": "ふぉーる",
+    "directorIds": [
+      "scott-mann"
+    ],
+    "screenwriterIds": [
+      "jonathan-frank"
+    ],
+    "studioIds": [
+      "tea-shop-productions",
+      "capstone-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "grace-caroline-currey",
+        "character": "ベッキー・コナー"
+      },
+      {
+        "actorId": "virginia-gardner",
+        "character": "シャイロ・ハンター"
+      },
+      {
+        "actorId": "mason-gooding",
+        "character": "ダン・コナー"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 2
+    },
+    "runtime": 107,
+    "originalType": "original",
+    "synopsis": "夫を登山事故で失い立ち直れずにいたベッキーは、親友ハンターに誘われ、砂漠に建つ六百メートルの廃電波塔に登る。頂上に着いた直後に梯子が崩落し、二人は狭い足場に取り残される。水も電波も届かない高所で、体力と正気を削られながら助けを呼ぶ手段を探す。ほぼ塔の上だけで進む閉所ならぬ高所のサスペンス。",
+    "tmdbId": 985939,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fall"
+  },
+  {
+    "id": "helter-skelter",
+    "title": "ヘルタースケルター",
+    "titleKana": "へるたーすけるたー",
+    "directorIds": [
+      "mika-ninagawa"
+    ],
+    "screenwriterIds": [
+      "arisa-kaneko"
+    ],
+    "studioIds": [
+      "wowow-films",
+      "parco"
+    ],
+    "cast": [
+      {
+        "actorId": "erika-sawajiri",
+        "character": "りりこ"
+      },
+      {
+        "actorId": "nao-omori",
+        "character": "麻田検事"
+      },
+      {
+        "actorId": "shinobu-terajima",
+        "character": "羽田美知子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "horror",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 7
+    },
+    "runtime": 127,
+    "originalType": "manga",
+    "synopsis": "全身を作り替える整形手術で頂点に立ったモデルのりりこは、若い後輩の台頭と副作用に追い詰められていく。所属事務所は彼女を商品として管理し、恋人も取り巻きも都合よく消費される。壊れていく身体と精神を、極彩色の美術と過剰な照明で描く。岡崎京子の漫画を蜷川実花が映画化した作品。",
+    "tmdbId": 104524,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kokuho",
+    "title": "国宝",
+    "titleKana": "こくほう",
+    "directorIds": [
+      "sang-il-lee"
+    ],
+    "screenwriterIds": [
+      "satoko-okudera"
+    ],
+    "studioIds": [
+      "toho",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "ryo-yoshizawa",
+        "character": "立花喜久雄"
+      },
+      {
+        "actorId": "ryusei-yokohama",
+        "character": "大垣俊介"
+      },
+      {
+        "actorId": "mitsuki-takahata",
+        "character": "福田春江"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "music",
+      "biography"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 6
+    },
+    "runtime": 174,
+    "originalType": "novel",
+    "synopsis": "任侠の家に生まれ、抗争で父を失った少年喜久雄は、上方歌舞伎の名門に引き取られる。血筋を持つ俊介と芸を競い合いながら、二人は舞台の上で高め合い、また互いを追い詰めていく。血と才能のどちらが芸を継ぐのかという問いを軸に、半世紀に及ぶ役者人生が描かれる。歌舞伎の場面を長回しで捉えた大作。",
+    "tmdbId": 1379266,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taxi-driver",
+    "title": "タクシードライバー",
+    "titleKana": "たくしーどらいばー",
+    "directorIds": [
+      "martin-scorsese"
+    ],
+    "screenwriterIds": [
+      "paul-schrader"
+    ],
+    "studioIds": [
+      "bill-phillips-productions",
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-de-niro",
+        "character": "トラヴィス・ビックル"
+      },
+      {
+        "actorId": "jodie-foster",
+        "character": "アイリス"
+      },
+      {
+        "actorId": "cybill-shepherd",
+        "character": "ベッツィ"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "social",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1976,
+      "month": 9
+    },
+    "runtime": 114,
+    "originalType": "original",
+    "synopsis": "ベトナム帰りで不眠に苦しむトラヴィスは、夜のニューヨークをタクシーで流しながら、街に溢れる汚れへの憎悪を募らせていく。選挙運動員の女性に振られ、少女娼婦のアイリスと出会った彼は、自分を英雄に仕立てる計画を立てはじめる。孤独が暴力へ転じる過程を克明に追い、アメリカ映画の転換点となった一作。",
+    "tmdbId": 103,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Taxi Driver"
+  },
+  {
+    "id": "once-upon-a-time-in-hollywood",
+    "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+    "titleKana": "わんすあぽんあたいむいんはりうっど",
+    "directorIds": [
+      "quentin-tarantino"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "heyday-films",
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "leonardo-dicaprio",
+        "character": "リック・ダルトン"
+      },
+      {
+        "actorId": "brad-pitt",
+        "character": "クリフ・ブース"
+      },
+      {
+        "actorId": "margot-robbie",
+        "character": "シャロン・テート"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "suspense",
+      "filmmaking",
+      "true-story",
+      "buddy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 8
+    },
+    "runtime": 162,
+    "originalType": "original",
+    "synopsis": "一九六九年のハリウッド。落ち目のテレビ俳優リックと、彼のスタントマン兼運転手クリフは、変わりゆく業界で居場所を探していた。隣家には新進の女優シャロン・テートが越してきており、物語は実際に起きた事件の日へ向かう。歴史をずらした結末と、当時の街並みの再現が語り草になっている。",
+    "tmdbId": 466272,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Once Upon a Time... in Hollywood"
+  },
+  {
+    "id": "kingdom-of-heaven",
+    "title": "キングダム・オブ・ヘブン",
+    "titleKana": "きんぐだむおぶへぶん",
+    "directorIds": [
+      "ridley-scott"
+    ],
+    "screenwriterIds": [
+      "william-monahan"
+    ],
+    "studioIds": [
+      "scott-free-productions",
+      "bk"
+    ],
+    "cast": [
+      {
+        "actorId": "orlando-bloom",
+        "character": "バリアン"
+      },
+      {
+        "actorId": "eva-green",
+        "character": "シビラ"
+      },
+      {
+        "actorId": "jeremy-irons",
+        "character": "ティベリアス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "action",
+      "adventure",
+      "history",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 5
+    },
+    "runtime": 144,
+    "originalType": "original",
+    "synopsis": "妻子を失った鍛冶職人バリアンは、実の父と名乗る騎士に導かれてエルサレムへ渡る。異なる信仰が共存していた王国で領地を任された彼は、和平を保とうとする王と、聖戦を叫ぶ強硬派の間に立たされる。サラディン率いる大軍に包囲された都市を守るため、彼は民の命だけを条件に交渉する。",
+    "tmdbId": 1495,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Kingdom of Heaven"
+  },
+  {
+    "id": "naruto-shippuden-the-movie-the-lost-tower",
+    "title": "劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー",
+    "titleKana": "げきじょうばんなるとしっぷうでんざろすとたわー",
+    "directorIds": [
+      "masahiko-murata"
+    ],
+    "screenwriterIds": [
+      "junki-takegami"
+    ],
+    "studioIds": [
+      "toho",
+      "tv-tokyo"
+    ],
+    "cast": [
+      {
+        "actorId": "junko-takeuchi",
+        "character": "うずまきナルト"
+      },
+      {
+        "actorId": "kazuhiko-inoue",
+        "character": "はたけカカシ"
+      },
+      {
+        "actorId": "toshiyuki-morikawa",
+        "character": "波風ミナト"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "time-travel",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 7
+    },
+    "runtime": 85,
+    "originalType": "manga",
+    "synopsis": "抜け忍を追って古代都市の廃墟へ向かったナルトは、龍脈の力で二十年前の世界へ飛ばされる。そこで出会った若き四代目火影ミナトと共に任務にあたるうち、目の前の相手が自分の父だと知らないまま並んで戦うことになる。時代の異なる親子の共闘が、この作品の核心となっている。時代を越えた血の継承という主題が、短い尺の中で強く印象づけられる。",
+    "tmdbId": 50723,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "naruto"
+  },
+  {
+    "id": "resident-evil-degeneration",
+    "title": "バイオハザード ディジェネレーション",
+    "titleKana": "ばいおはざーどでぃじぇねれーしょん",
+    "directorIds": [
+      "makoto-kamiya"
+    ],
+    "screenwriterIds": [
+      "shoutarou-suga"
+    ],
+    "studioIds": [
+      "capcom",
+      "sony-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "paul-mercier",
+        "character": "レオン・S・ケネディ"
+      },
+      {
+        "actorId": "alyson-court",
+        "character": "クレア・レッドフィールド"
+      },
+      {
+        "actorId": "laura-bailey",
+        "character": "アンジェラ・ミラー"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "action",
+      "sf",
+      "zombie",
+      "survival"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2008,
+      "month": 10
+    },
+    "runtime": 97,
+    "originalType": "game",
+    "synopsis": "空港で一人の感染者が現れ、瞬く間にゾンビが溢れる大惨事となる。居合わせたクレアと、政府から派遣されたレオンは、生存者の救出と事件の背後にいる製薬会社の追及に動く。ラクーンシティの記憶を引きずる二人が、新たなウイルスの脅威に向き合う。ゲーム本編の間を描いた最初のフルCG長編。",
+    "tmdbId": 13648,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "resident-evil"
+  },
+  {
+    "id": "groundhog-day",
+    "title": "恋はデジャ・ブ",
+    "titleKana": "こいはでじゃぶ",
+    "directorIds": [
+      "harold-ramis"
+    ],
+    "screenwriterIds": [
+      "danny-rubin"
+    ],
+    "studioIds": [
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "bill-murray",
+        "character": "フィル・コナーズ"
+      },
+      {
+        "actorId": "andie-macdowell",
+        "character": "リタ・ハンソン"
+      },
+      {
+        "actorId": "chris-elliott",
+        "character": "ラリー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "fantasy",
+      "comedy",
+      "time-travel"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 2
+    },
+    "runtime": 101,
+    "originalType": "original",
+    "synopsis": "皮肉屋の天気予報士フィルは、田舎町の祭りを取材した翌朝、同じ二月二日を再び生きていることに気づく。何度死んでも同じ朝に戻る繰り返しのなかで、彼は享楽と絶望を経て、ピアノや氷像や人助けに時間を使いはじめる。同じ一日を素材に人が変わる物語で、繰り返し構造の代表例として語られる。",
+    "tmdbId": 137,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Groundhog Day"
+  },
+  {
+    "id": "midsommar",
+    "title": "ミッドサマー",
+    "titleKana": "みっどさまー",
+    "directorIds": [
+      "ari-aster"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "b-reel-films",
+      "square-peg"
+    ],
+    "cast": [
+      {
+        "actorId": "florence-pugh",
+        "character": "ダニ"
+      },
+      {
+        "actorId": "jack-reynor",
+        "character": "クリスチャン"
+      },
+      {
+        "actorId": "william-jackson-harper",
+        "character": "ジョシュ"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "human-drama",
+      "mystery",
+      "social",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2020,
+      "month": 2
+    },
+    "runtime": 147,
+    "originalType": "original",
+    "synopsis": "家族を惨事で失ったダニは、心の距離が開いた恋人らとともに、スウェーデン奥地で九十年に一度開かれる祝祭を訪れる。白夜の下、花に囲まれた村では、明るい光のなかで理解しがたい儀式が続く。逃げ場のない共同体で、悲しみを分かち合うという行為が異様な形をとる。昼のホラーとして注目を集めた作品。",
+    "tmdbId": 530385,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Midsommar"
+  },
+  {
+    "id": "despicable-me-2",
+    "title": "怪盗グルーのミニオン危機一発",
+    "titleKana": "かいとうぐるーのみにおんききいっぱつ",
+    "directorIds": [
+      "pierre-coffin",
+      "chris-renaud"
+    ],
+    "screenwriterIds": [
+      "ken-daurio",
+      "cinco-paul"
+    ],
+    "studioIds": [
+      "illumination",
+      "universal"
+    ],
+    "cast": [
+      {
+        "actorId": "steve-carell",
+        "character": "グルー"
+      },
+      {
+        "actorId": "kristen-wiig",
+        "character": "ルーシー"
+      },
+      {
+        "actorId": "benjamin-bratt",
+        "character": "エドゥアルド"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "sf",
+      "spy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 9
+    },
+    "runtime": 98,
+    "originalType": "original",
+    "synopsis": "悪党を引退し三姉妹の父として暮らすグルーは、反悪党同盟にスカウトされ、捜査官ルーシーと組むことになる。ショッピングモールに潜む元悪党を探すうち、ミニオンたちが次々に誘拐されていく。育児と任務と初めての恋を同時にこなす羽目になったグルーの奮闘が描かれる。シリーズの人気を決定づけた第二作。",
+    "tmdbId": 93456,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Despicable Me 2",
+    "seriesId": "despicable-me"
+  },
+  {
+    "id": "the-garden-of-words",
+    "title": "言の葉の庭",
+    "titleKana": "ことのはのにわ",
+    "directorIds": [
+      "makoto-shinkai"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "comix-wave-films"
+    ],
+    "cast": [
+      {
+        "actorId": "miyu-irino",
+        "character": "秋月孝雄"
+      },
+      {
+        "actorId": "kana-hanazawa",
+        "character": "雪野百香里"
+      },
+      {
+        "actorId": "fumi-hirano",
+        "character": "孝雄の母"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 5
+    },
+    "runtime": 46,
+    "originalType": "original",
+    "synopsis": "雨の朝だけ学校をさぼり、公園の日本庭園で靴の絵を描く高校生タカオ。同じ場所でビールを飲む年上の女性ユキノと、言葉少なに時間を共有するようになる。歩けなくなった彼女に靴を作ると約束したタカオは、やがて彼女の抱える事情を知る。雨の描写に力を注いだ四十六分の中編。歩くこと、作ることを通じて前に進む姿が、静かな余韻を残す。",
+    "tmdbId": 198375,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naruto-shippuden-the-movie-blood-prison",
+    "title": "劇場版 NARUTO -ナルト- ブラッド・プリズン",
+    "titleKana": "げきじょうばんなるとぶらっどぷりずん",
+    "directorIds": [
+      "masahiko-murata"
+    ],
+    "screenwriterIds": [
+      "akira-higashiyama"
+    ],
+    "studioIds": [
+      "aniplex",
+      "densetsu"
+    ],
+    "cast": [
+      {
+        "actorId": "junko-takeuchi",
+        "character": "うずまきナルト"
+      },
+      {
+        "actorId": "mie-sonozaki",
+        "character": "リュウゼツ"
+      },
+      {
+        "actorId": "masaki-terasoma",
+        "character": "ムイ"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "action",
+      "comedy",
+      "horror",
+      "mystery",
+      "prison"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 7
+    },
+    "runtime": 108,
+    "originalType": "manga",
+    "synopsis": "雷影暗殺未遂の罪を着せられたナルトは、術を封じられる監獄・鬼灯城に投獄される。無実を訴えても届かないなか、城の主が抱える目的と、脱獄を狙う囚人たちの思惑が交錯する。囚われた者の視点から描かれる異色の劇場版で、ナルト自身の死の予感も影を落とす。仲間と離れた状況で、ナルトの信念だけが試される構成になっている。",
+    "tmdbId": 75624,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "naruto"
+  },
+  {
+    "id": "the-croods",
+    "title": "クルードさんちのはじめての冒険",
+    "titleKana": "くるーどさんちのはじめてのぼうけん",
+    "directorIds": [
+      "chris-sanders",
+      "kirk-demicco"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "dreamworks-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "nicolas-cage",
+        "character": "グラグ"
+      },
+      {
+        "actorId": "emma-stone",
+        "character": "イープ"
+      },
+      {
+        "actorId": "ryan-reynolds",
+        "character": "ガイ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "comedy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 11
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "洞窟から出ないことを掟に生き延びてきた原始時代の一家。好奇心旺盛な長女イープが外の世界を知る青年ガイと出会い、地殻変動で住処を失った一家は移動を余儀なくされる。恐れることで守ってきた父と、考えることで進もうとする若者。価値観の衝突が旅の推進力になる。原始の生き物を大胆に創作した美術と、家族の賑やかさが持ち味となる。",
+    "tmdbId": 49519,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Croods"
+  },
+  {
+    "id": "five-nights-at-freddys-2",
+    "title": "ファイブ・ナイツ・アット・フレディーズ２",
+    "titleKana": "ふぁいぶないつあっとふれでぃーずつー",
+    "directorIds": [
+      "emma-tammi"
+    ],
+    "screenwriterIds": [
+      "scott-cawthon"
+    ],
+    "studioIds": [
+      "blumhouse-productions",
+      "scott-cawthon-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "josh-hutcherson",
+        "character": "マイク"
+      },
+      {
+        "actorId": "piper-rubio",
+        "character": "アビー"
+      },
+      {
+        "actorId": "elizabeth-lail",
+        "character": "ヴァネッサ"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "suspense",
+      "game-world",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2026,
+      "month": 1
+    },
+    "runtime": 104,
+    "originalType": "game",
+    "synopsis": "廃業したピザレストランの惨事から一年、警備員だったマイクは日常を取り戻しつつあった。だが妹アビーはマスコットたちを友達として恋しがり、不思議な声に導かれて再び店へ向かう。動き出す着ぐるみと、その中に囚われた子どもたちの因縁が明らかになる。人気ホラーゲームの実写化第二作。",
+    "tmdbId": 1228246,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Five Nights at Freddy's 2",
+    "seriesId": "five-nights-at-freddys"
+  },
+  {
+    "id": "captain-america-the-first-avenger",
+    "title": "キャプテン・アメリカ／ザ・ファースト・アベンジャー",
+    "titleKana": "きゃぷてんあめりかざふぁーすとあべんじゃー",
+    "directorIds": [
+      "joe-johnston"
+    ],
+    "screenwriterIds": [
+      "christopher-markus",
+      "stephen-mcfeely"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "marvel-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-evans",
+        "character": "キャプテン・アメリカ"
+      },
+      {
+        "actorId": "hayley-atwell",
+        "character": "ペギー・カーター"
+      },
+      {
+        "actorId": "sebastian-stan",
+        "character": "バッキー・バーンズ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "war",
+      "history"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 10
+    },
+    "runtime": 124,
+    "originalType": "manga",
+    "synopsis": "虚弱な体ゆえに何度も入隊を拒まれたスティーブ・ロジャースは、その真っ直ぐな性根を見込まれ超人血清の被験者となる。宣伝用の見世物として扱われた彼は、捕虜となった親友を救うため単身敵地へ乗り込む。ヒドラを率いるレッドスカルとの決着の果てに、彼は氷の海で長い眠りにつく。",
+    "tmdbId": 1771,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Captain America: The First Avenger",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "naruto-the-movie-guardians-of-the-crescent-moon",
+    "title": "劇場版 NARUTO -ナルト- 大興奮！みかづき島のアニマル騒動だってばよ",
+    "titleKana": "げきじょうばんなるとだいこうふんみかづきじまのあにまるそうどうだってばよ",
+    "directorIds": [
+      "toshiyuki-tsuru"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "pierrot",
+      "tv-tokyo"
+    ],
+    "cast": [
+      {
+        "actorId": "junko-takeuchi",
+        "character": "うずまきナルト"
+      },
+      {
+        "actorId": "chie-nakamura",
+        "character": "春野サクラ"
+      },
+      {
+        "actorId": "yoichi-masukawa",
+        "character": "ロック・リー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2006,
+      "month": 8
+    },
+    "runtime": 95,
+    "originalType": "manga",
+    "synopsis": "南の島国の王子と、わがままな息子ヒカルを護衛する任務を受けたナルトたち。買い物三昧の旅路の裏で、王位を狙うクーデターが進行していた。甘やかされて育った少年が、父の思いに気づいて自ら動きはじめる。サーカスの動物たちも交えた、賑やかな劇場版第三作。親子の関係を軸に据え、任務ものとしての手触りも保っている。",
+    "tmdbId": 18861,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "naruto"
+  },
+  {
+    "id": "mean-girls",
+    "title": "ミーン・ガールズ",
+    "titleKana": "みーんがーるず",
+    "directorIds": [
+      "mark-waters"
+    ],
+    "screenwriterIds": [
+      "tina-fey"
+    ],
+    "studioIds": [
+      "broadway-video",
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "lindsay-lohan",
+        "character": "ケイディ・ヘロン"
+      },
+      {
+        "actorId": "rachel-mcadams",
+        "character": "レジーナ・ジョージ"
+      },
+      {
+        "actorId": "lizzy-caplan",
+        "character": "ジャニス・イアン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "school",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 3
+    },
+    "runtime": 97,
+    "originalType": "other",
+    "synopsis": "アフリカで両親と暮らしていたケイディは、十六歳で初めてアメリカの高校に通うことになる。カースト最上位の女子集団に取り入り、内側から崩す作戦を引き受けた彼女は、いつしか自分もその一員として振る舞いはじめる。悪意の連鎖が学年全体に広がるまでを、辛辣な笑いで描いた学園喜劇。",
+    "tmdbId": 10625,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Mean Girls"
+  },
+  {
+    "id": "arrival",
+    "title": "メッセージ",
+    "titleKana": "めっせーじ",
+    "directorIds": [
+      "denis-villeneuve"
+    ],
+    "screenwriterIds": [
+      "eric-heisserer"
+    ],
+    "studioIds": [
+      "filmnation-entertainment",
+      "lava-bear-films"
+    ],
+    "cast": [
+      {
+        "actorId": "amy-adams",
+        "character": "ルイーズ・バンクス"
+      },
+      {
+        "actorId": "jeremy-renner",
+        "character": "イアン・ドネリー"
+      },
+      {
+        "actorId": "forest-whitaker",
+        "character": "ウェバー大佐"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sf",
+      "mystery",
+      "alien",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 5
+    },
+    "runtime": 116,
+    "originalType": "novel",
+    "synopsis": "世界十二か所に巨大な物体が突如出現し、言語学者ルイーズは異星の言葉を解読する任務に就く。円環状に書かれた文字を読み解くうち、彼女は時間を直線として捉えない知覚に触れていく。各国が武力に傾くなか、彼女が下す決断は、未来を知ったうえで生きることの意味を問う。テッド・チャンの短編を映画化した作品。",
+    "tmdbId": 329865,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Arrival"
+  },
+  {
+    "id": "memento",
+    "title": "メメント",
+    "titleKana": "めめんと",
+    "directorIds": [
+      "christopher-nolan"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "newmarket-films",
+      "summit"
+    ],
+    "cast": [
+      {
+        "actorId": "guy-pearce",
+        "character": "レナード"
+      },
+      {
+        "actorId": "carrie-anne-moss",
+        "character": "ナタリー"
+      },
+      {
+        "actorId": "joe-pantoliano",
+        "character": "テディ"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "suspense",
+      "twist",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 11
+    },
+    "runtime": 113,
+    "originalType": "original",
+    "synopsis": "妻を殺された事件を境に、十分ほどしか記憶を保てなくなった男レナード。彼は写真とメモ、そして体に彫った文字だけを頼りに犯人を追う。物語は結末から数分ずつ遡る流れと、時系列に進む流れが交互に置かれ、観客も彼と同じく前後関係を見失う。ノーラン監督の名を知らしめた構成の妙。",
+    "tmdbId": 77,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Memento"
+  },
+  {
+    "id": "doraemon-nobita-and-the-new-steel-troops-winged",
+    "title": "映画ドラえもん 新・のび太と鉄人兵団",
+    "titleKana": "えいがどらえもんしんのびたとてつじんへいだん",
+    "directorIds": [
+      "yukiyo-teramoto"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shin-ei-animation",
+      "shogakukan-shueisha-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "wasabi-mizuta",
+        "character": "ドラえもん"
+      },
+      {
+        "actorId": "megumi-oohara",
+        "character": "野比のび太"
+      },
+      {
+        "actorId": "yumi-kakazu",
+        "character": "源静香"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "sf",
+      "fantasy",
+      "comedy",
+      "robot",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "manga",
+    "synopsis": "北極で拾った部品から巨大ロボットを組み上げたのび太たちは、それが地球侵略の尖兵だと知る。鏡面世界を舞台に、少女型ロボットのリルルと出会い、機械と人間のどちらが正しいのかという問いが突きつけられる。犠牲を伴う結末が長く語られてきた旧作を、新しい作画で作り直した一本。",
+    "tmdbId": 137227,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "doraemon"
+  },
+  {
+    "id": "kurokos-basketball-the-movie-last-game",
+    "title": "劇場版 黒子のバスケ LAST GAME",
+    "titleKana": "げきじょうばんくろこのばすけらすとげーむ",
+    "directorIds": [
+      "shunsuke-tada"
+    ],
+    "screenwriterIds": [
+      "noboru-takagi"
+    ],
+    "studioIds": [
+      "bandai-visual",
+      "production-i-g"
+    ],
+    "cast": [
+      {
+        "actorId": "kensho-ono",
+        "character": "黒子テツヤ"
+      },
+      {
+        "actorId": "junichi-suwabe",
+        "character": "青峰大輝"
+      },
+      {
+        "actorId": "hiroshi-kamiya",
+        "character": "赤司征十郎"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "sports",
+      "youth",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2017,
+      "month": 3
+    },
+    "runtime": 91,
+    "originalType": "manga",
+    "synopsis": "全国制覇を果たした誠凛高校の面々の前に、アメリカのストリートバスケチームが来日し、日本の選手を公然と侮辱する。屈辱を晴らすため、かつて敵として戦ったキセキの世代が同じコートに立つ。黒子とその仲間たちが最後の試合に挑む姿を描いた、シリーズの完結編にあたる劇場版。",
+    "tmdbId": 428707,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nobody-2",
+    "title": "Mr.ノーバディ2",
+    "titleKana": "みすたーのーばでぃつー",
+    "directorIds": [
+      "timo-tjahjanto"
+    ],
+    "screenwriterIds": [
+      "derek-kolstad",
+      "aaron-rabin"
+    ],
+    "studioIds": [
+      "universal",
+      "87north-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "bob-odenkirk",
+        "character": "ハッチ・マンセル"
+      },
+      {
+        "actorId": "connie-nielsen",
+        "character": "ベッカ・マンセル"
+      },
+      {
+        "actorId": "john-ortiz",
+        "character": "ワイアット・マーティン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "comedy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 10
+    },
+    "runtime": 89,
+    "originalType": "original",
+    "synopsis": "組織への借金返済のため昼夜なく仕事を続けるハッチは、家庭が壊れかけていることに気づき、家族旅行を強行する。訪れた地方の観光地には、腐敗した保安官と地元を仕切る女ボスがいた。休暇のはずが再び血みどろの戦いになり、今度は家族全員が加勢する。前作の趣向をずらした続編。",
+    "tmdbId": 1007734,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Nobody 2",
+    "seriesId": "nobody"
+  },
+  {
+    "id": "shrek-the-third",
+    "title": "シュレック3",
+    "titleKana": "しゅれっくすりー",
+    "directorIds": [
+      "chris-miller"
+    ],
+    "screenwriterIds": [
+      "jeffrey-price",
+      "peter-s-seaman"
+    ],
+    "studioIds": [
+      "dreamworks-animation",
+      "pacific-data-images"
+    ],
+    "cast": [
+      {
+        "actorId": "mike-myers",
+        "character": "シュレック"
+      },
+      {
+        "actorId": "eddie-murphy",
+        "character": "ドンキー"
+      },
+      {
+        "actorId": "cameron-diaz",
+        "character": "フィオナ姫"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "comedy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2007,
+      "month": 6
+    },
+    "runtime": 93,
+    "originalType": "other",
+    "synopsis": "義父の急死により、シュレックは望まぬ王位を継ぐよう迫られる。逃げ道は、遠縁の後継者アーサーを探し出して王座に据えることだけだった。ドンキーと長ぐつをはいたネコを伴う旅の間に、王国はチャーミング王子と悪役たちに乗っ取られてしまう。父になる不安がもう一つの主題になっている。",
+    "tmdbId": 810,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Shrek the Third",
+    "seriesId": "shrek"
+  },
+  {
+    "id": "one-piece-film-gold",
+    "title": "ONE PIECE FILM GOLD",
+    "titleKana": "わんぴーすふぃるむごーるど",
+    "directorIds": [
+      "hiroaki-miyamoto"
+    ],
+    "screenwriterIds": [
+      "tsutomu-kuroiwa",
+      "clint-bickham"
+    ],
+    "studioIds": [
+      "fuji-television-network",
+      "funimation-global-group"
+    ],
+    "cast": [
+      {
+        "actorId": "kazuya-nakai",
+        "character": "ロロノア・ゾロ"
+      },
+      {
+        "actorId": "mayumi-tanaka",
+        "character": "モンキー・D・ルフィ"
+      },
+      {
+        "actorId": "akemi-okamura",
+        "character": "ナミ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "comedy",
+      "pirate",
+      "heist"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 7
+    },
+    "runtime": 120,
+    "originalType": "manga",
+    "synopsis": "海上に浮かぶ巨大な娯楽都市グラン・テゾーロを訪れた麦わらの一味は、賭けに負けて仲間を人質に取られる。都市を支配する黄金の帝王テゾーロは、国家すら動かす財力で客を縛りつけていた。奪われた仲間を取り戻すため、一味は都市そのものを相手にした大仕掛けの強奪計画を練る。",
+    "tmdbId": 374205,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "one-piece"
+  },
+  {
+    "id": "tetsuo-the-iron-man",
+    "title": "鉄男",
+    "titleKana": "てつお",
+    "directorIds": [
+      "shinya-tsukamoto"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kaijyu-theater"
+    ],
+    "cast": [
+      {
+        "actorId": "tomorowo-taguchi",
+        "character": "サラリーマン"
+      },
+      {
+        "actorId": "shinya-tsukamoto",
+        "character": "やつ"
+      },
+      {
+        "actorId": "kei-fujiwara",
+        "character": "恋人"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "body-swap",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 7
+    },
+    "runtime": 68,
+    "originalType": "original",
+    "synopsis": "平凡なサラリーマンの頬に、ある朝小さな金属片が生える。金属を身体に埋め込むことに執着する男との事故をきっかけに、彼の肉体は制御を失って鉄と融合していく。白黒の粗い画面とコマ撮りの暴走が、痛みと快楽の区別を壊していく。塚本晋也が自主製作で作り上げ、国際的に注目された一本。",
+    "tmdbId": 41428,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-handmaiden",
+    "title": "お嬢さん",
+    "titleKana": "おじょうさん",
+    "directorIds": [
+      "park-chan-wook"
+    ],
+    "screenwriterIds": [
+      "chung-seo-kyung"
+    ],
+    "studioIds": [
+      "moho-film",
+      "yong-film"
+    ],
+    "cast": [
+      {
+        "actorId": "kim-min-hee",
+        "character": "秀子"
+      },
+      {
+        "actorId": "kim-tae-ri",
+        "character": "スッキ"
+      },
+      {
+        "actorId": "ha-jung-woo",
+        "character": "藤原伯爵"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "human-drama",
+      "romance",
+      "twist",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 3
+    },
+    "runtime": 145,
+    "originalType": "novel",
+    "synopsis": "日本統治下の朝鮮。詐欺師の一味に育てられた少女スッキは、令嬢秀子を騙して財産を奪う計画のため、屋敷にメイドとして送り込まれる。だが顔を合わせるうちに二人の間には計画にない感情が生まれる。三部構成で同じ出来事を語り直すたびに、誰が誰を騙していたのかが反転していく。",
+    "tmdbId": 290098,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "아가씨"
+  },
+  {
+    "id": "pirates-of-the-caribbean-on-stranger-tides",
+    "title": "パイレーツ・オブ・カリビアン／生命の泉",
+    "titleKana": "ぱいれーつおぶかりびあんせいめいのいずみ",
+    "directorIds": [
+      "rob-marshall"
+    ],
+    "screenwriterIds": [
+      "ted-elliott",
+      "terry-rossio"
+    ],
+    "studioIds": [
+      "walt-disney-pictures",
+      "don-simpson-jerry-bruckheimer-films"
+    ],
+    "cast": [
+      {
+        "actorId": "johnny-depp",
+        "character": "ジャック・スパロウ"
+      },
+      {
+        "actorId": "penelope-cruz",
+        "character": "アンジェリカ"
+      },
+      {
+        "actorId": "geoffrey-rush",
+        "character": "バルボッサ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "fantasy",
+      "pirate"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 5
+    },
+    "runtime": 136,
+    "originalType": "other",
+    "synopsis": "不老の力を宿すという生命の泉をめぐり、英国とスペイン、そして海賊たちが競い合う。ジャック・スパロウは、かつての恋人アンジェリカに騙されて黒ひげの船に乗せられ、泉探しに駆り出される。人魚の涙と二つの聖杯という条件を満たすため、危険な狩りが始まる。シリーズ第四作にあたる。",
+    "tmdbId": 1865,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Pirates of the Caribbean: On Stranger Tides",
+    "seriesId": "pirates-of-the-caribbean"
+  },
+  {
+    "id": "the-bad-guys-2",
+    "title": "バッドガイズ 2",
+    "titleKana": "ばっどがいずつー",
+    "directorIds": [
+      "pierre-perifel"
+    ],
+    "screenwriterIds": [
+      "yoni-brenner",
+      "etan-cohen"
+    ],
+    "studioIds": [
+      "dreamworks-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "sam-rockwell",
+        "character": "ミスター・ウルフ"
+      },
+      {
+        "actorId": "marc-maron",
+        "character": "ミスター・スネーク"
+      },
+      {
+        "actorId": "awkwafina",
+        "character": "ミス・タランチュラ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "comedy",
+      "crime",
+      "adventure",
+      "heist",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 12
+    },
+    "runtime": 104,
+    "originalType": "novel",
+    "synopsis": "善人として生き直そうとしていた元怪盗団の前に、正体不明の新しい犯罪組織が現れる。彼らの仕業に見せかけた事件が続き、疑いの目は当然のようにウルフたちへ向く。無実を証明するには、封印したはずの技術をもう一度使うしかない。前作より規模を広げた仕掛けと逃走劇が展開する。",
+    "tmdbId": 1175942,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Bad Guys 2",
+    "seriesId": "bad-guys"
+  },
+  {
+    "id": "pokemon-the-movie-mewtwo-strikes-back-evolution",
+    "title": "ミュウツーの逆襲 EVOLUTION",
+    "titleKana": "みゅうつーのぎゃくしゅうえぼりゅーしょん",
+    "directorIds": [
+      "motonori-sakakibara",
+      "kunihiko-yuyama"
+    ],
+    "screenwriterIds": [
+      "takeshi-shudo"
+    ],
+    "studioIds": [
+      "olm",
+      "the-pokemon-company"
+    ],
+    "cast": [
+      {
+        "actorId": "rica-matsumoto",
+        "character": "サトシ"
+      },
+      {
+        "actorId": "ikue-otani",
+        "character": "ピカチュウ"
+      },
+      {
+        "actorId": "mayumi-izuka",
+        "character": "カスミ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "action",
+      "family",
+      "friendship",
+      "ai"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 7
+    },
+    "runtime": 98,
+    "originalType": "game",
+    "synopsis": "化石から複製され、最強の存在として作り出されたミュウツーは、自分が何のために生まれたのかという問いに苛まれる。人間への逆襲を掲げた彼は、孤島にトレーナーたちを招き、複製ポケモンとの戦いを強いる。同じ姿の者同士が傷つけ合う光景の果てに、生まれ方は生き方を決めないという答えが示される。第一作をフルCGで作り直した作品。",
+    "tmdbId": 571891,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "pokemon"
+  },
+  {
+    "id": "bullet-train-explosion",
+    "title": "新幹線大爆破",
+    "titleKana": "しんかんせんだいばくは",
+    "directorIds": [
+      "shinji-higuchi"
+    ],
+    "screenwriterIds": [
+      "kazuhiro-nakagawa",
+      "norichika-oba"
+    ],
+    "studioIds": [
+      "netflix",
+      "episcope"
+    ],
+    "cast": [
+      {
+        "actorId": "tsuyoshi-kusanagi",
+        "character": "高市和也"
+      },
+      {
+        "actorId": "machiko-ono",
+        "character": "笠置ゆか"
+      },
+      {
+        "actorId": "jun-kaname",
+        "character": "轟充"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "crime",
+      "human-drama",
+      "disaster",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 4
+    },
+    "runtime": 134,
+    "originalType": "original",
+    "synopsis": "東京行きの新幹線に、時速百キロを下回れば爆発する爆弾が仕掛けられる。犯人の要求は巨額の身代金で、運行指令所と乗務員は乗客を降ろす方法を探しながら列車を走らせ続ける。現場の技術者たちの連携で危機に立ち向かう姿を、鉄道描写に徹底してこだわって描く。一九七五年の同名作を現代に置き換えた作品。",
+    "tmdbId": 1276073,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "home-alone-2-lost-in-new-york",
+    "title": "ホーム・アローン2",
+    "titleKana": "ほーむあろーんつー",
+    "directorIds": [
+      "chris-columbus"
+    ],
+    "screenwriterIds": [
+      "john-hughes"
+    ],
+    "studioIds": [
+      "20th-century-fox",
+      "hughes-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "macaulay-culkin",
+        "character": "ケビン"
+      },
+      {
+        "actorId": "joe-pesci",
+        "character": "ハリー"
+      },
+      {
+        "actorId": "daniel-stern",
+        "character": "マーヴ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "adventure",
+      "christmas"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1992,
+      "month": 12
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "クリスマス旅行の空港で、ケビンは家族とはぐれてニューヨーク行きの便に乗ってしまう。父の財布を頼りに高級ホテルへ堂々と滞在した彼は、脱獄した二人組の泥棒と再会する。玩具店を守るため、伯父の空き家を罠だらけにして待ち構える。前作の趣向を都会に移して拡大した続編。クリスマスのニューヨークの街並みが、作品の魅力を大きく支えている。",
+    "tmdbId": 772,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Home Alone 2: Lost in New York",
+    "seriesId": "home-alone"
   }
 ]

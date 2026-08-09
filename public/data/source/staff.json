@@ -5389,5 +5389,446 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kōzō Kusuba。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-sohn",
+    "name": "ピーター・ソーン",
+    "nameKana": "ピーターソーン",
+    "description": "映画監督。『マイ・エレメント』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Sohn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-hoberg",
+    "name": "ジョン・ホバーグ",
+    "nameKana": "ジョンホバーグ",
+    "description": "脚本家。『マイ・エレメント』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Hoberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brenda-hsueh",
+    "name": "ブレンダ・シュエ",
+    "nameKana": "ブレンダシュエ",
+    "description": "脚本家。『マイ・エレメント』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brenda Hsueh。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sam-taylor-johnson",
+    "name": "サム・テイラー=ジョンソン",
+    "nameKana": "たろじょんそんさ",
+    "description": "映画監督。『フィフティ・シェイズ・オブ・グレイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sam Taylor-Johnson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-sturges",
+    "name": "ジョン・スタージェス",
+    "nameKana": "ジョンスタージェス",
+    "description": "映画監督。『荒野の七人』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Sturges。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "william-roberts",
+    "name": "ウィリアム・ロバーツ",
+    "nameKana": "ウィリアムロバーツ",
+    "description": "脚本家。『荒野の七人』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: William Roberts。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "walter-bernstein",
+    "name": "ウォルター・バーンスタイン",
+    "nameKana": "ウォルターバーンスタイン",
+    "description": "脚本家。『荒野の七人』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Walter Bernstein。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenji-iwaisawa",
+    "name": "岩井澤健治",
+    "nameKana": "いわいさわけんじ",
+    "description": "映画監督。『ひゃくえむ。』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kenji Iwaisawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeb-stuart",
+    "name": "ジェブ・スチュアート",
+    "nameKana": "ジェブスチュアート",
+    "description": "脚本家。『ダイ・ハード』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeb Stuart。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steven-e-de-souza",
+    "name": "スティーヴン・Ｅ・デ・スーザ",
+    "nameKana": "そうざでえてゔぇん",
+    "description": "脚本家。『ダイ・ハード』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Steven E. de Souza。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-rosenberg",
+    "name": "スコット・ローゼンバーグ",
+    "nameKana": "スコットローゼンバーグ",
+    "description": "脚本家。『ジュマンジ／ネクスト・レベル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Rosenberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeff-pinkner",
+    "name": "ジェフ・ピンクナー",
+    "nameKana": "ジェフピンクナー",
+    "description": "脚本家。『ジュマンジ／ネクスト・レベル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeff Pinkner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-mann",
+    "name": "スコット・マン",
+    "nameKana": "スコットマン",
+    "description": "映画監督・脚本家。『FALL／フォール』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Mann。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-frank",
+    "name": "ジョナサン・フランク",
+    "nameKana": "ジョナサンフランク",
+    "description": "脚本家。『FALL／フォール』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan Frank。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mika-ninagawa",
+    "name": "蜷川実花",
+    "nameKana": "にながわみか",
+    "description": "映画監督。『ヘルタースケルター』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mika Ninagawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arisa-kaneko",
+    "name": "金子ありさ",
+    "nameKana": "かねこありさ",
+    "description": "脚本家。『ヘルタースケルター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arisa Kaneko。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sang-il-lee",
+    "name": "李相日",
+    "nameKana": "れえさんぎ",
+    "description": "映画監督。『国宝』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sang-il Lee。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-schrader",
+    "name": "ポール・シュレイダー",
+    "nameKana": "ポールシュレイダー",
+    "description": "脚本家。『タクシードライバー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul Schrader。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harold-ramis",
+    "name": "ハロルド・ライミス",
+    "nameKana": "ハロルドライミス",
+    "description": "映画監督・脚本家。『恋はデジャ・ブ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harold Ramis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danny-rubin",
+    "name": "ダニー・ルービン",
+    "nameKana": "ダニールービン",
+    "description": "脚本家。『恋はデジャ・ブ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Danny Rubin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ari-aster",
+    "name": "アリ・アスター",
+    "nameKana": "アリアスター",
+    "description": "映画監督・脚本家。『ミッドサマー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ari Aster。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akira-higashiyama",
+    "name": "東山彰良",
+    "nameKana": "ひがしやまあきら",
+    "description": "脚本家。『劇場版 NARUTO -ナルト- ブラッド・プリズン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akira Higashiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kirk-demicco",
+    "name": "カーク・デミッコ",
+    "nameKana": "カークデミッコ",
+    "description": "映画監督・脚本家。『クルードさんちのはじめての冒険』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kirk DeMicco。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "emma-tammi",
+    "name": "エマ・タミ",
+    "nameKana": "エマタミ",
+    "description": "映画監督。『ファイブ・ナイツ・アット・フレディーズ２』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Emma Tammi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-cawthon",
+    "name": "スコット・コーソン",
+    "nameKana": "スコットコーソン",
+    "description": "脚本家。『ファイブ・ナイツ・アット・フレディーズ２』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Cawthon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joe-johnston",
+    "name": "ジョー・ジョンストン",
+    "nameKana": "ジョージョンストン",
+    "description": "映画監督。『キャプテン・アメリカ／ザ・ファースト・アベンジャー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joe Johnston。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshiyuki-tsuru",
+    "name": "都留稔幸",
+    "nameKana": "つるとしゆき",
+    "description": "映画監督・脚本家。『劇場版 NARUTO -ナルト- 大興奮！みかづき島のアニマル騒動だってばよ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshiyuki Tsuru。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-waters",
+    "name": "マーク・ウォーターズ",
+    "nameKana": "マークウォーターズ",
+    "description": "映画監督。『ミーン・ガールズ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Waters。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tina-fey",
+    "name": "ティナ・フェイ",
+    "nameKana": "ティナフェイ",
+    "description": "脚本家。『ミーン・ガールズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tina Fey。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eric-heisserer",
+    "name": "エリック・ハイセラー",
+    "nameKana": "エリックハイセラー",
+    "description": "脚本家。『メッセージ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eric Heisserer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shunsuke-tada",
+    "name": "多田俊介",
+    "nameKana": "ただしゅんすけ",
+    "description": "映画監督。『劇場版 黒子のバスケ LAST GAME』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shunsuke Tada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noboru-takagi",
+    "name": "高木登",
+    "nameKana": "たかぎのぼる",
+    "description": "脚本家。『劇場版 黒子のバスケ LAST GAME』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noboru Takagi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "timo-tjahjanto",
+    "name": "ティモ・ジャヤント",
+    "nameKana": "ティモジャヤント",
+    "description": "映画監督。『Mr.ノーバディ2』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Timo Tjahjanto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "derek-kolstad",
+    "name": "デレク・コルスタッド",
+    "nameKana": "デレクコルスタッド",
+    "description": "脚本家。『Mr.ノーバディ2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Derek Kolstad。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aaron-rabin",
+    "name": "アーロン・ラビン",
+    "nameKana": "アーロンラビン",
+    "description": "脚本家。『Mr.ノーバディ2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aaron Rabin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-miller",
+    "name": "クリス・ミラー",
+    "nameKana": "クリスミラー",
+    "description": "映画監督。『シュレック3』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Miller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeffrey-price",
+    "name": "ジェフリー・プライス",
+    "nameKana": "ジェフリープライス",
+    "description": "脚本家。『シュレック3』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeffrey Price。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-s-seaman",
+    "name": "ピーター・S・シーマン",
+    "nameKana": "せあまんぺて",
+    "description": "脚本家。『シュレック3』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter S. Seaman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroaki-miyamoto",
+    "name": "宮元宏彰",
+    "nameKana": "みやもとひろあき",
+    "description": "映画監督。『ONE PIECE FILM GOLD』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroaki Miyamoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "clint-bickham",
+    "name": "クリント・ビッカム",
+    "nameKana": "クリントビッカム",
+    "description": "脚本家。『ONE PIECE FILM GOLD』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Clint Bickham。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinya-tsukamoto",
+    "name": "塚本晋也",
+    "nameKana": "つかもとしにゃ",
+    "description": "映画監督・脚本家。『鉄男』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinya Tsukamoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "park-chan-wook",
+    "name": "パク・チャヌク",
+    "nameKana": "パクチャヌク",
+    "description": "映画監督・脚本家。『お嬢さん』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Park Chan-wook。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chung-seo-kyung",
+    "name": "チョン・ソギョン",
+    "nameKana": "チョンソギョン",
+    "description": "脚本家。『お嬢さん』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chung Seo-kyung。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rob-marshall",
+    "name": "ロブ・マーシャル",
+    "nameKana": "ロブマーシャル",
+    "description": "映画監督。『パイレーツ・オブ・カリビアン／生命の泉』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rob Marshall。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoni-brenner",
+    "name": "ヨニ・ブレナー",
+    "nameKana": "ヨニブレナー",
+    "description": "脚本家。『バッドガイズ 2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoni Brenner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "motonori-sakakibara",
+    "name": "榊原幹典",
+    "nameKana": "さかきばらもとのり",
+    "description": "映画監督。『ミュウツーの逆襲 EVOLUTION』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Motonori Sakakibara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuhiro-nakagawa",
+    "name": "中川和博",
+    "nameKana": "なかがわかずひろ",
+    "description": "脚本家。『新幹線大爆破』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuhiro Nakagawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "norichika-oba",
+    "name": "大庭功睦",
+    "nameKana": "おばのりちか",
+    "description": "脚本家。『新幹線大爆破』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Norichika Oba。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-hughes",
+    "name": "ジョン・ヒューズ",
+    "nameKana": "ジョンヒューズ",
+    "description": "脚本家。『ホーム・アローン2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Hughes。",
+    "updatedAt": "2026-08-09"
   }
 ]
