@@ -99718,5 +99718,2592 @@
         "result": "外国映画 第2位"
       }
     ]
+  },
+  {
+    "id": "the-silent-world",
+    "title": "沈黙の世界",
+    "titleKana": "ちんもくのせかい",
+    "directorIds": [
+      "jacques-yves-cousteau",
+      "louis-malle"
+    ],
+    "screenwriterIds": [
+      "james-dugan"
+    ],
+    "studioIds": [
+      "titanus",
+      "fsjyc-production"
+    ],
+    "cast": [
+      {
+        "actorId": "jacques-yves-cousteau",
+        "character": "本人"
+      }
+    ],
+    "themeIds": [
+      "documentary",
+      "adventure",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1956,
+      "month": 8
+    },
+    "runtime": 86,
+    "originalType": "other",
+    "synopsis": "調査船カリプソ号に乗り込んだ探検隊が、地中海から紅海までの海中を記録する。潜水機材を用いて撮影された珊瑚礁や大型の魚が、色彩で捉えられる。抹香鯨や鮫との遭遇も収められている。カンヌ最高賞とアカデミー賞を受けた海洋記録映画にあたる。水中撮影の草分けとして知られる一方、生物の扱いには後年批判も出た。",
+    "tmdbId": 60234,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Le Monde du silence",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1956,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1956,
+        "result": "外国映画 第9位"
+      }
+    ]
+  },
+  {
+    "id": "black-orpheus",
+    "title": "黒いオルフェ",
+    "titleKana": "くろいおるふぇ",
+    "directorIds": [
+      "marcel-camus"
+    ],
+    "screenwriterIds": [
+      "jacques-viot"
+    ],
+    "studioIds": [
+      "dispat-films",
+      "gemma"
+    ],
+    "cast": [
+      {
+        "actorId": "breno-mello",
+        "character": "オルフェ"
+      },
+      {
+        "actorId": "marpessa-dawn",
+        "character": "ユリディス"
+      },
+      {
+        "actorId": "lourdes-de-oliveira",
+        "character": "ミラ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "music",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1960,
+      "month": 7
+    },
+    "runtime": 100,
+    "originalType": "other",
+    "synopsis": "カーニバル前夜のリオで、市電運転手オルフェが田舎から来た娘ユリディスと出会う。婚約者がいながら、彼は彼女に強く惹かれていく。だが彼女は、死を思わせる仮面の男に追われていた。ギリシャ神話をブラジルへ移し替え、カンヌ最高賞を受けた作品にあたる。ボサノヴァの楽曲が世界的に知られる契機となった作品でもある。",
+    "tmdbId": 40423,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Orfeu Negro",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1959,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1960,
+        "result": "外国映画 第6位"
+      }
+    ]
+  },
+  {
+    "id": "the-umbrellas-of-cherbourg",
+    "title": "シェルブールの雨傘",
+    "titleKana": "しぇるぶーるのあまがさ",
+    "directorIds": [
+      "jacques-demy"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "parc-film",
+      "madeleine-films"
+    ],
+    "cast": [
+      {
+        "actorId": "catherine-deneuve",
+        "character": "ジュヌヴィエーヴ・エムリー"
+      },
+      {
+        "actorId": "nino-castelnuovo",
+        "character": "ギー・フーシェ"
+      },
+      {
+        "actorId": "anne-vernon",
+        "character": "エムリー夫人"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1964,
+      "month": 10
+    },
+    "runtime": 92,
+    "originalType": "original",
+    "synopsis": "傘店の娘ジュヌヴィエーヴと整備工ギーが、深く愛し合っている。だがギーに召集令状が届き、二人は離れ離れになる。妊娠を知った彼女は、母の勧めで別の男と結婚する。全編の台詞が歌で構成され、カンヌ最高賞を受けた作品にあたる。色彩設計とミシェル・ルグランの楽曲で、今も広く愛されている。",
+    "tmdbId": 5967,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Les Parapluies de Cherbourg",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1964,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "profound-desires-of-the-gods",
+    "title": "神々の深き欲望",
+    "titleKana": "かみがみのふかきよくぼう",
+    "directorIds": [
+      "shohei-imamura"
+    ],
+    "screenwriterIds": [
+      "keiji-hasebe"
+    ],
+    "studioIds": [
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "rentaro-mikuni",
+        "character": "太根吉"
+      },
+      {
+        "actorId": "choichiro-kawarasaki",
+        "character": "太亀太郎"
+      },
+      {
+        "actorId": "kazuo-kitamura",
+        "character": "刈谷"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1968,
+      "month": 11
+    },
+    "runtime": 173,
+    "originalType": "original",
+    "synopsis": "南の孤島に、水源開発の技師が本土から派遣される。島では祭祀を司る一族が、近親の関係を理由に長く迫害されていた。近代化と土着の信仰が衝突し、島の均衡が崩れていく。今村昌平監督が長い準備期間を経て完成させた作品にあたる。長期のロケで撮られ、土着の世界を濃密に描いた大作にあたる。",
+    "tmdbId": 50696,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1968,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "if",
+    "title": "If もしも....",
+    "titleKana": "いふもしも",
+    "directorIds": [
+      "lindsay-anderson"
+    ],
+    "screenwriterIds": [
+      "david-sherwin"
+    ],
+    "studioIds": [
+      "memorial-enterprises"
+    ],
+    "cast": [
+      {
+        "actorId": "malcolm-mcdowell",
+        "character": "ミック・トラヴィス"
+      },
+      {
+        "actorId": "david-wood",
+        "character": "ジョニー・ナイトリー"
+      },
+      {
+        "actorId": "richard-warwick",
+        "character": "ウォレス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "youth",
+      "school",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1969,
+      "month": 8
+    },
+    "runtime": 112,
+    "originalType": "original",
+    "synopsis": "英国の全寮制学校で、上級生が下級生を支配する慣習が続いている。反抗的な生徒ミックたちは、体罰と規律に押し潰されそうになる。抑圧が限界に達したとき、彼らは屋上から銃を取る。現実と幻想を区別せずに繋ぐ構成で、カンヌ最高賞を受けた作品にあたる。白黒と色彩を混在させる撮影も、この作品の特徴となっている。",
+    "tmdbId": 14794,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "if....",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1969,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1969,
+        "result": "外国映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "m-a-s-h",
+    "title": "M★A★S★H マッシュ",
+    "titleKana": "まっしゅ",
+    "directorIds": [
+      "robert-altman"
+    ],
+    "screenwriterIds": [
+      "ring-lardner-jr"
+    ],
+    "studioIds": [
+      "ingo-preminger-productions",
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "donald-sutherland",
+        "character": "ホークアイ"
+      },
+      {
+        "actorId": "elliott-gould",
+        "character": "デューク"
+      },
+      {
+        "actorId": "tom-skerritt",
+        "character": "トラッパー"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "war",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1970,
+      "month": 7
+    },
+    "runtime": 116,
+    "originalType": "novel",
+    "synopsis": "朝鮮戦争下の移動野戦病院に、三人の型破りな軍医が着任する。腕は確かだが、規律も階級も一切気にせず騒ぎを起こし続ける。血まみれの手術室と、下品な悪ふざけが同じ画面に並ぶ。ロバート・アルトマン監督がカンヌ最高賞を受けた作品にあたる。台詞を重ねる録音手法でも知られる。",
+    "tmdbId": 651,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "M*A*S*H",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1970,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1970,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "the-conversation",
+    "title": "カンバセーション…盗聴…",
+    "titleKana": "かんばせーしょんとうちょう",
+    "directorIds": [
+      "francis-ford-coppola"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "the-directors-company",
+      "the-coppola-company"
+    ],
+    "cast": [
+      {
+        "actorId": "gene-hackman",
+        "character": "ハリー・コール"
+      },
+      {
+        "actorId": "john-cazale",
+        "character": "スタン"
+      },
+      {
+        "actorId": "allen-garfield",
+        "character": "バーニー・モラン"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "mystery",
+      "suspense"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1974,
+      "month": 11
+    },
+    "runtime": 113,
+    "originalType": "original",
+    "synopsis": "盗聴の専門家ハリーが、公園での男女の会話を録音する仕事を請け負う。断片をつなぐうち、彼は依頼が殺人につながると疑いはじめる。過去の失敗の記憶が、彼を追い詰めていく。カンヌ最高賞を受け、音響設計でも高く評価された作品にあたる。ジーン・ハックマンの抑えた演技が、全編の緊張を支えている。",
+    "tmdbId": 592,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Conversation",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1974,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "the-tree-of-wooden-clogs",
+    "title": "木靴の樹",
+    "titleKana": "きぐつのき",
+    "directorIds": [
+      "ermanno-olmi"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "ital-noleggio-cinematografico",
+      "rai"
+    ],
+    "cast": [
+      {
+        "actorId": "luigi-ornaghi",
+        "character": "バティスティ"
+      },
+      {
+        "actorId": "francesca-moriggi",
+        "character": "バティスティーナ"
+      },
+      {
+        "actorId": "omar-brignoli",
+        "character": "ミネク"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "classic",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1979,
+      "month": 4
+    },
+    "runtime": 187,
+    "originalType": "original",
+    "synopsis": "十九世紀末の北イタリアで、四つの小作農家が同じ地主の土地に暮らしている。学校へ通う息子のため、父はポプラを切って木靴を作る。だがその木は地主の所有物だった。素人を起用し、農村の一年を淡々と記録した作品で、カンヌ最高賞を受けている。方言をそのまま用い、記録映像に近い質感で作られている。",
+    "tmdbId": 31542,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "L'albero degli zoccoli",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1978,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1979,
+        "result": "外国映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "when-father-was-away-on-business",
+    "title": "パパは、出張中!",
+    "titleKana": "ぱぱはしゅっちょうちゅう",
+    "directorIds": [
+      "emir-kusturica"
+    ],
+    "screenwriterIds": [
+      "abdulah-sidran"
+    ],
+    "studioIds": [
+      "forum-sarajevo",
+      "centar-film"
+    ],
+    "cast": [
+      {
+        "actorId": "moreno-de-bartoli",
+        "character": "マリク"
+      },
+      {
+        "actorId": "predrag-miki-manojlovic",
+        "character": "メシャ"
+      },
+      {
+        "actorId": "mirjana-karanovic",
+        "character": "セナ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 1
+    },
+    "runtime": 136,
+    "originalType": "original",
+    "synopsis": "一九五〇年代のユーゴスラビアで、密告により父が収容所へ送られる。母は幼い息子に「父は出張中」と説明し続ける。少年の目に映る大人たちの嘘と、一家の再会までの日々が描かれる。エミール・クストリッツァ監督がカンヌ最高賞を受けた作品にあたる。少年の視点を貫くことで、政治の暴力を間接的に描いている。",
+    "tmdbId": 21042,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Otac na službenom putu",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1985,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1986,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "the-mission",
+    "title": "ミッション",
+    "titleKana": "みっしょん",
+    "directorIds": [
+      "roland-joffe"
+    ],
+    "screenwriterIds": [
+      "robert-bolt"
+    ],
+    "studioIds": [
+      "goldcrest",
+      "kingsmere"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-de-niro",
+        "character": "ロドリゴ・メンドーサ"
+      },
+      {
+        "actorId": "jeremy-irons",
+        "character": "ガブリエル神父"
+      },
+      {
+        "actorId": "ray-mcanally",
+        "character": "アルタミラノ枢機卿"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "human-drama",
+      "action",
+      "history"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1987,
+      "month": 4
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "十八世紀の南米で、イエズス会の神父が先住民への布教を進めている。奴隷商人だった男メンドーサが、贖罪のため彼らに加わる。だが植民地の境界線が引き直され、集落は軍の攻撃に晒される。エンニオ・モリコーネの音楽で知られ、カンヌ最高賞を受けている。滝での撮影に大きな困難が伴ったことでも知られる作品にあたる。",
+    "tmdbId": 11416,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Mission",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1986,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "pelle-the-conqueror",
+    "title": "ペレ",
+    "titleKana": "ぺれ",
+    "directorIds": [
+      "bille-august"
+    ],
+    "screenwriterIds": [
+      "per-olov-enquist"
+    ],
+    "studioIds": [
+      "sf-studios",
+      "per-holst-filmproduktion"
+    ],
+    "cast": [
+      {
+        "actorId": "pelle-hvenegaard",
+        "character": "ペレ・カールソン"
+      },
+      {
+        "actorId": "max-von-sydow",
+        "character": "ラッセ・カールソン"
+      },
+      {
+        "actorId": "erik-paaske",
+        "character": "農場監督"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 6
+    },
+    "runtime": 157,
+    "originalType": "novel",
+    "synopsis": "十九世紀末、スウェーデンから移民した父子がデンマークの農場で働きはじめる。老いた父ラッセは酷使され、少年ペレは差別に晒される。彼は父とは違う生き方を選ぼうとする。カンヌ最高賞とアカデミー外国語映画賞を受けた作品にあたる。マックス・フォン・シドーの演技が、この作品の核となっている。",
+    "tmdbId": 11174,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Pelle Erobreren",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1988,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "外国映画 第9位"
+      }
+    ]
+  },
+  {
+    "id": "sex-lies-and-videotape",
+    "title": "セックスと嘘とビデオテープ",
+    "titleKana": "せっくすとうそとびでおてーぷ",
+    "directorIds": [
+      "steven-soderbergh"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "outlaw-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "james-spader",
+        "character": "グレアム・ダルトン"
+      },
+      {
+        "actorId": "andie-macdowell",
+        "character": "アン・マラニー"
+      },
+      {
+        "actorId": "peter-gallagher",
+        "character": "ジョン・マラニー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 12
+    },
+    "runtime": 101,
+    "originalType": "original",
+    "synopsis": "弁護士の夫と、感情を閉ざした妻の家に、夫の旧友グレアムが訪ねてくる。彼は女性に告白を語らせて録画するという習慣を持っていた。夫の不倫を知る妻は、その録画に応じてしまう。低予算の独立系映画としてカンヌ最高賞を受けた作品にあたる。米国の独立系映画の隆盛を導いた一本として位置づけられている。",
+    "tmdbId": 1412,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "sex, lies, and videotape",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1989,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "wild-at-heart",
+    "title": "ワイルド・アット・ハート",
+    "titleKana": "わいるどあっとはーと",
+    "directorIds": [
+      "david-lynch"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "polygram-filmed-entertainment",
+      "propaganda-films"
+    ],
+    "cast": [
+      {
+        "actorId": "nicolas-cage",
+        "character": "セイラー"
+      },
+      {
+        "actorId": "laura-dern",
+        "character": "ルーラ"
+      },
+      {
+        "actorId": "willem-dafoe",
+        "character": "ボビー・ペルー"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "suspense",
+      "romance",
+      "road-movie"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1991,
+      "month": 1
+    },
+    "runtime": 125,
+    "originalType": "novel",
+    "synopsis": "仮釈放されたセイラーが、恋人ルーラとともに西へ逃避行を始める。娘に執着する母親が、殺し屋を差し向けて二人を追う。行く先々で、暴力と奇怪な人物が待ち受ける。デヴィッド・リンチ監督がカンヌ最高賞を受けた作品にあたる。オズの魔法使いの意匠を随所に取り込んだ作りとなっている。ニコラス・ケイジの蛇革の上着も象徴となる。",
+    "tmdbId": 483,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Wild at Heart",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1990,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "barton-fink",
+    "title": "バートン・フィンク",
+    "titleKana": "ばーとんふぃんく",
+    "directorIds": [
+      "joel-coen",
+      "ethan-coen"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "working-title-films",
+      "circle-films"
+    ],
+    "cast": [
+      {
+        "actorId": "john-turturro",
+        "character": "バートン・フィンク"
+      },
+      {
+        "actorId": "john-goodman",
+        "character": "チャーリー・メドウズ"
+      },
+      {
+        "actorId": "judy-davis",
+        "character": "オードリー・テイラー"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "suspense",
+      "filmmaking"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1991,
+      "month": 8
+    },
+    "runtime": 117,
+    "originalType": "original",
+    "synopsis": "社会派の劇作家バートンが、ハリウッドに招かれて脚本を依頼される。だが安宿の一室で、彼は一行も書けなくなる。隣室の陽気な保険外交員との交流が、悪夢のような事態へ転じる。カンヌ最高賞と監督賞と男優賞を独占した作品にあたる。廊下の壁紙が剥がれる場面など、不穏な細部で満ちている。",
+    "tmdbId": 290,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Barton Fink",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1991,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1992,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "underground",
+    "title": "アンダーグラウンド",
+    "titleKana": "あんだーぐらうんど",
+    "directorIds": [
+      "emir-kusturica"
+    ],
+    "screenwriterIds": [
+      "dusan-kovacevic"
+    ],
+    "studioIds": [
+      "ciby-2000",
+      "pandora-film"
+    ],
+    "cast": [
+      {
+        "actorId": "predrag-miki-manojlovic",
+        "character": "マルコ・ドレン"
+      },
+      {
+        "actorId": "lazar-ristovski",
+        "character": "クロ"
+      },
+      {
+        "actorId": "mirjana-jokovic",
+        "character": "ナタリア"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "war",
+      "history"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1995,
+      "month": 10
+    },
+    "runtime": 170,
+    "originalType": "original",
+    "synopsis": "ナチス占領下のベオグラードで、マルコが仲間を地下室に匿う。彼は戦争が終わった後も嘘をつき続け、地下で武器を作らせ続ける。半世紀にわたる嘘の上に、国家の歴史が重ねられていく。カンヌ最高賞を受け、旧ユーゴの歴史を寓話にした作品にあたる。生演奏の楽隊が場面ごとに登場する演出が全編を貫いている。",
+    "tmdbId": 11902,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Подземље",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1995,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "外国映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "secrets-lies",
+    "title": "秘密と嘘",
+    "titleKana": "ひみつとうそ",
+    "directorIds": [
+      "mike-leigh"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "ciby-2000",
+      "thin-man-films"
+    ],
+    "cast": [
+      {
+        "actorId": "brenda-blethyn",
+        "character": "シンシア・パーリー"
+      },
+      {
+        "actorId": "marianne-jean-baptiste",
+        "character": "ホーテンス・カンバーバッチ"
+      },
+      {
+        "actorId": "timothy-spall",
+        "character": "モーリス・パーリー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 12
+    },
+    "runtime": 142,
+    "originalType": "original",
+    "synopsis": "養母を亡くした黒人女性ホーテンスが、生みの母を探しはじめる。判明したのは、白人の工場労働者シンシアだった。互いの家族に長年隠されてきた事情が、一度に噴き出す。マイク・リー監督がカンヌ最高賞を受けた作品にあたる。即興を重ねて作られる演出手法が、演技の生々しさを生んでいる。喫茶店での長い場面が名高い。",
+    "tmdbId": 11159,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Secrets & Lies",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1996,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1997,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "rosetta",
+    "title": "ロゼッタ",
+    "titleKana": "ろぜった",
+    "directorIds": [
+      "luc-dardenne",
+      "jean-pierre-dardenne"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "les-films-du-fleuve",
+      "rtbf"
+    ],
+    "cast": [
+      {
+        "actorId": "emilie-dequenne",
+        "character": "ロゼッタ"
+      },
+      {
+        "actorId": "olivier-gourmet",
+        "character": "雇い主"
+      },
+      {
+        "actorId": "fabrizio-rongione",
+        "character": "リケ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 4
+    },
+    "runtime": 95,
+    "originalType": "original",
+    "synopsis": "トレーラーハウスで酒浸りの母と暮らす少女ロゼッタが、職を求めて奔走する。まともな仕事に就くことだけが、彼女の唯一の願いだった。友人の職を奪うという選択が、彼女に突きつけられる。手持ち撮影で密着し、カンヌ最高賞を受けた作品にあたる。この作品を機に若年労働者を保護する法律が制定されたとされる。",
+    "tmdbId": 11489,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Rosetta",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1999,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "dancer-in-the-dark",
+    "title": "ダンサー・イン・ザ・ダーク",
+    "titleKana": "だんさーいんざだーく",
+    "directorIds": [
+      "lars-von-trier"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "zentropa-entertainments",
+      "dr"
+    ],
+    "cast": [
+      {
+        "actorId": "bjork",
+        "character": "セルマ・イェスコヴァ"
+      },
+      {
+        "actorId": "catherine-deneuve",
+        "character": "キャシー"
+      },
+      {
+        "actorId": "david-morse",
+        "character": "ビル・ヒューストン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "musical",
+      "courtroom"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 12
+    },
+    "runtime": 140,
+    "originalType": "original",
+    "synopsis": "視力を失いつつある移民の女性セルマが、息子の手術費を貯めている。工場での過酷な労働に耐える彼女は、音楽を空想することで日々を凌ぐ。だが貯めた金が奪われ、事態は取り返しのつかない方向へ進む。カンヌ最高賞を受け、賛否の分かれた作品にあたる。ビョークが主演と楽曲を担い、女優賞も受けた作品にあたる。",
+    "tmdbId": 16,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Dancer in the Dark",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2000,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2000,
+        "result": "外国映画 第9位"
+      }
+    ]
+  },
+  {
+    "id": "the-sons-room",
+    "title": "息子の部屋",
+    "titleKana": "むすこのへや",
+    "directorIds": [
+      "nanni-moretti"
+    ],
+    "screenwriterIds": [
+      "linda-ferri"
+    ],
+    "studioIds": [
+      "sacher-film",
+      "bac-films"
+    ],
+    "cast": [
+      {
+        "actorId": "nanni-moretti",
+        "character": "ジョバンニ"
+      },
+      {
+        "actorId": "laura-morante",
+        "character": "パオラ"
+      },
+      {
+        "actorId": "jasmine-trinca",
+        "character": "イレーネ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 3
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "精神科医ジョバンニの一家を、息子の突然の事故死が襲う。往診のために約束を破ったことが、彼の心を苛み続ける。妻も娘も、それぞれの形で立ち直れずにいる。ナンニ・モレッティ監督がカンヌ最高賞を受けた作品にあたる。喪失の後の時間を、誇張なく描き切った作品として評価が高い。イタリア映画としては久々の最高賞受賞となった。",
+    "tmdbId": 11447,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "La stanza del figlio",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2001,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2002,
+        "result": "外国映画 第9位"
+      }
+    ]
+  },
+  {
+    "id": "fahrenheit-9-11",
+    "title": "華氏911",
+    "titleKana": "かしきゅういちいち",
+    "directorIds": [
+      "michael-moore"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "fellowship-adventure-group",
+      "bim-distribuzione"
+    ],
+    "cast": [
+      {
+        "actorId": "michael-moore",
+        "character": "本人"
+      },
+      {
+        "actorId": "john-conyers",
+        "character": "本人"
+      },
+      {
+        "actorId": "abdul-henderson",
+        "character": "本人"
+      }
+    ],
+    "themeIds": [
+      "documentary",
+      "politics",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 8
+    },
+    "runtime": 123,
+    "originalType": "other",
+    "synopsis": "同時多発テロ後の米国の政策を、記録映像と取材で検証していく。大統領一族と中東の資本の関係、イラク開戦の経緯が並べられる。息子を戦地で失った母親の姿が、後半の中心になる。カンヌ最高賞を受けた記録映画にあたる。記録映画としては異例の興行成績を記録した作品にあたる。公開当時から政治的な議論を呼び続けている。",
+    "tmdbId": 1777,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fahrenheit 9/11",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2004,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "the-child",
+    "title": "ある子供",
+    "titleKana": "あるこども",
+    "directorIds": [
+      "luc-dardenne",
+      "jean-pierre-dardenne"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "les-films-du-fleuve",
+      "scope-invest"
+    ],
+    "cast": [
+      {
+        "actorId": "jeremie-renier",
+        "character": "ブリュノ"
+      },
+      {
+        "actorId": "deborah-francois",
+        "character": "ソニア"
+      },
+      {
+        "actorId": "olivier-gourmet",
+        "character": "警官"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 12
+    },
+    "runtime": 96,
+    "originalType": "original",
+    "synopsis": "定職を持たない二十歳のブリュノに、恋人ソニアとの間に子が生まれる。金に困った彼は、赤ん坊を売り飛ばしてしまう。取り戻そうとする過程で、彼は自分の幼さと向き合うことになる。ダルデンヌ兄弟が二度目のカンヌ最高賞を受けた作品にあたる。手持ち撮影と説明の少ない語り口が、この兄弟の作風となっている。",
+    "tmdbId": 11490,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "L'enfant",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2005,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "the-wind-that-shakes-the-barley",
+    "title": "麦の穂をゆらす風",
+    "titleKana": "むぎのほをゆらすかぜ",
+    "directorIds": [
+      "ken-loach"
+    ],
+    "screenwriterIds": [
+      "paul-laverty"
+    ],
+    "studioIds": [
+      "sixteen-films",
+      "matador-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "cillian-murphy",
+        "character": "デミアン"
+      },
+      {
+        "actorId": "padraic-delaney",
+        "character": "テディ"
+      },
+      {
+        "actorId": "liam-cunningham",
+        "character": "ダン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "war",
+      "history"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 6
+    },
+    "runtime": 127,
+    "originalType": "original",
+    "synopsis": "一九二〇年のアイルランドで、医師を志す青年が独立戦争に身を投じる。兄とともに戦った彼だったが、講和条約の内容をめぐって兄弟は対立する。独立の直後に始まる内戦が、二人を敵同士にする。ケン・ローチ監督がカンヌ最高賞を受けた作品にあたる。独立運動の内側の分裂を描き、公開当時に議論を呼んだ。",
+    "tmdbId": 1116,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Wind That Shakes the Barley",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2006,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2006,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "4-months-3-weeks-and-2-days",
+    "title": "4ヶ月、3週と2日",
+    "titleKana": "よんかげつさんしゅうとふつか",
+    "directorIds": [
+      "cristian-mungiu"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "saga-film",
+      "mobra-films"
+    ],
+    "cast": [
+      {
+        "actorId": "anamaria-marinca",
+        "character": "オティリア"
+      },
+      {
+        "actorId": "laura-vasiliu",
+        "character": "ガビツァ"
+      },
+      {
+        "actorId": "vlad-ivanov",
+        "character": "ベベ氏"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "suspense"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 8
+    },
+    "runtime": 114,
+    "originalType": "original",
+    "synopsis": "チャウシェスク政権末期のルーマニアで、中絶は法律で禁じられている。妊娠した友人のため、学生オティリアが違法な手術の段取りをつける。だが準備の不備が、二人を危険な取引へ追い込む。カンヌ最高賞を受け、長回しの緊張で知られる作品にあたる。ルーマニアの新しい世代の映画を代表する一本とされている。",
+    "tmdbId": 2009,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "4 luni, 3 săptămâni și 2 zile",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2007,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "the-white-ribbon",
+    "title": "白いリボン",
+    "titleKana": "しろいりぼん",
+    "directorIds": [
+      "michael-haneke"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "lucky-red",
+      "wega-film"
+    ],
+    "cast": [
+      {
+        "actorId": "christian-friedel",
+        "character": "教師"
+      },
+      {
+        "actorId": "ernst-jacobi",
+        "character": "老いた教師"
+      },
+      {
+        "actorId": "leonie-benesch",
+        "character": "エヴァ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 12
+    },
+    "runtime": 144,
+    "originalType": "original",
+    "synopsis": "第一次大戦前夜のドイツの村で、不可解な事故と暴力が連続して起きる。厳格な信仰と体罰のもとで、子どもたちは沈黙を守り続ける。誰が何をしたのかは、最後まで明かされない。白黒の映像で撮られ、カンヌ最高賞を受けた作品にあたる。後のナチズムにつながる素地を暗示する構成として読まれている。",
+    "tmdbId": 37903,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Das weiße Band - Eine deutsche Kindergeschichte",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2009,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2010,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "the-tree-of-life",
+    "title": "ツリー・オブ・ライフ",
+    "titleKana": "つりーおぶらいふ",
+    "directorIds": [
+      "terrence-malick"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "river-road-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "brad-pitt",
+        "character": "オブライエン氏"
+      },
+      {
+        "actorId": "jessica-chastain",
+        "character": "オブライエン夫人"
+      },
+      {
+        "actorId": "hunter-mccracken",
+        "character": "少年時代のジャック"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 8
+    },
+    "runtime": 139,
+    "originalType": "original",
+    "synopsis": "一九五〇年代のテキサスで、厳格な父と優しい母のもとに三人の兄弟が育つ。長じた長男は、弟の死と家族の記憶に囚われ続けている。宇宙の誕生から生命の発生までの映像が、その回想に差し挟まれる。カンヌ最高賞を受けた作品にあたる。詩的な語りと自然の映像が、独特の構造を作り上げている。",
+    "tmdbId": 8967,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Tree of Life",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2011,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "amour",
+    "title": "愛、アムール",
+    "titleKana": "あいあむーる",
+    "directorIds": [
+      "michael-haneke"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "les-films-du-losange",
+      "x-filme-creative-pool"
+    ],
+    "cast": [
+      {
+        "actorId": "jean-louis-trintignant",
+        "character": "ジョルジュ"
+      },
+      {
+        "actorId": "emmanuelle-riva",
+        "character": "アンヌ"
+      },
+      {
+        "actorId": "isabelle-huppert",
+        "character": "エヴァ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "medical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 3
+    },
+    "runtime": 127,
+    "originalType": "original",
+    "synopsis": "パリで暮らす八十代の元音楽教師の夫婦を、妻の発作が襲う。半身が動かなくなった妻を、夫は自宅で介護し続ける。症状が進むにつれ、二人だけの部屋は閉じていく。カンヌ最高賞とアカデミー外国語映画賞を受けた作品にあたる。エマニュエル・リヴァの演技が高く評価された作品にあたる。",
+    "tmdbId": 86837,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Amour",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2012,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "blue-is-the-warmest-color",
+    "title": "アデル、ブルーは熱い色",
+    "titleKana": "あでるぶるーはあついいろ",
+    "directorIds": [
+      "abdellatif-kechiche"
+    ],
+    "screenwriterIds": [
+      "ghalya-lacroix"
+    ],
+    "studioIds": [
+      "wild-bunch",
+      "scope-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "lea-seydoux",
+        "character": "エマ"
+      },
+      {
+        "actorId": "adele-exarchopoulos",
+        "character": "アデル"
+      },
+      {
+        "actorId": "salim-kechiouche",
+        "character": "サミール"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 10
+    },
+    "runtime": 180,
+    "originalType": "manga",
+    "synopsis": "高校生アデルが、道ですれ違った青い髪の女性エマに心を奪われる。再会した二人は関係を深め、やがて同居を始める。生き方も階層も異なる二人の間に、少しずつ亀裂が入る。監督と主演二人が同時にカンヌ最高賞を受けた作品にあたる。長時間の撮影と過酷な現場が、後に議論の的にもなった。",
+    "tmdbId": 152584,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "La Vie d'Adèle - Chapitres 1 et 2",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2013,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "winter-sleep",
+    "title": "雪の轍",
+    "titleKana": "ゆきのわだち",
+    "directorIds": [
+      "nuri-bilge-ceylan"
+    ],
+    "screenwriterIds": [
+      "ebru-ceylan"
+    ],
+    "studioIds": [
+      "memento-production",
+      "bredok-film-production"
+    ],
+    "cast": [
+      {
+        "actorId": "haluk-bilginer",
+        "character": "アイドゥン"
+      },
+      {
+        "actorId": "melisa-sozen",
+        "character": "ニハル"
+      },
+      {
+        "actorId": "demet-akbag",
+        "character": "ネジラ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 6
+    },
+    "runtime": 196,
+    "originalType": "novel",
+    "synopsis": "カッパドキアでホテルを営む元俳優アイドゥンが、地主として小作人と対立している。若い妻や出戻りの妹との会話は、いつも棘を含んでいる。長く続く言葉の応酬が、彼の自己欺瞞を暴いていく。三時間を超える会話劇で、カンヌ最高賞を受けた作品にあたる。雪に閉ざされた土地の風景と、長い対話の緊張が持ち味となる。",
+    "tmdbId": 265169,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Kış Uykusu",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2014,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2015,
+        "result": "外国映画 第8位"
+      }
+    ]
+  },
+  {
+    "id": "dheepan",
+    "title": "ディーパンの闘い",
+    "titleKana": "でぃーぱんのたたかい",
+    "directorIds": [
+      "jacques-audiard"
+    ],
+    "screenwriterIds": [
+      "thomas-bidegain"
+    ],
+    "studioIds": [
+      "france-2-cinema",
+      "why-not-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "antonythasan-jesuthasan",
+        "character": "ディーパン"
+      },
+      {
+        "actorId": "kalieaswari-srinivasan",
+        "character": "ヤリニ"
+      },
+      {
+        "actorId": "claudine-vinasithamby",
+        "character": "イライアル"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 2
+    },
+    "runtime": 115,
+    "originalType": "original",
+    "synopsis": "内戦下のスリランカから逃れるため、他人同士の三人が家族を装って渡仏する。パリ郊外の団地で、彼らは管理人として新生活を始める。だが団地を支配する集団との衝突が、元兵士の記憶を呼び覚ます。カンヌ最高賞を受けた作品にあたる。移民の生活を丁寧に描いた前半から、終盤で大きく調子が変わる。",
+    "tmdbId": 314402,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Dheepan",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2015,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "i-daniel-blake",
+    "title": "わたしは、ダニエル・ブレイク",
+    "titleKana": "わたしはだにえるぶれいく",
+    "directorIds": [
+      "ken-loach"
+    ],
+    "screenwriterIds": [
+      "paul-laverty"
+    ],
+    "studioIds": [
+      "sixteen-films",
+      "why-not-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "dave-johns",
+        "character": "ダニエル・ブレイク"
+      },
+      {
+        "actorId": "hayley-squires",
+        "character": "ケイティ"
+      },
+      {
+        "actorId": "briana-shann",
+        "character": "デイジー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 3
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "心臓を患った大工ダニエルが、就労不能給付を申請する。だが制度は書類と手続きで彼を弾き続け、援助にたどり着けない。同じ窓口で困窮する母子と出会い、彼は助け合うようになる。ケン・ローチ監督が二度目のカンヌ最高賞を受けた作品にあたる。官僚制の非人間性を扱い、英国で大きな社会的反響を呼んだ。",
+    "tmdbId": 374473,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "I, Daniel Blake",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2016,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2017,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "the-square",
+    "title": "ザ・スクエア 思いやりの聖域",
+    "titleKana": "ざすくえあおもいやりのせいいき",
+    "directorIds": [
+      "ruben-ostlund"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "plattform-produktion",
+      "arte-france-cinema"
+    ],
+    "cast": [
+      {
+        "actorId": "claes-bang",
+        "character": "クリスチャン"
+      },
+      {
+        "actorId": "elisabeth-moss",
+        "character": "アン"
+      },
+      {
+        "actorId": "dominic-west",
+        "character": "ジュリアン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "comedy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 4
+    },
+    "runtime": 151,
+    "originalType": "original",
+    "synopsis": "現代美術館の学芸員クリスチャンが、財布と携帯を盗まれる。犯人を突き止めようとした軽率な行動が、思わぬ波紋を広げる。同時に、新作展の宣伝映像が炎上騒ぎを起こす。カンヌ最高賞を受けた風刺作品にあたる。美術館を舞台に、善意と偽善の距離を執拗に描いた作品にあたる。長い会食の場面が特に有名となっている。",
+    "tmdbId": 401246,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Square",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2017,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "titane",
+    "title": "TITANE チタン",
+    "titleKana": "ちたん",
+    "directorIds": [
+      "julia-ducournau"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kazak-productions",
+      "arte-france-cinema"
+    ],
+    "cast": [
+      {
+        "actorId": "vincent-lindon",
+        "character": "ヴァンサン"
+      },
+      {
+        "actorId": "agathe-rousselle",
+        "character": "アレクシア"
+      },
+      {
+        "actorId": "garance-marillier",
+        "character": "ジュスティーヌ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "horror",
+      "body-swap"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 7
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "幼い頃の事故で頭部に金属板を埋め込まれた女性アレクシアが、異様な衝動を抱えて生きている。追われる身となった彼女は、行方不明の息子を待つ消防士の家に身を寄せる。互いに事実を知らないまま、奇妙な家族の形が生まれる。カンヌ最高賞を受けた作品にあたる。女性監督として二人目の受賞となった。",
+    "tmdbId": 630240,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Titane",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2021,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "triangle-of-sadness",
+    "title": "逆転のトライアングル",
+    "titleKana": "ぎゃくてんのとらいあんぐる",
+    "directorIds": [
+      "ruben-ostlund"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "30west",
+      "bbc-film"
+    ],
+    "cast": [
+      {
+        "actorId": "harris-dickinson",
+        "character": "カール"
+      },
+      {
+        "actorId": "charlbi-dean",
+        "character": "ヤヤ"
+      },
+      {
+        "actorId": "dolly-de-leon",
+        "character": "アビゲイル"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "social",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 2
+    },
+    "runtime": 147,
+    "originalType": "original",
+    "synopsis": "モデルのカップルが、招待された豪華客船の旅に参加する。富裕層の乗客と、彼らに仕える乗務員の関係が丁寧に描かれる。難破によって無人島に流れ着いたとき、その上下は完全に入れ替わる。カンヌ最高賞を受けた風刺喜劇にあたる。船上の晩餐会の場面が、公開当時に大きな話題となった。",
+    "tmdbId": 497828,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Triangle of Sadness",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2022,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "it-was-just-an-accident",
+    "title": "シンプル・アクシデント 偶然",
+    "titleKana": "しんぷるあくしでんとぐうぜん",
+    "directorIds": [
+      "jafar-panahi"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "jafar-panahi-productions",
+      "les-films-pelleas"
+    ],
+    "cast": [
+      {
+        "actorId": "vahid-mobasseri",
+        "character": "ヴァヒド"
+      },
+      {
+        "actorId": "mariam-afshari",
+        "character": "シヴァ"
+      },
+      {
+        "actorId": "ebrahim-azizi",
+        "character": "エグバル"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "crime",
+      "mystery",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2026,
+      "month": 5
+    },
+    "runtime": 104,
+    "originalType": "original",
+    "synopsis": "かつて理由なく投獄された男ワヒドが、自分を拷問した看守と思われる人物に遭遇する。拘束して埋めようとするが、相手は人違いだと訴える。目隠しをされていた彼には、確かめる術がない。ジャファル・パナヒ監督がカンヌ最高賞を受けた作品にあたる。監督自身の投獄の経験が反映された作品として受け止められている。",
+    "tmdbId": 1456349,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Un simple accident",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 2025,
+        "result": "パルム・ドール"
+      }
+    ]
+  },
+  {
+    "id": "the-yellow-handkerchief",
+    "title": "幸福の黄色いハンカチ",
+    "titleKana": "しあわせのきいろいはんかち",
+    "directorIds": [
+      "yoji-yamada"
+    ],
+    "screenwriterIds": [
+      "yoshitaka-asama"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-takakura",
+        "character": "島勇作"
+      },
+      {
+        "actorId": "chieko-baisho",
+        "character": "島光枝"
+      },
+      {
+        "actorId": "tetsuya-takeda",
+        "character": "花田欽也"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "road-movie",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1977,
+      "month": 9
+    },
+    "runtime": 109,
+    "originalType": "other",
+    "synopsis": "失恋した青年欽也が、新車で北海道を気ままに巡っている。一人旅の朱美と、出所したばかりの中年男勇作が同乗することになる。勇作は、待っていてくれるなら黄色い旗を出してほしいと妻に手紙を出していた。第一回日本アカデミー賞の最優秀作品賞を受けた作品にあたる。終盤に竿にはためく無数のハンカチが、名場面として知られる。",
+    "tmdbId": 22557,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1977,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1978,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1977,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "the-incident",
+    "title": "事件",
+    "titleKana": "じけん",
+    "directorIds": [
+      "yoshitaro-nomura"
+    ],
+    "screenwriterIds": [
+      "kaneto-shindo"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "tetsuro-tamba",
+        "character": "菊地弁護士"
+      },
+      {
+        "actorId": "shinsuke-ashida",
+        "character": "岡部検事"
+      },
+      {
+        "actorId": "shinobu-otake",
+        "character": "坂井ヨシ子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "mystery",
+      "courtroom"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1978,
+      "month": 6
+    },
+    "runtime": 138,
+    "originalType": "novel",
+    "synopsis": "山林で若い女性の刺殺死体が見つかり、恋人の少年が逮捕される。彼は被害者の妹と交際しており、結婚の約束もしていた。法廷での証言が積み重なるにつれ、事件の見え方が変わっていく。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。証言の積み重ねだけで人物像を作り上げる構成が高く評価された。",
+    "tmdbId": 160268,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1979,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1978,
+        "result": "日本映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "vengeance-is-mine",
+    "title": "復讐するは我にあり",
+    "titleKana": "ふくしゅうするはわれにあり",
+    "directorIds": [
+      "shohei-imamura"
+    ],
+    "screenwriterIds": [
+      "masaru-baba",
+      "shunsaku-ikehata"
+    ],
+    "studioIds": [
+      "imamura-productions",
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-ogata",
+        "character": "榎津巌"
+      },
+      {
+        "actorId": "mayumi-ogawa",
+        "character": "浅野ハル"
+      },
+      {
+        "actorId": "mitsuko-baisho",
+        "character": "榎津加津子"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "serial-killer",
+      "true-story"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1979,
+      "month": 4
+    },
+    "runtime": 140,
+    "originalType": "novel",
+    "synopsis": "五人を殺害して全国を逃げ回った男、榎津巌の足取りを追う。詐欺と殺人を重ねながら、彼は行く先々で女と関係を持つ。信仰篤い父との確執が、彼の底に横たわっている。実際の事件を題材に、今村昌平監督が撮った作品にあたる。殺人者を理解可能な存在として描かない姿勢が徹底されている。緒形拳の演技も高く評価された。",
+    "tmdbId": 42170,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1979,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1980,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1979,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "zigeunerweisen",
+    "title": "ツィゴイネルワイゼン",
+    "titleKana": "つぃごいねるわいぜん",
+    "directorIds": [
+      "seijun-suzuki"
+    ],
+    "screenwriterIds": [
+      "yozo-tanaka"
+    ],
+    "studioIds": [
+      "art-theatre-guild",
+      "cinema-placet"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiya-fujita",
+        "character": "青地豊二郎"
+      },
+      {
+        "actorId": "naoko-ohtani",
+        "character": "園"
+      },
+      {
+        "actorId": "yoshio-harada",
+        "character": "中砂"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "human-drama",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1980,
+      "month": 4
+    },
+    "runtime": 144,
+    "originalType": "novel",
+    "synopsis": "大正期、士官学校教授の青地と、放埒な友人中砂が旅先で芸者と出会う。一年後、中砂が結婚した相手は、その芸者と瓜二つだった。生と死の境が曖昧になり、現実の輪郭が溶けていく。鈴木清順監督の大正三部作の第一作にあたる。移動上映という異例の公開形態でも話題になった作品にあたる。独特の色彩と構図が全編を支配する。",
+    "tmdbId": 110899,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1981,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1980,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "station",
+    "title": "駅 STATION",
+    "titleKana": "えきすてーしょん",
+    "directorIds": [
+      "yasuo-furuhata"
+    ],
+    "screenwriterIds": [
+      "so-kuramoto"
+    ],
+    "studioIds": [
+      "toho-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-takakura",
+        "character": "三上英次"
+      },
+      {
+        "actorId": "chieko-baisho",
+        "character": "桐子"
+      },
+      {
+        "actorId": "ayumi-ishida",
+        "character": "三上直子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "romance",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1981,
+      "month": 11
+    },
+    "runtime": 132,
+    "originalType": "original",
+    "synopsis": "射撃選手でもある警察官の英次が、家族と離れて職務に打ち込む日々を送る。三つの時代の駅を舞台に、彼と関わった女性たちとの別れが描かれる。年の瀬の居酒屋で出会った女性との時間が、その中心を占める。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。三つの季節をまたぐ構成と、高倉健の寡黙な演技で知られる。",
+    "tmdbId": 115221,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1982,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1981,
+        "result": "日本映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "fall-guy",
+    "title": "蒲田行進曲",
+    "titleKana": "かまたこうしんきょく",
+    "directorIds": [
+      "kinji-fukasaku"
+    ],
+    "screenwriterIds": [
+      "kohei-tsuka"
+    ],
+    "studioIds": [
+      "shochiku",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "keiko-matsuzaka",
+        "character": "小夏"
+      },
+      {
+        "actorId": "morio-kazama",
+        "character": "銀四郎"
+      },
+      {
+        "actorId": "mitsuru-hirata",
+        "character": "ヤス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "filmmaking"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1982,
+      "month": 10
+    },
+    "runtime": 108,
+    "originalType": "novel",
+    "synopsis": "撮影所のスター銀四郎と、彼に付き従う大部屋俳優ヤスの奇妙な関係を描く。銀四郎は妊娠した恋人小夏を、ヤスに押しつけてしまう。ヤスは彼女のため、命に関わる階段落ちの仕事を引き受ける。つかこうへいの小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。階段落ちの場面が、日本映画屈指の見せ場として語られている。",
+    "tmdbId": 33341,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1982,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1983,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1982,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "the-funeral",
+    "title": "お葬式",
+    "titleKana": "おそうしき",
+    "directorIds": [
+      "juzo-itami"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "itami-productions",
+      "new-century-producers"
+    ],
+    "cast": [
+      {
+        "actorId": "tsutomu-yamazaki",
+        "character": "井上侘助"
+      },
+      {
+        "actorId": "nobuko-miyamoto",
+        "character": "雨宮千鶴子"
+      },
+      {
+        "actorId": "kin-sugai",
+        "character": "雨宮きく江"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1984,
+      "month": 11
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "俳優夫婦のもとに、妻の父が急死したという報せが届く。慣れない喪主を務めることになった夫は、作法をビデオで学びながら準備を進める。三日間の葬儀の裏で、親族の思惑や欲が次々と露わになる。伊丹十三監督の第一作にあたる作品となっている。日本の葬儀の作法そのものを笑いの対象にした点が新鮮だった。",
+    "tmdbId": 42095,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1985,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1984,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "gray-sunset",
+    "title": "花いちもんめ",
+    "titleKana": "はないちもんめ",
+    "directorIds": [
+      "shunya-ito"
+    ],
+    "screenwriterIds": [
+      "hiro-matsuda"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "yukiyo-toake",
+        "character": "鷹野啓子"
+      },
+      {
+        "actorId": "minoru-chiaki",
+        "character": "鷹野冬吉"
+      },
+      {
+        "actorId": "teruhiko-saigo",
+        "character": "鷹野晴夫"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "medical"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 10
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "元大学教授の老人が、認知症を発症して急速に症状を進行させる。物忘れから始まり、家族の顔も分からなくなっていく。誰が介護を担うのかをめぐり、家族の関係が軋みはじめる。高齢化を正面から扱い、日本アカデミー賞の最優秀作品賞を受けた作品にあたる。介護の現実を早い時期に扱った作品として記憶されている。",
+    "tmdbId": 340073,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1986,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1985,
+        "result": "日本映画 第10位"
+      }
+    ]
+  },
+  {
+    "id": "house-on-fire",
+    "title": "火宅の人",
+    "titleKana": "かたくのひと",
+    "directorIds": [
+      "kinji-fukasaku"
+    ],
+    "screenwriterIds": [
+      "fumio-konami"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-ogata",
+        "character": "桂一雄"
+      },
+      {
+        "actorId": "ayumi-ishida",
+        "character": "ヨリ子"
+      },
+      {
+        "actorId": "mieko-harada",
+        "character": "矢島恵子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1986,
+      "month": 4
+    },
+    "runtime": 133,
+    "originalType": "novel",
+    "synopsis": "作家の桂一雄が、家庭を持ちながら新劇女優と関係を続けている。障害のある息子を抱える妻と、奔放な愛人の間で彼は揺れ続ける。書くことと生活の破綻が、分かちがたく結びついている。檀一雄の自伝的小説を映画化した作品にあたる。緒形拳が主演男優賞を受け、破滅的な作家像を体現している。日本アカデミー賞の最優秀作品賞も受けている。",
+    "tmdbId": 355601,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1987,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1986,
+        "result": "日本映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "a-taxing-woman",
+    "title": "マルサの女",
+    "titleKana": "まるさのおんな",
+    "directorIds": [
+      "juzo-itami"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "new-century-producers",
+      "itami-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuko-miyamoto",
+        "character": "板倉亮子"
+      },
+      {
+        "actorId": "tsutomu-yamazaki",
+        "character": "権藤英樹"
+      },
+      {
+        "actorId": "masahiko-tsugawa",
+        "character": "花村"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "crime",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1987,
+      "month": 2
+    },
+    "runtime": 127,
+    "originalType": "original",
+    "synopsis": "税務署の調査官板倉亮子が、地道な調査で脱税の痕跡を追い続ける。ラブホテルを経営する実業家権藤に、彼女は執拗に食い下がる。査察部に配属された彼女と権藤の攻防が本格化する。伊丹十三監督の代表作で、日本アカデミー賞の最優秀作品賞を受けている。取材に基づく細部の描写が、喜劇としての説得力を支えている。",
+    "tmdbId": 42011,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1987,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1988,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1987,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "the-silk-road",
+    "title": "敦煌",
+    "titleKana": "とんこう",
+    "directorIds": [
+      "junya-sato"
+    ],
+    "screenwriterIds": [
+      "takeshi-yoshida"
+    ],
+    "studioIds": [
+      "daiei-co-ltd",
+      "imagica"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiyuki-nishida",
+        "character": "朱王礼"
+      },
+      {
+        "actorId": "koichi-sato",
+        "character": "趙行徳"
+      },
+      {
+        "actorId": "anna-nakagawa",
+        "character": "ツルピア"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "adventure",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1988,
+      "month": 6
+    },
+    "runtime": 143,
+    "originalType": "novel",
+    "synopsis": "十一世紀の宋で、科挙に落ち続けた趙行徳が西夏へ向かう。漢人部隊に加わった彼は、隊長朱王礼のもとで戦いに身を投じる。捕虜となったウイグルの王女との出会いが、彼の行き先を変える。中国での大規模な撮影で知られ、日本アカデミー賞の最優秀作品賞を受けている。実際に中国に巨大な城郭を建設して撮影された作品にあたる。",
+    "tmdbId": 123617,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1988,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1989,
+        "result": "最優秀作品賞"
+      }
+    ]
   }
 ]

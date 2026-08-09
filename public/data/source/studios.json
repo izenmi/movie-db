@@ -10393,5 +10393,455 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Véra Films。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "titanus",
+    "name": "ティターヌス",
+    "nameKana": "ティターヌス",
+    "description": "映画製作会社。『沈黙の世界』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Titanus。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fsjyc-production",
+    "name": "FSJYCプロダクション",
+    "nameKana": "ろづちおん",
+    "description": "映画製作会社。『沈黙の世界』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: FSJYC Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dispat-films",
+    "name": "ディスパ・フィルム",
+    "nameKana": "ディスパフィルム",
+    "description": "映画製作会社。『黒いオルフェ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dispat Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gemma",
+    "name": "ジェンマ",
+    "nameKana": "ジェンマ",
+    "description": "映画製作会社。『黒いオルフェ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gemma。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "parc-film",
+    "name": "パルク・フィルム",
+    "nameKana": "パルクフィルム",
+    "description": "映画製作会社。『シェルブールの雨傘』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Parc Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "madeleine-films",
+    "name": "マドレーヌ・フィルム",
+    "nameKana": "マドレーヌフィルム",
+    "description": "映画製作会社。『シェルブールの雨傘』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Madeleine Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "memorial-enterprises",
+    "name": "メモリアル・エンタープライズ",
+    "nameKana": "メモリアルエンタープライズ",
+    "description": "映画製作会社。『If もしも....』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Memorial Enterprises。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ingo-preminger-productions",
+    "name": "インゴ・プレミンジャー・プロダクションズ",
+    "nameKana": "インゴプレミンジャープロダクションズ",
+    "description": "映画製作会社。『M★A★S★H マッシュ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ingo Preminger Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-directors-company",
+    "name": "ディレクターズ・カンパニー",
+    "nameKana": "ディレクターズカンパニー",
+    "description": "映画製作会社。『カンバセーション…盗聴…』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Directors Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ital-noleggio-cinematografico",
+    "name": "イタル・ノレッジョ",
+    "nameKana": "イタルノレッジョ",
+    "description": "映画製作会社。『木靴の樹』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ital-Noleggio Cinematografico。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rai",
+    "name": "RAI",
+    "nameKana": "らい",
+    "description": "映画製作会社。『木靴の樹』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "forum-sarajevo",
+    "name": "フォーラム・サラエボ",
+    "nameKana": "フォーラムサラエボ",
+    "description": "映画製作会社。『パパは、出張中！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Forum Sarajevo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "centar-film",
+    "name": "ツェンタル・フィルム",
+    "nameKana": "ツェンタルフィルム",
+    "description": "映画製作会社。『パパは、出張中！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Centar film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kingsmere",
+    "name": "キングスミア",
+    "nameKana": "キングスミア",
+    "description": "映画製作会社。『ミッション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kingsmere。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "per-holst-filmproduktion",
+    "name": "ペア・ホルスト・フィルム",
+    "nameKana": "ペアホルストフィルム",
+    "description": "映画製作会社。『ペレ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Per Holst Filmproduktion。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "outlaw-productions",
+    "name": "アウトロー・プロダクションズ",
+    "nameKana": "アウトロープロダクションズ",
+    "description": "映画製作会社。『セックスと嘘とビデオテープ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Outlaw Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "circle-films",
+    "name": "サークル・フィルムズ",
+    "nameKana": "サークルフィルムズ",
+    "description": "映画製作会社。『バートン・フィンク』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Circle Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pandora-film",
+    "name": "パンドラ・フィルム",
+    "nameKana": "パンドラフィルム",
+    "description": "映画製作会社。『アンダーグラウンド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pandora Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "thin-man-films",
+    "name": "シン・マン・フィルムズ",
+    "nameKana": "シンマンフィルムズ",
+    "description": "映画製作会社。『秘密と嘘』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Thin Man Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "les-films-du-fleuve",
+    "name": "レ・フィルム・デュ・フルーヴ",
+    "nameKana": "レフィルムデュフルーヴ",
+    "description": "映画製作会社。『ロゼッタ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Les Films du Fleuve。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rtbf",
+    "name": "RTBF",
+    "nameKana": "",
+    "description": "映画製作会社。『ロゼッタ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "zentropa-entertainments",
+    "name": "ゼントロパ",
+    "nameKana": "ゼントロパ",
+    "description": "映画製作会社。『ダンサー・イン・ザ・ダーク』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Zentropa Entertainments。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dr",
+    "name": "DR",
+    "nameKana": "",
+    "description": "映画製作会社。『ダンサー・イン・ザ・ダーク』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sacher-film",
+    "name": "サシェール・フィルム",
+    "nameKana": "サシェールフィルム",
+    "description": "映画製作会社。『息子の部屋』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sacher Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bac-films",
+    "name": "BACフィルムズ",
+    "nameKana": "ふぃば",
+    "description": "映画製作会社。『息子の部屋』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bac Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fellowship-adventure-group",
+    "name": "フェローシップ・アドベンチャー・グループ",
+    "nameKana": "フェローシップアドベンチャーグループ",
+    "description": "映画製作会社。『華氏911』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fellowship Adventure Group。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bim-distribuzione",
+    "name": "BiMディストリブツィオーネ",
+    "nameKana": "でぃりぶじおねび",
+    "description": "映画製作会社。『華氏911』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: BiM Distribuzione。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scope-invest",
+    "name": "スコープ・インベスト",
+    "nameKana": "スコープインベスト",
+    "description": "映画製作会社。『ある子供』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SCOPE Invest。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sixteen-films",
+    "name": "シックスティーン・フィルムズ",
+    "nameKana": "シックスティーンフィルムズ",
+    "description": "映画製作会社。『麦の穂をゆらす風』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sixteen Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matador-pictures",
+    "name": "マタドール・ピクチャーズ",
+    "nameKana": "マタドールピクチャーズ",
+    "description": "映画製作会社。『麦の穂をゆらす風』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matador Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saga-film",
+    "name": "サガ・フィルム",
+    "nameKana": "サガフィルム",
+    "description": "映画製作会社。『4ヶ月、3週と2日』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Saga Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mobra-films",
+    "name": "モブラ・フィルムズ",
+    "nameKana": "モブラフィルムズ",
+    "description": "映画製作会社。『4ヶ月、3週と2日』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mobra Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lucky-red",
+    "name": "ラッキー・レッド",
+    "nameKana": "ラッキーレッド",
+    "description": "映画製作会社。『白いリボン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lucky Red。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wega-film",
+    "name": "ヴェガ・フィルム",
+    "nameKana": "ヴェガフィルム",
+    "description": "映画製作会社。『白いリボン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wega Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "les-films-du-losange",
+    "name": "レ・フィルム・デュ・ロザンジュ",
+    "nameKana": "レフィルムデュロザンジュ",
+    "description": "映画製作会社。『愛、アムール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Les Films du Losange。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "x-filme-creative-pool",
+    "name": "Xフィルム・クリエイティブ・プール",
+    "nameKana": "ぽおれあちゔぇふぃめ",
+    "description": "映画製作会社。『愛、アムール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: X Filme Creative Pool。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scope-pictures",
+    "name": "スコープ・ピクチャーズ",
+    "nameKana": "スコープピクチャーズ",
+    "description": "映画製作会社。『アデル、ブルーは熱い色』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SCOPE Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "memento-production",
+    "name": "メメント・プロダクション",
+    "nameKana": "メメントプロダクション",
+    "description": "映画製作会社。『雪の轍』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Memento Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bredok-film-production",
+    "name": "ブレドク・フィルム",
+    "nameKana": "ブレドクフィルム",
+    "description": "映画製作会社。『雪の轍』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bredok Film Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "france-2-cinema",
+    "name": "フランス2シネマ",
+    "nameKana": "いんまらんえ",
+    "description": "映画製作会社。『ディーパンの闘い』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: France 2 Cinéma。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "plattform-produktion",
+    "name": "プラットフォーム・プロダクション",
+    "nameKana": "プラットフォームプロダクション",
+    "description": "映画製作会社。『ザ・スクエア 思いやりの聖域』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Plattform Produktion。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazak-productions",
+    "name": "カザック・プロダクションズ",
+    "nameKana": "カザックプロダクションズ",
+    "description": "映画製作会社。『TITANE/チタン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazak Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "30west",
+    "name": "30WEST",
+    "nameKana": "うぇ",
+    "description": "映画製作会社。『逆転のトライアングル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bbc-film",
+    "name": "BBCフィルム",
+    "nameKana": "ふぃっ",
+    "description": "映画製作会社。『逆転のトライアングル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: BBC Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jafar-panahi-productions",
+    "name": "ジャファル・パナヒ・プロダクションズ",
+    "nameKana": "ジャファルパナヒプロダクションズ",
+    "description": "映画製作会社。『シンプル・アクシデント／偶然』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jafar Panahi Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "imamura-productions",
+    "name": "今村プロダクション",
+    "nameKana": "いまむらぷろだくしょん",
+    "description": "映画製作会社。『復讐するは我にあり』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Imamura Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "art-theatre-guild",
+    "name": "日本アート・シアター・ギルド",
+    "nameKana": "にほんあーとしあたーぎるど",
+    "description": "映画製作会社。『ツィゴイネルワイゼン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Art Theatre Guild。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cinema-placet",
+    "name": "シネマ・プラセット",
+    "nameKana": "しねまぷらせっと",
+    "description": "映画製作会社。『ツィゴイネルワイゼン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cinema Placet。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daiei-co-ltd",
+    "name": "大映",
+    "nameKana": "だいえい",
+    "description": "映画製作会社。『敦煌』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daiei Co. Ltd.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "imagica",
+    "name": "IMAGICA",
+    "nameKana": "いまじか",
+    "description": "映画製作会社。『敦煌』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

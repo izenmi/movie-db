@@ -26125,5 +26125,779 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter van Eyck。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jacques-yves-cousteau",
+    "name": "ジャック=イヴ・クストー",
+    "nameKana": "おうてあうじゃうえゔぇ",
+    "description": "俳優。『沈黙の世界』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jacques-Yves Cousteau。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "breno-mello",
+    "name": "ブレノ・メロ",
+    "nameKana": "ブレノメロ",
+    "description": "俳優。『黒いオルフェ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Breno Mello。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marpessa-dawn",
+    "name": "マルペッサ・ドーン",
+    "nameKana": "マルペッサドーン",
+    "description": "俳優。『黒いオルフェ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marpessa Dawn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lourdes-de-oliveira",
+    "name": "ロウルデス・デ・オリヴェイラ",
+    "nameKana": "ロウルデスデオリヴェイラ",
+    "description": "俳優。『黒いオルフェ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lourdes de Oliveira。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "catherine-deneuve",
+    "name": "カトリーヌ・ドヌーヴ",
+    "nameKana": "カトリーヌドヌーヴ",
+    "description": "俳優。『シェルブールの雨傘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Catherine Deneuve。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nino-castelnuovo",
+    "name": "ニーノ・カステルヌオーヴォ",
+    "nameKana": "ニーノカステルヌオーヴォ",
+    "description": "俳優。『シェルブールの雨傘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nino Castelnuovo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anne-vernon",
+    "name": "アンヌ・ヴェルノン",
+    "nameKana": "アンヌヴェルノン",
+    "description": "俳優。『シェルブールの雨傘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anne Vernon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "choichiro-kawarasaki",
+    "name": "河原崎長一郎",
+    "nameKana": "かわらさきちょういちろう",
+    "description": "俳優。『神々の深き欲望』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chōichirō Kawarasaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuo-kitamura",
+    "name": "北村和夫",
+    "nameKana": "きたむらかずお",
+    "description": "俳優。『神々の深き欲望』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuo Kitamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-wood",
+    "name": "デヴィッド・ウッド",
+    "nameKana": "デヴィッドウッド",
+    "description": "俳優。『If もしも....』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Wood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-warwick",
+    "name": "リチャード・ウォーウィック",
+    "nameKana": "リチャードウォーウィック",
+    "description": "俳優。『If もしも....』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Warwick。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "elliott-gould",
+    "name": "エリオット・グールド",
+    "nameKana": "エリオットグールド",
+    "description": "俳優。『M★A★S★H マッシュ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Elliott Gould。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "allen-garfield",
+    "name": "アレン・ガーフィールド",
+    "nameKana": "アレンガーフィールド",
+    "description": "俳優。『カンバセーション…盗聴…』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Allen Garfield。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "luigi-ornaghi",
+    "name": "ルイジ・オルナーギ",
+    "nameKana": "ルイジオルナーギ",
+    "description": "俳優。『木靴の樹』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Luigi Ornaghi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "francesca-moriggi",
+    "name": "フランチェスカ・モリッジ",
+    "nameKana": "フランチェスカモリッジ",
+    "description": "俳優。『木靴の樹』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Francesca Moriggi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "omar-brignoli",
+    "name": "オマール・ブリニョーリ",
+    "nameKana": "オマールブリニョーリ",
+    "description": "俳優。『木靴の樹』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Omar Brignoli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "moreno-de-bartoli",
+    "name": "モレノ・デ・バルトリ",
+    "nameKana": "モレノデバルトリ",
+    "description": "俳優。『パパは、出張中！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Moreno de Bartoli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "predrag-miki-manojlovic",
+    "name": "プレドラグ・マノイロヴィッチ",
+    "nameKana": "プレドラグマノイロヴィッチ",
+    "description": "俳優。『パパは、出張中！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Predrag 'Miki' Manojlović。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mirjana-karanovic",
+    "name": "ミリヤナ・カラノヴィッチ",
+    "nameKana": "ミリヤナカラノヴィッチ",
+    "description": "俳優。『パパは、出張中！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mirjana Karanović。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ray-mcanally",
+    "name": "レイ・マカナリー",
+    "nameKana": "レイマカナリー",
+    "description": "俳優。『ミッション』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ray McAnally。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pelle-hvenegaard",
+    "name": "ペレ・ヴェネゴー",
+    "nameKana": "ペレヴェネゴー",
+    "description": "俳優。『ペレ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pelle Hvenegaard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "erik-paaske",
+    "name": "エリック・パスケ",
+    "nameKana": "エリックパスケ",
+    "description": "俳優。『ペレ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Erik Paaske。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-gallagher",
+    "name": "ピーター・ギャラガー",
+    "nameKana": "ピーターギャラガー",
+    "description": "俳優。『セックスと嘘とビデオテープ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Gallagher。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-turturro",
+    "name": "ジョン・タトゥーロ",
+    "nameKana": "ジョンタトゥーロ",
+    "description": "俳優。『バートン・フィンク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Turturro。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "judy-davis",
+    "name": "ジュディ・デイヴィス",
+    "nameKana": "ジュディデイヴィス",
+    "description": "俳優。『バートン・フィンク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Judy Davis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lazar-ristovski",
+    "name": "ラザル・リストフスキー",
+    "nameKana": "ラザルリストフスキー",
+    "description": "俳優。『アンダーグラウンド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lazar Ristovski。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mirjana-jokovic",
+    "name": "ミリヤナ・ヨコヴィッチ",
+    "nameKana": "ミリヤナヨコヴィッチ",
+    "description": "俳優。『アンダーグラウンド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mirjana Joković。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marianne-jean-baptiste",
+    "name": "マリアンヌ・ジャン=バティスト",
+    "nameKana": "じぇあんばちてまりあんえ",
+    "description": "俳優。『秘密と嘘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marianne Jean-Baptiste。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "timothy-spall",
+    "name": "ティモシー・スポール",
+    "nameKana": "ティモシースポール",
+    "description": "俳優。『秘密と嘘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Timothy Spall。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "emilie-dequenne",
+    "name": "エミリー・ドゥケンヌ",
+    "nameKana": "エミリードゥケンヌ",
+    "description": "俳優。『ロゼッタ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Émilie Dequenne。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olivier-gourmet",
+    "name": "オリヴィエ・グルメ",
+    "nameKana": "オリヴィエグルメ",
+    "description": "俳優。『ロゼッタ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olivier Gourmet。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fabrizio-rongione",
+    "name": "ファブリツィオ・ロンジョーネ",
+    "nameKana": "ファブリツィオロンジョーネ",
+    "description": "俳優。『ロゼッタ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fabrizio Rongione。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bjork",
+    "name": "ビョーク",
+    "nameKana": "ビョーク",
+    "description": "俳優。『ダンサー・イン・ザ・ダーク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Björk。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nanni-moretti",
+    "name": "ナンニ・モレッティ",
+    "nameKana": "ナンニモレッティ",
+    "description": "俳優。『息子の部屋』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nanni Moretti。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "laura-morante",
+    "name": "ラウラ・モランテ",
+    "nameKana": "ラウラモランテ",
+    "description": "俳優。『息子の部屋』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Laura Morante。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jasmine-trinca",
+    "name": "ジャスミン・トリンカ",
+    "nameKana": "ジャスミントリンカ",
+    "description": "俳優。『息子の部屋』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jasmine Trinca。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-moore",
+    "name": "マイケル・ムーア",
+    "nameKana": "マイケルムーア",
+    "description": "俳優。『華氏911』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Moore。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-conyers",
+    "name": "ジョン・コニャーズ",
+    "nameKana": "ジョンコニャーズ",
+    "description": "俳優。『華氏911』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Conyers。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "abdul-henderson",
+    "name": "アブドゥル・ヘンダーソン",
+    "nameKana": "アブドゥルヘンダーソン",
+    "description": "俳優。『華氏911』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Abdul Henderson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeremie-renier",
+    "name": "ジェレミー・レニエ",
+    "nameKana": "ジェレミーレニエ",
+    "description": "俳優。『ある子供』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jérémie Renier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "deborah-francois",
+    "name": "デボラ・フランソワ",
+    "nameKana": "デボラフランソワ",
+    "description": "俳優。『ある子供』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Déborah François。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "padraic-delaney",
+    "name": "ポードリック・ディレーニー",
+    "nameKana": "ポードリックディレーニー",
+    "description": "俳優。『麦の穂をゆらす風』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pádraic Delaney。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "liam-cunningham",
+    "name": "リーアム・カニンガム",
+    "nameKana": "リーアムカニンガム",
+    "description": "俳優。『麦の穂をゆらす風』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Liam Cunningham。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anamaria-marinca",
+    "name": "アナマリア・マリンカ",
+    "nameKana": "アナマリアマリンカ",
+    "description": "俳優。『4ヶ月、3週と2日』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anamaria Marinca。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "laura-vasiliu",
+    "name": "ラウラ・ヴァシリウ",
+    "nameKana": "ラウラヴァシリウ",
+    "description": "俳優。『4ヶ月、3週と2日』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Laura Vasiliu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vlad-ivanov",
+    "name": "ヴラド・イヴァノフ",
+    "nameKana": "ヴラドイヴァノフ",
+    "description": "俳優。『4ヶ月、3週と2日』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vlad Ivanov。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ernst-jacobi",
+    "name": "エルンスト・ヤコビ",
+    "nameKana": "エルンストヤコビ",
+    "description": "俳優。『白いリボン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ernst Jacobi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leonie-benesch",
+    "name": "レオニー・ベネシュ",
+    "nameKana": "レオニーベネシュ",
+    "description": "俳優。『白いリボン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leonie Benesch。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hunter-mccracken",
+    "name": "ハンター・マクラッケン",
+    "nameKana": "ハンターマクラッケン",
+    "description": "俳優。『ツリー・オブ・ライフ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hunter McCracken。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jean-louis-trintignant",
+    "name": "ジャン=ルイ・トランティニャン",
+    "nameKana": "りんちなんじぇあんろうい",
+    "description": "俳優。『愛、アムール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jean-Louis Trintignant。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "emmanuelle-riva",
+    "name": "エマニュエル・リヴァ",
+    "nameKana": "エマニュエルリヴァ",
+    "description": "俳優。『愛、アムール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Emmanuelle Riva。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isabelle-huppert",
+    "name": "イザベル・ユペール",
+    "nameKana": "イザベルユペール",
+    "description": "俳優。『愛、アムール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Isabelle Huppert。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adele-exarchopoulos",
+    "name": "アデル・エグザルホプロス",
+    "nameKana": "アデルエグザルホプロス",
+    "description": "俳優。『アデル、ブルーは熱い色』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Adèle Exarchopoulos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "salim-kechiouche",
+    "name": "サリム・ケシューシュ",
+    "nameKana": "サリムケシューシュ",
+    "description": "俳優。『アデル、ブルーは熱い色』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Salim Kéchiouche。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "haluk-bilginer",
+    "name": "ハルク・ビルギネル",
+    "nameKana": "ハルクビルギネル",
+    "description": "俳優。『雪の轍』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Haluk Bilginer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "melisa-sozen",
+    "name": "メリサ・ソゼン",
+    "nameKana": "メリサソゼン",
+    "description": "俳優。『雪の轍』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Melisa Sözen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "demet-akbag",
+    "name": "デメット・アクバー",
+    "nameKana": "デメットアクバー",
+    "description": "俳優。『雪の轍』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Demet Akbağ。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "antonythasan-jesuthasan",
+    "name": "アントニーターサン・ジェスターサン",
+    "nameKana": "アントニーターサンジェスターサン",
+    "description": "俳優。『ディーパンの闘い』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Antonythasan Jesuthasan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kalieaswari-srinivasan",
+    "name": "カリーアスワリ・スリニヴァサン",
+    "nameKana": "カリーアスワリスリニヴァサン",
+    "description": "俳優。『ディーパンの闘い』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kalieaswari Srinivasan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "claudine-vinasithamby",
+    "name": "クローディーヌ・ヴィナシタンビー",
+    "nameKana": "クローディーヌヴィナシタンビー",
+    "description": "俳優。『ディーパンの闘い』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Claudine Vinasithamby。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dave-johns",
+    "name": "デイヴ・ジョーンズ",
+    "nameKana": "デイヴジョーンズ",
+    "description": "俳優。『わたしは、ダニエル・ブレイク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dave Johns。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hayley-squires",
+    "name": "ヘイリー・スクワイアズ",
+    "nameKana": "ヘイリースクワイアズ",
+    "description": "俳優。『わたしは、ダニエル・ブレイク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hayley Squires。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "briana-shann",
+    "name": "ブリアナ・シャン",
+    "nameKana": "ブリアナシャン",
+    "description": "俳優。『わたしは、ダニエル・ブレイク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Briana Shann。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "elisabeth-moss",
+    "name": "エリザベス・モス",
+    "nameKana": "エリザベスモス",
+    "description": "俳優。『ザ・スクエア 思いやりの聖域』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Elisabeth Moss。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vincent-lindon",
+    "name": "ヴァンサン・ランドン",
+    "nameKana": "ヴァンサンランドン",
+    "description": "俳優。『TITANE/チタン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vincent Lindon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "agathe-rousselle",
+    "name": "アガト・ルセル",
+    "nameKana": "アガトルセル",
+    "description": "俳優。『TITANE/チタン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Agathe Rousselle。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "garance-marillier",
+    "name": "ガランス・マリリエ",
+    "nameKana": "ガランスマリリエ",
+    "description": "俳優。『TITANE/チタン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Garance Marillier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "charlbi-dean",
+    "name": "シャルビ・ディーン",
+    "nameKana": "シャルビディーン",
+    "description": "俳優。『逆転のトライアングル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Charlbi Dean。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dolly-de-leon",
+    "name": "ドリー・デ・レオン",
+    "nameKana": "ドリーデレオン",
+    "description": "俳優。『逆転のトライアングル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dolly de Leon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vahid-mobasseri",
+    "name": "ヴァヒド・モバッセリ",
+    "nameKana": "ヴァヒドモバッセリ",
+    "description": "俳優。『シンプル・アクシデント／偶然』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vahid Mobasseri。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mariam-afshari",
+    "name": "マリアム・アフシャリ",
+    "nameKana": "マリアムアフシャリ",
+    "description": "俳優。『シンプル・アクシデント／偶然』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mariam Afshari。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ebrahim-azizi",
+    "name": "エブラヒム・アジジ",
+    "nameKana": "エブラヒムアジジ",
+    "description": "俳優。『シンプル・アクシデント／偶然』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ebrahim Azizi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ken-takakura",
+    "name": "高倉健",
+    "nameKana": "たかくらけん",
+    "description": "俳優。『幸福の黄色いハンカチ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ken Takakura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuya-takeda",
+    "name": "武田鉄矢",
+    "nameKana": "たけだてつや",
+    "description": "俳優。『幸福の黄色いハンカチ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuya Takeda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuro-tamba",
+    "name": "丹波哲郎",
+    "nameKana": "たんばてつろう",
+    "description": "俳優。『事件』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuro Tamba。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinsuke-ashida",
+    "name": "芦田伸介",
+    "nameKana": "あしだしんすけ",
+    "description": "俳優。『事件』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinsuke Ashida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mayumi-ogawa",
+    "name": "小川真由美",
+    "nameKana": "おがわまゆみ",
+    "description": "俳優。『復讐するは我にあり』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mayumi Ogawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshiya-fujita",
+    "name": "藤田敏八",
+    "nameKana": "ふじたとしや",
+    "description": "俳優。『ツィゴイネルワイゼン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshiya Fujita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naoko-ohtani",
+    "name": "大谷直子",
+    "nameKana": "おおたになおこ",
+    "description": "俳優。『ツィゴイネルワイゼン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naoko Ohtani。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshio-harada",
+    "name": "原田芳雄",
+    "nameKana": "はらだよしお",
+    "description": "俳優。『ツィゴイネルワイゼン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshio Harada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayumi-ishida",
+    "name": "いしだあゆみ",
+    "nameKana": "いしだあゆみ",
+    "description": "俳優。『駅 STATION』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ayumi Ishida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiko-matsuzaka",
+    "name": "松坂慶子",
+    "nameKana": "まつざかけいこ",
+    "description": "俳優。『蒲田行進曲』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiko Matsuzaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsuru-hirata",
+    "name": "平田満",
+    "nameKana": "ひらたみつる",
+    "description": "俳優。『蒲田行進曲』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsuru Hirata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yukiyo-toake",
+    "name": "十朱幸代",
+    "nameKana": "とあけゆきよ",
+    "description": "俳優。『花いちもんめ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yukiyo Toake。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "teruhiko-saigo",
+    "name": "西郷輝彦",
+    "nameKana": "さいごうてるひこ",
+    "description": "俳優。『花いちもんめ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Teruhiko Saigō。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mieko-harada",
+    "name": "原田美枝子",
+    "nameKana": "はらだみえこ",
+    "description": "俳優。『火宅の人』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mieko Harada。",
+    "updatedAt": "2026-08-09"
   }
 ]
