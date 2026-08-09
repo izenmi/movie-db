@@ -7850,5 +7850,167 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mike Nichols Productions。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arnold-kopelson-productions",
+    "name": "アーノルド・コペルソン・プロダクションズ",
+    "nameKana": "アーノルドコペルソンプロダクションズ",
+    "description": "映画製作会社。『フォーリング・ダウン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arnold Kopelson Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sublimation",
+    "name": "サブリメイション",
+    "nameKana": "さぶりめいしょん",
+    "description": "映画製作会社。『サイダーのように言葉が湧き上がる』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sublimation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "great-oaks-entertainment",
+    "name": "グレート・オークス・エンターテインメント",
+    "nameKana": "グレートオークスエンターテインメント",
+    "description": "映画製作会社。『101』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Great Oaks Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "captivate-entertainment",
+    "name": "キャプティベート・エンターテインメント",
+    "nameKana": "キャプティベートエンターテインメント",
+    "description": "映画製作会社。『ジェイソン・ボーン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Captivate Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "osiris-films",
+    "name": "オシリス・フィルムズ",
+    "nameKana": "オシリスフィルムズ",
+    "description": "映画製作会社。『ドラキュラ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Osiris Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "syalis-da",
+    "name": "シアリスDA",
+    "nameKana": "だやり",
+    "description": "映画製作会社。『カジノ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Syalis DA。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "block-2-pictures",
+    "name": "ブロック2ピクチャーズ",
+    "nameKana": "ぴつれろ",
+    "description": "映画製作会社。『花様年華』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Block 2 Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paradis-films",
+    "name": "パラディ・フィルム",
+    "nameKana": "パラディフィルム",
+    "description": "映画製作会社。『花様年華』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paradis Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gran-via-productions",
+    "name": "グラン・ヴィア・プロダクションズ",
+    "nameKana": "グランヴィアプロダクションズ",
+    "description": "映画製作会社。『リトル・シングス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gran Via Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "elara-pictures",
+    "name": "エララ・ピクチャーズ",
+    "nameKana": "エララピクチャーズ",
+    "description": "映画製作会社。『アンカット・ダイヤモンド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Elara Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "totsu",
+    "name": "トーツー",
+    "nameKana": "トーツー",
+    "description": "映画製作会社。『あの夏、いちばん静かな海。』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Totsu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "di-novi-pictures",
+    "name": "ディ・ノヴィ・ピクチャーズ",
+    "nameKana": "ディノヴィピクチャーズ",
+    "description": "映画製作会社。『プラクティカル・マジック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Di Novi Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "perfect-world-pictures",
+    "name": "パーフェクト・ワールド・ピクチャーズ",
+    "nameKana": "パーフェクトワールドピクチャーズ",
+    "description": "映画製作会社。『ウィンストン・チャーチル／ヒトラーから世界を救った男』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Perfect World Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scion-films",
+    "name": "サイオン・フィルムズ",
+    "nameKana": "サイオンフィルムズ",
+    "description": "映画製作会社。『HACHI 約束の犬』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scion Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "orly-films",
+    "name": "オルリー・フィルムズ",
+    "nameKana": "オルリーフィルムズ",
+    "description": "映画製作会社。『ナインスゲート』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Orly Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "space-shower-tv",
+    "name": "スペースシャワーTV",
+    "nameKana": "すぺーすしゃわーてぃーびー",
+    "description": "映画製作会社。『うずまき』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Space Shower TV。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "geneon-entertainment",
+    "name": "ジェネオン エンタテインメント",
+    "nameKana": "じぇねおんえんためんと",
+    "description": "映画製作会社。『ICHI』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Geneon Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brooksfilms",
+    "name": "ブルックスフィルムズ",
+    "nameKana": "ブルックスフィルムズ",
+    "description": "映画製作会社。『ザ・フライ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brooksfilms。",
+    "updatedAt": "2026-08-09"
   }
 ]

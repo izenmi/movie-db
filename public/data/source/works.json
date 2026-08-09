@@ -71901,5 +71901,1949 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "The Graduate"
+  },
+  {
+    "id": "kaiji-the-ultimate-gambler",
+    "title": "カイジ 人生逆転ゲーム",
+    "titleKana": "かいじじんせいぎゃくてんげーむ",
+    "directorIds": [
+      "toya-sato"
+    ],
+    "screenwriterIds": [
+      "mika-ohmori",
+      "nobuyuki-fukumoto"
+    ],
+    "studioIds": [
+      "toho",
+      "horipro"
+    ],
+    "cast": [
+      {
+        "actorId": "tatsuya-fujiwara",
+        "character": "伊藤カイジ"
+      },
+      {
+        "actorId": "yuki-amami",
+        "character": "遠藤凛子"
+      },
+      {
+        "actorId": "teruyuki-kagawa",
+        "character": "利根川幸雄"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "human-drama",
+      "mystery",
+      "survival",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 10
+    },
+    "runtime": 130,
+    "originalType": "manga",
+    "synopsis": "自堕落な日々を送るカイジが、保証人になった借金を丸ごと背負わされる。返済のため乗り込んだ船で、命を賭けた限定じゃんけんが始まる。勝ち残った先には、鉄骨渡りと地下労働という次の地獄が待っていた。極限状況での心理戦を描いた漫画の実写化にあたる。藤原竜也の熱演と、原作の緊張感を再現した美術が支持された。",
+    "tmdbId": 37961,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "kaiji"
+  },
+  {
+    "id": "suspect-x",
+    "title": "容疑者Xの献身",
+    "titleKana": "ようぎしゃえっくすのけんしん",
+    "directorIds": [
+      "hiroshi-nishitani"
+    ],
+    "screenwriterIds": [
+      "yasushi-fukuda"
+    ],
+    "studioIds": [
+      "cine-bazar",
+      "fuji-television-network"
+    ],
+    "cast": [
+      {
+        "actorId": "masaharu-fukuyama",
+        "character": "湯川学"
+      },
+      {
+        "actorId": "ko-shibasaki",
+        "character": "内海薫"
+      },
+      {
+        "actorId": "kazuki-kitamura",
+        "character": "草薙俊平"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "mystery",
+      "detective"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 10
+    },
+    "runtime": 128,
+    "originalType": "novel",
+    "synopsis": "顔をつぶされた男の遺体が発見され、元妻の靖子が容疑者として浮上する。だが彼女には完璧なアリバイがあった。物理学者の湯川は、隣人である天才数学者の石神が関わっていることに気づく。東野圭吾の同名小説を原作とし、シリーズ屈指の人気作となっている。数学者の仕掛けが明かされる終盤の構成が、高く評価されている。",
+    "tmdbId": 42341,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "galileo"
+  },
+  {
+    "id": "falling-down",
+    "title": "フォーリング・ダウン",
+    "titleKana": "ふぉーりんぐだうん",
+    "directorIds": [
+      "joel-schumacher"
+    ],
+    "screenwriterIds": [
+      "ebbe-roe-smith"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "arnold-kopelson-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "michael-douglas",
+        "character": "D・フェンス"
+      },
+      {
+        "actorId": "robert-duvall",
+        "character": "プレンダーガスト"
+      },
+      {
+        "actorId": "barbara-hershey",
+        "character": "ベス"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "suspense",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 5
+    },
+    "runtime": 113,
+    "originalType": "original",
+    "synopsis": "渋滞に耐えかねた男が、車を捨てて徒歩で街を横切りはじめる。失業し家族にも見放された彼は、行く先々の理不尽に暴力で応じるようになる。定年間近の刑事だけが、その足取りを正確に追っていく。都市の苛立ちを主題にした作品として、公開当時に議論を呼んだ。主人公に共感すべきかを観客に委ねる作りが、この作品の核となる。",
+    "tmdbId": 37094,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Falling Down"
+  },
+  {
+    "id": "batman-forever",
+    "title": "バットマン フォーエヴァー",
+    "titleKana": "ばっとまんふぉーえばー",
+    "directorIds": [
+      "joel-schumacher"
+    ],
+    "screenwriterIds": [
+      "akiva-goldsman",
+      "janet-scott-batchler"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "tim-burton-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "val-kilmer",
+        "character": "バットマン"
+      },
+      {
+        "actorId": "tommy-lee-jones",
+        "character": "ハーヴィー・トゥー・フェイス"
+      },
+      {
+        "actorId": "jim-carrey",
+        "character": "リドラー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "fantasy",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1995,
+      "month": 6
+    },
+    "runtime": 119,
+    "originalType": "manga",
+    "synopsis": "事故で顔の半分を焼かれた元検事が、怪人トゥー・フェイスとなってゴッサムを荒らす。同時に、脳波装置を発明した研究員ニグマがリドラーを名乗って現れる。両親を失った青年ロビンが、バットマンの相棒として加わる。原色を多用した派手な美術で知られる第三作にあたる。前二作の暗い作風から一転し、明るい娯楽路線に振った一本にあたる。",
+    "tmdbId": 414,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Batman Forever",
+    "seriesId": "batman-schumacher"
+  },
+  {
+    "id": "sherlock-holmes",
+    "title": "シャーロック・ホームズ",
+    "titleKana": "しゃーろっくほーむず",
+    "directorIds": [
+      "guy-ritchie"
+    ],
+    "screenwriterIds": [
+      "anthony-peckham",
+      "simon-kinberg"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "village-roadshow-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "シャーロック・ホームズ"
+      },
+      {
+        "actorId": "jude-law",
+        "character": "ジョン・ワトソン"
+      },
+      {
+        "actorId": "rachel-mcadams",
+        "character": "アイリーン・アドラー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "mystery",
+      "detective"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 2
+    },
+    "runtime": 129,
+    "originalType": "novel",
+    "synopsis": "黒魔術を操るブラックウッド卿を捕らえたホームズだったが、処刑後に卿が蘇ったという噂が流れる。相棒ワトソンの結婚を控え、ホームズは焦りを隠せずにいた。かつての宿敵アイリーン・アドラーも事件に関わってくる。名探偵を格闘もこなす人物として描き直した作品にあたる。格闘の予測を可視化する演出など、独自の趣向が盛り込まれている。",
+    "tmdbId": 10528,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Sherlock Holmes",
+    "seriesId": "sherlock-holmes-ritchie"
+  },
+  {
+    "id": "lu-over-the-wall",
+    "title": "夜明け告げるルーのうた",
+    "titleKana": "よあけつげるるーのうた",
+    "directorIds": [
+      "masaaki-yuasa"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "science-saru",
+      "fuji-television-network"
+    ],
+    "cast": [
+      {
+        "actorId": "shota-shimoda",
+        "character": "足元カイ"
+      },
+      {
+        "actorId": "soma-saito",
+        "character": "国夫"
+      },
+      {
+        "actorId": "minako-kotobuki",
+        "character": "海老名遊歩"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "music",
+      "fantasy",
+      "family",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2017,
+      "month": 5
+    },
+    "runtime": 112,
+    "originalType": "original",
+    "synopsis": "寂れた漁港の町に住む中学生カイが、音楽を通じて人魚の少女ルーと出会う。歌に合わせて踊るルーの存在は、町に古くから伝わる禁忌と結びついていた。仲間とバンドを組んだカイは、人魚への恐れと向き合うことになる。湯浅政明監督のオリジナル長編にあたる。自在に伸び縮みする作画と、音楽に合わせた動きが見どころとなる。",
+    "tmdbId": 436120,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "words-bubble-up-like-soda-pop",
+    "title": "サイダーのように言葉が湧き上がる",
+    "titleKana": "さいだーのようにことばがわきあがる",
+    "directorIds": [
+      "kyohei-ishiguro"
+    ],
+    "screenwriterIds": [
+      "dai-sato"
+    ],
+    "studioIds": [
+      "signal-md",
+      "sublimation"
+    ],
+    "cast": [
+      {
+        "actorId": "somegoro-ichikawa",
+        "character": "チェリー"
+      },
+      {
+        "actorId": "hana-sugisaki",
+        "character": "スマイル"
+      },
+      {
+        "actorId": "megumi-han",
+        "character": "ビーバー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "youth",
+      "music"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 7
+    },
+    "runtime": 87,
+    "originalType": "original",
+    "synopsis": "人と話すのが苦手で俳句に気持ちを託す少年チェリーが、動画配信をする少女スマイルと出会う。彼女は歯の矯正を隠すため、いつもマスクをつけていた。老人が探すレコードを一緒に追ううちに、二人は互いへの言葉を見つけていく。鮮やかな色彩設計で知られる作品にあたる。淡い色使いと俳句という題材の組み合わせが、この作品の持ち味となる。",
+    "tmdbId": 579741,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wallace-gromit-vengeance-most-fowl",
+    "title": "ウォレスとグルミット 仕返しなんてコワくない!",
+    "titleKana": "うぉれすとぐるみっとしかえしなんてこわくない",
+    "directorIds": [
+      "nick-park",
+      "merlin-crossingham"
+    ],
+    "screenwriterIds": [
+      "mark-burton"
+    ],
+    "studioIds": [
+      "aardman"
+    ],
+    "cast": [
+      {
+        "actorId": "ben-whitehead",
+        "character": "ウォレス"
+      },
+      {
+        "actorId": "peter-kay",
+        "character": "マッキントッシュ警部"
+      },
+      {
+        "actorId": "lauren-patel",
+        "character": "ムカジー巡査"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "sf",
+      "family",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 1
+    },
+    "runtime": 79,
+    "originalType": "original",
+    "synopsis": "ウォレスの発明した自動の庭師人形が、突然おかしな挙動を見せはじめる。町では不審な犯罪が続き、疑いの目はウォレスに向けられる。かつて投獄したペンギンのフェザーズが、裏で糸を引いていた。粘土人形による長編として久々に作られた作品にあたる。三十年ぶりに宿敵が再登場する構成で、長年の愛好者に歓迎された。",
+    "tmdbId": 929204,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Wallace & Gromit: Vengeance Most Fowl"
+  },
+  {
+    "id": "speed",
+    "title": "スピード",
+    "titleKana": "すぴーど",
+    "directorIds": [
+      "jan-de-bont"
+    ],
+    "screenwriterIds": [
+      "graham-yost"
+    ],
+    "studioIds": [
+      "20th-century-fox",
+      "the-mark-gordon-company"
+    ],
+    "cast": [
+      {
+        "actorId": "keanu-reeves",
+        "character": "ジャック・トラヴェン"
+      },
+      {
+        "actorId": "dennis-hopper",
+        "character": "ハワード・ペイン"
+      },
+      {
+        "actorId": "sandra-bullock",
+        "character": "アニー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "disaster"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1994,
+      "month": 6
+    },
+    "runtime": 115,
+    "originalType": "original",
+    "synopsis": "爆弾魔に翻弄された特殊部隊員ジャックのもとに、次の標的が告げられる。時速八十キロを下回ると爆発するバスが、乗客を乗せたまま高速道路を走り続ける。乗客のアニーが運転を代わり、ジャックは車体の下へ潜り込む。単純な設定を徹底した娯楽作として名高い一本にあたる。公開当時の興行を席巻し、キアヌ・リーブスの代表作となった。",
+    "tmdbId": 1637,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Speed"
+  },
+  {
+    "id": "101-dalmatians",
+    "title": "101",
+    "titleKana": "ひゃくいち",
+    "directorIds": [
+      "stephen-herek"
+    ],
+    "screenwriterIds": [
+      "john-hughes"
+    ],
+    "studioIds": [
+      "great-oaks-entertainment",
+      "walt-disney-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "glenn-close",
+        "character": "クルエラ・ド・ヴィル"
+      },
+      {
+        "actorId": "jeff-daniels",
+        "character": "ロジャー"
+      },
+      {
+        "actorId": "joely-richardson",
+        "character": "アニタ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "comedy",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1997,
+      "month": 3
+    },
+    "runtime": 103,
+    "originalType": "novel",
+    "synopsis": "ゲーム開発者ロジャーと服飾デザイナーのアニタが、飼い犬同士の縁で結ばれる。生まれた十五匹の子犬を、毛皮を欲しがるクルエラが誘拐する。犬たちは吠え声の伝達で仲間を集め、雪の田舎道を追跡する。動画作品を実写で作り直した一本にあたる。グレン・クローズの悪役ぶりが、この作品の見どころとなっている。実写ならではの動物の演技も持ち味となる。",
+    "tmdbId": 11674,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "101 Dalmatians",
+    "seriesId": "dalmatians-liveaction"
+  },
+  {
+    "id": "godzilla-tokyo-s-o-s",
+    "title": "ゴジラ×モスラ×メカゴジラ 東京SOS",
+    "titleKana": "ごじらたいもすらたいめかごじらとうきょうえすおーえす",
+    "directorIds": [
+      "masaaki-tezuka"
+    ],
+    "screenwriterIds": [
+      "masahiro-yokotani"
+    ],
+    "studioIds": [
+      "toho-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "noboru-kaneko",
+        "character": "中條義人"
+      },
+      {
+        "actorId": "miho-yoshioka",
+        "character": "如月あずさ"
+      },
+      {
+        "actorId": "mitzuki-koga",
+        "character": "秋葉恭介"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "adventure",
+      "sf",
+      "kaiju",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 12
+    },
+    "runtime": 93,
+    "originalType": "original",
+    "synopsis": "機龍との死闘から一年、整備士の中條のもとに小美人が現れる。ゴジラの骨を使った兵器を捨てなければ、モスラは人類を守らないと告げる。決断を迫られるなか、ゴジラが再び日本に上陸する。ミレニアムシリーズで唯一、前作の直接の続編にあたる作品となっている。人型の内部作業を描いた点が、シリーズでも珍しい趣向となっている。",
+    "tmdbId": 39469,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "godzilla"
+  },
+  {
+    "id": "the-deer-king",
+    "title": "鹿の王 ユナと約束の旅",
+    "titleKana": "しかのおうゆなとやくそくのたび",
+    "directorIds": [
+      "masayuki-miyaji",
+      "masashi-ando"
+    ],
+    "screenwriterIds": [
+      "taku-kishimoto"
+    ],
+    "studioIds": [
+      "production-i-g",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "shinichi-tsutsumi",
+        "character": "ヴァン"
+      },
+      {
+        "actorId": "ryoma-takeuchi",
+        "character": "ホッサル"
+      },
+      {
+        "actorId": "anne-watanabe",
+        "character": "サエ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "adventure",
+      "fantasy",
+      "medical"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2022,
+      "month": 2
+    },
+    "runtime": 113,
+    "originalType": "novel",
+    "synopsis": "奴隷として働かされていた元戦士ヴァンが、謎の病が襲った岩塩鉱から幼子ユナを連れて逃げ出す。同じ頃、医術師ホッサルは病の正体を突き止めようとしていた。二つの民族の対立の裏に、病をめぐる思惑が絡んでいた。上橋菜穂子の小説を映像化した作品にあたる。病と共存という主題を、大がかりな冒険の枠組みで描いている。",
+    "tmdbId": 633844,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-great-gatsby",
+    "title": "華麗なるギャツビー",
+    "titleKana": "かれいなるぎゃつびー",
+    "directorIds": [
+      "baz-luhrmann"
+    ],
+    "screenwriterIds": [
+      "craig-pearce"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "village-roadshow-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "leonardo-dicaprio",
+        "character": "ジェイ・ギャツビー"
+      },
+      {
+        "actorId": "tobey-maguire",
+        "character": "ニック・キャラウェイ"
+      },
+      {
+        "actorId": "carey-mulligan",
+        "character": "デイジー・ブキャナン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 6
+    },
+    "runtime": 142,
+    "originalType": "novel",
+    "synopsis": "一九二〇年代のニューヨーク郊外で、隣家の大富豪ギャツビーが毎晩豪奢な宴を開いている。語り手ニックは、その富も宴もすべてが対岸に住む人妻デイジーのためだと知る。過去は取り戻せるという彼の信念が、破滅を招く。原作を派手な映像と現代の音楽で映画化した作品にあたる。衣装と美術の華やかさが、原作の空虚さを際立たせている。",
+    "tmdbId": 64682,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Great Gatsby"
+  },
+  {
+    "id": "oblivion",
+    "title": "オブリビオン",
+    "titleKana": "おぶりびおん",
+    "directorIds": [
+      "joseph-kosinski"
+    ],
+    "screenwriterIds": [
+      "karl-gajdusek",
+      "michael-arndt"
+    ],
+    "studioIds": [
+      "universal",
+      "relativity-media"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-cruise",
+        "character": "ジャック"
+      },
+      {
+        "actorId": "morgan-freeman",
+        "character": "ビーチ"
+      },
+      {
+        "actorId": "olga-kurylenko",
+        "character": "ジュリア"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure",
+      "mystery",
+      "apocalypse"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 5
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "荒廃した二〇七七年の地球で、ジャックは無人機の保守要員として孤独に働いている。定められた任務を疑わずにいた彼は、墜落した宇宙船から一人の女性を救い出す。彼女の存在が、彼の記憶と世界の説明を根底から覆す。造形と映像の完成度で評価された作品にあたる。静謐な映像と大量の空撮が、荒廃した地球の質感を作っている。",
+    "tmdbId": 75612,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Oblivion"
+  },
+  {
+    "id": "jason-bourne",
+    "title": "ジェイソン・ボーン",
+    "titleKana": "じぇいそんぼーん",
+    "directorIds": [
+      "paul-greengrass"
+    ],
+    "screenwriterIds": [
+      "christopher-rouse"
+    ],
+    "studioIds": [
+      "the-kennedy-marshall-company",
+      "captivate-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "matt-damon",
+        "character": "ジェイソン・ボーン"
+      },
+      {
+        "actorId": "tommy-lee-jones",
+        "character": "ロバート・デューイ長官"
+      },
+      {
+        "actorId": "alicia-vikander",
+        "character": "ヘザー・リー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "suspense",
+      "spy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 10
+    },
+    "runtime": 124,
+    "originalType": "novel",
+    "synopsis": "記憶を取り戻したボーンが、身を隠して非合法の格闘で日銭を稼いでいる。元同僚ニッキーが持ち込んだ機密が、彼の父の死の真相に触れていた。CIAは監視技術の新たな計画を守るため、彼の抹殺に動く。マット・デイモンが九年ぶりに主演した続編にあたる。手持ち撮影による追跡場面が、シリーズの持ち味を保っている。",
+    "tmdbId": 324668,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Jason Bourne",
+    "seriesId": "bourne"
+  },
+  {
+    "id": "crayon-shin-chan-pursuit-of-the-balls-of-darkness",
+    "title": "クレヨンしんちゃん 暗黒タマタマ大追跡",
+    "titleKana": "くれよんしんちゃんあんこくたまたまだいついせき",
+    "directorIds": [
+      "keiichi-hara"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shin-ei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "akiko-yajima",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "miki-narahashi",
+        "character": "野原みさえ"
+      },
+      {
+        "actorId": "keiji-fujiwara",
+        "character": "野原ひろし"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "adventure",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1997,
+      "month": 4
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "しんのすけが河原で拾った光る玉は、魔人を復活させる鍵だった。玉を狙う組織と、それを阻もうとする三兄弟の争奪戦に野原一家が巻き込まれる。ひまわりが玉を飲み込んでしまい、事態はさらに複雑になる。原恵一監督による初期劇場版の一本にあたる。荒唐無稽な設定と勢いのある演出で、根強い人気を持つ一本とされる。",
+    "tmdbId": 89458,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "bram-stokers-dracula",
+    "title": "ドラキュラ",
+    "titleKana": "どらきゅら",
+    "directorIds": [
+      "francis-ford-coppola"
+    ],
+    "screenwriterIds": [
+      "james-v-hart"
+    ],
+    "studioIds": [
+      "american-zoetrope",
+      "osiris-films"
+    ],
+    "cast": [
+      {
+        "actorId": "gary-oldman",
+        "character": "ドラキュラ"
+      },
+      {
+        "actorId": "winona-ryder",
+        "character": "ミナ・マレー"
+      },
+      {
+        "actorId": "anthony-hopkins",
+        "character": "ヴァン・ヘルシング教授"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "horror",
+      "vampire"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 9
+    },
+    "runtime": 127,
+    "originalType": "novel",
+    "synopsis": "十五世紀に妻を失い神を呪った領主が、不死の存在となって数百年を生きる。十九世紀のロンドンで、彼は妻に生き写しの女性ミナと出会う。ヴァン・ヘルシング教授たちが追跡を始めるが、ミナ自身が彼に惹かれていく。撮影所内の技巧だけで映像を作り上げた作品にあたる。衣装デザインなど三部門でアカデミー賞を受けた作品にあたる。",
+    "tmdbId": 6114,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bram Stoker's Dracula"
+  },
+  {
+    "id": "casino",
+    "title": "カジノ",
+    "titleKana": "かじの",
+    "directorIds": [
+      "martin-scorsese"
+    ],
+    "screenwriterIds": [
+      "nicholas-pileggi"
+    ],
+    "studioIds": [
+      "universal",
+      "syalis-da"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-de-niro",
+        "character": "サム・ロススティーン"
+      },
+      {
+        "actorId": "sharon-stone",
+        "character": "ジンジャー・マッケナ"
+      },
+      {
+        "actorId": "joe-pesci",
+        "character": "ニッキー・サントロ"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 4
+    },
+    "runtime": 179,
+    "originalType": "novel",
+    "synopsis": "賭博の胴元として才覚を認められたエースが、ラスベガスの巨大カジノの運営を任される。旧知の乱暴者ニッキーと、元娼婦のジンジャーが、彼の周囲を少しずつ壊していく。組織と当局の双方から圧力がかかり、砂上の帝国は崩れていく。実在の人物をもとにした作品にあたる。長回しと語りを多用した構成で、前作と対をなす一本とされる。",
+    "tmdbId": 524,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Casino"
+  },
+  {
+    "id": "in-the-mood-for-love",
+    "title": "花様年華",
+    "titleKana": "かようねんか",
+    "directorIds": [
+      "wong-kar-wai"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "block-2-pictures",
+      "paradis-films"
+    ],
+    "cast": [
+      {
+        "actorId": "maggie-cheung",
+        "character": "スー・リーチェン"
+      },
+      {
+        "actorId": "tony-leung-chiu-wai",
+        "character": "チャウ・モーワン"
+      },
+      {
+        "actorId": "siu-ping-lam",
+        "character": "アーピン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 8
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "一九六二年の香港で、同じ日に隣り合う部屋へ越してきた男女がいる。それぞれの配偶者が不倫していると知った二人は、互いに惹かれながらも一線を越えない。狭い廊下と階段ですれ違う場面が繰り返される。抑制された演出と衣装の美しさで知られる作品にあたる。反復する音楽と赤い色調が、強い余韻を残す作品となっている。",
+    "tmdbId": 843,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "花樣年華"
+  },
+  {
+    "id": "saint-seiya-the-heated-battle-of-the-gods",
+    "title": "聖闘士星矢 神々の熱き戦い",
+    "titleKana": "せいんとせいやかみがみのあつきたたかい",
+    "directorIds": [
+      "shigeyasu-yamauchi"
+    ],
+    "screenwriterIds": [
+      "takao-koyama"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "toru-furuya",
+        "character": "星矢"
+      },
+      {
+        "actorId": "hirotaka-suzuoki",
+        "character": "紫龍"
+      },
+      {
+        "actorId": "koichi-hashimoto",
+        "character": "氷河"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1988,
+      "month": 3
+    },
+    "runtime": 46,
+    "originalType": "manga",
+    "synopsis": "北欧アスガルドで神々の戦いが始まるという報せが届く。調査に向かった氷河が消息を絶ち、星矢たちも極北の地へ向かう。アスガルドを統べる者は、地上を凍てつかせる計画を進めていた。四十六分の中編として作られた劇場版第二作にあたる。北欧神話を下敷きにした設定が、シリーズの幅を広げた一本にあたる。",
+    "tmdbId": 83091,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "saint-seiya"
+  },
+  {
+    "id": "cloud",
+    "title": "Cloud クラウド",
+    "titleKana": "くらうど",
+    "directorIds": [
+      "kiyoshi-kurosawa"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "nikkatsu-corporation",
+      "django-film"
+    ],
+    "cast": [
+      {
+        "actorId": "masaki-suda",
+        "character": "吉井良介"
+      },
+      {
+        "actorId": "kotone-furukawa",
+        "character": "秋子"
+      },
+      {
+        "actorId": "daiken-okudaira",
+        "character": "佐野武志"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "crime",
+      "suspense",
+      "horror",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 9
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "工場勤めの吉井は、転売で稼ぐ日々に手応えを覚えていた。専業になり郊外へ移った彼のもとに、正体不明の悪意が集まりはじめる。名前も知らない者たちが結託し、彼を狩る側に回る。黒沢清監督が現代の匿名的な悪意を扱った作品にあたる。淡々とした導入から後半で一気に暴力へ転じる構成をとる。ヴェネチア国際映画祭でも上映された。",
+    "tmdbId": 1244244,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-terminal",
+    "title": "ターミナル",
+    "titleKana": "たーみなる",
+    "directorIds": [
+      "steven-spielberg"
+    ],
+    "screenwriterIds": [
+      "sacha-gervasi",
+      "jeff-nathanson"
+    ],
+    "studioIds": [
+      "dreamworks-pictures",
+      "amblin"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-hanks",
+        "character": "ビクター・ナボルスキー"
+      },
+      {
+        "actorId": "catherine-zeta-jones",
+        "character": "アメリア・ウォーレン"
+      },
+      {
+        "actorId": "stanley-tucci",
+        "character": "フランク・ディクソン"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 12
+    },
+    "runtime": 129,
+    "originalType": "original",
+    "synopsis": "東欧の小国から来たビクターが、渡航中の政変でパスポートを無効にされる。入国も帰国もできず、彼は空港の乗り継ぎ区域で暮らしはじめる。清掃員や職員と交流を深めるうち、彼の存在は空港の名物になっていく。実在の人物の逸話に着想を得た作品にあたる。巨大な空港のセットを実際に建てて撮影された作品にあたる。",
+    "tmdbId": 594,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Terminal"
+  },
+  {
+    "id": "the-little-things",
+    "title": "リトル・シングス",
+    "titleKana": "りとるしんぐす",
+    "directorIds": [
+      "john-lee-hancock"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "warner-bros",
+      "gran-via-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "denzel-washington",
+        "character": "ジョー・ディーコン"
+      },
+      {
+        "actorId": "rami-malek",
+        "character": "ジム・バクスター"
+      },
+      {
+        "actorId": "jared-leto",
+        "character": "アルバート・スパーマ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "suspense",
+      "serial-killer",
+      "detective"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 1
+    },
+    "runtime": 128,
+    "originalType": "original",
+    "synopsis": "田舎の副保安官ディークが、証拠品の受け取りでロサンゼルスへ戻る。連続殺人の捜査を担う若い巡査部長と組み、彼は自らも過去に負った傷と向き合う。浮上した容疑者は挑発を繰り返すが、決定的な証拠は出ない。解決を与えない結末で議論を呼んだ作品にあたる。三人の主演がいずれもアカデミー賞受賞者という配役でも話題になった。",
+    "tmdbId": 602269,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Little Things"
+  },
+  {
+    "id": "uncut-gems",
+    "title": "アンカット・ダイヤモンド",
+    "titleKana": "あんかっとだいやもんど",
+    "directorIds": [
+      "benny-safdie",
+      "josh-safdie"
+    ],
+    "screenwriterIds": [
+      "ronald-bronstein"
+    ],
+    "studioIds": [
+      "a24",
+      "elara-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "adam-sandler",
+        "character": "ハワード・ラトナー"
+      },
+      {
+        "actorId": "lakeith-stanfield",
+        "character": "デマニー"
+      },
+      {
+        "actorId": "julia-fox",
+        "character": "ジュリア・デ・フローレ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2020,
+      "month": 1
+    },
+    "runtime": 136,
+    "originalType": "original",
+    "synopsis": "ニューヨークの宝石商ハワードは、賭博の借金に追われながら口先で切り抜けてきた。手に入れた希少な原石を担保に、彼はさらに大きな賭けへ踏み込む。取り立て屋と家族と愛人が、同じ日に彼のもとへ押し寄せる。息つく間もない会話の重なりで知られる作品にあたる。アダム・サンドラーの演技が、これまでの印象を覆すと評された。",
+    "tmdbId": 473033,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Uncut Gems"
+  },
+  {
+    "id": "a-scene-at-the-sea",
+    "title": "あの夏、いちばん静かな海。",
+    "titleKana": "あのなついちばんしずかなうみ",
+    "directorIds": [
+      "takeshi-kitano"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "totsu",
+      "office-kitano"
+    ],
+    "cast": [
+      {
+        "actorId": "claude-maki",
+        "character": "茂"
+      },
+      {
+        "actorId": "hiroko-oshima",
+        "character": "貴子"
+      },
+      {
+        "actorId": "sabu-kawahara",
+        "character": "タコ社長"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "comedy",
+      "sports"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1991,
+      "month": 10
+    },
+    "runtime": 101,
+    "originalType": "original",
+    "synopsis": "聴覚に障害のある清掃員の茂が、捨てられていた壊れたサーフボードを拾う。恋人の貴子とともに海へ通い、彼は黙々と波に挑み続ける。台詞のほとんどない構成で、砂浜と海だけが繰り返し映される。北野武監督の初期の代表作にあたる作品となっている。久石譲の音楽と静かな画面が、独特の空気を作り上げている。",
+    "tmdbId": 23606,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inuyasha-the-movie-2-the-castle-beyond-the-looking",
+    "title": "犬夜叉 鏡の中の夢幻城",
+    "titleKana": "いぬやしゃかがみのなかのむげんじょう",
+    "directorIds": [
+      "toshiya-shinohara"
+    ],
+    "screenwriterIds": [
+      "katsuyuki-sumisawa"
+    ],
+    "studioIds": [
+      "shogakukan-production",
+      "shogakukan"
+    ],
+    "cast": [
+      {
+        "actorId": "kappei-yamaguchi",
+        "character": "犬夜叉"
+      },
+      {
+        "actorId": "satsuki-yukino",
+        "character": "日暮かごめ"
+      },
+      {
+        "actorId": "koji-tsujitani",
+        "character": "弥勒"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2002,
+      "month": 12
+    },
+    "runtime": 100,
+    "originalType": "manga",
+    "synopsis": "奈落を倒した直後から、満月が何日も続く異変が起きる。封じられていた妖怪、神久夜が復活し、天女を喰らって永遠の命を得ようとする。かごめは神楽と神無の策で現代に閉じ込められてしまう。劇場版第二作にあたる作品となっている。現代と戦国を行き来する設定を生かした構成となっている。犬夜叉と殺生丸の共闘も見どころとなる。",
+    "tmdbId": 22537,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "inuyasha"
+  },
+  {
+    "id": "practical-magic",
+    "title": "プラクティカル・マジック",
+    "titleKana": "ぷらくてぃかるまじっく",
+    "directorIds": [
+      "griffin-dunne"
+    ],
+    "screenwriterIds": [
+      "robin-swicord",
+      "adam-brooks"
+    ],
+    "studioIds": [
+      "di-novi-pictures",
+      "fortis-films"
+    ],
+    "cast": [
+      {
+        "actorId": "sandra-bullock",
+        "character": "サリー・オーエンズ"
+      },
+      {
+        "actorId": "nicole-kidman",
+        "character": "ジリアン・オーエンズ"
+      },
+      {
+        "actorId": "stockard-channing",
+        "character": "フランシス叔母"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "comedy",
+      "fantasy",
+      "magic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 5
+    },
+    "runtime": 104,
+    "originalType": "novel",
+    "synopsis": "魔女の血を引く姉妹サリーとジリアンは、愛する男が必ず死ぬという呪いを背負っている。姉は平穏を望み、妹は奔放に生きる。妹の暴力的な恋人を誤って死なせてしまい、二人は事態の収拾に追われる。二大女優の共演として当時話題を集めた作品にあたる。公開当時の評価は厳しかったが、後年に支持を広げた作品にあたる。",
+    "tmdbId": 6435,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Practical Magic"
+  },
+  {
+    "id": "sunset-boulevard",
+    "title": "サンセット大通り",
+    "titleKana": "さんせっとおおどおり",
+    "directorIds": [
+      "billy-wilder"
+    ],
+    "screenwriterIds": [
+      "charles-brackett"
+    ],
+    "studioIds": [
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "william-holden",
+        "character": "ジョー・ギリス"
+      },
+      {
+        "actorId": "gloria-swanson",
+        "character": "ノーマ・デズモンド"
+      },
+      {
+        "actorId": "erich-von-stroheim",
+        "character": "マックス・フォン・メイヤーリンク"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "filmmaking",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1951,
+      "month": 10
+    },
+    "runtime": 110,
+    "originalType": "original",
+    "synopsis": "売れない脚本家ジョーが、借金取りから逃げて廃屋のような邸宅に迷い込む。そこには無声映画の大女優ノーマが、復帰を信じて住み続けていた。彼女の脚本の手直しを引き受けたジョーは、次第に囲われた存在になっていく。ハリウッド自身を暗く描いた古典にあたる。終盤の階段を降りる場面が、映画史に残る名場面とされている。",
+    "tmdbId": 599,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Sunset Boulevard"
+  },
+  {
+    "id": "darkest-hour",
+    "title": "ウィンストン・チャーチル ヒトラーから世界を救った男",
+    "titleKana": "ういんすとんちゃーちる",
+    "directorIds": [
+      "joe-wright"
+    ],
+    "screenwriterIds": [
+      "anthony-mccarten"
+    ],
+    "studioIds": [
+      "working-title-films",
+      "perfect-world-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "gary-oldman",
+        "character": "ウィンストン・チャーチル"
+      },
+      {
+        "actorId": "stephen-dillane",
+        "character": "ハリファックス子爵"
+      },
+      {
+        "actorId": "lily-james",
+        "character": "エリザベス・レイトン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "politics"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 3
+    },
+    "runtime": 125,
+    "originalType": "other",
+    "synopsis": "一九四〇年、劣勢の英国で首相に就任したチャーチルが、和平か抗戦かの決断を迫られる。閣内は講和に傾き、国王も彼を信用していなかった。ダンケルクに取り残された兵の救出と、議会での演説が同時に進む。ゲイリー・オールドマンがアカデミー主演男優賞を受けた作品にあたる。特殊メイクも受賞し、演技と造形の両面で評価された作品にあたる。",
+    "tmdbId": 399404,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Darkest Hour"
+  },
+  {
+    "id": "assassination-classroom",
+    "title": "暗殺教室",
+    "titleKana": "あんさつきょうしつ",
+    "directorIds": [
+      "eiichiro-hasumi"
+    ],
+    "screenwriterIds": [
+      "tatsuya-kanazawa"
+    ],
+    "studioIds": [
+      "toho",
+      "fuji-television-network"
+    ],
+    "cast": [
+      {
+        "actorId": "kazunari-ninomiya",
+        "character": "殺せんせー"
+      },
+      {
+        "actorId": "ryosuke-yamada",
+        "character": "潮田渚"
+      },
+      {
+        "actorId": "masaki-suda",
+        "character": "赤羽業"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "sf",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 3
+    },
+    "runtime": 110,
+    "originalType": "manga",
+    "synopsis": "落ちこぼれとされる三年E組に、超音速で動く謎の生物が担任として赴任する。彼は翌年三月に地球を破壊すると宣言し、生徒たちに暗殺を依頼する。だが授業を受けるほど、生徒たちは彼を慕っていく。人気漫画を前後編で実写化した前編にあたる。二宮和也が声のみで担任を演じた点が、この作品の特徴となっている。",
+    "tmdbId": 349176,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "assassination-classroom"
+  },
+  {
+    "id": "suzuki-bakudan",
+    "title": "爆弾",
+    "titleKana": "ばくだん",
+    "directorIds": [
+      "akira-nagai"
+    ],
+    "screenwriterIds": [
+      "hiroyuki-yatsu",
+      "masahiro-yamaura"
+    ],
+    "studioIds": [
+      "warner-bros-japan",
+      "aoi-pro"
+    ],
+    "cast": [
+      {
+        "actorId": "yuki-yamada",
+        "character": "類家"
+      },
+      {
+        "actorId": "sairi-ito",
+        "character": "倖田"
+      },
+      {
+        "actorId": "shota-sometani",
+        "character": "等々力"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "mystery",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 10
+    },
+    "runtime": 136,
+    "originalType": "novel",
+    "synopsis": "自販機を殴って連行された中年男が、取調室で都内の爆弾を予告する。名乗るのはスズキタゴサク、素性は一切分からない。彼の言葉の断片だけを頼りに、警察は一時間おきの爆発を止めようとする。呉勝浩の小説を原作とした作品にあたる。取調室での会話だけで緊張を持続させる構成をとる。二〇二五年公開の作品にあたる。",
+    "tmdbId": 1464533,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hachi-a-dogs-tale",
+    "title": "HACHI 約束の犬",
+    "titleKana": "はちやくそくのいぬ",
+    "directorIds": [
+      "lasse-hallstrom"
+    ],
+    "screenwriterIds": [
+      "stephen-p-lindsey"
+    ],
+    "studioIds": [
+      "scion-films",
+      "stage-6-films"
+    ],
+    "cast": [
+      {
+        "actorId": "richard-gere",
+        "character": "パーカー・ウィルソン"
+      },
+      {
+        "actorId": "joan-allen",
+        "character": "ケイト・ウィルソン"
+      },
+      {
+        "actorId": "sarah-roemer",
+        "character": "アンディ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "animal",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 8
+    },
+    "runtime": 93,
+    "originalType": "other",
+    "synopsis": "大学教授パーカーが、駅で迷い込んだ秋田犬の子犬を拾って育てる。ハチと名づけられた犬は、毎日駅まで送り迎えをするようになる。だがある日、パーカーは講義中に倒れて帰らぬ人となる。日本の忠犬ハチ公の逸話を米国に舞台を移して映画化した作品にあたる。舞台を米国に移しつつ、原型の逸話をほぼそのまま踏襲している。",
+    "tmdbId": 28178,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Hachi: A Dog's Tale"
+  },
+  {
+    "id": "the-ninth-gate",
+    "title": "ナインスゲート",
+    "titleKana": "ないんすげーと",
+    "directorIds": [
+      "roman-polanski"
+    ],
+    "screenwriterIds": [
+      "john-brownjohn"
+    ],
+    "studioIds": [
+      "r-p-productions",
+      "orly-films"
+    ],
+    "cast": [
+      {
+        "actorId": "johnny-depp",
+        "character": "ディーン・コルソ"
+      },
+      {
+        "actorId": "frank-langella",
+        "character": "ボリス・バルカン"
+      },
+      {
+        "actorId": "lena-olin",
+        "character": "リアナ・テルファー"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "suspense",
+      "horror"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 6
+    },
+    "runtime": 133,
+    "originalType": "novel",
+    "synopsis": "稀覯本の鑑定人コルソが、悪魔を召喚するという書物の真贋調査を依頼される。世界に三冊しかない同じ本を照合するため、彼は欧州各地を巡る。行く先々で所有者が不審な死を遂げていく。ロマン・ポランスキー監督による静かな怪奇譚にあたる。派手な見せ場を排し、書物をめぐる調査の手順を淡々と追う。結末の解釈は観客に委ねられている。",
+    "tmdbId": 622,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Ninth Gate"
+  },
+  {
+    "id": "the-aristocats",
+    "title": "おしゃれキャット",
+    "titleKana": "おしゃれきゃっと",
+    "directorIds": [
+      "wolfgang-reitherman"
+    ],
+    "screenwriterIds": [
+      "ken-anderson",
+      "frank-thomas"
+    ],
+    "studioIds": [
+      "walt-disney-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "phil-harris",
+        "character": "オマリー"
+      },
+      {
+        "actorId": "eva-gabor",
+        "character": "ダッチェス"
+      },
+      {
+        "actorId": "sterling-holloway",
+        "character": "ロックフォール"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "adventure",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 1972,
+      "month": 3
+    },
+    "runtime": 78,
+    "originalType": "original",
+    "synopsis": "遺産をすべて猫に譲ると聞いた執事が、母猫ダッチェスと三匹の子猫を郊外に捨てる。野良猫のオマリーと出会った一家は、パリの街を歩いて帰る旅に出る。屋根の上の演奏会や、野良仲間との交流が旅を彩る。軽妙な音楽で親しまれている長編にあたる。手描きの線を残した作画が、この時期の作品の特色となっている。",
+    "tmdbId": 10112,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Aristocats"
+  },
+  {
+    "id": "uzumaki",
+    "title": "うずまき",
+    "titleKana": "うずまき",
+    "directorIds": [
+      "higuchinsky"
+    ],
+    "screenwriterIds": [
+      "kengo-kaji"
+    ],
+    "studioIds": [
+      "space-shower-tv",
+      "omega-micott"
+    ],
+    "cast": [
+      {
+        "actorId": "eriko-hatsune",
+        "character": "五島桐絵"
+      },
+      {
+        "actorId": "fhi-fan",
+        "character": "斉藤秀一"
+      },
+      {
+        "actorId": "hinako-saeki",
+        "character": "関野京子"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "fantasy",
+      "horror",
+      "monster"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 2
+    },
+    "runtime": 91,
+    "originalType": "manga",
+    "synopsis": "渦巻きに取り憑かれた人々が、次々と異様な最期を遂げる町。恋人の秀一に町を出ようと誘われた桐絵は、事態の異常さを認めない。渦は建物にも人体にも侵食し、逃げ場が消えていく。伊藤潤二の漫画を原作とし、鮮烈な色彩で撮られた作品にあたる。原作の異様な構図を実写で再現しようとした点が特徴となっている。緑がかった色調も印象に残る。",
+    "tmdbId": 11366,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ichi",
+    "title": "ICHI",
+    "titleKana": "いち",
+    "directorIds": [
+      "fumihiko-sori"
+    ],
+    "screenwriterIds": [
+      "taeko-asano"
+    ],
+    "studioIds": [
+      "warner-bros-japan",
+      "geneon-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "haruka-ayase",
+        "character": "市"
+      },
+      {
+        "actorId": "yosuke-kubozuka",
+        "character": "白川虎次"
+      },
+      {
+        "actorId": "takao-osawa",
+        "character": "萬屋十兵衛"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "human-drama",
+      "history",
+      "jidaigeki"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 10
+    },
+    "runtime": 120,
+    "originalType": "novel",
+    "synopsis": "盲目の女旅芸人である市が、三味線を手に一人で街道を行く。仕込み杖の腕は並外れており、彼女は絡む者を瞬時に斬り伏せる。旅先で出会った浪人や宿場町の抗争に、否応なく巻き込まれていく。座頭市の設定を女性に置き換えた作品にあたる。綾瀬はるかが立ち回りに挑んだ作品としても知られている。抑えた色調の映像が全編を貫いている。",
+    "tmdbId": 19506,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-fly",
+    "title": "ザ・フライ",
+    "titleKana": "ざふらい",
+    "directorIds": [
+      "david-cronenberg"
+    ],
+    "screenwriterIds": [
+      "charles-edward-pogue"
+    ],
+    "studioIds": [
+      "slm-production-group",
+      "brooksfilms"
+    ],
+    "cast": [
+      {
+        "actorId": "jeff-goldblum",
+        "character": "セス・ブランドル"
+      },
+      {
+        "actorId": "geena-davis",
+        "character": "ヴェロニカ・クエイフ"
+      },
+      {
+        "actorId": "john-getz",
+        "character": "ステイシス・ボランズ"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "body-swap"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1987,
+      "month": 1
+    },
+    "runtime": 97,
+    "originalType": "novel",
+    "synopsis": "物質転送装置を完成させた科学者セスが、自らを被験体として実験に踏み切る。装置に紛れ込んだ蠅の遺伝子が、彼の体と融合してしまう。当初は超人的な能力を得た彼だが、身体は徐々に別のものへ変わっていく。特殊メイクでアカデミー賞を受けた作品にあたる。身体が変わっていく恐怖を、悲恋の物語として描いた点が特徴となる。",
+    "tmdbId": 9426,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Fly"
+  },
+  {
+    "id": "demolition-man",
+    "title": "デモリションマン",
+    "titleKana": "でもりしょんまん",
+    "directorIds": [
+      "marco-brambilla"
+    ],
+    "screenwriterIds": [
+      "daniel-waters",
+      "robert-reneau"
+    ],
+    "studioIds": [
+      "silver-pictures",
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "sylvester-stallone",
+        "character": "ジョン・スパルタン"
+      },
+      {
+        "actorId": "wesley-snipes",
+        "character": "サイモン・フェニックス"
+      },
+      {
+        "actorId": "sandra-bullock",
+        "character": "レニーナ・ハクスリー"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "action",
+      "sf",
+      "dystopia"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1994,
+      "month": 2
+    },
+    "runtime": 115,
+    "originalType": "original",
+    "synopsis": "冷凍刑に処された荒っぽい刑事が、三十六年後の管理社会で解凍される。同時に蘇った凶悪犯を止められるのは、同じ時代の彼だけだった。暴力も悪態も禁じられた未来都市で、彼は徹底的に浮いてしまう。皮肉を効かせた近未来の設定で知られる作品にあたる。衛生的すぎる未来という設定が、後年まで引用され続けている。",
+    "tmdbId": 9739,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Demolition Man"
+  },
+  {
+    "id": "fargo",
+    "title": "ファーゴ",
+    "titleKana": "ふぁーご",
+    "directorIds": [
+      "joel-coen",
+      "ethan-coen"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "polygram-filmed-entertainment",
+      "working-title-films"
+    ],
+    "cast": [
+      {
+        "actorId": "frances-mcdormand",
+        "character": "マージ・ガンダーソン"
+      },
+      {
+        "actorId": "william-h-macy",
+        "character": "ジェリー・ランディガード"
+      },
+      {
+        "actorId": "steve-buscemi",
+        "character": "カール・ショーウォルター"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "suspense",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 11
+    },
+    "runtime": 98,
+    "originalType": "original",
+    "synopsis": "借金に追われた自動車販売員が、妻の狂言誘拐を二人の男に依頼する。だが計画は最初の段階から狂い、無関係な人々が次々と犠牲になる。雪原の田舎町で、身重の女性署長が淡々と捜査を進める。乾いた笑いと暴力を並置した作風で高く評価された作品にあたる。フランシス・マクドーマンドがアカデミー主演女優賞を受けている。",
+    "tmdbId": 275,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fargo"
+  },
+  {
+    "id": "lupin-the-iiird-fujikos-lie",
+    "title": "LUPIN THE IIIRD 峰不二子の嘘",
+    "titleKana": "るぱんざさーどみねふじこのうそ",
+    "directorIds": [
+      "takeshi-koike"
+    ],
+    "screenwriterIds": [
+      "yuya-takahashi"
+    ],
+    "studioIds": [
+      "tms-entertainment",
+      "telecom-animation-film"
+    ],
+    "cast": [
+      {
+        "actorId": "kanichi-kurita",
+        "character": "ルパン三世"
+      },
+      {
+        "actorId": "kiyoshi-kobayashi",
+        "character": "次元大介"
+      },
+      {
+        "actorId": "miyuki-sawashiro",
+        "character": "峰不二子"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "action",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 5
+    },
+    "runtime": 56,
+    "originalType": "manga",
+    "synopsis": "五億ドルの鍵を握る少年ジーンとともに、峰不二子が逃走を続ける。追うのは呪いじみた力を持つ殺し屋ビンカムだった。誰も信用しない不二子が、少年に対してだけは態度を決めかねる。小池健監督による劇場版シリーズの一本にあたる。五十六分の中編ながら、不二子という人物の造形に踏み込んでいる。乾いた暴力描写も一貫している。",
+    "tmdbId": 587870,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "lupin-iii"
   }
 ]

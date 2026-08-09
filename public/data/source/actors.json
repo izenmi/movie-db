@@ -19717,5 +19717,320 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Katharine Ross。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuki-kitamura",
+    "name": "北村一輝",
+    "nameKana": "きたむらかずき",
+    "description": "俳優。『容疑者Xの献身』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuki Kitamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barbara-hershey",
+    "name": "バーバラ・ハーシー",
+    "nameKana": "バーバラハーシー",
+    "description": "俳優。『フォーリング・ダウン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barbara Hershey。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shota-shimoda",
+    "name": "下田翔大",
+    "nameKana": "しもだしょうた",
+    "description": "俳優。『夜明け告げるルーのうた』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shota Shimoda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "somegoro-ichikawa",
+    "name": "市川染五郎",
+    "nameKana": "いちかわそめごろう",
+    "description": "俳優。『サイダーのように言葉が湧き上がる』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Somegoro Ichikawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ben-whitehead",
+    "name": "ベン・ホワイトヘッド",
+    "nameKana": "ベンホワイトヘッド",
+    "description": "俳優。『ウォレスとグルミット 仕返しなんてコワくない!』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ben Whitehead。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-kay",
+    "name": "ピーター・ケイ",
+    "nameKana": "ピーターケイ",
+    "description": "俳優。『ウォレスとグルミット 仕返しなんてコワくない!』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Kay。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lauren-patel",
+    "name": "ローレン・パテル",
+    "nameKana": "ローレンパテル",
+    "description": "俳優。『ウォレスとグルミット 仕返しなんてコワくない!』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lauren Patel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeff-daniels",
+    "name": "ジェフ・ダニエルズ",
+    "nameKana": "ジェフダニエルズ",
+    "description": "俳優。『101』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeff Daniels。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noboru-kaneko",
+    "name": "金子昇",
+    "nameKana": "かねこのぼる",
+    "description": "俳優。『ゴジラ×モスラ×メカゴジラ／東京SOS』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noboru Kaneko。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miho-yoshioka",
+    "name": "吉岡美穂",
+    "nameKana": "よしおかみほ",
+    "description": "俳優。『ゴジラ×モスラ×メカゴジラ／東京SOS』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miho Yoshioka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitzuki-koga",
+    "name": "虎牙光揮",
+    "nameKana": "こがみつき",
+    "description": "俳優。『ゴジラ×モスラ×メカゴジラ／東京SOS』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitzuki Koga。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olga-kurylenko",
+    "name": "オルガ・キュリレンコ",
+    "nameKana": "オルガキュリレンコ",
+    "description": "俳優。『オブリビオン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olga Kurylenko。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maggie-cheung",
+    "name": "マギー・チャン",
+    "nameKana": "マギーチャン",
+    "description": "俳優。『花様年華』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maggie Cheung。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "siu-ping-lam",
+    "name": "シュウ・ピンラム",
+    "nameKana": "シュウピンラム",
+    "description": "俳優。『花様年華』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Siu Ping-Lam。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daiken-okudaira",
+    "name": "奥平大兼",
+    "nameKana": "おくだいらだいけん",
+    "description": "俳優。『Cloud クラウド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daiken Okudaira。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "catherine-zeta-jones",
+    "name": "キャサリン・ゼタ=ジョーンズ",
+    "nameKana": "ぜたじょねあへりね",
+    "description": "俳優。『ターミナル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Catherine Zeta-Jones。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "julia-fox",
+    "name": "ジュリア・フォックス",
+    "nameKana": "ジュリアフォックス",
+    "description": "俳優。『アンカット・ダイヤモンド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Julia Fox。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroko-oshima",
+    "name": "大島弘子",
+    "nameKana": "おおしまひろこ",
+    "description": "俳優。『あの夏、いちばん静かな海。』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroko Oshima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sabu-kawahara",
+    "name": "河原さぶ",
+    "nameKana": "かわはらさぶ",
+    "description": "俳優。『あの夏、いちばん静かな海。』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sabu Kawahara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "william-holden",
+    "name": "ウィリアム・ホールデン",
+    "nameKana": "ウィリアムホールデン",
+    "description": "俳優。『サンセット大通り』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: William Holden。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gloria-swanson",
+    "name": "グロリア・スワンソン",
+    "nameKana": "グロリアスワンソン",
+    "description": "俳優。『サンセット大通り』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gloria Swanson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "erich-von-stroheim",
+    "name": "エーリッヒ・フォン・シュトロハイム",
+    "nameKana": "エーリッヒフォンシュトロハイム",
+    "description": "俳優。『サンセット大通り』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Erich von Stroheim。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-dillane",
+    "name": "スティーヴン・ディレイン",
+    "nameKana": "スティーヴンディレイン",
+    "description": "俳優。『ウィンストン・チャーチル／ヒトラーから世界を救った男』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Dillane。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sairi-ito",
+    "name": "伊藤沙莉",
+    "nameKana": "いとうさいり",
+    "description": "俳優。『爆弾』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sairi Ito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sarah-roemer",
+    "name": "サラ・ローマー",
+    "nameKana": "サラローマー",
+    "description": "俳優。『HACHI 約束の犬』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sarah Roemer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "frank-langella",
+    "name": "フランク・ランジェラ",
+    "nameKana": "フランクランジェラ",
+    "description": "俳優。『ナインスゲート』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Frank Langella。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lena-olin",
+    "name": "レナ・オリン",
+    "nameKana": "レナオリン",
+    "description": "俳優。『ナインスゲート』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lena Olin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eva-gabor",
+    "name": "エヴァ・ガボール",
+    "nameKana": "エヴァガボール",
+    "description": "俳優。『おしゃれキャット』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eva Gabor。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sterling-holloway",
+    "name": "スターリング・ハロウェイ",
+    "nameKana": "スターリングハロウェイ",
+    "description": "俳優。『おしゃれキャット』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sterling Holloway。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eriko-hatsune",
+    "name": "初音映莉子",
+    "nameKana": "はつねえりこ",
+    "description": "俳優。『うずまき』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eriko Hatsune。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fhi-fan",
+    "name": "ファイファン",
+    "nameKana": "ファイファン",
+    "description": "俳優。『うずまき』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fhi Fan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yosuke-kubozuka",
+    "name": "窪塚洋介",
+    "nameKana": "くぼづかようすけ",
+    "description": "俳優。『ICHI』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yosuke Kubozuka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "geena-davis",
+    "name": "ジーナ・デイヴィス",
+    "nameKana": "ジーナデイヴィス",
+    "description": "俳優。『ザ・フライ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Geena Davis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-getz",
+    "name": "ジョン・ゲッツ",
+    "nameKana": "ジョンゲッツ",
+    "description": "俳優。『ザ・フライ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Getz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "william-h-macy",
+    "name": "ウィリアム・H・メイシー",
+    "nameKana": "まうぃっりあ",
+    "description": "俳優。『ファーゴ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: William H. Macy。",
+    "updatedAt": "2026-08-09"
   }
 ]

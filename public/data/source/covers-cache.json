@@ -7308,5 +7308,205 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/oIWCbOtGlJK01kn5ug71zDvVe4w.jpg",
     "matchedTitle": "卒業",
     "tmdbId": 37247
+  },
+  "kaiji-the-ultimate-gambler": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wPE6MHIt0RFMdfuYL1jkLKwStO.jpg",
+    "matchedTitle": "カイジ 人生逆転ゲーム",
+    "tmdbId": 37961
+  },
+  "suspect-x": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/jxRlA8QhZe44NQS93IWM2Oh3N2r.jpg",
+    "matchedTitle": "容疑者Xの献身",
+    "tmdbId": 42341
+  },
+  "falling-down": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/a3WO7tDBedrsi0cK7qIkdqCi3WA.jpg",
+    "matchedTitle": "フォーリング・ダウン",
+    "tmdbId": 37094
+  },
+  "batman-forever": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hsWYAwUf7NkZ9nQkC7vGiRVHGVh.jpg",
+    "matchedTitle": "バットマン フォーエヴァー",
+    "tmdbId": 414
+  },
+  "sherlock-holmes": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xGrQtzfAtgzkmaum6j6OsbfkQJC.jpg",
+    "matchedTitle": "シャーロック・ホームズ",
+    "tmdbId": 10528
+  },
+  "lu-over-the-wall": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/msujD1n39ygMnqEDTmdFUEIf9Wl.jpg",
+    "matchedTitle": "夜明け告げるルーのうた",
+    "tmdbId": 436120
+  },
+  "words-bubble-up-like-soda-pop": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ioj55UtUAJgryvGim67w9B3NhA6.jpg",
+    "matchedTitle": "サイダーのように言葉が湧き上がる",
+    "tmdbId": 579741
+  },
+  "wallace-gromit-vengeance-most-fowl": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
+    "matchedTitle": "ウォレスとグルミット 仕返しなんてコワくない!",
+    "tmdbId": 929204
+  },
+  "speed": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uQNCdKrojL7aJqS6RGXRAGuNMPV.jpg",
+    "matchedTitle": "スピード",
+    "tmdbId": 1637
+  },
+  "101-dalmatians": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zZXNaJbcldswAwQH2JSsyBFV21E.jpg",
+    "matchedTitle": "101",
+    "tmdbId": 11674
+  },
+  "godzilla-tokyo-s-o-s": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eaapf6HcjZm52FrAabahN2MyJDK.jpg",
+    "matchedTitle": "ゴジラ×モスラ×メカゴジラ／東京SOS",
+    "tmdbId": 39469
+  },
+  "the-deer-king": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vEvH4aiBZG9hpUPWeKSaR4NTuCs.jpg",
+    "matchedTitle": "鹿の王 ユナと約束の旅",
+    "tmdbId": 633844
+  },
+  "the-great-gatsby": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dqjxUJQKX4lt9pEX8F32ZffCDzu.jpg",
+    "matchedTitle": "華麗なるギャツビー",
+    "tmdbId": 64682
+  },
+  "oblivion": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8HFin8fcPADSah7dKdbiiCk7tlr.jpg",
+    "matchedTitle": "オブリビオン",
+    "tmdbId": 75612
+  },
+  "jason-bourne": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/v3UnscarS7tGthG2zyzd4ETjOiR.jpg",
+    "matchedTitle": "ジェイソン・ボーン",
+    "tmdbId": 324668
+  },
+  "crayon-shin-chan-pursuit-of-the-balls-of-darkness": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dFV1UkIxxD98iGp7eqyQGjMw3wX.jpg",
+    "matchedTitle": "クレヨンしんちゃん 暗黒タマタマ大追跡",
+    "tmdbId": 89458
+  },
+  "bram-stokers-dracula": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tAzRbTWUXMavK4Qxm6Wq7Hvb4H0.jpg",
+    "matchedTitle": "ドラキュラ",
+    "tmdbId": 6114
+  },
+  "casino": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8qQKJ1uTdSNopTPhh1LDOs0ukaZ.jpg",
+    "matchedTitle": "カジノ",
+    "tmdbId": 524
+  },
+  "in-the-mood-for-love": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mEO0W8coVHMY2ID0EGG6DS7bkTi.jpg",
+    "matchedTitle": "花様年華",
+    "tmdbId": 843
+  },
+  "saint-seiya-the-heated-battle-of-the-gods": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qNKg0bn6E6GWD1iCzL9vwqBLDGF.jpg",
+    "matchedTitle": "聖闘士星矢 神々の熱き戦い",
+    "tmdbId": 83091
+  },
+  "cloud": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4Vfr2spPWJFoujoL4PBkF0wT3PV.jpg",
+    "matchedTitle": "Cloud クラウド",
+    "tmdbId": 1244244
+  },
+  "the-terminal": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/z2TdB3mkNjbXdB9LadvKvsMOl4Z.jpg",
+    "matchedTitle": "ターミナル",
+    "tmdbId": 594
+  },
+  "the-little-things": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pfRzObZCREPPFcpjfcIxkFOwejY.jpg",
+    "matchedTitle": "リトル・シングス",
+    "tmdbId": 602269
+  },
+  "uncut-gems": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7Q4STBVQ8M62WBCfL5DUQxnqunr.jpg",
+    "matchedTitle": "アンカット・ダイヤモンド",
+    "tmdbId": 473033
+  },
+  "a-scene-at-the-sea": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7PysGzKJ025h4qaUyteYEb5qN9i.jpg",
+    "matchedTitle": "あの夏、いちばん静かな海。",
+    "tmdbId": 23606
+  },
+  "inuyasha-the-movie-2-the-castle-beyond-the-looking": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oZ4tRe4P9ajEgDJT5HLvK3UbkyT.jpg",
+    "matchedTitle": "犬夜叉 鏡の中の夢幻城",
+    "tmdbId": 22537
+  },
+  "practical-magic": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+    "matchedTitle": "プラクティカル・マジック",
+    "tmdbId": 6435
+  },
+  "sunset-boulevard": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dGFQp0q52z99ywx9Klf7SgVYomC.jpg",
+    "matchedTitle": "サンセット大通り",
+    "tmdbId": 599
+  },
+  "darkest-hour": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hGLhl0CNR4j7iOd0ieZmaH76VPK.jpg",
+    "matchedTitle": "ウィンストン・チャーチル／ヒトラーから世界を救った男",
+    "tmdbId": 399404
+  },
+  "assassination-classroom": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wF8eLHekJKgr5AciBnscC6qUJRL.jpg",
+    "matchedTitle": "暗殺教室",
+    "tmdbId": 349176
+  },
+  "suzuki-bakudan": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
+    "matchedTitle": "爆弾",
+    "tmdbId": 1464533
+  },
+  "hachi-a-dogs-tale": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zxLyV6Lg2aedopcCX6gLfQlc7NP.jpg",
+    "matchedTitle": "HACHI 約束の犬",
+    "tmdbId": 28178
+  },
+  "the-ninth-gate": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pjAakawmOCgP9Iy6TstCtcYVwv9.jpg",
+    "matchedTitle": "ナインスゲート",
+    "tmdbId": 622
+  },
+  "the-aristocats": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/r0ZjduOeYrC0UCVWNZMUxuEgG84.jpg",
+    "matchedTitle": "おしゃれキャット",
+    "tmdbId": 10112
+  },
+  "uzumaki": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kmUAEZ6y3RsRn3Keofwl12VsJp6.jpg",
+    "matchedTitle": "うずまき",
+    "tmdbId": 11366
+  },
+  "ichi": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/grzHjvB2GDVa48FpDTd4if44Hej.jpg",
+    "matchedTitle": "ICHI",
+    "tmdbId": 19506
+  },
+  "the-fly": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1Ow2lot8eKvr6kmwFhHjtrGo2vy.jpg",
+    "matchedTitle": "ザ・フライ",
+    "tmdbId": 9426
+  },
+  "demolition-man": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9iNPUfbgTAIbd4MMViwhxCjwIuo.jpg",
+    "matchedTitle": "デモリションマン",
+    "tmdbId": 9739
+  },
+  "fargo": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mRiIXxPS8xREcfvuS9h2kFbwIpM.jpg",
+    "matchedTitle": "ファーゴ",
+    "tmdbId": 275
+  },
+  "lupin-the-iiird-fujikos-lie": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mtqDnX9hqaGTvK26tQZH1R145B0.jpg",
+    "matchedTitle": "LUPIN THE IIIRD 峰不二子の嘘",
+    "tmdbId": 587870
   }
 }
