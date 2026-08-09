@@ -75746,5 +75746,52 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "seriesId": "lupin-iii"
+  },
+  {
+    "id": "hk-hentai-kamen-2-abnormal-crisis",
+    "title": "HK 変態仮面 アブノーマル・クライシス",
+    "titleKana": "えいちけーへんたいかめんあぶのーまるくらいしす",
+    "directorIds": [
+      "yuichi-fukuda"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "toei-company",
+      "toei-video-company"
+    ],
+    "cast": [
+      {
+        "actorId": "ryohei-suzuki",
+        "character": "色情狂介"
+      },
+      {
+        "actorId": "yoshiko-sengen",
+        "character": "姫野愛子"
+      },
+      {
+        "actorId": "yuya-yagira",
+        "character": "誠正義"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "hero"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 5
+    },
+    "runtime": 117,
+    "originalType": "manga",
+    "synopsis": "下着をかぶることで力を発揮するヒーロー、変態仮面が街の平和を守っている。そこへ同じ手法で力を得た敵が現れ、彼の存在意義が揺らぐ。恋人の愛子との関係も、正体を隠したままでは前へ進まない。前作に続く実写化第二作にあたる。鈴木亮平の肉体的な演技が、この企画を成立させている。原作の下品さを保ったまま作られている。",
+    "tmdbId": 403310,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "HK 変態仮面　アブノーマル・クライシス",
+    "seriesId": "hentai-kamen"
   }
 ]
