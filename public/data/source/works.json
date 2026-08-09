@@ -50796,5 +50796,1814 @@
     "updatedAt": "2026-08-09",
     "originalTitle": "John Wick: Chapter 3 - Parabellum",
     "seriesId": "john-wick"
+  },
+  {
+    "id": "cardcaptor-sakura-the-sealed-card",
+    "title": "劇場版 カードキャプターさくら 封印されたカード",
+    "titleKana": "げきじょうばんかーどきゃぷたーさくらふういんされたかーど",
+    "directorIds": [
+      "morio-asaka"
+    ],
+    "screenwriterIds": [
+      "nanase-okawa"
+    ],
+    "studioIds": [
+      "bandai-visual",
+      "amber-film-works"
+    ],
+    "cast": [
+      {
+        "actorId": "sakura-tange",
+        "character": "木之本桜"
+      },
+      {
+        "actorId": "motoko-kumai",
+        "character": "李小狼"
+      },
+      {
+        "actorId": "aya-hisakawa",
+        "character": "ケロちゃん"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "romance",
+      "magic",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2000,
+      "month": 7
+    },
+    "runtime": 82,
+    "originalType": "manga",
+    "synopsis": "なでしこ祭の準備が進むなか、香港から戻った李小狼と再会したさくらは、返せていない返事を抱えたままだった。同じ頃、町ではカードの力が次々と吸い取られる怪現象が起きる。封印されていた最後のカードが、さくらの想いそのものを試す。原作の完結後を描いた劇場版第二作にあたる。",
+    "tmdbId": 31347,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "cardcaptor-sakura"
+  },
+  {
+    "id": "pans-labyrinth",
+    "title": "パンズ・ラビリンス",
+    "titleKana": "ぱんずらびりんす",
+    "directorIds": [
+      "guillermo-del-toro"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "estudios-picasso",
+      "esperanto-filmoj"
+    ],
+    "cast": [
+      {
+        "actorId": "ivana-baquero",
+        "character": "オフェリア"
+      },
+      {
+        "actorId": "sergi-lopez",
+        "character": "ビダル大尉"
+      },
+      {
+        "actorId": "maribel-verdu",
+        "character": "メルセデス"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 10
+    },
+    "runtime": 119,
+    "originalType": "original",
+    "synopsis": "内戦後のスペイン、少女オフェリアはゲリラ掃討を指揮する冷酷な義父の駐屯地へ母と移り住む。廃墟の迷宮で牧神と名乗る存在に出会った彼女は、地下の王国の王女であると告げられ、三つの試練を課される。過酷な現実と幻想が交互に描かれ、どちらも同じ重さで少女に迫る。美術と造形が高く評価された作品。",
+    "tmdbId": 1417,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "El laberinto del fauno"
+  },
+  {
+    "id": "the-patriot",
+    "title": "パトリオット",
+    "titleKana": "ぱとりおっと",
+    "directorIds": [
+      "roland-emmerich"
+    ],
+    "screenwriterIds": [
+      "robert-rodat"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "mutual-film-company"
+    ],
+    "cast": [
+      {
+        "actorId": "mel-gibson",
+        "character": "ベンジャミン・マーティン"
+      },
+      {
+        "actorId": "heath-ledger",
+        "character": "ゲイブリエル・マーティン"
+      },
+      {
+        "actorId": "joely-richardson",
+        "character": "シャーロット・セルトン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "war",
+      "action",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 9
+    },
+    "runtime": 165,
+    "originalType": "original",
+    "synopsis": "アメリカ独立戦争下のサウスカロライナ。かつての戦歴を封印し七人の子と暮らす農園主ベンジャミンは、長男が民兵として従軍し、次男を英軍将校に殺されたことで再び銃を取る。家族を守るための戦いが、やがて独立の大義と重なっていく。大規模な戦闘場面と父子の物語を並走させた歴史劇。",
+    "tmdbId": 2024,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Patriot"
+  },
+  {
+    "id": "shooter",
+    "title": "ザ・シューター 極大射程",
+    "titleKana": "ざしゅーたーきょくだいしゃてい",
+    "directorIds": [
+      "antoine-fuqua"
+    ],
+    "screenwriterIds": [
+      "jonathan-lemkin"
+    ],
+    "studioIds": [
+      "paramount",
+      "di-bonaventura-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "mark-wahlberg",
+        "character": "ボブ・リー・スワガー"
+      },
+      {
+        "actorId": "michael-pena",
+        "character": "ニック・メンフィス"
+      },
+      {
+        "actorId": "danny-glover",
+        "character": "アイザック・ジョンソン大佐"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "action",
+      "suspense",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 6
+    },
+    "runtime": 124,
+    "originalType": "novel",
+    "synopsis": "山奥で隠遁していた元海兵隊の狙撃手ボブは、大統領暗殺計画の阻止に協力を求められる。だがそれは彼を実行犯に仕立てる罠で、負傷したまま全米に指名手配される。追跡をかわしながら、彼は自分を嵌めた組織の中枢へ迫る。狙撃の技術描写を丁寧に扱った作品。狙撃手の視点と、権力の腐敗を単純明快な復讐劇として描いている。",
+    "tmdbId": 7485,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Shooter"
+  },
+  {
+    "id": "ring-0",
+    "title": "リング０ バースデイ",
+    "titleKana": "りんぐぜろばーすでい",
+    "directorIds": [
+      "norio-tsuruta"
+    ],
+    "screenwriterIds": [
+      "hiroshi-takahashi"
+    ],
+    "studioIds": [
+      "ring-0-production-group"
+    ],
+    "cast": [
+      {
+        "actorId": "yukie-nakama",
+        "character": "山村貞子"
+      },
+      {
+        "actorId": "seiichi-tanabe",
+        "character": "遠山博"
+      },
+      {
+        "actorId": "kumiko-aso",
+        "character": "立原悦子"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "suspense",
+      "human-drama",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 1
+    },
+    "runtime": 99,
+    "originalType": "novel",
+    "synopsis": "女優を目指して劇団に入った山村貞子は、稽古場で起きる怪現象の原因として疑われていく。彼女をかばう音響担当の遠山との淡い関係と、超能力事件を追う記者の取材が並行して進む。呪いの源が生まれた経緯を描く前日譚で、シリーズの中では最も悲劇の色が濃い。貞子を怪物ではなく被害者として描き直した点が、シリーズの中で際立つ。",
+    "tmdbId": 9674,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "ring"
+  },
+  {
+    "id": "sanjuro",
+    "title": "椿三十郎",
+    "titleKana": "つばきさんじゅうろう",
+    "directorIds": [
+      "akira-kurosawa"
+    ],
+    "screenwriterIds": [
+      "ryuzo-kikushima"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiro-mifune",
+        "character": "椿三十郎"
+      },
+      {
+        "actorId": "tatsuya-nakadai",
+        "character": "室戸半兵衛"
+      },
+      {
+        "actorId": "keiju-kobayashi",
+        "character": "間者"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "action",
+      "comedy",
+      "jidaigeki",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1962,
+      "month": 1
+    },
+    "runtime": 98,
+    "originalType": "novel",
+    "synopsis": "藩の不正を訴えようとして罠にはまった九人の若侍を、通りかかった浪人が助ける。椿三十郎と名乗った男は、身分も金もないまま知恵と腕だけで彼らを導いていく。城代家老を救い出す策の数々と、最後の一瞬の決闘が語り草になっている。『用心棒』に続く黒澤明の娯楽時代劇。洒脱な会話と、一瞬で決着する最後の立ち合いが強い印象を残す。",
+    "tmdbId": 11712,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-fugitive",
+    "title": "逃亡者",
+    "titleKana": "とうぼうしゃ",
+    "directorIds": [
+      "andrew-davis"
+    ],
+    "screenwriterIds": [
+      "david-twohy",
+      "jeb-stuart"
+    ],
+    "studioIds": [
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "harrison-ford",
+        "character": "リチャード・キンブル"
+      },
+      {
+        "actorId": "tommy-lee-jones",
+        "character": "サミュエル・ジェラード"
+      },
+      {
+        "actorId": "joe-pantoliano",
+        "character": "コズモ・レンフロ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "human-drama",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 9
+    },
+    "runtime": 131,
+    "originalType": "other",
+    "synopsis": "妻殺しの罪で死刑判決を受けた外科医キンブルは、護送中の事故で逃走に成功する。片腕の男を追って真犯人を突き止めようとする彼を、連邦保安官補ジェラードが執拗に追跡する。追う者と追われる者の双方に理があり、両者の敬意が生まれていく点が魅力となる。テレビドラマの映画化として、追跡劇の型を完成させた一本とされる。",
+    "tmdbId": 5503,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Fugitive"
+  },
+  {
+    "id": "deep-impact",
+    "title": "ディープ・インパクト",
+    "titleKana": "でぃーぷいんぱくと",
+    "directorIds": [
+      "mimi-leder"
+    ],
+    "screenwriterIds": [
+      "bruce-joel-rubin",
+      "michael-tolkin"
+    ],
+    "studioIds": [
+      "paramount",
+      "dreamworks-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-duvall",
+        "character": "スパージョン・タナー"
+      },
+      {
+        "actorId": "tea-leoni",
+        "character": "ジェニー・ラーナー"
+      },
+      {
+        "actorId": "elijah-wood",
+        "character": "レオ・ビーダーマン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "sf",
+      "disaster",
+      "space",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1998,
+      "month": 6
+    },
+    "runtime": 121,
+    "originalType": "original",
+    "synopsis": "地球に巨大彗星が接近していることが判明し、各国は破壊のための有人ミッションと、選ばれた者だけを収容する地下シェルターの建設を同時に進める。報道記者、宇宙飛行士、高校生と、複数の視点から終末までの一年が描かれる。派手さより人々の別れに焦点を当てた災害映画。同年公開の同種の大作と比べ、人間関係の描写に重心を置いている。",
+    "tmdbId": 8656,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Deep Impact"
+  },
+  {
+    "id": "stand-by-me",
+    "title": "スタンド・バイ・ミー",
+    "titleKana": "すたんどばいみー",
+    "directorIds": [
+      "rob-reiner"
+    ],
+    "screenwriterIds": [
+      "raynold-gideon",
+      "bruce-a-evans"
+    ],
+    "studioIds": [
+      "act-iii-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "wil-wheaton",
+        "character": "ゴーディ・ラチャンス"
+      },
+      {
+        "actorId": "river-phoenix",
+        "character": "クリス・チェンバース"
+      },
+      {
+        "actorId": "corey-feldman",
+        "character": "テディ・デュシャン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "adventure",
+      "youth",
+      "friendship",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1987,
+      "month": 4
+    },
+    "runtime": 89,
+    "originalType": "novel",
+    "synopsis": "一九五九年のオレゴン、十二歳の少年四人が行方不明の遺体を探して線路沿いを歩き出す。二日間の旅の間に、家庭の事情や将来の不安が焚き火のそばで語られる。何者にもなれないかもしれないという予感を抱えた少年期の終わりを、大人になった語り手の回想として描く。スティーヴン・キングの中編を原作に、青春映画の代表作となった。",
+    "tmdbId": 235,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Stand by Me"
+  },
+  {
+    "id": "the-virgin-psychics",
+    "title": "みんな！エスパーだよ！",
+    "titleKana": "みんなえすぱーだよ",
+    "directorIds": [
+      "sion-sono"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "tv-tokyo"
+    ],
+    "cast": [
+      {
+        "actorId": "shota-sometani",
+        "character": "鴨川嘉郎"
+      },
+      {
+        "actorId": "elaiza-ikeda",
+        "character": "平野美由紀"
+      },
+      {
+        "actorId": "erina-mano",
+        "character": "浅見紗英"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "sf",
+      "school",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 9
+    },
+    "runtime": 115,
+    "originalType": "manga",
+    "synopsis": "妄想ばかりの高校生嘉郎に、ある日突然テレパシー能力が備わる。同じ町では次々と超能力に目覚める者が現れ、能力者同士の騒動が広がっていく。下品な笑いを全面に押し出しながら、思春期の欲望と孤独を並べて描く。園子温監督が漫画を実写化した一作。下世話な設定を全力でやり切る姿勢が、この作品の持ち味となっている。",
+    "tmdbId": 350725,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crayon-shin-chan-action-mask-vs-leotard-devil",
+    "title": "クレヨンしんちゃん アクション仮面VSハイグレ魔王",
+    "titleKana": "くれよんしんちゃんあくしょんかめんたいはいぐれまおう",
+    "directorIds": [
+      "mitsuru-hongo"
+    ],
+    "screenwriterIds": [
+      "ryo-motohira"
+    ],
+    "studioIds": [
+      "tv-asahi",
+      "shin-ei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "akiko-yajima",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "miki-narahashi",
+        "character": "野原みさえ"
+      },
+      {
+        "actorId": "keiji-fujiwara",
+        "character": "野原ひろし"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "hero",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1993,
+      "month": 7
+    },
+    "runtime": 93,
+    "originalType": "manga",
+    "synopsis": "体験型アトラクションに入った野原一家が、悪の帝王ハイグレ魔王の支配する別世界へ飛ばされる。そこではテレビの中の存在だったアクション仮面が本物のヒーローとして戦っていた。しんのすけは憧れの仮面と共に魔王に立ち向かう。劇場版の第一作にあたる。ヒーローものへの憧れを主題に据え、シリーズの出発点となった。",
+    "tmdbId": 128868,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "matilda",
+    "title": "マチルダ",
+    "titleKana": "まちるだ",
+    "directorIds": [
+      "danny-devito"
+    ],
+    "screenwriterIds": [
+      "nicholas-kazan",
+      "robin-swicord"
+    ],
+    "studioIds": [
+      "jersey-films",
+      "tristar-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "mara-wilson",
+        "character": "マチルダ・ワームウッド"
+      },
+      {
+        "actorId": "danny-devito",
+        "character": "ハリー・ワームウッド"
+      },
+      {
+        "actorId": "rhea-perlman",
+        "character": "ジニア・ワームウッド"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "fantasy",
+      "magic",
+      "school"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 8
+    },
+    "runtime": 98,
+    "originalType": "novel",
+    "synopsis": "本ばかり読む幼いマチルダは、俗物の両親に理解されずに育つ。ようやく通えた学校では優しいハニー先生と出会うが、暴君のような校長が生徒を痛めつけていた。密かに念動力に目覚めた彼女は、その力で理不尽をひっくり返そうとする。ロアルド・ダールの児童書の映画化。意地悪な大人を子どもが知恵で打ち負かす痛快さが全編を貫く。",
+    "tmdbId": 10830,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Matilda"
+  },
+  {
+    "id": "skyfall",
+    "title": "007 スカイフォール",
+    "titleKana": "ぜろぜろせぶんすかいふぉーる",
+    "directorIds": [
+      "sam-mendes"
+    ],
+    "screenwriterIds": [
+      "robert-wade",
+      "neal-purvis"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer",
+      "eon-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-craig",
+        "character": "ジェームズ・ボンド"
+      },
+      {
+        "actorId": "judi-dench",
+        "character": "M"
+      },
+      {
+        "actorId": "javier-bardem",
+        "character": "シルヴァ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "suspense",
+      "spy",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 12
+    },
+    "runtime": 143,
+    "originalType": "original",
+    "synopsis": "作戦中に味方の誤射で海へ落ちたボンドは、死んだものとして扱われる。工作員名簿の流出を機に復帰した彼が対峙するのは、Mへの復讐に取り憑かれた元諜報員シルヴァだった。物語はボンドの生家スカイフォールへ向かい、彼自身の出自に触れる。シリーズ五十周年の記念作。撮影と音楽が高く評価され、シリーズで最大の興行成績を記録した。",
+    "tmdbId": 37724,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Skyfall",
+    "seriesId": "james-bond"
+  },
+  {
+    "id": "slumdog-millionaire",
+    "title": "スラムドッグ＄ミリオネア",
+    "titleKana": "すらむどっぐみりおねあ",
+    "directorIds": [
+      "danny-boyle"
+    ],
+    "screenwriterIds": [
+      "simon-beaufoy"
+    ],
+    "studioIds": [
+      "celador-films",
+      "film4-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "dev-patel",
+        "character": "ジャマール"
+      },
+      {
+        "actorId": "freida-pinto",
+        "character": "ラティカ"
+      },
+      {
+        "actorId": "madhur-mittal",
+        "character": "サリーム"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "social",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 4
+    },
+    "runtime": 120,
+    "originalType": "novel",
+    "synopsis": "スラム育ちの青年ジャマールがクイズ番組で正解を続け、不正を疑われて警察に連行される。取り調べで語られたのは、一問ごとに対応する過酷な半生だった。兄との決別と、幼なじみラティカへの一途な想いが、彼をその場所へ導いていく。アカデミー作品賞を受賞した作品。インドの実景と軽快な音楽が、過酷な内容に推進力を与えている。",
+    "tmdbId": 12405,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Slumdog Millionaire"
+  },
+  {
+    "id": "detective-conan-the-disappearance-of-conan-edogawa",
+    "title": "名探偵コナン 江戸川コナン失踪事件 〜史上最悪の2日間〜",
+    "titleKana": "めいたんていこなんえどがわこなんしっそうじけん",
+    "directorIds": [
+      "yasuichiro-yamamoto"
+    ],
+    "screenwriterIds": [
+      "kenji-uchida"
+    ],
+    "studioIds": [
+      "tms-entertainment",
+      "yomiuri-telecasting-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "minami-takayama",
+        "character": "江戸川コナン"
+      },
+      {
+        "actorId": "megumi-hayashibara",
+        "character": "灰原哀"
+      },
+      {
+        "actorId": "teruyuki-kagawa",
+        "character": "近藤"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "detective",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 12
+    },
+    "runtime": 91,
+    "originalType": "manga",
+    "synopsis": "銭湯で転倒し気を失ったコナンが、正体不明の男たちに連れ去られる。姿を消した彼を探す蘭と灰原、そして少年探偵団の動きと、コナン自身が巻き込まれた誘拐事件が並行して進む。テレビ特番として作られた長編で、脚本家に内田けんじを迎えている。劇場版とは別枠の特番として、コナン不在という趣向で作られている。",
+    "tmdbId": 546822,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "detective-conan"
+  },
+  {
+    "id": "fate-grand-order-the-movie-divine-realm-of-the-2021",
+    "title": "Fate/Grand Order 神聖円卓領域キャメロット 後編",
+    "titleKana": "ふぇいとぐらんどおーだーきゃめろっとこうへん",
+    "directorIds": [
+      "kazuto-arai"
+    ],
+    "screenwriterIds": [
+      "ukyo-kodachi"
+    ],
+    "studioIds": [
+      "production-i-g",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "mamoru-miyano",
+        "character": "ベディヴィエール"
+      },
+      {
+        "actorId": "nobunaga-shimazaki",
+        "character": "藤丸立香"
+      },
+      {
+        "actorId": "rie-takahashi",
+        "character": "マシュ・キリエライト"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "history",
+      "human-drama",
+      "fantasy",
+      "magic",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 5
+    },
+    "runtime": 96,
+    "originalType": "game",
+    "synopsis": "獅子王が築いた白亜の都と、抵抗する山の民の戦いが最終局面を迎える。円卓の騎士たちと対峙するなか、ベディヴィエールが背負ってきた罪と、彼が旅を続けた理由が明かされる。長い巡礼の果てに王へ差し出されるものが、物語の結末となる。二部作の後編にあたる。円卓の騎士との連戦と、静かな幕切れの対比が印象に残る。",
+    "tmdbId": 637462,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "snatch",
+    "title": "スナッチ",
+    "titleKana": "すなっち",
+    "directorIds": [
+      "guy-ritchie"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "marv"
+    ],
+    "cast": [
+      {
+        "actorId": "jason-statham",
+        "character": "ターキッシュ"
+      },
+      {
+        "actorId": "alan-ford",
+        "character": "ブリック・トップ"
+      },
+      {
+        "actorId": "stephen-graham",
+        "character": "トミー"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "comedy",
+      "heist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 3
+    },
+    "runtime": 104,
+    "originalType": "original",
+    "synopsis": "盗まれた巨大なダイヤをめぐって、闇賭博の胴元、ロシア人の売人、密輸業者、そして訛りの強すぎるボクサーが同じ渦に巻き込まれる。誰も全体像を把握しないまま、偶然が偶然を呼んで事態が転がっていく。細かく刻んだ編集と早口の会話が心地よい犯罪喜劇。登場人物全員が少しずつ間違え続ける構成が、笑いを生んでいる。",
+    "tmdbId": 107,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Snatch"
+  },
+  {
+    "id": "the-garfield-movie",
+    "title": "ねこのガーフィールド",
+    "titleKana": "ねこのがーふぃーるど",
+    "directorIds": [
+      "mark-dindal"
+    ],
+    "screenwriterIds": [
+      "mark-torgove",
+      "paul-a-kaplan"
+    ],
+    "studioIds": [
+      "alcon-entertainment",
+      "dneg"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-pratt",
+        "character": "ガーフィールド"
+      },
+      {
+        "actorId": "samuel-l-jackson",
+        "character": "ヴィック"
+      },
+      {
+        "actorId": "hannah-waddingham",
+        "character": "ジンクス"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "family",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2024,
+      "month": 8
+    },
+    "runtime": 101,
+    "originalType": "manga",
+    "synopsis": "飼い主に甘やかされ怠惰に暮らす猫のガーフィールドは、生き別れた父ヴィックと再会する。乳製品工場からの盗みを持ちかけられ、親友の犬オーディを連れて危険な計画に巻き込まれていく。父が姿を消した理由が明らかになるにつれ、彼の中の蟠りが解けていく。原作の怠惰な主人公像を保ちながら、家族の物語として再構成している。",
+    "tmdbId": 748783,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Garfield Movie"
+  },
+  {
+    "id": "the-help",
+    "title": "ヘルプ 〜心がつなぐストーリー〜",
+    "titleKana": "へるぷこころがつなぐすとーりー",
+    "directorIds": [
+      "tate-taylor"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "1492-pictures",
+      "harbinger-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "emma-stone",
+        "character": "スキーター・フィーラン"
+      },
+      {
+        "actorId": "viola-davis",
+        "character": "エイビリーン・クラーク"
+      },
+      {
+        "actorId": "bryce-dallas-howard",
+        "character": "ヒリー・ホルブルック"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 3
+    },
+    "runtime": 146,
+    "originalType": "novel",
+    "synopsis": "一九六〇年代のミシシッピ、作家志望のスキーターは、白人家庭で働く黒人メイドたちの証言を集めた本を書こうと決める。職を失う危険を承知で語りはじめたエイビリーンとミニー。差別が当たり前だった時代に、言葉にすること自体が抵抗になっていく。配役の演技が高く評価され、助演女優賞をはじめ多くの賞を受けた。",
+    "tmdbId": 50014,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Help"
+  },
+  {
+    "id": "zom-100-bucket-list-of-the-dead",
+    "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
+    "titleKana": "ぞんひゃくぞんびになるまでにしたいひゃくのこと",
+    "directorIds": [
+      "yusuke-ishida"
+    ],
+    "screenwriterIds": [
+      "tatsuro-mishima"
+    ],
+    "studioIds": [
+      "robot-communications",
+      "plus-one-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "eiji-akaso",
+        "character": "天道輝"
+      },
+      {
+        "actorId": "mai-shiraishi",
+        "character": "蒲田獅子"
+      },
+      {
+        "actorId": "shuntaro-yanagi",
+        "character": "竜崎健一郎"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "horror",
+      "zombie",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 8
+    },
+    "runtime": 129,
+    "originalType": "manga",
+    "synopsis": "過労で心を削られていた会社員の天道は、目覚めると街がゾンビで溢れていることに気づく。会社に行かなくていいという解放感から、彼はやりたいこと百個の一覧を作り、終末の世界を全力で楽しみはじめる。働き方への皮肉を、明るい色彩とゾンビ映画の型で描く。漫画の色彩感覚を実写に持ち込んだ映像設計が特徴となっている。",
+    "tmdbId": 1070514,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "materialists",
+    "title": "マテリアリスト 結婚の条件",
+    "titleKana": "まてりありすとけっこんのじょうけん",
+    "directorIds": [
+      "celine-song"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "a24",
+      "killer-films"
+    ],
+    "cast": [
+      {
+        "actorId": "dakota-johnson",
+        "character": "ルーシー"
+      },
+      {
+        "actorId": "chris-evans",
+        "character": "ジョン"
+      },
+      {
+        "actorId": "pedro-pascal",
+        "character": "ハリー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2026,
+      "month": 5
+    },
+    "runtime": 116,
+    "originalType": "original",
+    "synopsis": "ニューヨークの結婚相談所で働く敏腕マッチメーカーのルーシーは、条件で人を組み合わせる仕事に長けていた。資産家のハリーに求愛される一方、貧しいままの元恋人ジョンが現れる。愛と条件のどちらを選ぶのかという問いを、現代の婚活市場を舞台に描く。三者三様の価値観を対等に扱い、安易な結論に落とさない語り口が特徴。",
+    "tmdbId": 1136867,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Materialists"
+  },
+  {
+    "id": "night-at-the-museum",
+    "title": "ナイト ミュージアム",
+    "titleKana": "ないとみゅーじあむ",
+    "directorIds": [
+      "shawn-levy"
+    ],
+    "screenwriterIds": [
+      "robert-ben-garant",
+      "thomas-lennon"
+    ],
+    "studioIds": [
+      "1492-pictures",
+      "21-laps-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "ben-stiller",
+        "character": "ラリー・デイリー"
+      },
+      {
+        "actorId": "carla-gugino",
+        "character": "レベッカ"
+      },
+      {
+        "actorId": "dick-van-dyke",
+        "character": "セシル"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "family",
+      "comedy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "novel",
+    "synopsis": "職を転々としてきたラリーは、息子に認められたい一心で自然史博物館の夜警の職に就く。だが夜になると展示物が動き出し、恐竜の骨格もローマ兵も好き勝手に暴れはじめる。歴史上の人物たちの力を借りて館内を収めるうち、彼は初めて自分の仕事に誇りを持つ。実物大の展示物が動き回る物量と、歴史上の人物の扱いが楽しい。",
+    "tmdbId": 1593,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Night at the Museum",
+    "seriesId": "night-at-the-museum"
+  },
+  {
+    "id": "given",
+    "title": "映画 ギヴン",
+    "titleKana": "えいがぎヴん",
+    "directorIds": [
+      "hikaru-yamaguchi"
+    ],
+    "screenwriterIds": [
+      "yuniko-ayana"
+    ],
+    "studioIds": [
+      "lerche",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "takuya-eguchi",
+        "character": "梶秋彦"
+      },
+      {
+        "actorId": "masatomo-nakazawa",
+        "character": "中山春樹"
+      },
+      {
+        "actorId": "shogo-yano",
+        "character": "佐藤真冬"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "music",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2020,
+      "month": 8
+    },
+    "runtime": 59,
+    "originalType": "manga",
+    "synopsis": "バンド仲間である梶秋彦と中山春樹の関係を軸に、それぞれが抱える過去と現在が描かれる。同居する元恋人との切れない関係に苦しむ秋彦と、彼を想い続ける春樹。演奏の場面を挟みながら、言葉にできない感情が積み上がっていく。テレビシリーズの続きにあたる劇場版。演奏と沈黙の使い分けが巧みで、テレビ版からの流れを引き継いでいる。",
+    "tmdbId": 632632,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inuyasha-the-movie-affections-touching-across-time",
+    "title": "犬夜叉 時代を越える想い",
+    "titleKana": "いぬやしゃときをこえるおもい",
+    "directorIds": [
+      "toshiya-shinohara"
+    ],
+    "screenwriterIds": [
+      "katsuyuki-sumisawa"
+    ],
+    "studioIds": [
+      "sunrise",
+      "mini-art"
+    ],
+    "cast": [
+      {
+        "actorId": "kappei-yamaguchi",
+        "character": "犬夜叉"
+      },
+      {
+        "actorId": "satsuki-yukino",
+        "character": "日暮かごめ"
+      },
+      {
+        "actorId": "koji-tsujitani",
+        "character": "弥勒"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "fantasy",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2001,
+      "month": 12
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "封印されていた大陸妖怪の瑠璃と翡翠が復活し、犬夜叉の父の遺した力を狙って動き出す。かごめは現代と戦国を行き来しながら、二人の絆が試される事態に巻き込まれる。父と息子という主題を扱った劇場版第一作にあたる。劇場版らしい規模の戦闘と、父の遺した刀の意味づけが描かれる。原作の空気を保った一本となっている。",
+    "tmdbId": 42360,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "inuyasha"
+  },
+  {
+    "id": "chappie",
+    "title": "チャッピー",
+    "titleKana": "ちゃっぴー",
+    "directorIds": [
+      "neill-blomkamp"
+    ],
+    "screenwriterIds": [
+      "terri-tatchell"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "mrc"
+    ],
+    "cast": [
+      {
+        "actorId": "sharlto-copley",
+        "character": "チャッピー"
+      },
+      {
+        "actorId": "dev-patel",
+        "character": "ディオン・ウィルソン"
+      },
+      {
+        "actorId": "hugh-jackman",
+        "character": "ヴィンセント・ムーア"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "action",
+      "sf",
+      "robot",
+      "ai"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 5
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "治安維持ロボットが街を巡回する近未来のヨハネスブルク。開発者ディオンが密かに完成させた自意識を持つ機体は、ギャングに奪われチャッピーと名づけられる。子どものように学習していく彼は、犯罪と愛情の両方を同時に教え込まれる。育つ環境が人格を作るという主題が貫かれる。",
+    "tmdbId": 198184,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Chappie"
+  },
+  {
+    "id": "nope",
+    "title": "NOPE／ノープ",
+    "titleKana": "のーぷ",
+    "directorIds": [
+      "jordan-peele"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "universal",
+      "monkeypaw-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-kaluuya",
+        "character": "OJ・ヘイウッド"
+      },
+      {
+        "actorId": "keke-palmer",
+        "character": "エメラルド・ヘイウッド"
+      },
+      {
+        "actorId": "brandon-perea",
+        "character": "エンジェル・トーレス"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "suspense",
+      "alien",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 8
+    },
+    "runtime": 130,
+    "originalType": "original",
+    "synopsis": "亡き父から牧場を継いだOJと妹エメラルドは、空に潜む何かの存在に気づく。決定的な映像を撮れば一発逆転できると考えた二人は、機材を揃えて撮影に挑む。だが相手は見つめ返す者を捕食する存在だった。見世物にすることの代償を主題に据えた作品。西部劇の意匠を取り入れ、見ることと撮ることの暴力性を扱っている。",
+    "tmdbId": 762504,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Nope"
+  },
+  {
+    "id": "bohemian-rhapsody",
+    "title": "ボヘミアン・ラプソディ",
+    "titleKana": "ぼへみあんらぷそでぃ",
+    "directorIds": [
+      "bryan-singer"
+    ],
+    "screenwriterIds": [
+      "anthony-mccarten"
+    ],
+    "studioIds": [
+      "20th-century-fox",
+      "regency-enterprises"
+    ],
+    "cast": [
+      {
+        "actorId": "rami-malek",
+        "character": "フレディ・マーキュリー"
+      },
+      {
+        "actorId": "gwilym-lee",
+        "character": "ブライアン・メイ"
+      },
+      {
+        "actorId": "ben-hardy",
+        "character": "ロジャー・テイラー"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "human-drama",
+      "biography",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 11
+    },
+    "runtime": 135,
+    "originalType": "other",
+    "synopsis": "移民の家に生まれたフレディ・マーキュリーが、ロンドンのバンドに加わりクイーンを結成するまで。革新的な曲作りと成功の一方で、彼は孤独と自己認識に苦しんでいく。バンドを離れて回り道をした彼が、ライヴ・エイドの舞台に立つまでを描く。主演俳優がアカデミー主演男優賞を受賞した。",
+    "tmdbId": 424694,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bohemian Rhapsody"
+  },
+  {
+    "id": "dragon-ball-mystical-adventure",
+    "title": "ドラゴンボール 摩訶不思議大冒険",
+    "titleKana": "どらごんぼーるまかふしぎだいぼうけん",
+    "directorIds": [
+      "kazuhisa-takenouchi"
+    ],
+    "screenwriterIds": [
+      "yoshifumi-yuki"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "masako-nozawa",
+        "character": "孫悟空"
+      },
+      {
+        "actorId": "hiromi-tsuru",
+        "character": "ブルマ"
+      },
+      {
+        "actorId": "mayumi-tanaka",
+        "character": "クリリン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "martial-arts",
+      "comedy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1988,
+      "month": 7
+    },
+    "runtime": 48,
+    "originalType": "manga",
+    "synopsis": "ミーファン国の大臣がドラゴンボールを集めるため、住民を強制労働に駆り出していた。武術大会に参加した悟空とクリリンは、国の実態を知り立ち向かうことになる。原作の複数の挿話を組み替えた構成で、初期の明るい冒険譚の空気が濃い短編劇場版。原作の要素を組み替えた構成で、初期作品の空気が色濃く残る。",
+    "tmdbId": 116776,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "ドラゴンボール 魔訶不思議大冒険",
+    "seriesId": "dragon-ball"
+  },
+  {
+    "id": "swallowtail-butterfly",
+    "title": "スワロウテイル",
+    "titleKana": "すわろうている",
+    "directorIds": [
+      "shunji-iwai"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "oorong-sha",
+      "pony-canyon"
+    ],
+    "cast": [
+      {
+        "actorId": "ayumi-ito",
+        "character": "アゲハ"
+      },
+      {
+        "actorId": "yosuke-eguchi",
+        "character": "リョウ・リャンキ"
+      },
+      {
+        "actorId": "chara",
+        "character": "グリコ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "music",
+      "sf",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 9
+    },
+    "runtime": 148,
+    "originalType": "original",
+    "synopsis": "円が最も強かった時代、移民たちが集まる街イェンタウンで、母を失った少女がアゲハと名づけられる。娼婦のグリコや中国系の若者たちと出会った彼女は、偽札作りで手にした金を元にライブハウスを買う。多言語が飛び交う無国籍の街を舞台に、生き延びる者たちの熱を描く。劇中バンドの楽曲が実際にヒットするなど、作品外への広がりも大きかった。",
+    "tmdbId": 8426,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "life-of-pi",
+    "title": "ライフ・オブ・パイ／トラと漂流した227日",
+    "titleKana": "らいふおぶぱいとらとひょうりゅうしたにひゃくにじゅうななにち",
+    "directorIds": [
+      "ang-lee"
+    ],
+    "screenwriterIds": [
+      "david-magee"
+    ],
+    "studioIds": [
+      "fox-2000-pictures",
+      "dune-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "suraj-sharma",
+        "character": "パイ・パテル"
+      },
+      {
+        "actorId": "irrfan-khan",
+        "character": "成人したパイ"
+      },
+      {
+        "actorId": "ayush-tandon",
+        "character": "少年時代のパイ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "human-drama",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 1
+    },
+    "runtime": 127,
+    "originalType": "novel",
+    "synopsis": "動物園を営む一家の船が嵐で沈み、少年パイは救命ボートに一人取り残される。同乗していたのはベンガルトラのリチャード・パーカーだった。二百二十七日に及ぶ漂流のなかで、少年は恐怖と共存する方法を編み出す。語り終えた後に提示されるもう一つの物語が、作品の核心となる。立体映像と水の表現が高く評価され、監督賞を受賞している。",
+    "tmdbId": 87827,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Life of Pi"
+  },
+  {
+    "id": "the-fabelmans",
+    "title": "フェイブルマンズ",
+    "titleKana": "ふぇいぶるまんず",
+    "directorIds": [
+      "steven-spielberg"
+    ],
+    "screenwriterIds": [
+      "tony-kushner"
+    ],
+    "studioIds": [
+      "amblin",
+      "reliance-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "michelle-williams",
+        "character": "ミッツィ・フェイブルマン"
+      },
+      {
+        "actorId": "paul-dano",
+        "character": "バート・フェイブルマン"
+      },
+      {
+        "actorId": "seth-rogen",
+        "character": "ベニー・ローウィ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "filmmaking",
+      "family",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 3
+    },
+    "runtime": 151,
+    "originalType": "original",
+    "synopsis": "初めて観た映画に取り憑かれた少年サミーは、家族を撮り続けるうちにフィルムに映り込んだ母の秘密を知ってしまう。技術者の父と芸術家肌の母の間で揺れる家庭と、撮ることの残酷さを同時に描く。監督自身の少年期を下敷きにした自伝的な作品となっている。映画を作ることが人を救いも傷つけもするという両義性が描かれる。",
+    "tmdbId": 804095,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Fabelmans"
+  },
+  {
+    "id": "ralph-breaks-the-internet",
+    "title": "シュガー・ラッシュ：オンライン",
+    "titleKana": "しゅがーらっしゅおんらいん",
+    "directorIds": [
+      "rich-moore",
+      "phil-johnston"
+    ],
+    "screenwriterIds": [
+      "pamela-ribon"
+    ],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "john-c-reilly",
+        "character": "ラルフ"
+      },
+      {
+        "actorId": "sarah-silverman",
+        "character": "ヴァネロペ"
+      },
+      {
+        "actorId": "gal-gadot",
+        "character": "シャンク"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "comedy",
+      "family",
+      "sf",
+      "game-world",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 12
+    },
+    "runtime": 112,
+    "originalType": "original",
+    "synopsis": "ヴァネロペのゲーム機の部品が壊れ、ラルフと二人はインターネットの世界へ部品を探しに向かう。動画で稼ぐ方法や、荒っぽいレースゲームの世界に触れるうち、ヴァネロペは新しい居場所に惹かれていく。親友を手放せないラルフの独占欲が、二人の関係を試す。インターネットを都市として視覚化した美術が、この作品の見どころ。",
+    "tmdbId": 404368,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Ralph Breaks the Internet",
+    "seriesId": "wreck-it-ralph"
+  },
+  {
+    "id": "berserk-the-golden-age-arc-iii-the-advent",
+    "title": "ベルセルク 黄金時代篇III 降臨",
+    "titleKana": "べるせるくおうごんじだいへんすりーこうりん",
+    "directorIds": [
+      "toshiyuki-kubooka"
+    ],
+    "screenwriterIds": [
+      "ichiro-okouchi"
+    ],
+    "studioIds": [
+      "beyond-c",
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroaki-iwanaga",
+        "character": "ガッツ"
+      },
+      {
+        "actorId": "toa-yukinari",
+        "character": "キャスカ"
+      },
+      {
+        "actorId": "takahiro-sakurai",
+        "character": "グリフィス"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "human-drama",
+      "fantasy",
+      "war",
+      "horror",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 2
+    },
+    "runtime": 113,
+    "originalType": "manga",
+    "synopsis": "ガッツが去り、グリフィスが囚われて一年。崩壊寸前の鷹の団を率いるキャスカのもとへ、ガッツが戻ってくる。だが救出したグリフィスは声も体も失っていた。絶望の底で彼が手にした赤い珠が、蝕と呼ばれる惨劇を呼び込む。三部作の完結編にあたる。原作屈指の場面を映像化した作品として、強い衝撃を残している。",
+    "tmdbId": 144288,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "berserk"
+  },
+  {
+    "id": "after",
+    "title": "アフター",
+    "titleKana": "あふたー",
+    "directorIds": [
+      "jenny-gage"
+    ],
+    "screenwriterIds": [
+      "susan-mcmartin"
+    ],
+    "studioIds": [
+      "calmaple-films",
+      "wattpad"
+    ],
+    "cast": [
+      {
+        "actorId": "josephine-langford",
+        "character": "テッサ・ヤング"
+      },
+      {
+        "actorId": "hero-fiennes-tiffin",
+        "character": "ハーディン・スコット"
+      },
+      {
+        "actorId": "shane-paul-mcghie",
+        "character": "ランドン・ギブソン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 7
+    },
+    "runtime": 106,
+    "originalType": "novel",
+    "synopsis": "真面目な大学生テッサは、入学早々に危険な雰囲気をまとう青年ハーディンと出会う。反発しながら惹かれ合い、彼女は今まで守ってきた生き方から外れていく。だがその関係の始まりには、彼が仲間と交わした賭けが隠されていた。人気小説を原作とするシリーズ第一作。投稿小説から出発した原作の熱量が、そのまま映画に持ち込まれている。",
+    "tmdbId": 537915,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "After",
+    "seriesId": "after"
+  },
+  {
+    "id": "batman",
+    "title": "バットマン",
+    "titleKana": "ばっとまん",
+    "directorIds": [
+      "tim-burton"
+    ],
+    "screenwriterIds": [
+      "warren-skaaren",
+      "sam-hamm"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "polygram-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "michael-keaton",
+        "character": "バットマン"
+      },
+      {
+        "actorId": "jack-nicholson",
+        "character": "ジョーカー"
+      },
+      {
+        "actorId": "kim-basinger",
+        "character": "ヴィッキー・ベール"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "action",
+      "crime",
+      "hero",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 12
+    },
+    "runtime": 127,
+    "originalType": "manga",
+    "synopsis": "犯罪都市ゴッサムに、コウモリの姿をした自警団が現れる。同じ頃、薬品槽に落ちた男が白い肌と裂けた笑みを持つジョーカーとして生まれ変わる。両者の因縁が過去の事件で結ばれていたことが明らかになる。暗く様式化された美術で、ヒーロー映画の方向を変えた一作。ダニー・エルフマンの楽曲と美術設計が、以後の作品の基準を作った。",
+    "tmdbId": 268,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Batman"
+  },
+  {
+    "id": "a-beautiful-mind",
+    "title": "ビューティフル・マインド",
+    "titleKana": "びゅーてぃふるまいんど",
+    "directorIds": [
+      "ron-howard"
+    ],
+    "screenwriterIds": [
+      "akiva-goldsman"
+    ],
+    "studioIds": [
+      "universal",
+      "dreamworks-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "russell-crowe",
+        "character": "ジョン・ナッシュ"
+      },
+      {
+        "actorId": "jennifer-connelly",
+        "character": "アリシア・ナッシュ"
+      },
+      {
+        "actorId": "ed-harris",
+        "character": "ウィリアム・パーチャー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "true-story",
+      "biography"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 3
+    },
+    "runtime": 135,
+    "originalType": "novel",
+    "synopsis": "プリンストンで頭角を現した数学者ジョン・ナッシュは、画期的な理論を打ち立てる一方、政府の暗号解読という秘密任務に没頭していく。だがその任務も同僚も、彼の精神が生んだ幻だった。統合失調症と生涯向き合った実在の学者と、その妻の支えを描く。アカデミー作品賞受賞作。観客も主人公と同じ錯覚を共有する構成が、大きな効果を上げている。",
+    "tmdbId": 453,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "A Beautiful Mind"
+  },
+  {
+    "id": "sonatine",
+    "title": "ソナチネ",
+    "titleKana": "そなちね",
+    "directorIds": [
+      "takeshi-kitano"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shochiku",
+      "bandai-visual"
+    ],
+    "cast": [
+      {
+        "actorId": "takeshi-kitano",
+        "character": "村川"
+      },
+      {
+        "actorId": "aya-kokumai",
+        "character": "幸"
+      },
+      {
+        "actorId": "tetsu-watanabe",
+        "character": "上地"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "suspense",
+      "human-drama",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 9
+    },
+    "runtime": 94,
+    "originalType": "original",
+    "synopsis": "抗争の助っ人として沖縄へ送られたヤクザの村川は、罠にはめられ仲間を失う。逃れた海辺で、彼らは相撲や花火や罰ゲームに興じる奇妙な休暇を過ごす。死を待つ時間の穏やかさと、唐突に訪れる暴力が交互に置かれる。北野武の作家性を決定づけた一本とされる。青と静寂を基調にした画面が、暴力の唐突さをより際立たせている。",
+    "tmdbId": 7500,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Sonatine"
   }
 ]

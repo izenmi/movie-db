@@ -11230,5 +11230,320 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Collins。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "norio-tsuruta",
+    "name": "鶴田法男",
+    "nameKana": "つるたのりお",
+    "description": "映画監督。『リング０ バースデイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Norio Tsuruta。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andrew-davis",
+    "name": "アンドリュー・デイヴィス",
+    "nameKana": "アンドリューデイヴィス",
+    "description": "映画監督。『逃亡者』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Andrew Davis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-twohy",
+    "name": "デヴィッド・トゥーヒー",
+    "nameKana": "デヴィッドトゥーヒー",
+    "description": "脚本家。『逃亡者』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Twohy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mimi-leder",
+    "name": "ミミ・レダー",
+    "nameKana": "ミミレダー",
+    "description": "映画監督。『ディープ・インパクト』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mimi Leder。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bruce-joel-rubin",
+    "name": "ブルース・ジョエル・ルービン",
+    "nameKana": "ブルースジョエルルービン",
+    "description": "脚本家。『ディープ・インパクト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bruce Joel Rubin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-tolkin",
+    "name": "マイケル・トルキン",
+    "nameKana": "マイケルトルキン",
+    "description": "脚本家。『ディープ・インパクト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Tolkin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rob-reiner",
+    "name": "ロブ・ライナー",
+    "nameKana": "ロブライナー",
+    "description": "映画監督。『スタンド・バイ・ミー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rob Reiner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "raynold-gideon",
+    "name": "レイノルド・ギデオン",
+    "nameKana": "レイノルドギデオン",
+    "description": "脚本家。『スタンド・バイ・ミー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Raynold Gideon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bruce-a-evans",
+    "name": "ブルース・A・エヴァンス",
+    "nameKana": "えゔぁんあるえ",
+    "description": "脚本家。『スタンド・バイ・ミー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bruce A. Evans。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryo-motohira",
+    "name": "本平亮",
+    "nameKana": "もとひらりょう",
+    "description": "脚本家。『クレヨンしんちゃん アクション仮面VSハイグレ魔王』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryo Motohira。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danny-devito",
+    "name": "ダニー・デヴィート",
+    "nameKana": "ダニーデヴィート",
+    "description": "映画監督。『マチルダ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Danny DeVito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nicholas-kazan",
+    "name": "ニコラス・カザン",
+    "nameKana": "ニコラスカザン",
+    "description": "脚本家。『マチルダ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nicholas Kazan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robin-swicord",
+    "name": "ロビン・スウィコード",
+    "nameKana": "ロビンスウィコード",
+    "description": "脚本家。『マチルダ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robin Swicord。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenji-uchida",
+    "name": "内田けんじ",
+    "nameKana": "うちだけんじ",
+    "description": "脚本家。『名探偵コナン 江戸川コナン失踪事件 〜史上最悪の2日間〜』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kenji Uchida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuto-arai",
+    "name": "荒井和人",
+    "nameKana": "あらいかずと",
+    "description": "映画監督・脚本家。『Fate/Grand Order -神聖円卓領域キャメロット-後編 Paladin; Agateram』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuto Arai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-torgove",
+    "name": "マーク・トーゴヴ",
+    "nameKana": "マークトーゴヴ",
+    "description": "脚本家。『ねこのガーフィールド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Torgove。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-a-kaplan",
+    "name": "ポール・A・カプラン",
+    "nameKana": "からんあぱう",
+    "description": "脚本家。『ねこのガーフィールド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul A. Kaplan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tate-taylor",
+    "name": "テイト・テイラー",
+    "nameKana": "テイトテイラー",
+    "description": "映画監督・脚本家。『ヘルプ 〜心がつなぐストーリー〜』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tate Taylor。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yusuke-ishida",
+    "name": "石田雄介",
+    "nameKana": "いしだゆうすけ",
+    "description": "映画監督。『ゾン100～ゾンビになるまでにしたい100のこと～』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yusuke Ishida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "celine-song",
+    "name": "セリーヌ・ソン",
+    "nameKana": "セリーヌソン",
+    "description": "映画監督・脚本家。『マテリアリスト 結婚の条件』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Celine Song。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-ben-garant",
+    "name": "ロバート・ベン・ガラント",
+    "nameKana": "ロバートベンガラント",
+    "description": "脚本家。『ナイト ミュージアム』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Ben Garant。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "thomas-lennon",
+    "name": "トーマス・レノン",
+    "nameKana": "トーマスレノン",
+    "description": "脚本家。『ナイト ミュージアム』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Thomas Lennon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hikaru-yamaguchi",
+    "name": "山口ひかる",
+    "nameKana": "やまぐちひかる",
+    "description": "映画監督。『映画 ギヴン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hikaru Yamaguchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuniko-ayana",
+    "name": "綾奈ゆにこ",
+    "nameKana": "あやなゆにこ",
+    "description": "脚本家。『映画 ギヴン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuniko Ayana。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshiya-shinohara",
+    "name": "篠原俊哉",
+    "nameKana": "しのはらとしや",
+    "description": "映画監督。『犬夜叉 時代を越える想い』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshiya Shinohara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "terri-tatchell",
+    "name": "テリー・タッチェル",
+    "nameKana": "テリータッチェル",
+    "description": "脚本家。『チャッピー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Terri Tatchell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anthony-mccarten",
+    "name": "アンソニー・マッカーテン",
+    "nameKana": "アンソニーマッカーテン",
+    "description": "脚本家。『ボヘミアン・ラプソディ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anthony McCarten。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuhisa-takenouchi",
+    "name": "竹之内和久",
+    "nameKana": "たけのうちかずひさ",
+    "description": "映画監督。『ドラゴンボール 摩訶不思議大冒険』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuhisa Takenouchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-magee",
+    "name": "デヴィッド・マギー",
+    "nameKana": "デヴィッドマギー",
+    "description": "脚本家。『ライフ・オブ・パイ／トラと漂流した227日』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Magee。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tony-kushner",
+    "name": "トニー・クシュナー",
+    "nameKana": "トニークシュナー",
+    "description": "脚本家。『フェイブルマンズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tony Kushner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pamela-ribon",
+    "name": "パメラ・リボン",
+    "nameKana": "パメラリボン",
+    "description": "脚本家。『シュガー・ラッシュ：オンライン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pamela Ribon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jenny-gage",
+    "name": "ジェニー・ゲイジ",
+    "nameKana": "ジェニーゲイジ",
+    "description": "映画監督・脚本家。『アフター』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jenny Gage。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "susan-mcmartin",
+    "name": "スーザン・マクマーティン",
+    "nameKana": "スーザンマクマーティン",
+    "description": "脚本家。『アフター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Susan McMartin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "warren-skaaren",
+    "name": "ウォーレン・スカーレン",
+    "nameKana": "ウォーレンスカーレン",
+    "description": "脚本家。『バットマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Warren Skaaren。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sam-hamm",
+    "name": "サム・ハム",
+    "nameKana": "サムハム",
+    "description": "脚本家。『バットマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sam Hamm。",
+    "updatedAt": "2026-08-09"
   }
 ]
