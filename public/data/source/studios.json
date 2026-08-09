@@ -2801,5 +2801,221 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: RedPeter Films。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cre-film",
+    "name": "クレ・フィルム",
+    "nameKana": "クレフィルム",
+    "description": "映画製作会社。『ANORA アノーラ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cre Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "filmnation-entertainment",
+    "name": "フィルムネーション・エンターテインメント",
+    "nameKana": "フィルムネーションエンターテインメント",
+    "description": "映画製作会社。『ANORA アノーラ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: FilmNation Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "teshigahara-productions",
+    "name": "勅使河原プロダクション",
+    "nameKana": "てしがはらぷろだくしょん",
+    "description": "映画製作会社。『砂の女』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Teshigahara Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "searchlight-pictures",
+    "name": "サーチライト・ピクチャーズ",
+    "nameKana": "サーチライトピクチャーズ",
+    "description": "映画製作会社。『哀れなるものたち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Searchlight Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "film4-productions",
+    "name": "フィルム4プロダクションズ",
+    "nameKana": "ふぃるむふぉーぷろだくしょんず",
+    "description": "映画製作会社。『哀れなるものたち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Film4 Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "slm-production-group",
+    "name": "SLMプロダクション・グループ",
+    "nameKana": "えすえるえむぷろだくしょんぐるーぷ",
+    "description": "映画製作会社。『エイリアン2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SLM Production Group。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "square-enix",
+    "name": "スクウェア・エニックス",
+    "nameKana": "スクウェアエニックス",
+    "description": "映画製作会社。『ファイナルファンタジーVII アドベントチルドレン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Square Enix。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "visual-works",
+    "name": "ヴィジュアルワークス",
+    "nameKana": "びじゅあるわーくす",
+    "description": "映画製作会社。『ファイナルファンタジーVII アドベントチルドレン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Visual Works。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kodansha",
+    "name": "講談社",
+    "nameKana": "こうだんしゃ",
+    "description": "映画製作会社。『進撃の巨人 ATTACK ON TITAN エンド オブ ザ ワールド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kodansha。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gracie-films",
+    "name": "グレイシー・フィルムズ",
+    "nameKana": "グレイシーフィルムズ",
+    "description": "映画製作会社。『ザ・シンプソンズ MOVIE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gracie Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bristol-automotive",
+    "name": "ブリストル・オートモーティブ",
+    "nameKana": "ブリストルオートモーティブ",
+    "description": "映画製作会社。『イミテーション・ゲーム／エニグマと天才数学者の秘密』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bristol Automotive。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "black-bear-pictures",
+    "name": "ブラックベア・ピクチャーズ",
+    "nameKana": "ブラックベアピクチャーズ",
+    "description": "映画製作会社。『イミテーション・ゲーム／エニグマと天才数学者の秘密』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Black Bear Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "icon-productions",
+    "name": "アイコン・プロダクションズ",
+    "nameKana": "アイコンプロダクションズ",
+    "description": "映画製作会社。『パッション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Icon Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "clap",
+    "name": "CLAP",
+    "nameKana": "くらっぷ",
+    "description": "映画製作会社。『夏へのトンネル、さよならの出口』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lonetree-entertainment",
+    "name": "ローンツリー・エンターテインメント",
+    "nameKana": "ローンツリーエンターテインメント",
+    "description": "映画製作会社。『イコライザー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lonetree Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-deen",
+    "name": "スタジオディーン",
+    "nameKana": "スタジオディーン",
+    "description": "映画製作会社。『天使のたまご』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Deen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dynamo-pictures",
+    "name": "ダイナモピクチャーズ",
+    "nameKana": "ダイナモピクチャーズ",
+    "description": "映画製作会社。『ヱヴァンゲリヲン新劇場版：破』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dynamo Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blue-sky-studios",
+    "name": "ブルースカイ・スタジオ",
+    "nameKana": "ブルースカイスタジオ",
+    "description": "映画製作会社。『アイス・エイジ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Blue Sky Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "thunder-road",
+    "name": "サンダーロード・フィルムズ",
+    "nameKana": "サンダーロードフィルムズ",
+    "description": "映画製作会社。『バレリーナ：The World of John Wick』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Thunder Road。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "87eleven",
+    "name": "87イレブン",
+    "nameKana": "はちじゅうななイレブン",
+    "description": "映画製作会社。『バレリーナ：The World of John Wick』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 87Eleven。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "87north-productions",
+    "name": "87ノース・プロダクションズ",
+    "nameKana": "はちじゅうななのーすぷろだくしょんず",
+    "description": "映画製作会社。『ブレット・トレイン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 87North Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "participant",
+    "name": "パーティシパント",
+    "nameKana": "パーティシパント",
+    "description": "映画製作会社。『グリーンブック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Participant。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shamley-productions",
+    "name": "シャムレイ・プロダクションズ",
+    "nameKana": "シャムレイプロダクションズ",
+    "description": "映画製作会社。『サイコ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shamley Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adk",
+    "name": "ADK",
+    "nameKana": "えーでぃーけー",
+    "description": "映画製作会社。『映画ドラえもん のび太の恐竜2006』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

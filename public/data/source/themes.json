@@ -276,5 +276,9 @@
   {
     "id": "christmas",
     "name": "クリスマス"
+  },
+  {
+    "id": "game-world",
+    "name": "ゲームの世界"
   }
 ]
