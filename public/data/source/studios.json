@@ -9844,5 +9844,131 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ishimori Production。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seed-productions",
+    "name": "シード・プロダクションズ",
+    "nameKana": "シードプロダクションズ",
+    "description": "映画製作会社。『ウルヴァリン：X-MEN ZERO』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seed Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ultra-super-pictures",
+    "name": "ウルトラスーパーピクチャーズ",
+    "nameKana": "うるとらすーぱーぴくちゃーず",
+    "description": "映画製作会社。『新劇場版「頭文字D」Legend1 -覚醒-』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ultra Super Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "culture-publishers",
+    "name": "カルチュア・パブリッシャーズ",
+    "nameKana": "カルチュアパブリッシャーズ",
+    "description": "映画製作会社。『劇場版 美しい彼〜eternal〜』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Culture Publishers。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "far-east-laboratory",
+    "name": "極東現像所",
+    "nameKana": "きょくとうげんぞうしょ",
+    "description": "映画製作会社。『空の大怪獸 ラドン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Far East Laboratory。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "visual-arts-key",
+    "name": "ビジュアルアーツ",
+    "nameKana": "びじゅあるあーつ",
+    "description": "映画製作会社。『CLANNAD -クラナド-』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: VISUAL ARTS/Key。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "katsu-production",
+    "name": "勝プロダクション",
+    "nameKana": "かつぷろだくしょん",
+    "description": "映画製作会社。『子連れ狼 親の心子の心』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Katsu Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ascension",
+    "name": "アセンション",
+    "nameKana": "あせんしょん",
+    "description": "映画製作会社。『カラフル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ascension。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stardust-pictures",
+    "name": "スターダストピクチャーズ",
+    "nameKana": "すたーだすとぴくちゃーず",
+    "description": "映画製作会社。『映画 賭󠄀ケグルイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stardust Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-kajino",
+    "name": "スタジオカジノ",
+    "nameKana": "すたじおかじの",
+    "description": "映画製作会社。『式日』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Kajino。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "qualia-animation",
+    "name": "クオリアアニメーション",
+    "nameKana": "くおりああにめーしょん",
+    "description": "映画製作会社。『ずっと前から好きでした。～告白実行委員会～』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Qualia Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "group-tac",
+    "name": "グループ・タック",
+    "nameKana": "ぐるーぷたっく",
+    "description": "映画製作会社。『ストリートファイター II MOVIE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Group TAC。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kadokawa-daiei-studio",
+    "name": "KADOKAWA大映スタジオ",
+    "nameKana": "かどかわだいえいすたじお",
+    "description": "映画製作会社。『東京リベンジャーズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: KADOKAWA Daiei Studio。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pioneer-ldc",
+    "name": "パイオニアLDC",
+    "nameKana": "ぱいおにあえるでぃーしー",
+    "description": "映画製作会社。『アミテージ・ザ・サード DUAL-MATRIX』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pioneer LDC。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lay-duce",
+    "name": "レイデュース",
+    "nameKana": "れいでゅーす",
+    "description": "映画製作会社。『Fate/Grand Order -First Order-』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lay-duce。",
+    "updatedAt": "2026-08-09"
   }
 ]

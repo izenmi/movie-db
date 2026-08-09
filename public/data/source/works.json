@@ -90988,5 +90988,1945 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "009ノ1（ゼロゼロクノイチ） THE END OF THE BEGINNING"
+  },
+  {
+    "id": "x-men-origins-wolverine",
+    "title": "ウルヴァリン X-MEN ZERO",
+    "titleKana": "うるゔぁりんえっくすめんぜろ",
+    "directorIds": [
+      "gavin-hood"
+    ],
+    "screenwriterIds": [
+      "david-benioff",
+      "skip-woods"
+    ],
+    "studioIds": [
+      "the-donners-company",
+      "seed-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "hugh-jackman",
+        "character": "ローガン"
+      },
+      {
+        "actorId": "liev-schreiber",
+        "character": "ビクター・クリード"
+      },
+      {
+        "actorId": "danny-huston",
+        "character": "ストライカー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "sf",
+      "hero",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 9
+    },
+    "runtime": 108,
+    "originalType": "manga",
+    "synopsis": "不死身の肉体を持つローガンと兄ビクターが、幾多の戦争を渡り歩いてきた。人として生きようとしたローガンから、ビクターは恋人を奪う。復讐のため、彼は骨格に金属を埋め込む実験を受け入れる。ウルヴァリンの起源を描いた外伝にあたる作品となっている。ヒュー・ジャックマンが自ら企画に関わった作品としても知られる。",
+    "tmdbId": 2080,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "X-Men Origins: Wolverine",
+    "seriesId": "x-men"
+  },
+  {
+    "id": "the-legend-butterfly",
+    "title": "レジェンド&バタフライ",
+    "titleKana": "れじぇんどあんどばたふらい",
+    "directorIds": [
+      "keishi-otomo"
+    ],
+    "screenwriterIds": [
+      "ryota-kosawa"
+    ],
+    "studioIds": [
+      "toei-company",
+      "j-storm"
+    ],
+    "cast": [
+      {
+        "actorId": "takuya-kimura",
+        "character": "織田信長"
+      },
+      {
+        "actorId": "haruka-ayase",
+        "character": "濃姫"
+      },
+      {
+        "actorId": "hideaki-ito",
+        "character": "福住平太郎"
+      }
+    ],
+    "themeIds": [
+      "history",
+      "human-drama",
+      "romance",
+      "jidaigeki"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 1
+    },
+    "runtime": 168,
+    "originalType": "original",
+    "synopsis": "大うつけと呼ばれた織田信長のもとへ、美濃から濃姫が嫁いでくる。互いに反発しながら、二人は次第に対等な相棒として結びついていく。天下統一へ突き進む信長を、濃姫だけが正面から諫める。東映七十周年記念作として作られた作品にあたる。衣装と合戦場面に大規模な予算が投じられた作品にあたる。木村拓哉と綾瀬はるかの共演も話題となった。",
+    "tmdbId": 990365,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-third-murder",
+    "title": "三度目の殺人",
+    "titleKana": "さんどめのさつじん",
+    "directorIds": [
+      "hirokazu-koreeda"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "fuji-television-network",
+      "amuse"
+    ],
+    "cast": [
+      {
+        "actorId": "masaharu-fukuyama",
+        "character": "重盛朋章"
+      },
+      {
+        "actorId": "koji-yakusho",
+        "character": "三隅高司"
+      },
+      {
+        "actorId": "suzu-hirose",
+        "character": "山中咲江"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "crime",
+      "courtroom"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 9
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "前科のある三隅が、解雇された工場の社長を殺したとして逮捕される。自供したはずの彼は、面会のたびに供述を変えていく。弁護士の重盛は、真実そのものが揺らぐ感覚に囚われる。是枝裕和監督が初めて法廷を舞台にした作品にあたる。真実にたどり着けないことを主題に据えた点が、この作品の核となる。役所広司の演技も高く評価された。",
+    "tmdbId": 434775,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "inuyasha-the-movie-3-swords-of-an-honorable-ruler",
+    "title": "犬夜叉 天下覇道の剣",
+    "titleKana": "いぬやしゃてんかはどうのつるぎ",
+    "directorIds": [
+      "toshiya-shinohara"
+    ],
+    "screenwriterIds": [
+      "katsuyuki-sumisawa"
+    ],
+    "studioIds": [
+      "sunrise"
+    ],
+    "cast": [
+      {
+        "actorId": "kappei-yamaguchi",
+        "character": "犬夜叉"
+      },
+      {
+        "actorId": "satsuki-yukino",
+        "character": "日暮かごめ"
+      },
+      {
+        "actorId": "koji-tsujitani",
+        "character": "弥勒"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "action"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2003,
+      "month": 12
+    },
+    "runtime": 99,
+    "originalType": "manga",
+    "synopsis": "犬夜叉の父が遺した三本目の刀、叢雲牙が現代で目覚める。それを手にした半妖の刹那猛丸が、犬夜叉と殺生丸の前に立ちはだかる。兄弟は反目しながらも、同じ敵と向き合うことになる。劇場版第三作にあたる作品となっている。三本の刀が揃う構成が、この作品の見どころとなっている。父の物語にも触れられている。",
+    "tmdbId": 34295,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "映画犬夜叉 天下覇道の剣",
+    "seriesId": "inuyasha"
+  },
+  {
+    "id": "initial-d-legend-1-awakening",
+    "title": "新劇場版「頭文字D」Legend1 覚醒",
+    "titleKana": "しんげきじょうばんいにしゃるでぃーれじぇんどいちかくせい",
+    "directorIds": [
+      "masamitsu-hidaka"
+    ],
+    "screenwriterIds": [
+      "mayori-sekijima"
+    ],
+    "studioIds": [
+      "ultra-super-pictures",
+      "avex-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "mamoru-miyano",
+        "character": "藤原拓海"
+      },
+      {
+        "actorId": "yuichi-nakamura",
+        "character": "高橋啓介"
+      },
+      {
+        "actorId": "daisuke-ono",
+        "character": "高橋涼介"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "racing",
+      "youth",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 8
+    },
+    "runtime": 62,
+    "originalType": "manga",
+    "synopsis": "豆腐屋の配達で峠を走り続けてきた高校生、藤原拓海。本人に自覚がないまま、その走りは走り屋たちの間で噂になっていた。高橋啓介との勝負が、彼の意識を変えはじめる。原作を新たに映像化した三部作の第一作にあたる。三次元の作画で走行描写を一新した点が、この企画の特色となっている。峠の下りの表現に力が注がれている。",
+    "tmdbId": 271709,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "initial-d"
+  },
+  {
+    "id": "my-beautiful-man-eternal",
+    "title": "劇場版 美しい彼 eternal",
+    "titleKana": "げきじょうばんうつくしいかれえたーなる",
+    "directorIds": [
+      "mai-sakai"
+    ],
+    "screenwriterIds": [
+      "fumi-tsubota"
+    ],
+    "studioIds": [
+      "culture-publishers"
+    ],
+    "cast": [
+      {
+        "actorId": "riku-hagiwara",
+        "character": "平良一成"
+      },
+      {
+        "actorId": "yusei-yagi",
+        "character": "清居奏"
+      },
+      {
+        "actorId": "nimura-sawa",
+        "character": "アンナ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 4
+    },
+    "runtime": 103,
+    "originalType": "novel",
+    "synopsis": "高校時代から続く平良と清居の関係が、それぞれの仕事を通じて変化していく。役者として売れはじめた清居と、撮る側に回った平良の距離が広がる。歪んだ執着のまま、平良は言葉を探し続ける。人気ドラマの完結編として作られた作品にあたる。抑えた演出と長回しが、二人の関係の変化を丁寧に追っている。",
+    "tmdbId": 1064662,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rodan",
+    "title": "空の大怪獣 ラドン",
+    "titleKana": "そらのだいかいじゅうらどん",
+    "directorIds": [
+      "ishiro-honda"
+    ],
+    "screenwriterIds": [
+      "takeo-murata",
+      "takeshi-kimura"
+    ],
+    "studioIds": [
+      "toho",
+      "far-east-laboratory"
+    ],
+    "cast": [
+      {
+        "actorId": "kenji-sahara",
+        "character": "河村繁"
+      },
+      {
+        "actorId": "yumi-shirakawa",
+        "character": "キヨ"
+      },
+      {
+        "actorId": "akihiko-hirata",
+        "character": "柏木博士"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "kaiju"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1956,
+      "month": 12
+    },
+    "runtime": 82,
+    "originalType": "original",
+    "synopsis": "阿蘇の炭鉱で、巨大な昆虫による犠牲者が相次ぐ。調査を進めた河村は、その天敵にあたる巨大な翼竜ラドンを目撃する。音速を超える飛行が起こす衝撃波が、都市を次々と破壊していく。東宝初の総天然色による怪獣映画にあたる作品となっている。編隊で飛ぶ翼竜と、火口での結末が強い印象を残している。",
+    "tmdbId": 19742,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "home-alone",
+    "title": "ホーム・アローン",
+    "titleKana": "ほーむあろーん",
+    "directorIds": [
+      "chris-columbus"
+    ],
+    "screenwriterIds": [
+      "john-hughes"
+    ],
+    "studioIds": [
+      "hughes-entertainment",
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "macaulay-culkin",
+        "character": "ケビン"
+      },
+      {
+        "actorId": "joe-pesci",
+        "character": "ハリー"
+      },
+      {
+        "actorId": "daniel-stern",
+        "character": "マーヴ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "christmas"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1991,
+      "month": 6
+    },
+    "runtime": 102,
+    "originalType": "original",
+    "synopsis": "クリスマス休暇の出発時、八歳のケビンだけが家に置き去りにされる。自由を満喫していた彼は、家を狙う二人組の泥棒に気づく。家中に仕掛けた罠で、彼は必死に家を守り抜く。世界的な大ヒットとなり、家庭向け喜劇の代表作となった作品にあたる。軽快な楽曲と、罠の場面の作り込みが今も愛され続けている。",
+    "tmdbId": 771,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Home Alone",
+    "seriesId": "home-alone"
+  },
+  {
+    "id": "made-in-abyss-journeys-dawn",
+    "title": "劇場版総集編 前編 メイドインアビス 旅立ちの夜明け",
+    "titleKana": "げきじょうばんそうしゅうへんめいどいんあびすたびだちのよあけ",
+    "directorIds": [
+      "masayuki-kojima"
+    ],
+    "screenwriterIds": [
+      "hideyuki-kurata"
+    ],
+    "studioIds": [
+      "kinema-citrus"
+    ],
+    "cast": [
+      {
+        "actorId": "miyu-tomita",
+        "character": "リコ"
+      },
+      {
+        "actorId": "mariya-ise",
+        "character": "レグ"
+      },
+      {
+        "actorId": "taishi-murata",
+        "character": "ジルオ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "mystery",
+      "fantasy",
+      "sf"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 1
+    },
+    "runtime": 119,
+    "originalType": "manga",
+    "synopsis": "巨大な縦穴アビスの縁の街で、少女リコが探窟家を目指している。機械の少年レグと出会った彼女は、母を追ってアビスの底へ降りることを決める。降りるほどに戻れなくなる呪いが、二人を待ち受ける。テレビ第一期の前半を再構成した総集編にあたる。美しい風景と過酷な描写の落差が、この作品の特徴となっている。",
+    "tmdbId": 526426,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "made-in-abyss"
+  },
+  {
+    "id": "eden-of-the-east-movie-ii-paradise-lost",
+    "title": "東のエデン 劇場版II Paradise Lost",
+    "titleKana": "ひがしのえでんげきじょうばんにぱらだいすろすと",
+    "directorIds": [
+      "kenji-kamiyama"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "production-i-g"
+    ],
+    "cast": [
+      {
+        "actorId": "ryohei-kimura",
+        "character": "滝沢朗"
+      },
+      {
+        "actorId": "saori-hayami",
+        "character": "森美咲"
+      },
+      {
+        "actorId": "sakiko-tamagawa",
+        "character": "ジュイス"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "sf",
+      "action",
+      "politics"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 3
+    },
+    "runtime": 93,
+    "originalType": "original",
+    "synopsis": "ニューヨークで再会した滝沢は、総理大臣の私生児という新たな経歴を与えられていた。日本へ戻った彼と咲は、ゲームの主催者に迫っていく。誰が何のために国を救おうとしたのかが明かされる。二部構成の完結編にあたる作品となっている。社会的な問いを残したまま幕を閉じる構成をとる作品にあたる。",
+    "tmdbId": 44734,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "eden-of-the-east"
+  },
+  {
+    "id": "x-men-first-class",
+    "title": "X-MEN ファースト・ジェネレーション",
+    "titleKana": "えっくすめんふぁーすとじぇねれーしょん",
+    "directorIds": [
+      "matthew-vaughn"
+    ],
+    "screenwriterIds": [
+      "zack-stentz"
+    ],
+    "studioIds": [
+      "the-donners-company",
+      "bad-hat-harry-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "james-mcavoy",
+        "character": "チャールズ・エグゼビア"
+      },
+      {
+        "actorId": "michael-fassbender",
+        "character": "エリック・レーンシャー"
+      },
+      {
+        "actorId": "jennifer-lawrence",
+        "character": "レイヴン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure",
+      "hero",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 6
+    },
+    "runtime": 131,
+    "originalType": "manga",
+    "synopsis": "一九六〇年代、思考を読むチャールズと金属を操るエリックが出会う。共存を望む者と報復を望む者が、友情を結びながらも根本で対立する。キューバ危機を背景に、両者の道は決定的に分かれる。シリーズの前日譚として作られた作品にあたる。時代設定を生かした美術と、二人の関係の描写が高く評価された。",
+    "tmdbId": 49538,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "X-Men: First Class",
+    "seriesId": "x-men"
+  },
+  {
+    "id": "clannad-the-motion-picture",
+    "title": "CLANNAD クラナド",
+    "titleKana": "くらなど",
+    "directorIds": [
+      "osamu-dezaki"
+    ],
+    "screenwriterIds": [
+      "makoto-nakamura"
+    ],
+    "studioIds": [
+      "visual-arts-key",
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "kenji-nojima",
+        "character": "岡崎朋也"
+      },
+      {
+        "actorId": "mai-nakahara",
+        "character": "古河渚"
+      },
+      {
+        "actorId": "ryotaro-okiayu",
+        "character": "古河秋生"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "school",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2007,
+      "month": 9
+    },
+    "runtime": 94,
+    "originalType": "game",
+    "synopsis": "居場所を持てない不良少年の岡崎朋也が、坂の下で立ち尽くす少女渚と出会う。演劇部の再興を目指す彼女を、彼は半ば成り行きで手伝いはじめる。互いの家庭の事情が、二人の関係を深めていく。人気ゲームを出﨑統監督が独自の解釈で映像化した作品にあたる。原作とは異なる筋書きで、監督特有の様式が全編に出ている。",
+    "tmdbId": 16516,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lone-wolf-and-cub-baby-cart-in-peril",
+    "title": "子連れ狼 親の心子の心",
+    "titleKana": "こづれおおかみおやのこころこのこころ",
+    "directorIds": [
+      "buichi-saito"
+    ],
+    "screenwriterIds": [
+      "kazuo-koike"
+    ],
+    "studioIds": [
+      "toho",
+      "katsu-production"
+    ],
+    "cast": [
+      {
+        "actorId": "tomisaburo-wakayama",
+        "character": "拝一刀"
+      },
+      {
+        "actorId": "yoichi-hayashi",
+        "character": "柳生軍兵衛"
+      },
+      {
+        "actorId": "michi-azuma",
+        "character": "おゆき"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "suspense",
+      "jidaigeki",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1972,
+      "month": 12
+    },
+    "runtime": 81,
+    "originalType": "manga",
+    "synopsis": "刺客として生きる拝一刀が、大五郎を乳母車に乗せて旅を続ける。彼は背中に彫物をした女剣士の始末を依頼される。同じ頃、宿敵である柳生の追手が親子に迫っていた。シリーズ第四作にあたる作品となっている。殺陣の物量と血の描写が、シリーズの持ち味となっている。若山富三郎の存在感が全編を支えている。海外での再評価も進んだ一本にあたる。",
+    "tmdbId": 41477,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "lone-wolf-and-cub"
+  },
+  {
+    "id": "be-with-you",
+    "title": "いま、会いにゆきます",
+    "titleKana": "いまあいにゆきます",
+    "directorIds": [
+      "nobuhiro-doi"
+    ],
+    "screenwriterIds": [
+      "yoshikazu-okada"
+    ],
+    "studioIds": [
+      "toho-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "yuko-takeuchi",
+        "character": "秋穂澪"
+      },
+      {
+        "actorId": "shido-nakamura",
+        "character": "秋穂巧"
+      },
+      {
+        "actorId": "akashi-takei",
+        "character": "佑司"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "romance",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 10
+    },
+    "runtime": 119,
+    "originalType": "novel",
+    "synopsis": "妻を亡くした巧が、幼い息子と二人で暮らしている。梅雨の季節、森で亡くなったはずの澪と再会する。記憶を失った彼女と過ごす六週間が、家族に贈られた時間となる。ベストセラー小説の映画化として大きな成功を収めた作品にあたる。限られた時間という設定が、日常の描写を一層際立たせている。",
+    "tmdbId": 36092,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "colorful",
+    "title": "カラフル",
+    "titleKana": "からふる",
+    "directorIds": [
+      "keiichi-hara"
+    ],
+    "screenwriterIds": [
+      "miho-maruo"
+    ],
+    "studioIds": [
+      "sunrise",
+      "ascension"
+    ],
+    "cast": [
+      {
+        "actorId": "kazato-tomizawa",
+        "character": "小林真"
+      },
+      {
+        "actorId": "akina-minami",
+        "character": "桑原ひろか"
+      },
+      {
+        "actorId": "aoi-miyazaki",
+        "character": "佐野唱子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "fantasy",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 8
+    },
+    "runtime": 127,
+    "originalType": "novel",
+    "synopsis": "死んだはずの「僕」が、抽選に当たったとして中学生の体に入る。自殺した小林真として生き直すうち、家族の事情や学校での立場が見えてくる。前の自分が犯した罪を思い出すことが、条件とされていた。原恵一監督が現代の中学生を描いた作品にあたる。再生の物語を、思春期の閉塞感とともに描いた作品にあたる。",
+    "tmdbId": 64246,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kakegurui-the-movie",
+    "title": "映画 賭ケグルイ",
+    "titleKana": "えいがかけぐるい",
+    "directorIds": [
+      "tsutomu-hanabusa"
+    ],
+    "screenwriterIds": [
+      "minato-takano"
+    ],
+    "studioIds": [
+      "dub",
+      "stardust-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "minami-hamabe",
+        "character": "蛇喰夢子"
+      },
+      {
+        "actorId": "mahiro-takasugi",
+        "character": "鈴井涼太"
+      },
+      {
+        "actorId": "aoi-morikawa",
+        "character": "早乙女芽亜里"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "suspense",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 5
+    },
+    "runtime": 120,
+    "originalType": "manga",
+    "synopsis": "賭博の勝敗で階級が決まる私立百花王学園に、蛇喰夢子が転入する。危険を冒すほど喜びを得る彼女は、学園を支配する生徒会に挑む。新たに現れた組織が、学園の秩序そのものを揺さぶる。人気ドラマの劇場版にあたる作品となっている。派手な演出と浜辺美波の怪演が、この作品の魅力となっている。",
+    "tmdbId": 564251,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "escaflowne-the-movie",
+    "title": "エスカフローネ",
+    "titleKana": "えすかふろーね",
+    "directorIds": [
+      "kazuki-akane"
+    ],
+    "screenwriterIds": [
+      "ryota-yamaguchi"
+    ],
+    "studioIds": [
+      "bandai-visual",
+      "sunrise"
+    ],
+    "cast": [
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "神崎ひとみ"
+      },
+      {
+        "actorId": "tomokazu-seki",
+        "character": "ヴァン"
+      },
+      {
+        "actorId": "mayumi-izuka",
+        "character": "ユカリ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "human-drama",
+      "fantasy",
+      "isekai"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2000,
+      "month": 6
+    },
+    "runtime": 98,
+    "originalType": "original",
+    "synopsis": "生きる意欲を失った女子高生ひとみが、異世界ガイアへ召喚される。そこでは黒竜族が率いる軍勢が、大地を蹂躙していた。伝説の機体エスカフローネを目覚めさせる鍵が、彼女に託される。テレビシリーズを別の物語として作り直した劇場版にあたる。重厚な美術と楽曲が、テレビ版とは異なる印象を作り上げている。",
+    "tmdbId": 16990,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ritual",
+    "title": "式日",
+    "titleKana": "しきじつ",
+    "directorIds": [
+      "hideaki-anno"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "tokuma-shoten",
+      "studio-kajino"
+    ],
+    "cast": [
+      {
+        "actorId": "shunji-iwai",
+        "character": "カントク"
+      },
+      {
+        "actorId": "ayako-fujitani",
+        "character": "彼女"
+      },
+      {
+        "actorId": "jun-murakami",
+        "character": "自転車の男"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 12
+    },
+    "runtime": 128,
+    "originalType": "novel",
+    "synopsis": "創作に行き詰まった映画監督が、故郷の街で不思議な女性と出会う。彼女は毎日「明日は私の誕生日」と繰り返し、線路を歩いている。彼は彼女を撮ることで、少しずつ心の在り処に近づいていく。庵野秀明監督が藤谷文子の小説を実写化した作品にあたる。色彩と構図の実験性が強く、監督の作風がよく表れた一本にあたる。",
+    "tmdbId": 39056,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ive-always-liked-you",
+    "title": "ずっと前から好きでした。 告白実行委員会",
+    "titleKana": "ずっとまえからすきでした",
+    "directorIds": [
+      "tetsuya-yanagisawa"
+    ],
+    "screenwriterIds": [
+      "yoshimi-narita"
+    ],
+    "studioIds": [
+      "qualia-animation",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "aki-toyosaki",
+        "character": "会田未尾"
+      },
+      {
+        "actorId": "haruka-tomatsu",
+        "character": "榎本夏樹"
+      },
+      {
+        "actorId": "kana-asumi",
+        "character": "早坂あかり"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "school",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 4
+    },
+    "runtime": 64,
+    "originalType": "other",
+    "synopsis": "幼なじみの優に告白した夏樹が、恥ずかしさから練習だと嘘をついてしまう。真に受けた優は、練習台として付き合うようになる。それぞれの片思いが、同じ学校で複雑に交錯していく。人気楽曲群を原作にした劇場アニメにあたる。すれ違いの連鎖を軽快に描き、同時上映の作品と対をなしている。",
+    "tmdbId": 374853,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blue-exorcist-the-movie",
+    "title": "青の祓魔師 劇場版",
+    "titleKana": "あおのえくそしすとげきじょうばん",
+    "directorIds": [
+      "atsushi-takahashi"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "a-1-pictures",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "jun-fukuyama",
+        "character": "奥村雪男"
+      },
+      {
+        "actorId": "kana-hanazawa",
+        "character": "杜山しえみ"
+      },
+      {
+        "actorId": "kazuya-nakai",
+        "character": "勝呂竜士"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "mystery",
+      "horror",
+      "action",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2012,
+      "month": 12
+    },
+    "runtime": 90,
+    "originalType": "manga",
+    "synopsis": "十一年に一度の祭りを控えた町で、燐が誤って封印を破ってしまう。現れた幼い悪魔は、彼になつくように付いてくる。責任を取るため、燐は仲間と祭りの準備に加わる。テレビシリーズの合間を描く完全新作にあたる。祭りを背景にした温かな物語で、独立した一本として楽しめる作りとなっている。作画の水準も高く評価された。",
+    "tmdbId": 201223,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-wonderful-world-of-puss-n-boots",
+    "title": "長靴をはいた猫",
+    "titleKana": "ながぐつをはいたねこ",
+    "directorIds": [
+      "kimio-yabuki"
+    ],
+    "screenwriterIds": [
+      "hisashi-inoue",
+      "morihisa-yamamoto"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "susumu-ishikawa",
+        "character": "ペロ"
+      },
+      {
+        "actorId": "toshiko-fujita",
+        "character": "ピエール"
+      },
+      {
+        "actorId": "rumi-sakakibara",
+        "character": "ローザ姫"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "action",
+      "adventure",
+      "comedy",
+      "animal"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1969,
+      "month": 3
+    },
+    "runtime": 83,
+    "originalType": "novel",
+    "synopsis": "仲間はずれにされた猫のペロと、遺産を奪われた少年ピエールが道連れになる。二人は姫との結婚を目指し、王宮へ乗り込む計画を立てる。だが魔王ルシファが、同じ姫を狙っていた。東映動画の代表作の一つで、社章の意匠にもなっている作品にあたる。塔での追跡場面が、後の作品にも影響を与えたとされる。",
+    "tmdbId": 58704,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mobile-suit-gundam-the-origin-v-clash-at-loum",
+    "title": "機動戦士ガンダム THE ORIGIN V 激突 ルウム会戦",
+    "titleKana": "きどうせんしがんだむじおりじんごげきとつるうむかいせん",
+    "directorIds": [
+      "yoshikazu-yasuhiko",
+      "takashi-imanishi"
+    ],
+    "screenwriterIds": [
+      "katsuyuki-sumisawa"
+    ],
+    "studioIds": [
+      "sunrise"
+    ],
+    "cast": [
+      {
+        "actorId": "shuichi-ikeda",
+        "character": "シャア・アズナブル"
+      },
+      {
+        "actorId": "megumi-han",
+        "character": "セイラ・マス"
+      },
+      {
+        "actorId": "toru-furuya",
+        "character": "アムロ・レイ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "war",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2017,
+      "month": 9
+    },
+    "runtime": 84,
+    "originalType": "manga",
+    "synopsis": "コロニー落としで人口の半数が失われ、両陣営の全面衝突が迫る。ジオンはモビルスーツを実戦投入し、連邦の大艦隊に挑む。ザビ家の内部の思惑も、同時に動きはじめる。全六話の連作の第五話にあたる作品となっている。モビルスーツの初陣を大規模に描いた点が、この作品の見どころとなる。宇宙戦の作画も充実している。",
+    "tmdbId": 428862,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "gundam-the-origin"
+  },
+  {
+    "id": "roaring-fire",
+    "title": "吼えろ鉄拳",
+    "titleKana": "ほえろてっけん",
+    "directorIds": [
+      "norifumi-suzuki"
+    ],
+    "screenwriterIds": [
+      "shinsuke-inoue"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroyuki-sanada",
+        "character": "日野原譲次"
+      },
+      {
+        "actorId": "sonny-chiba",
+        "character": "ミスター・マジック"
+      },
+      {
+        "actorId": "etsuko-shihomi",
+        "character": "千尋"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "human-drama",
+      "comedy",
+      "martial-arts",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1981,
+      "month": 8
+    },
+    "runtime": 95,
+    "originalType": "original",
+    "synopsis": "米国帰りの空手家が、殺された両親と兄の仇を討つため帰国する。標的は、財閥を率いる叔父とその背後の組織だった。香港と神戸を舞台に、体を張った立ち回りが続く。真田広之の初期の主演作にあたる作品となっている。実際に危険を伴う撮影が多く、当時の東映の技術が投じられている。千葉真一も出演している。",
+    "tmdbId": 64563,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "street-fighter-ii-the-animated-movie",
+    "title": "ストリートファイターII MOVIE",
+    "titleKana": "すとりーとふぁいたーつーむーびー",
+    "directorIds": [
+      "gisaburo-sugii"
+    ],
+    "screenwriterIds": [
+      "kenichi-imai"
+    ],
+    "studioIds": [
+      "group-tac",
+      "capcom"
+    ],
+    "cast": [
+      {
+        "actorId": "koujiro-shimizu",
+        "character": "リュウ"
+      },
+      {
+        "actorId": "kenji-haga",
+        "character": "ケン・マスターズ"
+      },
+      {
+        "actorId": "miki-fujitani",
+        "character": "春麗"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "martial-arts",
+      "game-world"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1994,
+      "month": 8
+    },
+    "runtime": 102,
+    "originalType": "game",
+    "synopsis": "世界各地でテロを起こす組織シャドルーを、国際刑事機構が追う。総帥ベガは、最強の格闘家リュウを手駒にしようと画策していた。各国の格闘家たちが、それぞれの理由で同じ舞台に集まる。人気格闘ゲームを長編アニメ化した作品にあたる。戦闘場面の作画に力が注がれ、格闘ゲームの映像化として評価が高い。",
+    "tmdbId": 12613,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doraemon-the-record-of-nobita-spaceblazer",
+    "title": "映画ドラえもん のび太の宇宙開拓史",
+    "titleKana": "えいがどらえもんのびたのうちゅうかいたくし",
+    "directorIds": [
+      "hideo-nishimaki"
+    ],
+    "screenwriterIds": [
+      "fujiko-f-fujio"
+    ],
+    "studioIds": [
+      "shin-ei-animation",
+      "shogakukan"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuyo-oyama",
+        "character": "ドラえもん"
+      },
+      {
+        "actorId": "noriko-ohara",
+        "character": "野比のび太"
+      },
+      {
+        "actorId": "michiko-nomura",
+        "character": "源静香"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "sf",
+      "fantasy",
+      "space"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1981,
+      "month": 3
+    },
+    "runtime": 91,
+    "originalType": "manga",
+    "synopsis": "部屋の畳の下が、遠い星の宇宙船とつながってしまう。重力の違いで怪力を得たのび太は、コーヤコーヤ星で英雄になる。だが星の資源を狙う企業が、住民に立ち退きを迫っていた。大長編シリーズの第二作にあたる作品となっている。西部劇の意匠を取り入れた作りで、シリーズ初期の人気作とされる。",
+    "tmdbId": 162103,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "doraemon"
+  },
+  {
+    "id": "pretty-guardian-sailor-moon-eternal-the-movie-part-2",
+    "title": "劇場版 美少女戦士セーラームーンEternal 後編",
+    "titleKana": "げきじょうばんびしょうじょせんしせーらーむーんえたーなるこうへん",
+    "directorIds": [
+      "chiaki-kon"
+    ],
+    "screenwriterIds": [
+      "kazuyuki-fudeyasu"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "kotono-mitsuishi",
+        "character": "月野うさぎ"
+      },
+      {
+        "actorId": "misato-fukuen",
+        "character": "ちびうさ"
+      },
+      {
+        "actorId": "hisako-kanemoto",
+        "character": "水野亜美"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "human-drama",
+      "magic",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 2
+    },
+    "runtime": 80,
+    "originalType": "manga",
+    "synopsis": "地球を覆う悪夢の力に対し、十人の戦士が集結する。デッド・ムーンの首領は、幻の銀水晶と地球の支配を狙っていた。うさぎとちびうさは、それぞれの立場で最後の戦いに臨む。原作の一章を二部構成で映像化した後編にあたる。戦士全員が揃う構成で、原作の読者に歓迎された作品にあたる。",
+    "tmdbId": 784500,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "sailor-moon"
+  },
+  {
+    "id": "gamera-3-revenge-of-iris",
+    "title": "ガメラ3 邪神 イリス 覚醒",
+    "titleKana": "がめらすりーじゃしんいりすかくせい",
+    "directorIds": [
+      "shusuke-kaneko"
+    ],
+    "screenwriterIds": [
+      "kazunori-ito"
+    ],
+    "studioIds": [
+      "daiei-film"
+    ],
+    "cast": [
+      {
+        "actorId": "ai-maeda",
+        "character": "比良坂綾奈"
+      },
+      {
+        "actorId": "shinobu-nakayama",
+        "character": "長峰真弓"
+      },
+      {
+        "actorId": "aki-maeda",
+        "character": "幼少期の綾奈"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "sf",
+      "horror",
+      "kaiju",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "ギャオスが世界各地に現れ、渋谷での戦闘で街が壊滅する。両親をその戦いで失った少女綾奈は、ガメラを激しく憎んでいた。彼女の憎悪が、封じられていた邪神イリスを目覚めさせる。平成三部作の完結編にあたる作品となっている。渋谷の壊滅場面と、救う側の暴力性を問う視点が高く評価されている。",
+    "tmdbId": 60159,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "gamera-heisei"
+  },
+  {
+    "id": "azumi-2-death-or-love",
+    "title": "あずみ2 Death or Love",
+    "titleKana": "あずみつーですおあらぶ",
+    "directorIds": [
+      "shusuke-kaneko"
+    ],
+    "screenwriterIds": [
+      "mataichiro-yamamoto",
+      "yoshiaki-kawajiri"
+    ],
+    "studioIds": [
+      "nippon-herald-films",
+      "tbs"
+    ],
+    "cast": [
+      {
+        "actorId": "aya-ueto",
+        "character": "あずみ"
+      },
+      {
+        "actorId": "yuma-ishigaki",
+        "character": "ナガラ"
+      },
+      {
+        "actorId": "chiaki-kuriyama",
+        "character": "こずえ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "jidaigeki",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "manga",
+    "synopsis": "残された標的を追い、あずみが仲間とともに旅を続けている。道中で出会った青年ナガラは、亡き幼なじみと瓜二つだった。人を斬る役目と、人を思う気持ちの間で彼女は揺れる。前作に続く実写化第二作にあたる作品となっている。金子修介監督に交代し、情感の描写に比重が移っている。立ち回りの規模も維持されている。",
+    "tmdbId": 5890,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "persona3-the-movie-4-winter-of-rebirth",
+    "title": "PERSONA3 THE MOVIE #4 Winter of Rebirth",
+    "titleKana": "ぺるそなすりーざむーびーよんうぃんたーおぶりばーす",
+    "directorIds": [
+      "tomohisa-taguchi"
+    ],
+    "screenwriterIds": [
+      "jun-kumagai"
+    ],
+    "studioIds": [
+      "atlus",
+      "a-1-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-ishida",
+        "character": "結城理"
+      },
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "アイギス"
+      },
+      {
+        "actorId": "rie-tanaka",
+        "character": "桐条美鶴"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "game-world",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 1
+    },
+    "runtime": 105,
+    "originalType": "game",
+    "synopsis": "十二体のシャドウを倒しても、影時間は消えなかった。転校生の綾時こそが、滅びを告げる十三体目だと判明する。世界の終わりを受け入れるか抗うかを、部員たちは各自で選ぶ。四部作の完結編にあたる作品となっている。四部作を通した主人公の変化に、静かな決着がつけられている。",
+    "tmdbId": 372761,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "persona3-movie"
+  },
+  {
+    "id": "tokyo-revengers",
+    "title": "東京リベンジャーズ",
+    "titleKana": "とうきょうりべんじゃーず",
+    "directorIds": [
+      "tsutomu-hanabusa"
+    ],
+    "screenwriterIds": [
+      "izumi-takahashi"
+    ],
+    "studioIds": [
+      "kadokawa-daiei-studio",
+      "fuji-television-network"
+    ],
+    "cast": [
+      {
+        "actorId": "takumi-kitamura",
+        "character": "花垣武道"
+      },
+      {
+        "actorId": "ryo-yoshizawa",
+        "character": "佐野万次郎"
+      },
+      {
+        "actorId": "yuki-yamada",
+        "character": "龍宮寺堅"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "crime",
+      "time-travel",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 7
+    },
+    "runtime": 119,
+    "originalType": "manga",
+    "synopsis": "フリーターの武道が、元恋人とその弟の死を報道で知る。駅で線路に落ちた瞬間、彼は十二年前へ跳んでいた。暴走族の抗争を止めることが、二人を救う唯一の道だった。人気漫画を実写化した作品にあたる。数百人規模の乱闘場面が、この作品の見どころとなっている。時間跳躍の設定と不良同士の抗争を組み合わせた構成をとる。",
+    "tmdbId": 698201,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doraemon-nobitas-great-adventure-in-the-world-of",
+    "title": "映画ドラえもん のび太の魔界大冒険",
+    "titleKana": "えいがどらえもんのびたのまかいだいぼうけん",
+    "directorIds": [
+      "tsutomu-shibayama"
+    ],
+    "screenwriterIds": [
+      "fujiko-f-fujio"
+    ],
+    "studioIds": [
+      "shin-ei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuyo-oyama",
+        "character": "ドラえもん"
+      },
+      {
+        "actorId": "noriko-ohara",
+        "character": "野比のび太"
+      },
+      {
+        "actorId": "kazuya-tatekabe",
+        "character": "ジャイアン"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "fantasy",
+      "sf",
+      "magic"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1984,
+      "month": 3
+    },
+    "runtime": 97,
+    "originalType": "manga",
+    "synopsis": "魔法が当たり前の世界に書き換えてしまったのび太たちが、悪魔の襲来に直面する。魔界に乗り込んだ一行は、石像に変えられてしまう。過去へ戻って自分たちに警告するという策が、最後の望みとなる。大長編シリーズの第五作にあたる。時間を遡る仕掛けが巧みで、大長編でも屈指の人気を保っている。",
+    "tmdbId": 161699,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "doraemon"
+  },
+  {
+    "id": "high-low-the-worst-x",
+    "title": "HiGH&LOW THE WORST X",
+    "titleKana": "はいあんどろーざわーすとくろす",
+    "directorIds": [
+      "norihisa-hiranuma"
+    ],
+    "screenwriterIds": [
+      "kei-watanabe"
+    ],
+    "studioIds": [
+      "shochiku",
+      "dub"
+    ],
+    "cast": [
+      {
+        "actorId": "kazuma-kawamura",
+        "character": "花岡楓士雄"
+      },
+      {
+        "actorId": "akihisa-shiono",
+        "character": "小田島雄剣"
+      },
+      {
+        "actorId": "goki-maeda",
+        "character": "轟洋介"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "youth",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 9
+    },
+    "runtime": 119,
+    "originalType": "manga",
+    "synopsis": "鬼邪高校の頭を張る花岡楓士雄が、伝説の男を訪ねて鈴蘭高校へ向かう。二つの高校の因縁が、周辺の勢力を巻き込んで抗争へ発展する。数百人規模の乱闘が、繰り返し繰り広げられる。二つの人気作品を交差させた作品にあたる。格闘場面の物量と、複数の集団が入り乱れる構成が持ち味となる。",
+    "tmdbId": 965731,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "high-low"
+  },
+  {
+    "id": "armitage-dual-matrix",
+    "title": "アミテージ・ザ・サード DUAL-MATRIX",
+    "titleKana": "あみてーじざさーどでゅあるまとりっくす",
+    "directorIds": [
+      "katsuhito-akiyama"
+    ],
+    "screenwriterIds": [
+      "satoshi-wada"
+    ],
+    "studioIds": [
+      "pioneer-ldc",
+      "anime-international-company"
+    ],
+    "cast": [
+      {
+        "actorId": "ryoka-yuzuki",
+        "character": "ナオミ・アミテージ"
+      },
+      {
+        "actorId": "hikaru-hanada",
+        "character": "ロス・シリバス"
+      },
+      {
+        "actorId": "yuka-imai",
+        "character": "ヨーコ"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "action",
+      "sf",
+      "adventure",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2002,
+      "month": 6
+    },
+    "runtime": 90,
+    "originalType": "original",
+    "synopsis": "人型機械の権利をめぐって揺れる火星と地球。人間として暮らしていた元刑事アミテージのもとに、工場での事件の報せが届く。娘を守るため、彼女は再び戦いの場に立つ。前作の六年後を描いた続編にあたる作品となっている。人型機械の権利を主題に据えた、硬派な近未来の物語となっている。",
+    "tmdbId": 21769,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamen-rider-heisei-generations-forever",
+    "title": "仮面ライダー平成ジェネレーションズFOREVER",
+    "titleKana": "かめんらいだーへいせいじぇねれーしょんずふぉーえばー",
+    "directorIds": [
+      "kyouhei-yamaguchi"
+    ],
+    "screenwriterIds": [
+      "kento-shimoyama"
+    ],
+    "studioIds": [
+      "toei-company",
+      "adk"
+    ],
+    "cast": [
+      {
+        "actorId": "so-okuno",
+        "character": "常磐ソウゴ"
+      },
+      {
+        "actorId": "atsuhiro-inukai",
+        "character": "桐生戦兎"
+      },
+      {
+        "actorId": "gaku-oshida",
+        "character": "明光院ゲイツ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "fantasy",
+      "human-drama",
+      "comedy",
+      "hero",
+      "time-travel"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 12
+    },
+    "runtime": 100,
+    "originalType": "other",
+    "synopsis": "世界から、仮面ライダーの記憶そのものが消え去りはじめる。ソウゴとゲイツは、歴代の戦士たちの存在を取り戻すため時空を渡る。すべてを忘れられた者たちが、それでも戦う理由を探す。平成のシリーズを締めくくる位置づけの作品にあたる。歴代の主演俳優が多数出演し、大きな話題を集めた作品にあたる。",
+    "tmdbId": 543103,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "kamen-rider-heisei-generations"
+  },
+  {
+    "id": "midnight-diner-2",
+    "title": "続・深夜食堂",
+    "titleKana": "ぞくしんやしょくどう",
+    "directorIds": [
+      "joji-matsuoka"
+    ],
+    "screenwriterIds": [
+      "katsuhiko-manabe",
+      "kensaku-kojima"
+    ],
+    "studioIds": [
+      "toei-company",
+      "geek-sight"
+    ],
+    "cast": [
+      {
+        "actorId": "kaoru-kobayashi",
+        "character": "マスター"
+      },
+      {
+        "actorId": "aoba-kawai",
+        "character": "赤塚のり子"
+      },
+      {
+        "actorId": "koichi-sato",
+        "character": "石田"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "gourmet"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 11
+    },
+    "runtime": 108,
+    "originalType": "manga",
+    "synopsis": "深夜だけ開く小さな食堂に、今夜も事情を抱えた客が集まる。墓参りに来た女、詐欺に遭った老女、故郷を捨てた男。マスターの料理が、彼らの一歩を後押しする。人気ドラマの劇場版第二作にあたる作品となっている。短い挿話を重ねる構成で、原作の空気がそのまま保たれている。小林薫の佇まいが全編を支えている。",
+    "tmdbId": 429285,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "psycho-pass-3-first-inspector",
+    "title": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+    "titleKana": "さいこぱすすりーふぁーすといんすぺくたー",
+    "directorIds": [
+      "naoyoshi-shiotani"
+    ],
+    "screenwriterIds": [
+      "tow-ubukata",
+      "makoto-fukami"
+    ],
+    "studioIds": [
+      "production-i-g",
+      "fuji-television-network"
+    ],
+    "cast": [
+      {
+        "actorId": "takahiro-sakurai",
+        "character": "雛河翔"
+      },
+      {
+        "actorId": "junichi-suwabe",
+        "character": "入江一途"
+      },
+      {
+        "actorId": "yuichi-nakamura",
+        "character": "炯・ミハイル・イグナトフ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "crime",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2020,
+      "month": 3
+    },
+    "runtime": 137,
+    "originalType": "original",
+    "synopsis": "心理状態を数値化する監視網が社会を維持している近未来。厚生省の刑事たちは、罪を犯す前の潜在犯を追い続けている。組織の上層部にまで及ぶ陰謀が、彼らを追い詰める。テレビ第三期の完結編にあたる作品となっている。三話分をまとめた長尺で、シリーズの伏線を回収している。監視社会の描写も深められている。",
+    "tmdbId": 655431,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "psycho-pass"
+  },
+  {
+    "id": "expelled-from-paradise",
+    "title": "楽園追放 Expelled from Paradise",
+    "titleKana": "らくえんついほうえくすぺるどふろむぱらだいす",
+    "directorIds": [
+      "seiji-mizushima"
+    ],
+    "screenwriterIds": [
+      "gen-urobuchi"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "rie-kugimiya",
+        "character": "アンジェラ・バルザック"
+      },
+      {
+        "actorId": "shin-ichiro-miki",
+        "character": "ディンゴ"
+      },
+      {
+        "actorId": "hiroshi-kamiya",
+        "character": "フロンティアセッター"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "adventure",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 11
+    },
+    "runtime": 104,
+    "originalType": "original",
+    "synopsis": "人類の大半が肉体を捨て、電脳世界で暮らす時代。その世界に侵入する存在を追い、捜査官アンジェラが生身の体で地上へ降りる。案内役の男ディンゴと、荒廃した地球を進む。三次元の作画で制作された作品にあたる。虚淵玄が脚本を手がけ、肉体を持つことの意味を問うている。荒野の描写も見どころとなる。",
+    "tmdbId": 304023,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-birth-of-kitaro-the-mystery-of-gegege",
+    "title": "鬼太郎誕生 ゲゲゲの謎",
+    "titleKana": "きたろうたんじょうげげげのなぞ",
+    "directorIds": [
+      "gou-koga"
+    ],
+    "screenwriterIds": [
+      "hiroyuki-yoshino"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "miyuki-sawashiro",
+        "character": "鬼太郎"
+      },
+      {
+        "actorId": "masako-nozawa",
+        "character": "目玉おやじ"
+      },
+      {
+        "actorId": "toshihiko-seki",
+        "character": "鬼太郎の父"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "mystery",
+      "fantasy",
+      "horror",
+      "monster"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 11
+    },
+    "runtime": 104,
+    "originalType": "manga",
+    "synopsis": "昭和三十一年、財界を裏で操る一族の当主が死に、その村へ血液銀行の男が調査に入る。同じ村を訪れていた謎の男と組み、彼は連続する怪死の真相を追う。村が守り続けてきた秘密が、次第に露わになる。鬼太郎の父の物語として作られた作品にあたる。重厚な作りと衝撃的な展開で、口伝えに評判が広がった作品にあたる。",
+    "tmdbId": 904759,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "gegege-no-kitaro"
+  },
+  {
+    "id": "fate-grand-order-first-order",
+    "title": "Fate/Grand Order First Order",
+    "titleKana": "ふぇいとぐらんどおーだーふぁーすとおーだー",
+    "directorIds": [
+      "hitoshi-nanba"
+    ],
+    "screenwriterIds": [
+      "ayumi-sekine"
+    ],
+    "studioIds": [
+      "lay-duce"
+    ],
+    "cast": [
+      {
+        "actorId": "nobunaga-shimazaki",
+        "character": "藤丸立香"
+      },
+      {
+        "actorId": "rie-takahashi",
+        "character": "マシュ・キリエライト"
+      },
+      {
+        "actorId": "madoka-yonezawa",
+        "character": "オルガマリー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "magic",
+      "time-travel"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 12
+    },
+    "runtime": 72,
+    "originalType": "game",
+    "synopsis": "人類の未来を観測する機関カルデアで、爆発事故が起きる。生き残った藤丸立香は、人造人間マシュとともに過去へ送られる。人理を焼却しようとする存在を止めるため、聖杯を探す旅が始まる。人気ゲームの序章を映像化した作品にあたる。膨大な世界観の入口として、テレビ向け特別編で制作されている。",
+    "tmdbId": 428142,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "fate-grand-order"
+  },
+  {
+    "id": "yu-yu-hakusho-the-movie-poltergeist-report",
+    "title": "幽☆遊☆白書 冥界死闘篇 炎の絆",
+    "titleKana": "ゆうゆうはくしょめいかいしとうへんほのおのきずな",
+    "directorIds": [
+      "masakatsu-iijima"
+    ],
+    "screenwriterIds": [
+      "yukiyoshi-ohashi",
+      "hiroshi-hashimoto"
+    ],
+    "studioIds": [
+      "pierrot"
+    ],
+    "cast": [
+      {
+        "actorId": "nozomu-sasaki",
+        "character": "浦飯幽助"
+      },
+      {
+        "actorId": "shigeru-chiba",
+        "character": "桑原和真"
+      },
+      {
+        "actorId": "megumi-ogata",
+        "character": "蔵馬"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "action",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1994,
+      "month": 4
+    },
+    "runtime": 93,
+    "originalType": "manga",
+    "synopsis": "霊界が大洪水に襲われ、閻魔大王の秘宝が奪われる。幽助たちは、霊界を滅ぼそうとする冥界の者たちと対峙する。四人がそれぞれの力を出し切る戦いが続く。テレビシリーズの人気を受けて作られた劇場版にあたる。劇場版として作画の水準が引き上げられ、四人の共闘が見どころとなっている。冥界を舞台にした独自の物語となる。",
+    "tmdbId": 45279,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

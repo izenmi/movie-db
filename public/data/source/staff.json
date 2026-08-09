@@ -18853,5 +18853,293 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Minoru Inuzuka。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gavin-hood",
+    "name": "ギャヴィン・フッド",
+    "nameKana": "ギャヴィンフッド",
+    "description": "映画監督。『ウルヴァリン：X-MEN ZERO』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gavin Hood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skip-woods",
+    "name": "スキップ・ウッズ",
+    "nameKana": "スキップウッズ",
+    "description": "脚本家。『ウルヴァリン：X-MEN ZERO』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skip Woods。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mai-sakai",
+    "name": "酒井麻衣",
+    "nameKana": "さかいまい",
+    "description": "映画監督。『劇場版 美しい彼〜eternal〜』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mai Sakai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fumi-tsubota",
+    "name": "坪田文",
+    "nameKana": "つぼたふみ",
+    "description": "脚本家。『劇場版 美しい彼〜eternal〜』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fumi Tsubota。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "makoto-nakamura",
+    "name": "中村誠",
+    "nameKana": "なかむらまこと",
+    "description": "脚本家。『CLANNAD -クラナド-』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Makoto Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "buichi-saito",
+    "name": "斎藤武市",
+    "nameKana": "さいとうぶいち",
+    "description": "映画監督。『子連れ狼 親の心子の心』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Buichi Saitō。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuo-koike",
+    "name": "小池一夫",
+    "nameKana": "こいけかずお",
+    "description": "脚本家。『子連れ狼 親の心子の心』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuo Koike。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsutomu-hanabusa",
+    "name": "英勉",
+    "nameKana": "はなぶさつとむ",
+    "description": "映画監督。『映画 賭󠄀ケグルイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tsutomu Hanabusa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "minato-takano",
+    "name": "高野水登",
+    "nameKana": "たかのみなと",
+    "description": "脚本家。『映画 賭󠄀ケグルイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Minato Takano。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuya-yanagisawa",
+    "name": "柳沢テツヤ",
+    "nameKana": "やなぎさわてつや",
+    "description": "映画監督。『ずっと前から好きでした。～告白実行委員会～』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuya Yanagisawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshimi-narita",
+    "name": "成田良美",
+    "nameKana": "なりたよしみ",
+    "description": "脚本家。『ずっと前から好きでした。～告白実行委員会～』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshimi Narita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimio-yabuki",
+    "name": "矢吹公郎",
+    "nameKana": "やぶききみお",
+    "description": "映画監督。『長靴をはいた猫』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kimio Yabuki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hisashi-inoue",
+    "name": "井上ひさし",
+    "nameKana": "いのうえひさし",
+    "description": "脚本家。『長靴をはいた猫』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hisashi Inoue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "morihisa-yamamoto",
+    "name": "山本護久",
+    "nameKana": "やまもともりひさ",
+    "description": "脚本家。『長靴をはいた猫』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Morihisa Yamamoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "norifumi-suzuki",
+    "name": "鈴木則文",
+    "nameKana": "すずきのりふみ",
+    "description": "映画監督・脚本家。『吼えろ鉄拳』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Norifumi Suzuki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinsuke-inoue",
+    "name": "井上信輔",
+    "nameKana": "いのうえしんすけ",
+    "description": "脚本家。『吼えろ鉄拳』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinsuke Inoue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenichi-imai",
+    "name": "今井健一",
+    "nameKana": "いまいけんいち",
+    "description": "脚本家。『ストリートファイター II MOVIE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kenichi Imai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "izumi-takahashi",
+    "name": "高橋泉",
+    "nameKana": "たかはしいずみ",
+    "description": "脚本家。『東京リベンジャーズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Izumi Takahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "norihisa-hiranuma",
+    "name": "平沼紀久",
+    "nameKana": "ひらぬまのりひさ",
+    "description": "映画監督・脚本家。『HiGH&LOW THE WORST X』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Norihisa Hiranuma。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kei-watanabe",
+    "name": "渡辺啓",
+    "nameKana": "わたなべけい",
+    "description": "脚本家。『HiGH&LOW THE WORST X』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kei Watanabe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "katsuhito-akiyama",
+    "name": "秋山勝仁",
+    "nameKana": "あきやまかつひと",
+    "description": "映画監督。『アミテージ・ザ・サード DUAL-MATRIX』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Katsuhito Akiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "satoshi-wada",
+    "name": "和田聡",
+    "nameKana": "わださとし",
+    "description": "脚本家。『アミテージ・ザ・サード DUAL-MATRIX』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Satoshi Wada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyouhei-yamaguchi",
+    "name": "山口恭平",
+    "nameKana": "やまぐちきょうへい",
+    "description": "映画監督。『仮面ライダー平成ジェネレーションズFOREVER』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyouhei Yamaguchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kento-shimoyama",
+    "name": "下山健人",
+    "nameKana": "しもやまけんと",
+    "description": "脚本家。『仮面ライダー平成ジェネレーションズFOREVER』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kento Shimoyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joji-matsuoka",
+    "name": "松岡錠司",
+    "nameKana": "まつおかじょうじ",
+    "description": "映画監督。『続・深夜食堂』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jōji Matsuoka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "katsuhiko-manabe",
+    "name": "真辺克彦",
+    "nameKana": "まなべかつひこ",
+    "description": "脚本家。『続・深夜食堂』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Katsuhiko Manabe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kensaku-kojima",
+    "name": "小嶋健作",
+    "nameKana": "こじまけんさく",
+    "description": "脚本家。『続・深夜食堂』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kensaku Kojima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gou-koga",
+    "name": "古賀豪",
+    "nameKana": "こがごう",
+    "description": "映画監督。『鬼太郎誕生 ゲゲゲの謎』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gou Koga。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hitoshi-nanba",
+    "name": "難波日登志",
+    "nameKana": "なんばひとし",
+    "description": "映画監督。『Fate/Grand Order -First Order-』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hitoshi Nanba。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayumi-sekine",
+    "name": "関根アユミ",
+    "nameKana": "せきねあゆみ",
+    "description": "脚本家。『Fate/Grand Order -First Order-』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ayumi Sekine。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masakatsu-iijima",
+    "name": "飯島正勝",
+    "nameKana": "いいじままさかつ",
+    "description": "映画監督・脚本家。『幽☆遊☆白書 冥界死闘篇・炎の絆』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masakatsu Iijima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yukiyoshi-ohashi",
+    "name": "大橋志吉",
+    "nameKana": "おおはしゆきよし",
+    "description": "映画監督・脚本家。『幽☆遊☆白書 冥界死闘篇・炎の絆』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yukiyoshi Ôhashi。",
+    "updatedAt": "2026-08-09"
   }
 ]
