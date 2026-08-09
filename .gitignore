@@ -10,3 +10,6 @@ public/sitemap.xml
 
 # TMDb API Read Access Token — 絶対にコミットしない
 scripts/.tmdb-token
+
+# 大量追加パイプラインの作業ディレクトリ(候補プール・ドラフト・fill)
+work/

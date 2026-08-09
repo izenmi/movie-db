@@ -1237,5 +1237,1179 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
     "updatedAt": "2026-08-08",
     "originalTitle": "Frozen"
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
+    "title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "titleKana": "げきじょうばんきめつのやいばむげんじょうへんだいいっしょうあかざさいらい",
+    "directorIds": [
+      "haruo-sotozaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "ufotable",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "natsuki-hanae",
+        "character": "竈門炭治郎"
+      },
+      {
+        "actorId": "takahiro-sakurai",
+        "character": "冨岡義勇"
+      },
+      {
+        "actorId": "akira-ishida",
+        "character": "猗窩座"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 7
+    },
+    "runtime": 155,
+    "originalType": "manga",
+    "synopsis": "柱稽古を終えた鬼殺隊の前に鬼舞辻無惨が現れ、隊士たちは無限城と呼ばれる異空間へ一斉に落とされる。分断された炭治郎たちはそれぞれの場所で上弦の鬼と対峙し、竈門炭治郎と冨岡義勇は、かつて煉獄杏寿郎を屠った上弦の参・猗窩座と再びまみえる。人間だったころの記憶を封じた鬼と、鬼を斬る者たちの死闘を描く三部作の第一章。",
+    "tmdbId": 1311031,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "demon-slayer"
+  },
+  {
+    "id": "chainsaw-man-the-movie-reze-arc",
+    "title": "劇場版 チェンソーマン レゼ篇",
+    "titleKana": "げきじょうばんちぇんそーまんれぜへん",
+    "directorIds": [
+      "tatsuya-yoshihara"
+    ],
+    "screenwriterIds": [
+      "hiroshi-seko"
+    ],
+    "studioIds": [
+      "mappa"
+    ],
+    "cast": [
+      {
+        "actorId": "kikunosuke-toya",
+        "character": "デンジ"
+      },
+      {
+        "actorId": "tomori-kusunoki",
+        "character": "マキマ"
+      },
+      {
+        "actorId": "reina-ueda",
+        "character": "レゼ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "romance",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 9
+    },
+    "runtime": 100,
+    "originalType": "manga",
+    "synopsis": "悪魔の心臓を宿し、公安のデビルハンターとして働く少年デンジ。上司のマキマに憧れながら過ごすある雨の夜、電話ボックスで雨宿りをしていた彼は、カフェで働く少女レゼと出会う。無邪気に距離を縮めてくる彼女に惹かれていくデンジだったが、その正体は彼の心臓を狙う爆弾の悪魔だった。初恋と裏切りが血しぶきとともに交錯する。",
+    "tmdbId": 1218925,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "spider-man-no-way-home",
+    "title": "スパイダーマン：ノー・ウェイ・ホーム",
+    "titleKana": "すぱいだーまんのーうぇいほーむ",
+    "directorIds": [
+      "jon-watts"
+    ],
+    "screenwriterIds": [
+      "chris-mckenna",
+      "erik-sommers"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "pascal-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-holland",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "zendaya",
+        "character": "MJ"
+      },
+      {
+        "actorId": "benedict-cumberbatch",
+        "character": "ドクター・ストレンジ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 1
+    },
+    "runtime": 148,
+    "originalType": "manga",
+    "synopsis": "正体を世間に暴かれたピーター・パーカーは、日常を取り戻すためドクター・ストレンジに記憶を消す魔法を頼む。だが呪文は失敗し、並行世界からスパイダーマンの宿敵たちが次々と現れてしまう。彼らを元の世界へ帰せば死なせることになると知ったピーターは、救済の道を選ぼうとして最も大切な人を失う。三代のスパイダーマンが集う集大成。",
+    "tmdbId": 634649,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man: No Way Home",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "spider-man-homecoming",
+    "title": "スパイダーマン：ホームカミング",
+    "titleKana": "すぱいだーまんほーむかみんぐ",
+    "directorIds": [
+      "jon-watts"
+    ],
+    "screenwriterIds": [
+      "john-francis-daley",
+      "chris-mckenna"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "pascal-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-holland",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "michael-keaton",
+        "character": "エイドリアン・トゥームス"
+      },
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "school",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 8
+    },
+    "runtime": 133,
+    "originalType": "manga",
+    "synopsis": "アベンジャーズの戦いに参加した高校生ピーター・パーカーは、憧れのトニー・スタークに認められたい一心で、放課後のヒーロー活動に精を出す。宇宙人の残骸を兵器に変えて売りさばく男バルチャーの存在を突き止めた彼は、独断で捜査に乗り出すが、その正体は思わぬ形で自分の日常とつながっていた。等身大の高校生ヒーローを描く。",
+    "tmdbId": 315635,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man: Homecoming",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "spider-man",
+    "title": "スパイダーマン",
+    "titleKana": "すぱいだーまん",
+    "directorIds": [
+      "sam-raimi"
+    ],
+    "screenwriterIds": [
+      "david-koepp"
+    ],
+    "studioIds": [
+      "marvel-enterprises",
+      "laura-ziskin-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "tobey-maguire",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "willem-dafoe",
+        "character": "ノーマン・オズボーン"
+      },
+      {
+        "actorId": "kirsten-dunst",
+        "character": "メリー・ジェーン・ワトソン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 5
+    },
+    "runtime": 121,
+    "originalType": "manga",
+    "synopsis": "内気な高校生ピーター・パーカーは、科学展で遺伝子操作されたクモに噛まれ、壁を這い糸を放つ超人的な力を得る。力を私欲に使った結果、育ての親であるベンおじさんを死なせてしまった彼は、大いなる力には大いなる責任が伴うという言葉を胸にスパイダーマンとなる。親友の父が変貌した怪人グリーン・ゴブリンとの宿命の対決が始まる。",
+    "tmdbId": 557,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man",
+    "seriesId": "spider-man-raimi"
+  },
+  {
+    "id": "howls-moving-castle",
+    "title": "ハウルの動く城",
+    "titleKana": "はうるのうごくしろ",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "tokuma-shoten"
+    ],
+    "cast": [
+      {
+        "actorId": "chieko-baisho",
+        "character": "ソフィー"
+      },
+      {
+        "actorId": "takuya-kimura",
+        "character": "ハウル"
+      },
+      {
+        "actorId": "akihiro-miwa",
+        "character": "荒地の魔女"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "magic",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2004,
+      "month": 11
+    },
+    "runtime": 119,
+    "originalType": "novel",
+    "synopsis": "帽子屋で働く18歳のソフィーは、荒地の魔女の呪いによって90歳の老婆の姿に変えられてしまう。家を出た彼女がたどり着いたのは、荒野をさまよう魔法使いハウルの動く城だった。火の悪魔カルシファーや弟子のマルクルと暮らすうち、ソフィーは戦争に加担させられようとするハウルの弱さと孤独を知り、彼を守るために立ち上がる。",
+    "tmdbId": 4935,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jujutsu-kaisen-execution",
+    "title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+    "titleKana": "げきじょうばんじゅじゅつかいせんしぶやじへんとくべつへんしゅうばんししめつかいゆうせんこうじょうえい",
+    "directorIds": [
+      "shota-goshozono"
+    ],
+    "screenwriterIds": [
+      "hiroshi-seko"
+    ],
+    "studioIds": [
+      "mappa",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "junya-enoki",
+        "character": "虎杖悠仁"
+      },
+      {
+        "actorId": "megumi-ogata",
+        "character": "乙骨憂太"
+      },
+      {
+        "actorId": "koji-yusa",
+        "character": "禪院直哉"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 11
+    },
+    "runtime": 88,
+    "originalType": "manga",
+    "synopsis": "ハロウィンの渋谷に帳が下ろされ、大勢の一般人が閉じ込められる。最強の呪術師・五条悟を封印しようと待ち構える呪詛師と呪霊たち。虎杖悠仁ら術師が次々と渋谷へ集結し、街全体を舞台にした大規模な戦いが繰り広げられる。テレビシリーズの渋谷事変を再編集した特別編集版に、続く死滅回游の冒頭を先行収録した劇場版。",
+    "tmdbId": 1539104,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "spider-man-far-from-home",
+    "title": "スパイダーマン：ファー・フロム・ホーム",
+    "titleKana": "すぱいだーまんふぁーふろむほーむ",
+    "directorIds": [
+      "jon-watts"
+    ],
+    "screenwriterIds": [
+      "erik-sommers"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "pascal-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-holland",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "jake-gyllenhaal",
+        "character": "クエンティン・ベック"
+      },
+      {
+        "actorId": "samuel-l-jackson",
+        "character": "ニック・フューリー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 6
+    },
+    "runtime": 129,
+    "originalType": "manga",
+    "synopsis": "師と仰いだトニー・スタークを失い、喪失感を抱えたままヨーロッパ修学旅行に出たピーター・パーカー。旅先で異次元から来たという英雄ミステリオと出会い、元素の怪物との戦いに巻き込まれる。ニック・フューリーから次のアイアンマンになることを期待される重圧のなか、ピーターは信じるべき相手を見誤っていたことに気づく。",
+    "tmdbId": 429617,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man: Far From Home",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "the-amazing-spider-man",
+    "title": "アメイジング・スパイダーマン",
+    "titleKana": "あめいじんぐすぱいだーまん",
+    "directorIds": [
+      "marc-webb"
+    ],
+    "screenwriterIds": [
+      "james-vanderbilt",
+      "alvin-sargent"
+    ],
+    "studioIds": [
+      "marvel-entertainment",
+      "laura-ziskin-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "andrew-garfield",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "emma-stone",
+        "character": "グウェン・ステイシー"
+      },
+      {
+        "actorId": "rhys-ifans",
+        "character": "リザード"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 6
+    },
+    "runtime": 136,
+    "originalType": "manga",
+    "synopsis": "両親に置き去りにされた過去を持つ高校生ピーター・パーカーは、父の同僚だったコナーズ博士の研究所に忍び込み、遺伝子操作されたクモに噛まれて驚異的な力を手にする。恋人グウェンとの距離を縮める一方、種の交配実験に取り憑かれた博士は自らに薬を投与して巨大なトカゲ人間リザードへと変貌し、街を脅かしはじめる。",
+    "tmdbId": 1930,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Amazing Spider-Man",
+    "seriesId": "amazing-spider-man"
+  },
+  {
+    "id": "the-amazing-spider-man-2",
+    "title": "アメイジング・スパイダーマン2",
+    "titleKana": "あめいじんぐすぱいだーまんつー",
+    "directorIds": [
+      "marc-webb"
+    ],
+    "screenwriterIds": [
+      "alex-kurtzman",
+      "roberto-orci"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "matt-tolmach-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "andrew-garfield",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "emma-stone",
+        "character": "グウェン・ステイシー"
+      },
+      {
+        "actorId": "jamie-foxx",
+        "character": "エレクトロ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 4
+    },
+    "runtime": 143,
+    "originalType": "manga",
+    "synopsis": "スパイダーマンとして街を守りながら、グウェンとの将来に迷うピーター・パーカー。彼に憧れるあまり心を歪ませた技術者マックスが感電事故で怪人エレクトロと化し、ニューヨークを停電と混乱に陥れる。さらに死病を抱えて帰郷した親友ハリー・オズボーンが救いを求めて彼に迫り、ピーターは最も失いたくないものを失うことになる。",
+    "tmdbId": 102382,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Amazing Spider-Man 2",
+    "seriesId": "amazing-spider-man"
+  },
+  {
+    "id": "perfect-blue",
+    "title": "PERFECT BLUE",
+    "titleKana": "ぱーふぇくとぶるー",
+    "directorIds": [
+      "satoshi-kon"
+    ],
+    "screenwriterIds": [
+      "sadayuki-murai"
+    ],
+    "studioIds": [
+      "madhouse",
+      "rex-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "junko-iwao",
+        "character": "霧越未麻"
+      },
+      {
+        "actorId": "rica-matsumoto",
+        "character": "ルミ"
+      },
+      {
+        "actorId": "shiho-niiyama",
+        "character": "レイ"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1998,
+      "month": 2
+    },
+    "runtime": 81,
+    "originalType": "novel",
+    "synopsis": "アイドルグループを脱退し女優へ転身した霧越未麻は、過激な役柄を演じるうちに自分がどこまで本物なのか分からなくなっていく。ネット上には彼女の私生活をなぞる日記が現れ、周囲の関係者が次々と惨殺される。虚像と現実、演技と自我の境界が溶けていく感覚を鋭利な編集で描いた今敏監督の長編デビュー作。",
+    "tmdbId": 10494,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "avengers-infinity-war",
+    "title": "アベンジャーズ／インフィニティ・ウォー",
+    "titleKana": "あべんじゃーずいんふぃにてぃうぉー",
+    "directorIds": [
+      "joe-russo",
+      "anthony-russo"
+    ],
+    "screenwriterIds": [
+      "stephen-mcfeely",
+      "christopher-markus"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      },
+      {
+        "actorId": "chris-evans",
+        "character": "スティーブ・ロジャース"
+      },
+      {
+        "actorId": "chris-hemsworth",
+        "character": "ソー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "sf",
+      "hero",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 4
+    },
+    "runtime": 150,
+    "originalType": "manga",
+    "synopsis": "六つのインフィニティ・ストーンを集め、全宇宙の生命の半分を消し去ろうとする狂気の存在サノス。その野望を止めるため、アベンジャーズはガーディアンズ・オブ・ギャラクシーやワカンダの戦士たちと手を組み、地球と宇宙の二正面で総力戦に挑む。しかし絶大な力を前に犠牲は次々と積み上がり、物語は絶望的な結末を迎える。",
+    "tmdbId": 299536,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Avengers: Infinity War",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "avatar-fire-and-ash",
+    "title": "アバター：ファイヤー・アンド・アッシュ",
+    "titleKana": "あばたーふぁいやーあんどあっしゅ",
+    "directorIds": [
+      "james-cameron"
+    ],
+    "screenwriterIds": [
+      "amanda-silver"
+    ],
+    "studioIds": [
+      "20th-century-studios",
+      "lightstorm"
+    ],
+    "cast": [
+      {
+        "actorId": "sam-worthington",
+        "character": "ジェイク・サリー"
+      },
+      {
+        "actorId": "zoe-saldana",
+        "character": "ネイティリ"
+      },
+      {
+        "actorId": "sigourney-weaver",
+        "character": "キリ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "fantasy",
+      "space",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 12
+    },
+    "runtime": 198,
+    "originalType": "original",
+    "synopsis": "海の民メトカイナのもとで戦いを生き延びたサリー一家は、長男を失った悲しみを抱えたまま新たな脅威と向き合う。パンドラには火山地帯に生きる灰の氏族と呼ばれる好戦的なナヴィが存在し、彼らは自然と対立する独自の思想で人類の侵略者とも渡り合おうとする。キリの秘めた力が、惑星全体の運命を左右しはじめる。",
+    "tmdbId": 83533,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Avatar: Fire and Ash",
+    "seriesId": "avatar"
+  },
+  {
+    "id": "zootopia-2",
+    "title": "ズートピア2",
+    "titleKana": "ずーとぴあつー",
+    "directorIds": [
+      "jared-bush",
+      "byron-howard"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "ginnifer-goodwin",
+        "character": "ジュディ・ホップス"
+      },
+      {
+        "actorId": "jason-bateman",
+        "character": "ニック・ワイルド"
+      },
+      {
+        "actorId": "ke-huy-quan",
+        "character": "ゲイリー・デ・スネイク"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "mystery",
+      "family",
+      "animal",
+      "buddy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 12
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "正式に相棒となったウサギの警官ジュディと詐欺師あがりの刑事ニックは、ズートピアに突如現れたヘビのゲイリーを追ううちに、都市の成り立ちに関わる巨大な秘密へ踏み込んでいく。爬虫類が街から姿を消した理由をめぐる調査は、二人の相性の悪さを浮き彫りにしながら、多様な種が共に暮らす街の理想を改めて問い直す。",
+    "tmdbId": 1084242,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Zootopia 2",
+    "seriesId": "zootopia"
+  },
+  {
+    "id": "princess-mononoke",
+    "title": "もののけ姫",
+    "titleKana": "もののけひめ",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "dentsu"
+    ],
+    "cast": [
+      {
+        "actorId": "yoji-matsuda",
+        "character": "アシタカ"
+      },
+      {
+        "actorId": "yuriko-ishida",
+        "character": "サン"
+      },
+      {
+        "actorId": "yuko-tanaka",
+        "character": "エボシ御前"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1997,
+      "month": 7
+    },
+    "runtime": 135,
+    "originalType": "original",
+    "synopsis": "北の果ての村に住む青年アシタカは、タタリ神と化した猪神を倒した際に呪いを受け、その源を求めて西へ旅立つ。たどり着いた森では、鉄を生み出すタタラ場を率いるエボシ御前と、山犬に育てられた少女サンが、それぞれの生を懸けて争っていた。人と自然のどちらも切り捨てられない板挟みのなかで、アシタカは共に生きる道を探す。",
+    "tmdbId": 128,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+    "title": "劇場版「鬼滅の刃」無限列車編",
+    "titleKana": "げきじょうばんきめつのやいばむげんれっしゃへん",
+    "directorIds": [
+      "haruo-sotozaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "ufotable",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "natsuki-hanae",
+        "character": "竈門炭治郎"
+      },
+      {
+        "actorId": "akari-kito",
+        "character": "竈門禰豆子"
+      },
+      {
+        "actorId": "hiro-shimono",
+        "character": "我妻善逸"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2020,
+      "month": 10
+    },
+    "runtime": 117,
+    "originalType": "manga",
+    "synopsis": "四十人以上の行方不明者が出ている無限列車に、竈門炭治郎たちは炎柱・煉獄杏寿郎とともに乗り込む。眠りを操る下弦の鬼の術中に落ちた一行は、それぞれの幸せな夢を見せられ、目覚めるために夢の中で自らの首を斬ることを迫られる。やがて現れた上弦の参との死闘で、煉獄は最後まで炎の呼吸を貫き通す。",
+    "tmdbId": 635302,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "demon-slayer"
+  },
+  {
+    "id": "spider-man-3",
+    "title": "スパイダーマン3",
+    "titleKana": "すぱいだーまんすりー",
+    "directorIds": [
+      "sam-raimi"
+    ],
+    "screenwriterIds": [
+      "alvin-sargent"
+    ],
+    "studioIds": [
+      "laura-ziskin-productions",
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "tobey-maguire",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "kirsten-dunst",
+        "character": "メリー・ジェーン・ワトソン"
+      },
+      {
+        "actorId": "james-franco",
+        "character": "ハリー・オズボーン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 4
+    },
+    "runtime": 139,
+    "originalType": "manga",
+    "synopsis": "市民に愛されるヒーローとなり、MJとの関係も順調に見えたピーター・パーカー。だがベンおじさん殺害の真犯人がサンドマンだと知らされ、復讐心が芽生えていく。さらに宇宙から飛来した黒い共生生物が彼のスーツに寄生し、負の感情を増幅させる。傲慢さに飲まれた末に大切な人を傷つけたピーターは、贖罪のため親友と共闘する。",
+    "tmdbId": 559,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man 3",
+    "seriesId": "spider-man-raimi"
+  },
+  {
+    "id": "the-avengers",
+    "title": "アベンジャーズ",
+    "titleKana": "あべんじゃーず",
+    "directorIds": [
+      "joss-whedon"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      },
+      {
+        "actorId": "chris-evans",
+        "character": "スティーブ・ロジャース"
+      },
+      {
+        "actorId": "mark-ruffalo",
+        "character": "ブルース・バナー"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "adventure",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 8
+    },
+    "runtime": 144,
+    "originalType": "manga",
+    "synopsis": "神の座を追われたロキが四次元キューブを奪い、異星の軍勢を率いて地球侵略を企てる。危機に対抗するためニック・フューリーが招集したのは、アイアンマン、キャプテン・アメリカ、ソー、ハルクら癖の強い英雄たちだった。互いに反発し合い一度は空中母艦の壊滅を招いた彼らは、ニューヨーク決戦を通じて一つのチームになっていく。",
+    "tmdbId": 24428,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Avengers",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "my-neighbor-totoro",
+    "title": "となりのトトロ",
+    "titleKana": "となりのととろ",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "nibariki"
+    ],
+    "cast": [
+      {
+        "actorId": "noriko-hidaka",
+        "character": "草壁サツキ"
+      },
+      {
+        "actorId": "chika-sakamoto",
+        "character": "草壁メイ"
+      },
+      {
+        "actorId": "hitoshi-takagi",
+        "character": "トトロ"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "family",
+      "coming-of-age"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1988,
+      "month": 4
+    },
+    "runtime": 86,
+    "originalType": "original",
+    "synopsis": "入院中の母の療養のため、父と共に田舎へ引っ越してきた小学生のサツキと妹のメイ。新しい家の周りにはススワタリが潜み、裏山の大楠にはトトロと呼ばれる不思議な生き物が眠っていた。ネコバスに乗り、夜空を舞い、子どもだけが出会える存在との交流を重ねる姉妹は、母を思う不安と寂しさを抱えながら成長していく。",
+    "tmdbId": 8392,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "captain-america-brave-new-world",
+    "title": "キャプテン・アメリカ：ブレイブ・ニュー・ワールド",
+    "titleKana": "きゃぷてんあめりかぶれいぶにゅーわーるど",
+    "directorIds": [
+      "julius-onah"
+    ],
+    "screenwriterIds": [
+      "peter-glanz"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "kevin-feige-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "anthony-mackie",
+        "character": "サム・ウィルソン"
+      },
+      {
+        "actorId": "harrison-ford",
+        "character": "サディアス・ロス大統領"
+      },
+      {
+        "actorId": "danny-ramirez",
+        "character": "ホアキン・トーレス"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "sf",
+      "hero",
+      "politics"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 2
+    },
+    "runtime": 119,
+    "originalType": "manga",
+    "synopsis": "盾を受け継ぎ二代目キャプテン・アメリカとなったサム・ウィルソンは、大統領に就任したサディアス・ロスから新生アベンジャーズの再建を打診される。だが国際会議の場で暗殺未遂事件が起き、その背後には長年恨みを募らせてきた人物の周到な計画があった。超人血清を持たない生身の英雄が、国家の思惑と己の信念の間で戦う。",
+    "tmdbId": 822119,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Captain America: Brave New World",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "spider-man-across-the-spider-verse",
+    "title": "スパイダーマン：アクロス・ザ・スパイダーバース",
+    "titleKana": "すぱいだーまんあくろすざすぱいだーばーす",
+    "directorIds": [
+      "justin-k-thompson",
+      "kemp-powers"
+    ],
+    "screenwriterIds": [
+      "david-callaham",
+      "phil-lord"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "sony-pictures-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "shameik-moore",
+        "character": "マイルス・モラレス"
+      },
+      {
+        "actorId": "hailee-steinfeld",
+        "character": "グウェン・ステイシー"
+      },
+      {
+        "actorId": "brian-tyree-henry",
+        "character": "ジェフ・モラレス"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 6
+    },
+    "runtime": 140,
+    "originalType": "manga",
+    "synopsis": "ブルックリンのスパイダーマンとなったマイルス・モラレスは、次元を超えて現れたグウェンに導かれ、無数の並行世界のスパイダーマンが集う組織にたどり着く。だが彼らは、犠牲を伴う出来事こそが世界を維持する定めだと説く。運命に従うことを拒んだマイルスは、仲間だったはずの全スパイダーマンから追われる身となる。",
+    "tmdbId": 569094,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man: Across the Spider-Verse",
+    "seriesId": "spider-verse"
+  },
+  {
+    "id": "spider-man-into-the-spider-verse",
+    "title": "スパイダーマン：スパイダーバース",
+    "titleKana": "すぱいだーまんすぱいだーばーす",
+    "directorIds": [
+      "bob-persichetti",
+      "peter-ramsey"
+    ],
+    "screenwriterIds": [
+      "phil-lord",
+      "rodney-rothman"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "lord-miller"
+    ],
+    "cast": [
+      {
+        "actorId": "shameik-moore",
+        "character": "マイルス・モラレス"
+      },
+      {
+        "actorId": "jake-johnson",
+        "character": "ピーター・B・パーカー"
+      },
+      {
+        "actorId": "hailee-steinfeld",
+        "character": "グウェン・ステイシー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "coming-of-age"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 3
+    },
+    "runtime": 117,
+    "originalType": "manga",
+    "synopsis": "進学校になじめない中学生マイルス・モラレスは、地下でクモに噛まれ不思議な力を得る。目の前でこの世界のスパイダーマンが命を落とし、次元の裂け目からくたびれた別世界のピーター・パーカーが現れる。異なる宇宙から集まったスパイダーマンたちと共に、マイルスは自分を信じて跳ぶことを学び、新たな英雄として立ち上がる。",
+    "tmdbId": 324857,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man: Into the Spider-Verse",
+    "seriesId": "spider-verse"
+  },
+  {
+    "id": "ghost-in-the-shell",
+    "title": "GHOST IN THE SHELL",
+    "titleKana": "ごーすといんざしぇる",
+    "directorIds": [
+      "mamoru-oshii"
+    ],
+    "screenwriterIds": [
+      "kazunori-ito"
+    ],
+    "studioIds": [
+      "bandai-visual",
+      "production-i-g"
+    ],
+    "cast": [
+      {
+        "actorId": "atsuko-tanaka",
+        "character": "草薙素子"
+      },
+      {
+        "actorId": "akio-otsuka",
+        "character": "バトー"
+      },
+      {
+        "actorId": "iemasa-kayumi",
+        "character": "人形使い"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "ai",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1995,
+      "month": 11
+    },
+    "runtime": 85,
+    "originalType": "manga",
+    "synopsis": "電脳化と義体化が当たり前になった近未来。他人の脳をハッキングして操る国際指名手配犯、人形使いを追う公安9課の草薙素子は、捜査の過程で相手が人間ではないことを知る。ネットの海で自然発生した生命だと名乗る人形使いは、素子に融合を持ちかける。自分を自分たらしめるものは何かという問いを、緻密な描写で突きつける。",
+    "tmdbId": 9323,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "exit-8",
+    "title": "８番出口",
+    "titleKana": "はちばんでぐち",
+    "directorIds": [
+      "genki-kawamura"
+    ],
+    "screenwriterIds": [
+      "kentaro-hirase"
+    ],
+    "studioIds": [
+      "toho",
+      "aoi-pro"
+    ],
+    "cast": [
+      {
+        "actorId": "kazunari-ninomiya",
+        "character": "迷う男"
+      },
+      {
+        "actorId": "yamato-kochi",
+        "character": "歩くおじさん"
+      },
+      {
+        "actorId": "naru-asanuma",
+        "character": "少年"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "suspense",
+      "survival"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 8
+    },
+    "runtime": 95,
+    "originalType": "game",
+    "synopsis": "地下通路をさまよう男は、無限に続く同じ風景と、案内板に記された不可解な三つのルールに閉じ込められる。異変を見つけたら引き返し、見つからなければ進む。歩き続けるうちに通路は少しずつ狂いはじめ、彼自身が抱えていた過去の後ろめたさが姿を変えて立ちはだかる。人気ゲームを実写化した、閉塞感に満ちた迷宮劇。",
+    "tmdbId": 1408208,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09"
   }
 ]

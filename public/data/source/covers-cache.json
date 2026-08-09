@@ -123,5 +123,125 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/5UfIxiiEbqfT1X1SEyV4EZFcTZU.jpg",
     "matchedTitle": "アナと雪の女王",
     "tmdbId": 109445
+  },
+  "demon-slayer-kimetsu-no-yaiba-infinity-castle": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qjyWDOYokheTTWLMzwJAuvSJeYg.jpg",
+    "matchedTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "tmdbId": 1311031
+  },
+  "chainsaw-man-the-movie-reze-arc": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dUbacBfy6M0EBLPssQhJFhtHxIU.jpg",
+    "matchedTitle": "劇場版 チェンソーマン レゼ篇",
+    "tmdbId": 1218925
+  },
+  "spider-man-no-way-home": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/j2vwjzuofol93OcSn8xAHJiTEoz.jpg",
+    "matchedTitle": "スパイダーマン：ノー・ウェイ・ホーム",
+    "tmdbId": 634649
+  },
+  "spider-man-homecoming": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/x4uMWPwYUljcc6LWJSZNq19HryO.jpg",
+    "matchedTitle": "スパイダーマン：ホームカミング",
+    "tmdbId": 315635
+  },
+  "spider-man": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vOjMTThfmTUxGzI7i6aIUOt5QNC.jpg",
+    "matchedTitle": "スパイダーマン",
+    "tmdbId": 557
+  },
+  "howls-moving-castle": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/v0K2e1t6ocUNnkZ9BeiFdcOT9LG.jpg",
+    "matchedTitle": "ハウルの動く城",
+    "tmdbId": 4935
+  },
+  "jujutsu-kaisen-execution": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qg4Qfsr0wWLTkRSIjI04NQzxB3w.jpg",
+    "matchedTitle": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+    "tmdbId": 1539104
+  },
+  "spider-man-far-from-home": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tUzyW3leKzGeIcsMWld6cYhcO4b.jpg",
+    "matchedTitle": "スパイダーマン：ファー・フロム・ホーム",
+    "tmdbId": 429617
+  },
+  "the-amazing-spider-man": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/veQXQ8knv53CjQNW5Rj6vExSmJ4.jpg",
+    "matchedTitle": "アメイジング・スパイダーマン",
+    "tmdbId": 1930
+  },
+  "the-amazing-spider-man-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eZRD7h4pXJAZ22xMHzohEzxG1VR.jpg",
+    "matchedTitle": "アメイジング・スパイダーマン2",
+    "tmdbId": 102382
+  },
+  "perfect-blue": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/79vujbsWEbX4dzffBV541QXN6sf.jpg",
+    "matchedTitle": "PERFECT BLUE",
+    "tmdbId": 10494
+  },
+  "avengers-infinity-war": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4szrEPRLfw1iqk30tWywoL1uEqG.jpg",
+    "matchedTitle": "アベンジャーズ／インフィニティ・ウォー",
+    "tmdbId": 299536
+  },
+  "avatar-fire-and-ash": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2FeKkhkVmItXsh9fK50HN7GpAvF.jpg",
+    "matchedTitle": "アバター：ファイヤー・アンド・アッシュ",
+    "tmdbId": 83533
+  },
+  "zootopia-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/sp8eWmg3HwNKdqdgGhoE2XACfO6.jpg",
+    "matchedTitle": "ズートピア2",
+    "tmdbId": 1084242
+  },
+  "princess-mononoke": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mVdz3vlmioKWZaHTGfu99zIuayZ.jpg",
+    "matchedTitle": "もののけ姫",
+    "tmdbId": 128
+  },
+  "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8OGrD5t6swQFmoZ1pGL2YJa277P.jpg",
+    "matchedTitle": "劇場版「鬼滅の刃」無限列車編",
+    "tmdbId": 635302
+  },
+  "spider-man-3": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fzJD3sp3ypU9YuSOnNn3WQsoXVr.jpg",
+    "matchedTitle": "スパイダーマン3",
+    "tmdbId": 559
+  },
+  "the-avengers": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/l1SWn7SdwvAowNfC4ojV2B9LDgs.jpg",
+    "matchedTitle": "アベンジャーズ",
+    "tmdbId": 24428
+  },
+  "my-neighbor-totoro": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ykeaF3Ldz1Kf6sfnOJJH4dW56F4.jpg",
+    "matchedTitle": "となりのトトロ",
+    "tmdbId": 8392
+  },
+  "captain-america-brave-new-world": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bvSaHm4mqNP20B0C00XRh0PeNHd.jpg",
+    "matchedTitle": "キャプテン・アメリカ：ブレイブ・ニュー・ワールド",
+    "tmdbId": 822119
+  },
+  "spider-man-across-the-spider-verse": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gMDbgY0vYaCrJcbv2gPlffIHUDS.jpg",
+    "matchedTitle": "スパイダーマン：アクロス・ザ・スパイダーバース",
+    "tmdbId": 569094
+  },
+  "spider-man-into-the-spider-verse": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fiQDuX99qmabApoNUMBAs0ATDyS.jpg",
+    "matchedTitle": "スパイダーマン：スパイダーバース",
+    "tmdbId": 324857
+  },
+  "ghost-in-the-shell": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ad2wSfaqj2ETGXV2SJLPSPEUZfT.jpg",
+    "matchedTitle": "GHOST IN THE SHELL",
+    "tmdbId": 9323
+  },
+  "exit-8": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7IkfaPA5v3PmACvfebQkpubHOy1.jpg",
+    "matchedTitle": "８番出口",
+    "tmdbId": 1408208
   }
 }

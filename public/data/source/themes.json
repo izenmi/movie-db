@@ -140,5 +140,141 @@
     "name": "どんでん返し",
     "description": "終盤で物語の見え方が反転する作品。",
     "spoiler": true
+  },
+  {
+    "id": "documentary",
+    "name": "ドキュメンタリー"
+  },
+  {
+    "id": "history",
+    "name": "歴史"
+  },
+  {
+    "id": "horror",
+    "name": "ホラー"
+  },
+  {
+    "id": "music",
+    "name": "音楽"
+  },
+  {
+    "id": "mystery",
+    "name": "ミステリー"
+  },
+  {
+    "id": "war",
+    "name": "戦争"
+  },
+  {
+    "id": "western",
+    "name": "西部劇"
+  },
+  {
+    "id": "spy",
+    "name": "スパイ"
+  },
+  {
+    "id": "heist",
+    "name": "強盗計画"
+  },
+  {
+    "id": "courtroom",
+    "name": "法廷"
+  },
+  {
+    "id": "road-movie",
+    "name": "ロードムービー"
+  },
+  {
+    "id": "animal",
+    "name": "動物"
+  },
+  {
+    "id": "biography",
+    "name": "伝記"
+  },
+  {
+    "id": "true-story",
+    "name": "実話ベース"
+  },
+  {
+    "id": "zombie",
+    "name": "ゾンビ"
+  },
+  {
+    "id": "martial-arts",
+    "name": "格闘技・武術"
+  },
+  {
+    "id": "apocalypse",
+    "name": "終末世界"
+  },
+  {
+    "id": "ai",
+    "name": "人工知能"
+  },
+  {
+    "id": "robot",
+    "name": "ロボット"
+  },
+  {
+    "id": "detective",
+    "name": "探偵"
+  },
+  {
+    "id": "politics",
+    "name": "政治"
+  },
+  {
+    "id": "medical",
+    "name": "医療"
+  },
+  {
+    "id": "magic",
+    "name": "魔法"
+  },
+  {
+    "id": "pirate",
+    "name": "海賊"
+  },
+  {
+    "id": "survival",
+    "name": "サバイバル"
+  },
+  {
+    "id": "alien",
+    "name": "エイリアン"
+  },
+  {
+    "id": "vampire",
+    "name": "吸血鬼"
+  },
+  {
+    "id": "gourmet",
+    "name": "グルメ"
+  },
+  {
+    "id": "dance",
+    "name": "ダンス"
+  },
+  {
+    "id": "buddy",
+    "name": "バディ"
+  },
+  {
+    "id": "monster",
+    "name": "モンスター"
+  },
+  {
+    "id": "serial-killer",
+    "name": "連続殺人"
+  },
+  {
+    "id": "racing",
+    "name": "レース"
+  },
+  {
+    "id": "christmas",
+    "name": "クリスマス"
   }
 ]

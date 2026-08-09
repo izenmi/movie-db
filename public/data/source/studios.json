@@ -182,5 +182,185 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ufotable",
+    "name": "ufotable",
+    "nameKana": "ユーフォーテーブル",
+    "description": "映画製作会社。『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aniplex",
+    "name": "アニプレックス",
+    "nameKana": "アニプレックス",
+    "description": "映画製作会社。『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aniplex。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mappa",
+    "name": "MAPPA",
+    "nameKana": "マッパ",
+    "description": "映画製作会社。『劇場版 チェンソーマン レゼ篇』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pascal-pictures",
+    "name": "パスカル・ピクチャーズ",
+    "nameKana": "パスカルピクチャーズ",
+    "description": "映画製作会社。『スパイダーマン：ノー・ウェイ・ホーム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pascal Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marvel-enterprises",
+    "name": "マーベル・エンタープライズ",
+    "nameKana": "マーベルエンタープライズ",
+    "description": "映画製作会社。『スパイダーマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marvel Enterprises。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "laura-ziskin-productions",
+    "name": "ローラ・ジスキン・プロダクションズ",
+    "nameKana": "ローラジスキンプロダクションズ",
+    "description": "映画製作会社。『スパイダーマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Laura Ziskin Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokuma-shoten",
+    "name": "徳間書店",
+    "nameKana": "とくましょてん",
+    "description": "映画製作会社。『ハウルの動く城』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokuma Shoten。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marvel-entertainment",
+    "name": "マーベル・エンターテインメント",
+    "nameKana": "マーベルエンターテインメント",
+    "description": "映画製作会社。『アメイジング・スパイダーマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marvel Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "columbia-pictures",
+    "name": "コロンビア・ピクチャーズ",
+    "nameKana": "コロンビアピクチャーズ",
+    "description": "映画製作会社。『アメイジング・スパイダーマン2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Columbia Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matt-tolmach-productions",
+    "name": "マット・トルマック・プロダクションズ",
+    "nameKana": "マットトルマックプロダクションズ",
+    "description": "映画製作会社。『アメイジング・スパイダーマン2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matt Tolmach Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "madhouse",
+    "name": "マッドハウス",
+    "nameKana": "マッドハウス",
+    "description": "映画製作会社。『PERFECT BLUE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Madhouse。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rex-entertainment",
+    "name": "レックス・エンタテインメント",
+    "nameKana": "レックスエンタテインメント",
+    "description": "映画製作会社。『PERFECT BLUE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rex Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "20th-century-studios",
+    "name": "20世紀スタジオ",
+    "nameKana": "にじっせいきすたじお",
+    "description": "映画製作会社。『アバター：ファイヤー・アンド・アッシュ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 20th Century Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dentsu",
+    "name": "電通",
+    "nameKana": "でんつう",
+    "description": "映画製作会社。『もののけ姫』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: dentsu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nibariki",
+    "name": "二馬力",
+    "nameKana": "にばりき",
+    "description": "映画製作会社。『となりのトトロ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nibariki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kevin-feige-productions",
+    "name": "ケヴィン・ファイギ・プロダクションズ",
+    "nameKana": "ケヴィンファイギプロダクションズ",
+    "description": "映画製作会社。『キャプテン・アメリカ：ブレイブ・ニュー・ワールド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kevin Feige Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sony-pictures-animation",
+    "name": "ソニー・ピクチャーズ・アニメーション",
+    "nameKana": "ソニーピクチャーズアニメーション",
+    "description": "映画製作会社。『スパイダーマン：アクロス・ザ・スパイダーバース』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sony Pictures Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lord-miller",
+    "name": "ロード・ミラー",
+    "nameKana": "ロードミラー",
+    "description": "映画製作会社。『スパイダーマン：スパイダーバース』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lord Miller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bandai-visual",
+    "name": "バンダイビジュアル",
+    "nameKana": "バンダイビジュアル",
+    "description": "映画製作会社。『GHOST IN THE SHELL』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bandai Visual。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "production-i-g",
+    "name": "プロダクション・アイジー",
+    "nameKana": "プロダクションアイジー",
+    "description": "映画製作会社。『GHOST IN THE SHELL』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Production I.G。",
+    "updatedAt": "2026-08-09"
   }
 ]
