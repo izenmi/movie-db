@@ -4655,5 +4655,176 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: EuropaCorp。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "digic-pictures",
+    "name": "ディジック・ピクチャーズ",
+    "nameKana": "ディジックピクチャーズ",
+    "description": "映画製作会社。『キングスグレイブ ファイナルファンタジーXV』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Digic Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "davis-entertainment",
+    "name": "デイヴィス・エンターテインメント",
+    "nameKana": "デイヴィスエンターテインメント",
+    "description": "映画製作会社。『プレデター：ザ・プレイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Davis Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "desanto-murphy-productions",
+    "name": "デサント・マーフィー・プロダクションズ",
+    "nameKana": "デサントマーフィープロダクションズ",
+    "description": "映画製作会社。『トランスフォーマー／ロストエイジ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DeSanto/Murphy Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "white-fox",
+    "name": "ホワイトフォックス",
+    "nameKana": "ホワイトフォックス",
+    "description": "映画製作会社。『Re:ゼロから始める異世界生活 Memory Snow』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: White Fox。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "show-east",
+    "name": "ショウ・イースト",
+    "nameKana": "ショウイースト",
+    "description": "映画製作会社。『オールド・ボーイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Show East。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "egg-film",
+    "name": "エッグ・フィルム",
+    "nameKana": "エッグフィルム",
+    "description": "映画製作会社。『オールド・ボーイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Egg Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kamikaze-douga",
+    "name": "神風動画",
+    "nameKana": "かみかぜどうが",
+    "description": "映画製作会社。『ニンジャバットマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kamikaze Douga。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dc-entertainment",
+    "name": "DCエンターテインメント",
+    "nameKana": "でぃーしーえんためんと",
+    "description": "映画製作会社。『ニンジャバットマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DC Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gentosha",
+    "name": "幻冬舎",
+    "nameKana": "げんとうしゃ",
+    "description": "映画製作会社。『ザ・レイプ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gentosha。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "defynite-films",
+    "name": "ディファイナイト・フィルムズ",
+    "nameKana": "ディファイナイトフィルムズ",
+    "description": "映画製作会社。『ジョン・ウィック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DefyNite Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dmm-com",
+    "name": "DMM.com",
+    "nameKana": "でぃーえむえむどっとこむ",
+    "description": "映画製作会社。『海獣の子供』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pikachu-project-2001",
+    "name": "ピカチュウプロジェクト2001",
+    "nameKana": "ぴかちゅうぷろじぇくとにせんいち",
+    "description": "映画製作会社。『劇場版ポケットモンスター セレビィ 時を超えた遭遇』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pikachu Project 2001。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dark-horse-entertainment",
+    "name": "ダークホース・エンターテインメント",
+    "nameKana": "ダークホースエンターテインメント",
+    "description": "映画製作会社。『マスク』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dark Horse Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "victoires-productions",
+    "name": "ヴィクトワール・プロダクションズ",
+    "nameKana": "ヴィクトワールプロダクションズ",
+    "description": "映画製作会社。『アメリ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Victoires Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tapioca-films",
+    "name": "タピオカ・フィルムズ",
+    "nameKana": "タピオカフィルムズ",
+    "description": "映画製作会社。『アメリ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tapioca Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "big-indie-pictures",
+    "name": "ビッグ・インディ・ピクチャーズ",
+    "nameKana": "ビッグインディピクチャーズ",
+    "description": "映画製作会社。『ヘッド･オブ･ステイト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Big Indie Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "epsilon-motion-pictures",
+    "name": "エプシロン・モーション・ピクチャーズ",
+    "nameKana": "エプシロンモーションピクチャーズ",
+    "description": "映画製作会社。『ガール・ネクスト・ドア』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Epsilon Motion Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eighty-two-films",
+    "name": "エイティトゥー・フィルムズ",
+    "nameKana": "エイティトゥーフィルムズ",
+    "description": "映画製作会社。『Mr.ノーバディ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eighty Two Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sierra-affinity",
+    "name": "シエラ・アフィニティ",
+    "nameKana": "シエラアフィニティ",
+    "description": "映画製作会社。『ナイトクローラー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sierra/Affinity。",
+    "updatedAt": "2026-08-09"
   }
 ]

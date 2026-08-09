@@ -8620,5 +8620,401 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olivier Megaton。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "koji-shiraishi",
+    "name": "白石晃士",
+    "nameKana": "しらいしこうじ",
+    "description": "映画監督・脚本家。『ノロイ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Koji Shiraishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naoyuki-yokota",
+    "name": "横田尚幸",
+    "nameKana": "よこたなおゆき",
+    "description": "脚本家。『ノロイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naoyuki Yokota。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takeshi-nozue",
+    "name": "野末武志",
+    "nameKana": "のずえたけし",
+    "description": "映画監督。『キングスグレイブ ファイナルファンタジーXV』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takeshi Nozue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takashi-hasegawa",
+    "name": "長谷川隆",
+    "nameKana": "はせがわたかし",
+    "description": "脚本家。『キングスグレイブ ファイナルファンタジーXV』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takashi Hasegawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "simon-beaufoy",
+    "name": "サイモン・ボーフォイ",
+    "nameKana": "サイモンボーフォイ",
+    "description": "脚本家。『ハンガー・ゲーム2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Simon Beaufoy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "genndy-tartakovsky",
+    "name": "ゲンディ・タルタコフスキー",
+    "nameKana": "ゲンディタルタコフスキー",
+    "description": "映画監督。『モンスター・ホテル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Genndy Tartakovsky。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-baynham",
+    "name": "ピーター・ベイナム",
+    "nameKana": "ピーターベイナム",
+    "description": "脚本家。『モンスター・ホテル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Baynham。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-smigel",
+    "name": "ロバート・スミゲル",
+    "nameKana": "ロバートスミゲル",
+    "description": "脚本家。『モンスター・ホテル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Smigel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yutaka-uemura",
+    "name": "上村泰",
+    "nameKana": "うえむらゆたか",
+    "description": "映画監督。『劇場版 幼女戦記』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yutaka Uemura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenta-ihara",
+    "name": "猪原健太",
+    "nameKana": "いはらけんた",
+    "description": "脚本家。『劇場版 幼女戦記』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kenta Ihara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-marquand",
+    "name": "リチャード・マーカンド",
+    "nameKana": "リチャードマーカンド",
+    "description": "映画監督。『スター・ウォーズ エピソード６／ジェダイの帰還』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Marquand。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-bay",
+    "name": "マイケル・ベイ",
+    "nameKana": "マイケルベイ",
+    "description": "映画監督。『トランスフォーマー／ロストエイジ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Bay。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsuya-koyanagi",
+    "name": "小柳達也",
+    "nameKana": "こやなぎたつや",
+    "description": "映画監督。『Re:ゼロから始める異世界生活 Memory Snow』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsuya Koyanagi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masaharu-watanabe",
+    "name": "渡邊政治",
+    "nameKana": "わたなべまさはる",
+    "description": "映画監督。『Re:ゼロから始める異世界生活 Memory Snow』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masaharu Watanabe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takeshi-koike",
+    "name": "小池健",
+    "nameKana": "こいけたけし",
+    "description": "映画監督。『REDLINE』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takeshi Koike。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoji-enokido",
+    "name": "榎戸洋司",
+    "nameKana": "えのきどよじ",
+    "description": "脚本家。『REDLINE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoji Enokido。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taiki-sakurai",
+    "name": "櫻井大樹",
+    "nameKana": "さくらいたいき",
+    "description": "脚本家。『REDLINE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Taiki Sakurai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lim-joon-hyung",
+    "name": "イム・ジュニョン",
+    "nameKana": "イムジュニョン",
+    "description": "脚本家。『オールド・ボーイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lim Joon-hyung。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hwang-jo-yoon",
+    "name": "ファン・ジョユン",
+    "nameKana": "ファンジョユン",
+    "description": "脚本家。『オールド・ボーイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hwang Jo-yoon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jumpei-mizusaki",
+    "name": "水﨑淳平",
+    "nameKana": "みずさきじゅぺい",
+    "description": "映画監督。『ニンジャバットマン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jumpei Mizusaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoichi-higashi",
+    "name": "東陽一",
+    "nameKana": "ひがしいち",
+    "description": "映画監督・脚本家。『ザ・レイプ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yōichi Higashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "konomu-shinozaki",
+    "name": "篠崎好",
+    "nameKana": "しのざきこのむ",
+    "description": "脚本家。『ザ・レイプ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Konomu Shinozaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroshi-hashimoto",
+    "name": "橋本裕志",
+    "nameKana": "はしもとひろし",
+    "description": "脚本家。『ビリギャル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroshi Hashimoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "haruka-fujita",
+    "name": "藤田春香",
+    "nameKana": "ふじたはるか",
+    "description": "映画監督。『ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Haruka Fujita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takaaki-suzuki",
+    "name": "鈴木貴昭",
+    "nameKana": "すずきたかあき",
+    "description": "脚本家。『ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takaaki Suzuki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsuhiko-urahata",
+    "name": "浦畑達彦",
+    "nameKana": "うらはたたつひこ",
+    "description": "脚本家。『ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsuhiko Urahata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "randall-wallace",
+    "name": "ランドール・ウォレス",
+    "nameKana": "ランドールウォレス",
+    "description": "脚本家。『ブレイブハート』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Randall Wallace。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tony-gilroy",
+    "name": "トニー・ギルロイ",
+    "nameKana": "トニーギルロイ",
+    "description": "脚本家。『ローグ・ワン／スター・ウォーズ・ストーリー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tony Gilroy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saku-konohana",
+    "name": "木ノ花咲",
+    "nameKana": "このあなさく",
+    "description": "脚本家。『海獣の子供』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Saku Konohana。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jennifer-yuh-nelson",
+    "name": "ジェニファー・ユー・ネルソン",
+    "nameKana": "ジェニファーユーネルソン",
+    "description": "映画監督。『カンフー・パンダ２』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jennifer Yuh Nelson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chuck-russell",
+    "name": "チャック・ラッセル",
+    "nameKana": "チャックラッセル",
+    "description": "映画監督。『マスク』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chuck Russell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mike-werb",
+    "name": "マイク・ワーブ",
+    "nameKana": "マイクワーブ",
+    "description": "脚本家。『マスク』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mike Werb。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jean-pierre-jeunet",
+    "name": "ジャン=ピエール・ジュネ",
+    "nameKana": "じぇうねじぇあんぴえっれ",
+    "description": "映画監督・脚本家。『アメリ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jean-Pierre Jeunet。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "guillaume-laurant",
+    "name": "ギヨーム・ローラン",
+    "nameKana": "ギヨームローラン",
+    "description": "脚本家。『アメリ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Guillaume Laurant。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ilya-naishuller",
+    "name": "イリヤ・ナイシュラー",
+    "nameKana": "イリヤナイシュラー",
+    "description": "映画監督。『ヘッド･オブ･ステイト』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ilya Naishuller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "josh-appelbaum",
+    "name": "ジョシュ・アッペルバウム",
+    "nameKana": "ジョシュアッペルバウム",
+    "description": "脚本家。『ヘッド･オブ･ステイト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Josh Appelbaum。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andre-nemec",
+    "name": "アンドレ・ネメック",
+    "nameKana": "アンドレネメック",
+    "description": "脚本家。『ヘッド･オブ･ステイト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: André Nemec。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "luke-greenfield",
+    "name": "ルーク・グリーンフィールド",
+    "nameKana": "ルークグリーンフィールド",
+    "description": "映画監督。『ガール・ネクスト・ドア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Luke Greenfield。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-wagner",
+    "name": "デヴィッド・ワグナー",
+    "nameKana": "デヴィッドワグナー",
+    "description": "脚本家。『ガール・ネクスト・ドア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Wagner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stuart-blumberg",
+    "name": "スチュアート・ブルムバーグ",
+    "nameKana": "スチュアートブルムバーグ",
+    "description": "脚本家。『ガール・ネクスト・ドア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stuart Blumberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "t-j-fixman",
+    "name": "T・J・フィックスマン",
+    "nameKana": "ふぃまん",
+    "description": "脚本家。『セキュリティ・チェック』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: T.J. Fixman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-donner",
+    "name": "リチャード・ドナー",
+    "nameKana": "リチャードドナー",
+    "description": "映画監督。『リーサル・ウェポン2／炎の約束』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Donner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeffrey-boam",
+    "name": "ジェフリー・ボーム",
+    "nameKana": "ジェフリーボーム",
+    "description": "脚本家。『リーサル・ウェポン2／炎の約束』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeffrey Boam。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-gilroy",
+    "name": "ダン・ギルロイ",
+    "nameKana": "ダンギルロイ",
+    "description": "映画監督・脚本家。『ナイトクローラー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Gilroy。",
+    "updatedAt": "2026-08-09"
   }
 ]
