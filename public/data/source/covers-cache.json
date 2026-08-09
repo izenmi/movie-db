@@ -4573,5 +4573,205 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/kftjZtgpIAI8sHqKFP6qelU14dy.jpg",
     "matchedTitle": "ヘラクレス",
     "tmdbId": 11970
+  },
+  "batman-returns": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pvpPXD7zT6zPd0yxJPdRdQVS3OP.jpg",
+    "matchedTitle": "バットマン リターンズ",
+    "tmdbId": 364
+  },
+  "meet-joe-black": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rP3ybN4Jx7Iw9UXWk7fKcEnwjgm.jpg",
+    "matchedTitle": "ジョー・ブラックをよろしく",
+    "tmdbId": 297
+  },
+  "doraemon-nobita-and-the-tin-labyrinth": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/x0v7xiBYCl1oaujtpkbF6YtglUw.jpg",
+    "matchedTitle": "映画ドラえもん のび太とブリキの迷宮",
+    "tmdbId": 161822
+  },
+  "the-game": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/s8etn7kmcZq3yq6UN6yPyXp1lI3.jpg",
+    "matchedTitle": "ゲーム",
+    "tmdbId": 2649
+  },
+  "idiocracy": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/v8nWluJ1ogn03QI0AjV3LEcjQRC.jpg",
+    "matchedTitle": "26世紀青年",
+    "tmdbId": 7512
+  },
+  "crayon-shin-chan-the-movie-our-dinosaur-diary": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bB2errIvjMAX6SyxiioRfkHjlwt.jpg",
+    "matchedTitle": "クレヨンしんちゃん オラたちの恐竜日記",
+    "tmdbId": 1221404
+  },
+  "one-piece-clockwork-island-adventure": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mocek0mTd2dX2neCB691iU9le9k.jpg",
+    "matchedTitle": "ワンピース ねじまき島の冒険",
+    "tmdbId": 23446
+  },
+  "the-new-mutants": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/u5zz74PZTdMQUUdSF15oCnDZ4UX.jpg",
+    "matchedTitle": "ニュー・ミュータント",
+    "tmdbId": 340102
+  },
+  "house-of-wax": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zpkhQW5JAdUOVbw04kGKMbpTHn1.jpg",
+    "matchedTitle": "蝋人形の館",
+    "tmdbId": 10066
+  },
+  "digimon-adventure-02-the-beginning": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/50A8Vuvf4Ua2nLC2oM9M8iPPnHC.jpg",
+    "matchedTitle": "デジモンアドベンチャー02 THE BEGINNING",
+    "tmdbId": 872976
+  },
+  "wind-river": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pfXjOdsytuun64XOWSvnbHdGMFV.jpg",
+    "matchedTitle": "ウインド・リバー",
+    "tmdbId": 395834
+  },
+  "the-hunt": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eB98LRNvPknfKPqm0p8FVQbCZkw.jpg",
+    "matchedTitle": "ザ・ハント",
+    "tmdbId": 514847
+  },
+  "the-stranger-by-the-shore": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/sicuN045m5DJmn2Kwdq3HlsMiS0.jpg",
+    "matchedTitle": "海辺のエトランゼ",
+    "tmdbId": 642121
+  },
+  "godzilla-vs-king-ghidorah": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tLH6sz1hDOaJqADGZMhoO9NUAeE.jpg",
+    "matchedTitle": "ゴジラvsキングギドラ",
+    "tmdbId": 36679
+  },
+  "mission-impossible": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oGENVZkmr8HIjDQ8GwRTK153PiS.jpg",
+    "matchedTitle": "ミッション：インポッシブル",
+    "tmdbId": 954
+  },
+  "ice-age-the-meltdown": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3dtrOoVYlK46m3wnA0DFPUefsFw.jpg",
+    "matchedTitle": "アイス・エイジ2",
+    "tmdbId": 950
+  },
+  "paw-patrol-the-mighty-movie": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9yumCn2ea3xau3nlPMhqHL1QmIr.jpg",
+    "matchedTitle": "パウ・パトロール　ザ・マイティ・ムービー",
+    "tmdbId": 893723
+  },
+  "godzilla-vs-mothra": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/53T0H0ODcXlx7U8vptnITyXTBxV.jpg",
+    "matchedTitle": "ゴジラvsモスラ",
+    "tmdbId": 39465
+  },
+  "talk-to-me": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hCyXUslWFh2sCN5zlUfEclDUaAZ.jpg",
+    "matchedTitle": "TALK TO ME トーク・トゥ・ミー",
+    "tmdbId": 1008042
+  },
+  "terrifier-3": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ApbP507BocWZQIA270O4ckwOuCD.jpg",
+    "matchedTitle": "テリファー 聖夜の悪夢",
+    "tmdbId": 1034541
+  },
+  "the-devils-advocate": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+    "matchedTitle": "ディアボロス/悪魔の扉",
+    "tmdbId": 1813
+  },
+  "doraemon-nobita-and-the-space-heroes": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/34tOVV4I3DwPpQ6Z1jQdMLjSWV5.jpg",
+    "matchedTitle": "映画ドラえもん のび太の宇宙英雄記",
+    "tmdbId": 350650
+  },
+  "doraemon-nobitas-great-battle-of-the-mermaid-king": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lvi0MjGJvWPAAqQaxCwwMsLqBG8.jpg",
+    "matchedTitle": "映画ドラえもん のび太の人魚大海戦",
+    "tmdbId": 86184
+  },
+  "rear-window": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ldDbreZVxf3rdNmKlfRbyue4KQw.jpg",
+    "matchedTitle": "裏窓",
+    "tmdbId": 567
+  },
+  "die-hard-with-a-vengeance": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qNjiwKBvTb0KsIPMuYmUdRO01vF.jpg",
+    "matchedTitle": "ダイ・ハード３",
+    "tmdbId": 1572
+  },
+  "psycho-pass-the-movie": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2nSak3UREboupBdzbolau3nkPAN.jpg",
+    "matchedTitle": "劇場版 PSYCHO-PASS サイコパス",
+    "tmdbId": 296917
+  },
+  "the-northman": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rxPceiIO6r4EpYwPJp5RafMTtyc.jpg",
+    "matchedTitle": "ノースマン 導かれし復讐者",
+    "tmdbId": 639933
+  },
+  "extraction-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/Akvsb4wO6VfSrE0a2HZ9EDoimgv.jpg",
+    "matchedTitle": "タイラー・レイク －命の奪還－2",
+    "tmdbId": 697843
+  },
+  "sword-of-the-stranger": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6NoBEmnIRdulnf1spfdYv21lEHK.jpg",
+    "matchedTitle": "ストレンヂア -無皇刃譚-",
+    "tmdbId": 13980
+  },
+  "norwegian-wood": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pRo99Un6iA0X4vaUBNHxJHCHZjR.jpg",
+    "matchedTitle": "ノルウェイの森",
+    "tmdbId": 57703
+  },
+  "jungle": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg",
+    "matchedTitle": "ジャングル ギンズバーグ19日間の軌跡",
+    "tmdbId": 390062
+  },
+  "dirty-dancing": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mFEJO80wr57BNkEkyCM2023INo4.jpg",
+    "matchedTitle": "ダーティ・ダンシング",
+    "tmdbId": 88
+  },
+  "doraemon-nobita-and-the-birth-of-japan": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fEFXxPcLZiTbP05KB0wWiqq06fV.jpg",
+    "matchedTitle": "映画ドラえもん 新・のび太の日本誕生",
+    "tmdbId": 384345
+  },
+  "the-ballad-of-narayama": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2byJZOG95MeNuMsC2YrQHpT0AU2.jpg",
+    "matchedTitle": "楢山節考",
+    "tmdbId": 42113
+  },
+  "now-you-see-me-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6L2xFHz3yu76oMEuArmj8E59oX4.jpg",
+    "matchedTitle": "グランド・イリュージョン 見破られたトリック",
+    "tmdbId": 291805
+  },
+  "trap": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ynN2SyseYIwrcLfxYMfpva42oUU.jpg",
+    "matchedTitle": "トラップ",
+    "tmdbId": 1032823
+  },
+  "madagascar-3-europes-most-wanted": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2Gddo2bnOsdjyIrFp07tDMHiOKq.jpg",
+    "matchedTitle": "マダガスカル3",
+    "tmdbId": 80321
+  },
+  "ranma-1-2-the-movie-2-nihao-my-concubine": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wmYWCVWCM81XiQTI0I7EWG5y5ur.jpg",
+    "matchedTitle": "らんま1/2 劇場版 決戦桃幻郷!花嫁を奪りもどせ!!",
+    "tmdbId": 37021
+  },
+  "re-zero-starting-life-in-another-world-the-frozen": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/brQCjRa6swAKehKbviT02vJvEIt.jpg",
+    "matchedTitle": "Re:ゼロから始める異世界生活 氷結の絆",
+    "tmdbId": 566451
+  },
+  "puss-in-boots": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rs2HpWmfizVb6enCM7qWneMBsKE.jpg",
+    "matchedTitle": "長ぐつをはいたネコ",
+    "tmdbId": 417859
   }
 }

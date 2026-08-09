@@ -1010,5 +1010,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "die-hard",
+    "name": "「ダイ・ハード」シリーズ",
+    "nameKana": "だいはーどしりーず",
+    "description": "刑事ジョン・マクレーンが巻き込まれるアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "now-you-see-me",
+    "name": "「グランド・イリュージョン」シリーズ",
+    "nameKana": "ぐらんどいりゅーじょんしりーず",
+    "description": "四人のマジシャンによる大仕掛けの犯罪を描く映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "digimon",
+    "name": "「デジモンアドベンチャー」劇場版シリーズ",
+    "nameKana": "でじもんあどべんちゃーげきじょうばんしりーず",
+    "description": "選ばれし子どもたちとデジタルモンスターの冒険を描く劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
