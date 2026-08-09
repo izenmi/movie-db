@@ -79551,5 +79551,1938 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Liar Liar"
+  },
+  {
+    "id": "the-mask-of-zorro",
+    "title": "マスク・オブ・ゾロ",
+    "titleKana": "ますくおぶぞろ",
+    "directorIds": [
+      "martin-campbell"
+    ],
+    "screenwriterIds": [
+      "john-eskow",
+      "ted-elliott"
+    ],
+    "studioIds": [
+      "tristar-pictures",
+      "amblin"
+    ],
+    "cast": [
+      {
+        "actorId": "antonio-banderas",
+        "character": "アレハンドロ・ムリエッタ"
+      },
+      {
+        "actorId": "anthony-hopkins",
+        "character": "ディエゴ・デ・ラ・ベガ"
+      },
+      {
+        "actorId": "catherine-zeta-jones",
+        "character": "エレナ・モンテロ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1998,
+      "month": 10
+    },
+    "runtime": 138,
+    "originalType": "other",
+    "synopsis": "覆面の剣士ゾロとして知られたディエゴが、二十年の投獄を経て脱獄する。彼は妻を殺し娘を奪った総督への復讐のため、盗人の青年アレハンドロを後継者として鍛える。剣術と礼儀作法を叩き込まれた青年が、新たなゾロとなっていく。剣戟の質の高さで長く支持されている作品にあたる。",
+    "tmdbId": 9342,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Mask of Zorro"
+  },
+  {
+    "id": "hard-target",
+    "title": "ハード・ターゲット",
+    "titleKana": "はーどたーげっと",
+    "directorIds": [
+      "john-woo"
+    ],
+    "screenwriterIds": [
+      "chuck-pfarrer"
+    ],
+    "studioIds": [
+      "alphaville-films",
+      "universal"
+    ],
+    "cast": [
+      {
+        "actorId": "jean-claude-van-damme",
+        "character": "シャンス・ブードロー"
+      },
+      {
+        "actorId": "arnold-vosloo",
+        "character": "ピク・ヴァン・クリーフ"
+      },
+      {
+        "actorId": "lance-henriksen",
+        "character": "エミール・フーション"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "crime",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 4
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "父を探す女性が、ニューオーリンズで船乗りの男シャンスと出会う。二人は、街の富裕層が退役軍人を獲物として狩る組織の存在を突き止める。標的にされたシャンスは、沼地を舞台に反撃を始める。ジョン・ウー監督が初めて米国で撮った作品にあたる。銃撃と爆発を様式化した演出が、この監督の持ち味となっている。",
+    "tmdbId": 2019,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Hard Target"
+  },
+  {
+    "id": "over-the-sky",
+    "title": "君は彼方",
+    "titleKana": "きみはかなた",
+    "directorIds": [
+      "yoshinobu-sena"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "digital-network-animation",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "honoka-matsumoto",
+        "character": "宮桝澪"
+      },
+      {
+        "actorId": "toshiki-seto",
+        "character": "岸本新"
+      },
+      {
+        "actorId": "saori-hayami",
+        "character": "キクちゃん"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2020,
+      "month": 11
+    },
+    "runtime": 95,
+    "originalType": "original",
+    "synopsis": "努力を避けて生きてきた高校生の澪が、幼なじみの新と喧嘩をする。その直後、事故に巻き込まれた二人は、この世とあの世の境目のような場所に迷い込む。彼を連れ戻すため、澪は不思議な世界を進んでいく。手描きの背景に力を入れた長編アニメにあたる。色彩の豊かな異界の描写が、この作品の見どころとなっている。",
+    "tmdbId": 680041,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shall-we-dance",
+    "title": "Shall we ダンス?",
+    "titleKana": "しゃるうぃだんす",
+    "directorIds": [
+      "masayuki-suo"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "altamira-pictures",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "koji-yakusho",
+        "character": "杉山正平"
+      },
+      {
+        "actorId": "tamiyo-kusakari",
+        "character": "岸川舞"
+      },
+      {
+        "actorId": "naoto-takenaka",
+        "character": "青木富夫"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "comedy",
+      "human-drama",
+      "romance",
+      "dance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 1
+    },
+    "runtime": 136,
+    "originalType": "original",
+    "synopsis": "不満はないが満たされない日々を送る会社員の杉山が、電車の窓から見えるダンス教室の女性に惹かれる。動機を隠したまま通いはじめた彼は、社交ダンスそのものにのめり込んでいく。妻には言えないまま、彼は大会を目指す。米国でも大きな話題となった作品にあたる。日本アカデミー賞の主要部門を独占した作品としても知られる。",
+    "tmdbId": 11239,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gran-torino",
+    "title": "グラン・トリノ",
+    "titleKana": "ぐらんとりの",
+    "directorIds": [
+      "clint-eastwood"
+    ],
+    "screenwriterIds": [
+      "nick-schenk"
+    ],
+    "studioIds": [
+      "matten-productions",
+      "double-nickel-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "clint-eastwood",
+        "character": "ウォルト・コワルスキー"
+      },
+      {
+        "actorId": "christopher-carley",
+        "character": "ヤノビッチ神父"
+      },
+      {
+        "actorId": "bee-vang",
+        "character": "タオ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 4
+    },
+    "runtime": 117,
+    "originalType": "original",
+    "synopsis": "妻を亡くした偏屈な元工員ウォルトが、隣家のアジア系一家と関わることになる。愛車を盗もうとした少年タオを、彼は雑用を通じて鍛えはじめる。街を支配する不良集団が、一家に手を出したとき彼は動く。イーストウッド監督が主演も務めた作品にあたる。偏見を抱えた老人が変わっていく過程が、静かに描かれている。",
+    "tmdbId": 13223,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Gran Torino"
+  },
+  {
+    "id": "miracle-on-34th-street",
+    "title": "三十四丁目の奇蹟",
+    "titleKana": "さんじゅうよんちょうめのきせき",
+    "directorIds": [
+      "george-seaton"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "maureen-ohara",
+        "character": "ドリス・ウォーカー"
+      },
+      {
+        "actorId": "john-payne",
+        "character": "フレッド・ゲイリー"
+      },
+      {
+        "actorId": "edmund-gwenn",
+        "character": "クリス・クリングル"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "family",
+      "christmas",
+      "courtroom"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1948,
+      "month": 11
+    },
+    "runtime": 97,
+    "originalType": "original",
+    "synopsis": "デパートに雇われた白ひげの老人が、自分は本物のサンタクロースだと主張する。現実的に子を育ててきた母娘は、その言葉を信じられずにいた。彼の正気を問う裁判が開かれ、法廷で郵便物が決定的な役割を果たす。米国のクリスマス映画の古典にあたる。信じることの意味を扱った、温かな結末で長く親しまれている。",
+    "tmdbId": 11881,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Miracle on 34th Street"
+  },
+  {
+    "id": "rambo-iii",
+    "title": "ランボー3 怒りのアフガン",
+    "titleKana": "らんぼーすりーいかりのあふがん",
+    "directorIds": [
+      "peter-macdonald"
+    ],
+    "screenwriterIds": [
+      "sylvester-stallone",
+      "sheldon-lettich"
+    ],
+    "studioIds": [
+      "carolco-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "sylvester-stallone",
+        "character": "ジョン・ランボー"
+      },
+      {
+        "actorId": "richard-crenna",
+        "character": "トラウトマン"
+      },
+      {
+        "actorId": "marc-de-jonge",
+        "character": "ザイセン大佐"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "suspense",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1988,
+      "month": 6
+    },
+    "runtime": 100,
+    "originalType": "novel",
+    "synopsis": "タイの寺院で静かに暮らすランボーに、トラウトマン大佐が任務への同行を求める。一度は断ったものの、大佐がアフガニスタンで拘束されたと知り彼は単身向かう。現地の抵抗勢力と組み、要塞へ突入する。当時としては破格の製作費が投じられた第三作にあたる。荒野での戦闘場面に、シリーズ最大級の規模が投じられている。",
+    "tmdbId": 1370,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Rambo III",
+    "seriesId": "rambo"
+  },
+  {
+    "id": "parasyte-part-2",
+    "title": "寄生獣 完結編",
+    "titleKana": "きせいじゅうかんけつへん",
+    "directorIds": [
+      "takashi-yamazaki"
+    ],
+    "screenwriterIds": [
+      "ryota-kosawa"
+    ],
+    "studioIds": [
+      "kddi",
+      "gyao"
+    ],
+    "cast": [
+      {
+        "actorId": "shota-sometani",
+        "character": "泉新一"
+      },
+      {
+        "actorId": "ai-hashimoto",
+        "character": "村野里美"
+      },
+      {
+        "actorId": "sadao-abe",
+        "character": "ミギー"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "horror",
+      "action",
+      "human-drama",
+      "monster"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 4
+    },
+    "runtime": 117,
+    "originalType": "manga",
+    "synopsis": "市長となった広川のもとで、寄生生物たちが組織的な連携を築いていく。人類側は特殊部隊を編成し、市庁舎への突入を計画する。新一とミギーは、どちらの側にも完全には属せないまま巻き込まれる。前後編の完結編にあたる作品となっている。視覚効果と山崎貴監督の演出で、原作の異形が再現されている。",
+    "tmdbId": 282070,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "parasyte-movie"
+  },
+  {
+    "id": "ghost-in-the-shell-arise-border-4-ghost-stands-alone",
+    "title": "攻殻機動隊ARISE border:4 Ghost Stands Alone",
+    "titleKana": "こうかくきどうたいあらいずごーすとすたんずあろーん",
+    "directorIds": [
+      "susumu-kudo",
+      "kazuchika-kise"
+    ],
+    "screenwriterIds": [
+      "tow-ubukata"
+    ],
+    "studioIds": [
+      "bandai-visual",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "草薙素子"
+      },
+      {
+        "actorId": "ikkyu-juku",
+        "character": "荒巻大輔"
+      },
+      {
+        "actorId": "kenichirou-matsuda",
+        "character": "バトー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "crime",
+      "ai"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 9
+    },
+    "runtime": 58,
+    "originalType": "manga",
+    "synopsis": "水の利権をめぐる抗議行動の最中に、機動隊による無差別発砲事件が起きる。同時多発的な電脳の乗っ取りが確認され、素子の部隊が捜査に入る。国家と企業の思惑が、事件の背後で絡み合っていた。四部作の最終話にあたる作品となっている。公安九課の結成に至る経緯が、この最終話で描かれている。四部作の締めくくりにあたる。",
+    "tmdbId": 279254,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "ghost-in-the-shell-arise"
+  },
+  {
+    "id": "monty-python-and-the-holy-grail",
+    "title": "モンティ・パイソン・アンド・ホーリー・グレイル",
+    "titleKana": "もんてぃぱいそんあんどほーりーぐれいる",
+    "directorIds": [
+      "terry-gilliam",
+      "terry-jones"
+    ],
+    "screenwriterIds": [
+      "graham-chapman",
+      "john-cleese"
+    ],
+    "studioIds": [
+      "python-monty-pictures",
+      "michael-white-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "graham-chapman",
+        "character": "アーサー王"
+      },
+      {
+        "actorId": "john-cleese",
+        "character": "第二の衛兵"
+      },
+      {
+        "actorId": "eric-idle",
+        "character": "死体回収人"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "fantasy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1979,
+      "month": 8
+    },
+    "runtime": 91,
+    "originalType": "original",
+    "synopsis": "アーサー王が円卓の騎士を集め、聖杯を探す旅に出る。だが道中で出会うのは、屁理屈をこねる番人や、腕を落とされても戦う黒騎士ばかりだった。予算不足を逆手に取り、馬の代わりに椰子の実を叩いて進む。英国の喜劇集団による長編で、今も広く引用されている。筋を放り出す結末も含め、喜劇史に残る一本となっている。",
+    "tmdbId": 762,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Monty Python and the Holy Grail"
+  },
+  {
+    "id": "the-ten-commandments",
+    "title": "十戒",
+    "titleKana": "じっかい",
+    "directorIds": [
+      "cecil-b-demille"
+    ],
+    "screenwriterIds": [
+      "jack-gariss",
+      "fredric-m-frank"
+    ],
+    "studioIds": [
+      "paramount",
+      "motion-picture-associates"
+    ],
+    "cast": [
+      {
+        "actorId": "charlton-heston",
+        "character": "モーセ"
+      },
+      {
+        "actorId": "yul-brynner",
+        "character": "ラメセス"
+      },
+      {
+        "actorId": "anne-baxter",
+        "character": "ネフレテリ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1958,
+      "month": 3
+    },
+    "runtime": 220,
+    "originalType": "other",
+    "synopsis": "ヘブライ人の子として生まれながら、エジプトの王子として育てられたモーセ。出自を知った彼は追放され、神の声を受けて同胞の解放に立ち上がる。ラメセス二世との対決を経て、海が割れる奇跡が起きる。特撮を駆使した大作として映画史に残る一本にあたる。海が割れる場面は、公開から七十年近く経っても言及され続けている。",
+    "tmdbId": 6844,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Ten Commandments"
+  },
+  {
+    "id": "lady-and-the-tramp",
+    "title": "わんわん物語",
+    "titleKana": "わんわんものがたり",
+    "directorIds": [
+      "hamilton-luske",
+      "wilfred-jackson"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "walt-disney-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "barbara-luddy",
+        "character": "レディ"
+      },
+      {
+        "actorId": "larry-roberts",
+        "character": "トランプ"
+      },
+      {
+        "actorId": "peggy-lee",
+        "character": "ダーリン"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "romance",
+      "adventure",
+      "comedy",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 1956,
+      "month": 8
+    },
+    "runtime": 76,
+    "originalType": "novel",
+    "synopsis": "裕福な家で大切に育てられた雌犬レディが、赤ん坊の誕生で居場所を失う。家を飛び出した彼女は、自由に生きる野良犬トランプと出会う。境遇の違う二匹が、街を歩き回るうちに惹かれ合う。相皿の麺を分け合う場面で広く知られている作品にあたる。横長の画面比率を初めて採用したディズニー長編にあたる。",
+    "tmdbId": 10340,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Lady and the Tramp"
+  },
+  {
+    "id": "azumi",
+    "title": "あずみ",
+    "titleKana": "あずみ",
+    "directorIds": [
+      "ryuhei-kitamura"
+    ],
+    "screenwriterIds": [
+      "isao-kiriyama"
+    ],
+    "studioIds": [
+      "amuse-pictures",
+      "tristone-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "aya-ueto",
+        "character": "あずみ"
+      },
+      {
+        "actorId": "kenji-kohashi",
+        "character": "ヒュウガ"
+      },
+      {
+        "actorId": "hiroki-narimiya",
+        "character": "ウキハ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "human-drama",
+      "action",
+      "suspense",
+      "romance",
+      "jidaigeki",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 5
+    },
+    "runtime": 128,
+    "originalType": "manga",
+    "synopsis": "太平の世を守るため、幼い頃から暗殺者として育てられた少女あずみ。仲間同士で殺し合わせる非情な試験を経て、彼女たちは戦国の残党を討つ任務に出る。人を斬るたびに、彼女は自分の役割を問い直す。派手な立ち回りで話題を呼んだ作品にあたる。上戸彩の体当たりの演技と、大人数の斬り合いが見どころとなる。",
+    "tmdbId": 5889,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "penguin-highway",
+    "title": "ペンギン・ハイウェイ",
+    "titleKana": "ぺんぎんはいうぇい",
+    "directorIds": [
+      "hiroyasu-ishida"
+    ],
+    "screenwriterIds": [
+      "makoto-ueda"
+    ],
+    "studioIds": [
+      "studio-colorido",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "kana-kita",
+        "character": "アオヤマ君"
+      },
+      {
+        "actorId": "rie-kugimiya",
+        "character": "ウチダ"
+      },
+      {
+        "actorId": "yu-aoi",
+        "character": "お姉さん"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "fantasy",
+      "sf",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2018,
+      "month": 8
+    },
+    "runtime": 119,
+    "originalType": "novel",
+    "synopsis": "研究熱心な小学四年生のアオヤマ君が、町に突然現れたペンギンの謎を追う。歯科医院の「お姉さん」が缶を投げるとペンギンが生まれると知り、二人は共同で研究を進める。町外れの草原には、正体不明の球体が浮かんでいた。森見登美彦の小説を映像化した作品にあたる。少年の観察日記のような語り口が、この作品の持ち味となっている。",
+    "tmdbId": 508422,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sister-act",
+    "title": "天使にラブ・ソングを…",
+    "titleKana": "てんしにらぶそんぐを",
+    "directorIds": [
+      "emile-ardolino"
+    ],
+    "screenwriterIds": [
+      "paul-rudnick"
+    ],
+    "studioIds": [
+      "touchstone-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "whoopi-goldberg",
+        "character": "デロリス・ヴァン・カルティエ"
+      },
+      {
+        "actorId": "maggie-smith",
+        "character": "修道院長"
+      },
+      {
+        "actorId": "kathy-najimy",
+        "character": "メアリー・パトリック"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "comedy",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 4
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "殺人現場を目撃したクラブ歌手デロリスが、修道院に匿われる。堅苦しい生活になじめない彼女は、下手な聖歌隊の指導を任される。歌を大胆に作り替えたことで、教会は町の人気を集めるようになる。ゴスペルの場面で広く親しまれている作品にあたる。ウーピー・ゴールドバーグの当たり役として、続編も作られた。",
+    "tmdbId": 2005,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Sister Act"
+  },
+  {
+    "id": "rocky-iv",
+    "title": "ロッキー4 炎の友情",
+    "titleKana": "ろっきーふぉーほのおのゆうじょう",
+    "directorIds": [
+      "sylvester-stallone"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "united-artists",
+      "chartoff-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "sylvester-stallone",
+        "character": "ロッキー・バルボア"
+      },
+      {
+        "actorId": "dolph-lundgren",
+        "character": "イワン・ドラゴ"
+      },
+      {
+        "actorId": "carl-weathers",
+        "character": "アポロ・クリード"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sports",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1986,
+      "month": 6
+    },
+    "runtime": 91,
+    "originalType": "original",
+    "synopsis": "科学的な訓練で作られたソ連の巨漢ドラゴが訪米し、挑発を繰り返す。旧友アポロが試合に臨むが、リング上で命を落としてしまう。ロッキーは王座を返上し、単身ソ連へ渡って雪山で身体を作る。楽曲と訓練場面の編集で強く記憶されている一本にあたる。シリーズ最大の興行成績を記録し、冷戦期の空気を色濃く映している。",
+    "tmdbId": 1374,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Rocky IV",
+    "seriesId": "rocky"
+  },
+  {
+    "id": "paris-texas",
+    "title": "パリ、テキサス",
+    "titleKana": "ぱりてきさす",
+    "directorIds": [
+      "wim-wenders"
+    ],
+    "screenwriterIds": [
+      "sam-shepard",
+      "l-m-kit-carson"
+    ],
+    "studioIds": [
+      "road-movies",
+      "argos-films"
+    ],
+    "cast": [
+      {
+        "actorId": "harry-dean-stanton",
+        "character": "トラヴィス"
+      },
+      {
+        "actorId": "nastassja-kinski",
+        "character": "ジェーン"
+      },
+      {
+        "actorId": "dean-stockwell",
+        "character": "ウォルト"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "road-movie",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 9
+    },
+    "runtime": 146,
+    "originalType": "original",
+    "synopsis": "砂漠を無言で歩く男トラヴィスが、四年ぶりに弟に保護される。彼は預けたままの息子と再会し、少しずつ言葉を取り戻していく。二人は、姿を消した母親を探して車で南へ向かう。覗き部屋越しの長い告白が、この作品の核となっている。荒野の風景とライ・クーダーの音楽が、強い印象を残している。カンヌ最高賞を受けた作品にあたる。",
+    "tmdbId": 655,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Paris, Texas"
+  },
+  {
+    "id": "snakes-and-earrings",
+    "title": "蛇にピアス",
+    "titleKana": "へびにぴあす",
+    "directorIds": [
+      "yukio-ninagawa"
+    ],
+    "screenwriterIds": [
+      "takuya-miyawaki"
+    ],
+    "studioIds": [
+      "amuse-soft-entertainment",
+      "point-break-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "yuriko-yoshitaka",
+        "character": "ルイ"
+      },
+      {
+        "actorId": "kengo-kora",
+        "character": "アマ"
+      },
+      {
+        "actorId": "arata-iura",
+        "character": "シバ"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "suspense",
+      "crime",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 9
+    },
+    "runtime": 126,
+    "originalType": "novel",
+    "synopsis": "渋谷で遊び暮らす十九歳のルイが、舌を裂いた青年アマと出会う。身体改造にのめり込んだ彼女は、彫師のシバとも関係を持つようになる。ある事件をきっかけに、三人の均衡は崩れていく。芥川賞受賞作を蜷川幸雄が映画化した作品にあたる。痛みと自傷を通じて、生きている実感を求める姿が描かれている。吉高由里子の初主演作にあたる。",
+    "tmdbId": 38551,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "son-of-godzilla",
+    "title": "怪獣島の決戦 ゴジラの息子",
+    "titleKana": "かいじゅうとうのけっせんごじらのむすこ",
+    "directorIds": [
+      "jun-fukuda"
+    ],
+    "screenwriterIds": [
+      "shinichi-sekizawa",
+      "kazue-kiba"
+    ],
+    "studioIds": [
+      "toho",
+      "tokyo-laboratory"
+    ],
+    "cast": [
+      {
+        "actorId": "tadao-takashima",
+        "character": "楠見博士"
+      },
+      {
+        "actorId": "bibari-maeda",
+        "character": "松宮冴子"
+      },
+      {
+        "actorId": "akira-kubo",
+        "character": "真城吾郎"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "sf",
+      "fantasy",
+      "kaiju",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1967,
+      "month": 12
+    },
+    "runtime": 86,
+    "originalType": "original",
+    "synopsis": "南太平洋の孤島で行われていた気象操作の実験が、謎の電波で失敗する。巨大な卵から生まれたミニラを、ゴジラが親として育てはじめる。巨大蜘蛛クモンガや蟷螂の群れが、親子に襲いかかる。子ども向けの要素を前面に出した第八作にあたる。ミニラの造形と親子の描写が、シリーズの方向を大きく変えた。南国の景観も見どころとなっている。",
+    "tmdbId": 18627,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "godzilla"
+  },
+  {
+    "id": "the-bodyguard",
+    "title": "ボディガード",
+    "titleKana": "ぼでぃがーど",
+    "directorIds": [
+      "mick-jackson"
+    ],
+    "screenwriterIds": [
+      "lawrence-kasdan"
+    ],
+    "studioIds": [
+      "kasdan-pictures",
+      "tig-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "kevin-costner",
+        "character": "フランク・ファーマー"
+      },
+      {
+        "actorId": "whitney-houston",
+        "character": "レイチェル・マロン"
+      },
+      {
+        "actorId": "gary-kemp",
+        "character": "サイ・スペクター"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "romance",
+      "suspense",
+      "music"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1992,
+      "month": 12
+    },
+    "runtime": 130,
+    "originalType": "original",
+    "synopsis": "要人警護の専門家フランクが、脅迫を受ける歌手レイチェルの護衛を引き受ける。生活を細かく制限する彼と、自由を奪われる彼女は衝突を繰り返す。やがて二人は互いに惹かれ、それが職務を難しくする。主題歌が世界的な大ヒットとなった作品にあたる。ホイットニー・ヒューストンの歌声が、この作品の中心となっている。",
+    "tmdbId": 619,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Bodyguard"
+  },
+  {
+    "id": "spaceballs",
+    "title": "スペースボール",
+    "titleKana": "すぺーすぼーる",
+    "directorIds": [
+      "mel-brooks"
+    ],
+    "screenwriterIds": [
+      "thomas-meehan"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer",
+      "brooksfilms"
+    ],
+    "cast": [
+      {
+        "actorId": "bill-pullman",
+        "character": "ローン・スター"
+      },
+      {
+        "actorId": "rick-moranis",
+        "character": "ダーク・ヘルメット"
+      },
+      {
+        "actorId": "mel-brooks",
+        "character": "スクルーブ大統領"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "sf",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1988,
+      "month": 6
+    },
+    "runtime": 96,
+    "originalType": "original",
+    "synopsis": "惑星の空気を奪おうとするスペースボール軍が、王女を誘拐する。雇われた運び屋ローン・スターが、犬のような相棒とともに救出に向かう。宇宙冒険映画の定番をひとつ残らず茶化していく。メル・ブルックス監督による代表的なパロディ喜劇にあたる。元ネタを知るほど楽しめる作りで、今も引用され続けている。",
+    "tmdbId": 957,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spaceballs"
+  },
+  {
+    "id": "labyrinth",
+    "title": "ラビリンス 魔王の迷宮",
+    "titleKana": "らびりんすまおうのめいきゅう",
+    "directorIds": [
+      "jim-henson"
+    ],
+    "screenwriterIds": [
+      "terry-jones"
+    ],
+    "studioIds": [
+      "henson-associates",
+      "lucasfilm-ltd"
+    ],
+    "cast": [
+      {
+        "actorId": "david-bowie",
+        "character": "ジャレス"
+      },
+      {
+        "actorId": "jennifer-connelly",
+        "character": "サラ"
+      },
+      {
+        "actorId": "toby-froud",
+        "character": "トビー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "fantasy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1986,
+      "month": 7
+    },
+    "runtime": 102,
+    "originalType": "original",
+    "synopsis": "弟の世話を押しつけられた少女サラが、うっかり魔王に連れ去ってと願ってしまう。十三時間以内に迷宮を抜けなければ、弟は永久に戻らない。奇怪な生き物たちと出会いながら、彼女は城を目指す。人形操演とデヴィッド・ボウイの存在で知られる作品にあたる。手作りの人形と美術が、独特の質感を全編に与えている。",
+    "tmdbId": 13597,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Labyrinth"
+  },
+  {
+    "id": "howling-village",
+    "title": "犬鳴村",
+    "titleKana": "いぬなきむら",
+    "directorIds": [
+      "takashi-shimizu"
+    ],
+    "screenwriterIds": [
+      "daisuke-hosaka"
+    ],
+    "studioIds": [
+      "toei-company",
+      "booster-project"
+    ],
+    "cast": [
+      {
+        "actorId": "ayaka-miyoshi",
+        "character": "森田奏"
+      },
+      {
+        "actorId": "ryota-bando",
+        "character": "森田悠馬"
+      },
+      {
+        "actorId": "rinka-otani",
+        "character": "西田明菜"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2020,
+      "month": 2
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "臨床心理士の奏の周囲で、不可解な死が続けざまに起きる。手がかりは、地図から消えたという村へ続く旧トンネルだった。弟とともに現地へ向かった彼女は、自分の一族と村の因縁を知る。日本の都市伝説を題材にしたホラーの一本にあたる。実在すると噂される場所を題材に、家系の呪いを描いている。清水崇監督による村シリーズの第一作にあたる。",
+    "tmdbId": 635199,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "star-trek-insurrection",
+    "title": "スター・トレック 叛乱",
+    "titleKana": "すたーとれっくはんらん",
+    "directorIds": [
+      "jonathan-frakes"
+    ],
+    "screenwriterIds": [
+      "michael-piller"
+    ],
+    "studioIds": [
+      "paramount",
+      "digital-image-associates"
+    ],
+    "cast": [
+      {
+        "actorId": "patrick-stewart",
+        "character": "ジャン=リュック・ピカード艦長"
+      },
+      {
+        "actorId": "brent-spiner",
+        "character": "データ少佐"
+      },
+      {
+        "actorId": "michael-dorn",
+        "character": "ウォーフ中佐"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "adventure",
+      "suspense",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1998,
+      "month": 12
+    },
+    "runtime": 103,
+    "originalType": "other",
+    "synopsis": "辺境の惑星で調査中のデータ少佐が、突然暴走して村人を守りはじめる。原因を探るピカードは、この星の住民を強制移住させる計画を知る。連邦の決定に背いて、彼は乗組員とともに住民の側につく。新世代の乗組員による第三作にあたる。若返りをもたらす惑星という設定が、物語の軸となっている。テレビ的な規模の一本とされる。",
+    "tmdbId": 200,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Star Trek: Insurrection",
+    "seriesId": "star-trek"
+  },
+  {
+    "id": "the-great-dictator",
+    "title": "独裁者",
+    "titleKana": "どくさいしゃ",
+    "directorIds": [
+      "charlie-chaplin"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "charles-chaplin-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "charlie-chaplin",
+        "character": "ヒンケル"
+      },
+      {
+        "actorId": "paulette-goddard",
+        "character": "ハンナ"
+      },
+      {
+        "actorId": "jack-oakie",
+        "character": "ナパロニ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "war",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1960,
+      "month": 10
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "記憶を失った床屋が、独裁者ヒンケルと瓜二つであることから騒動に巻き込まれる。ユダヤ人地区での迫害と、宮殿での権力者の滑稽な振る舞いが交互に描かれる。最後に床屋は、群衆を前に演説することになる。チャップリンの初の本格的な発声映画にあたる。最後の演説は、今日でも繰り返し引用される名場面となっている。",
+    "tmdbId": 914,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Great Dictator"
+  },
+  {
+    "id": "bambi",
+    "title": "バンビ",
+    "titleKana": "ばんび",
+    "directorIds": [
+      "david-hand"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "walt-disney-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "donnie-dunagan",
+        "character": "バンビ"
+      },
+      {
+        "actorId": "peter-behn",
+        "character": "とんすけ"
+      },
+      {
+        "actorId": "stan-alexander",
+        "character": "フラワー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "animal",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 1951,
+      "month": 5
+    },
+    "runtime": 70,
+    "originalType": "novel",
+    "synopsis": "森に生まれた小鹿バンビが、兎のとんすけや臭鼬のフラワーと友情を育む。季節が移るなかで、彼は歩き方も鳴き声も少しずつ覚えていく。だが人間の狩りが、彼から母を奪う。台詞を抑え、動物の動きの観察に徹した作画で知られる長編にあたる。母を失う場面は、世代を越えて語り継がれる衝撃を残している。",
+    "tmdbId": 3170,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bambi"
+  },
+  {
+    "id": "crayon-shin-chan-my-moving-story-cactus-large-attack",
+    "title": "クレヨンしんちゃん オラの引越し物語 サボテン大襲撃",
+    "titleKana": "くれよんしんちゃんおらのひっこしものがたりさぼてんだいしゅうげき",
+    "directorIds": [
+      "masakazu-hashimoto"
+    ],
+    "screenwriterIds": [
+      "kimiko-ueno"
+    ],
+    "studioIds": [
+      "toho",
+      "shin-ei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "akiko-yajima",
+        "character": "野原しんのすけ"
+      },
+      {
+        "actorId": "miki-narahashi",
+        "character": "野原みさえ"
+      },
+      {
+        "actorId": "keiji-fujiwara",
+        "character": "野原ひろし"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 4
+    },
+    "runtime": 104,
+    "originalType": "manga",
+    "synopsis": "ひろしの転勤で、野原一家がメキシコの田舎町へ引っ越す。歓迎ムードの町だったが、突然サボテンが巨大化して人を襲いはじめる。避難した住民のなかで、しんのすけたちが対抗策を探る。母親の強さを前面に出した劇場版第二十三作にあたる。異国を舞台にした賑やかな構成で、家族の描写が軸となっている。",
+    "tmdbId": 371236,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "crayon-shin-chan"
+  },
+  {
+    "id": "royal-space-force-the-wings-of-honneamise",
+    "title": "王立宇宙軍 オネアミスの翼",
+    "titleKana": "おうりつうちゅうぐんおねあみすのつばさ",
+    "directorIds": [
+      "hiroyuki-yamaga"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "gainax"
+    ],
+    "cast": [
+      {
+        "actorId": "leo-morimoto",
+        "character": "シロツグ・ラーダット"
+      },
+      {
+        "actorId": "mitsuki-yayoi",
+        "character": "リイクニ・ノンデライコ"
+      },
+      {
+        "actorId": "aya-murata",
+        "character": "マナ・ノンデライコ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "space",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1987,
+      "month": 3
+    },
+    "runtime": 121,
+    "originalType": "original",
+    "synopsis": "落第軍隊と侮られる王立宇宙軍に所属するシロツグは、目的もなく日々を過ごしていた。街で出会った信仰篤い少女リイクニとの会話をきっかけに、彼は有人飛行の志願者に名乗りを上げる。国家の思惑が、計画を政治利用しようと動く。ガイナックスの長編第一作にあたる。美術と作画の密度が突出し、後年に高い評価が定着した。",
+    "tmdbId": 20043,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rosemarys-baby",
+    "title": "ローズマリーの赤ちゃん",
+    "titleKana": "ろーずまりーのあかちゃん",
+    "directorIds": [
+      "roman-polanski"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "william-castle-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "mia-farrow",
+        "character": "ローズマリー・ウッドハウス"
+      },
+      {
+        "actorId": "john-cassavetes",
+        "character": "ガイ・ウッドハウス"
+      },
+      {
+        "actorId": "ruth-gordon",
+        "character": "ミニー・キャステベット"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "horror",
+      "suspense",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1969,
+      "month": 1
+    },
+    "runtime": 138,
+    "originalType": "novel",
+    "synopsis": "古いアパートに越してきた若い夫婦のもとに、親切すぎる隣人夫妻が出入りするようになる。妊娠したローズマリーは、体調の悪化と周囲の異様な干渉に不安を募らせる。夫の態度も、少しずつ変わっていく。心理的な恐怖を積み上げる構成で知られる作品にあたる。隣人の善意が恐怖に変わる過程が、丁寧に積み上げられている。",
+    "tmdbId": 805,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Rosemary's Baby"
+  },
+  {
+    "id": "the-tin-drum",
+    "title": "ブリキの太鼓",
+    "titleKana": "ぶりきのたいこ",
+    "directorIds": [
+      "volker-schlondorff"
+    ],
+    "screenwriterIds": [
+      "jean-claude-carriere",
+      "franz-seitz-junior"
+    ],
+    "studioIds": [
+      "jadran-film",
+      "artemis-film"
+    ],
+    "cast": [
+      {
+        "actorId": "mario-adorf",
+        "character": "アルフレート・マツェラート"
+      },
+      {
+        "actorId": "angela-winkler",
+        "character": "アグネス・マツェラート"
+      },
+      {
+        "actorId": "david-bennent",
+        "character": "オスカル・マツェラート"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1981,
+      "month": 4
+    },
+    "runtime": 162,
+    "originalType": "novel",
+    "synopsis": "三歳で自ら成長を止めた少年オスカルが、ブリキの太鼓を叩き続ける。奇声でガラスを割る力を持つ彼の目を通して、ナチス台頭期のダンツィヒが描かれる。大人たちの愚かさが、子どもの視点で容赦なく暴かれる。カンヌ最高賞と外国語映画賞を受けた作品にあたる。子役の存在感と、寓話としての強度が高く評価されている。",
+    "tmdbId": 659,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Die Blechtrommel"
+  },
+  {
+    "id": "singin-in-the-rain",
+    "title": "雨に唄えば",
+    "titleKana": "あめにうたえば",
+    "directorIds": [
+      "stanley-donen",
+      "gene-kelly"
+    ],
+    "screenwriterIds": [
+      "adolph-green",
+      "betty-comden"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "gene-kelly",
+        "character": "ドン・ロックウッド"
+      },
+      {
+        "actorId": "donald-oconnor",
+        "character": "コズモ・ブラウン"
+      },
+      {
+        "actorId": "debbie-reynolds",
+        "character": "キャシー・セルデン"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "musical",
+      "filmmaking"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1953,
+      "month": 4
+    },
+    "runtime": 103,
+    "originalType": "original",
+    "synopsis": "無声映画の人気俳優ドンが、発声映画への移行で窮地に立たされる。共演者リーナの声質が致命的で、新人キャシーが吹き替えを務めることになる。撮影所の混乱を、歌と踊りが軽やかに押し流していく。雨中で踊る場面が映画史に残る一本となっている。軽快な楽曲と踊りで、音楽映画の頂点とされ続けている。",
+    "tmdbId": 872,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Singin' in the Rain"
+  },
+  {
+    "id": "dead-or-alive",
+    "title": "DEAD OR ALIVE 犯罪者",
+    "titleKana": "でっどおああらいぶはんざいしゃ",
+    "directorIds": [
+      "takashi-miike"
+    ],
+    "screenwriterIds": [
+      "toshiki-kimura"
+    ],
+    "studioIds": [
+      "toei-video-company"
+    ],
+    "cast": [
+      {
+        "actorId": "riki-takeuchi",
+        "character": "龍一"
+      },
+      {
+        "actorId": "show-aikawa",
+        "character": "城島刑事"
+      },
+      {
+        "actorId": "renji-ishibashi",
+        "character": "青木"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 11
+    },
+    "runtime": 105,
+    "originalType": "original",
+    "synopsis": "新宿で中国系の組織と暴力団の抗争が激化するなか、現金輸送車が襲撃される。事件を追う刑事城島と、抗争の中心にいる龍一が互いに近づいていく。二人はそれぞれ守るべきものを抱えていた。冒頭と結末の極端な演出で知られる作品にあたる。過剰な暴力と勢いで押し切る作りが、この監督の名を広めた。",
+    "tmdbId": 11315,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "buddha-the-great-departure",
+    "title": "手塚治虫のブッダ 赤い砂漠よ!美しく",
+    "titleKana": "てづかおさむのぶっだあかいさばくようつくしく",
+    "directorIds": [
+      "kouzou-morishita"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "tezuka-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "sayuri-yoshinaga",
+        "character": "ナレーション"
+      },
+      {
+        "actorId": "masato-sakai",
+        "character": "チャプラ"
+      },
+      {
+        "actorId": "shuddhodana-voice",
+        "character": "シュッドーダナ王"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "human-drama",
+      "history"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 5
+    },
+    "runtime": 111,
+    "originalType": "manga",
+    "synopsis": "二千五百年前のインドで、身分制度に疑問を抱く王子シッダールタが生まれる。最下層の出でありながら軍で成り上がろうとする青年チャプラと、彼の道は交錯する。生まれで人生が決まる社会が、二人を別々の方向へ押しやる。手塚治虫の漫画を三部作として映像化した第一作にあたる。",
+    "tmdbId": 115969,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "buddha-movie"
+  },
+  {
+    "id": "citizen-kane",
+    "title": "市民ケーン",
+    "titleKana": "しみんけーん",
+    "directorIds": [
+      "orson-welles"
+    ],
+    "screenwriterIds": [
+      "herman-j-mankiewicz"
+    ],
+    "studioIds": [
+      "mercury-productions",
+      "rko-radio-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "orson-welles",
+        "character": "チャールズ・フォスター・ケーン"
+      },
+      {
+        "actorId": "joseph-cotten",
+        "character": "ジェデダイア・リーランド"
+      },
+      {
+        "actorId": "dorothy-comingore",
+        "character": "スーザン・アレクサンダー"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "human-drama",
+      "biography",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1966,
+      "month": 6
+    },
+    "runtime": 119,
+    "originalType": "original",
+    "synopsis": "新聞王ケーンが謎の言葉を残して死に、記者がその意味を追う。関係者への聞き取りを通じて、一人の男の生涯が断片的に組み上げられていく。だが証言はそれぞれ食い違い、実像は定まらない。革新的な撮影と構成で、長く映画史の頂点に置かれてきた作品にあたる。深い被写界深度を用いた撮影が、映画の技法を大きく更新した。",
+    "tmdbId": 15,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Citizen Kane"
+  },
+  {
+    "id": "a-star-is-born",
+    "title": "アリー スター誕生",
+    "titleKana": "ありーすたーたんじょう",
+    "directorIds": [
+      "bradley-cooper"
+    ],
+    "screenwriterIds": [
+      "will-fetters"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "live-nation-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "lady-gaga",
+        "character": "アリー・カンパーナ"
+      },
+      {
+        "actorId": "bradley-cooper",
+        "character": "ジャクソン・メイン"
+      },
+      {
+        "actorId": "sam-elliott",
+        "character": "ボビー・メイン"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "human-drama",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 12
+    },
+    "runtime": 136,
+    "originalType": "other",
+    "synopsis": "才能を持ちながら芽が出ない歌手アリーが、酒に溺れる大物歌手ジャクソンに見出される。彼の後押しで一気に人気を得た彼女と、衰えていく彼の立場が逆転していく。互いを愛したまま、二人は違う速度で進んでいく。何度も作り直された題材の最新版にあたる。レディー・ガガの演技と楽曲が、大きな話題を呼んだ作品にあたる。",
+    "tmdbId": 332562,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "A Star Is Born"
+  },
+  {
+    "id": "a-fistful-of-dollars",
+    "title": "荒野の用心棒",
+    "titleKana": "こうやのようじんぼう",
+    "directorIds": [
+      "sergio-leone"
+    ],
+    "screenwriterIds": [
+      "victor-andres-catena",
+      "jaime-comas-gil"
+    ],
+    "studioIds": [
+      "jolly-film",
+      "ocean-films"
+    ],
+    "cast": [
+      {
+        "actorId": "clint-eastwood",
+        "character": "ジョー"
+      },
+      {
+        "actorId": "marianne-koch",
+        "character": "マリソル"
+      },
+      {
+        "actorId": "gian-maria-volonte",
+        "character": "ラモン・ロホ"
+      }
+    ],
+    "themeIds": [
+      "western",
+      "action",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1965,
+      "month": 12
+    },
+    "runtime": 99,
+    "originalType": "other",
+    "synopsis": "国境の町サン・ミゲルで、二つの一族が勢力を争っている。流れ者のガンマンは、双方に雇われながら互いをぶつけ合う。策略が露見し、彼は徹底的に痛めつけられる。黒澤明の用心棒を下敷きにした作品で、マカロニ・ウエスタンの起点となっている。エンニオ・モリコーネの音楽が、この系譜の音を決定づけた。",
+    "tmdbId": 391,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Per un pugno di dollari",
+    "seriesId": "dollars-trilogy"
+  },
+  {
+    "id": "ajin-demi-human",
+    "title": "亜人",
+    "titleKana": "あじん",
+    "directorIds": [
+      "katsuyuki-motohiro"
+    ],
+    "screenwriterIds": [
+      "masahiro-yamaura",
+      "hiroshi-seko"
+    ],
+    "studioIds": [
+      "toho",
+      "toho-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "takeru-satoh",
+        "character": "永井圭"
+      },
+      {
+        "actorId": "go-ayano",
+        "character": "佐藤"
+      },
+      {
+        "actorId": "minami-hamabe",
+        "character": "永井慧理子"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "horror",
+      "mystery",
+      "monster",
+      "suspense"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 9
+    },
+    "runtime": 109,
+    "originalType": "manga",
+    "synopsis": "死んでも即座に再生する新人類、亜人の存在が世に知られている。事故で自らが亜人だと判明した医学生の永井圭は、政府に追われる身となる。人類への報復を企てる佐藤が、彼を仲間に引き入れようとする。人気漫画を実写化した作品にあたる。高速で移動する黒い幽霊の描写に、視覚効果が集中している。",
+    "tmdbId": 433128,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "willy-wonka-the-chocolate-factory",
+    "title": "夢のチョコレート工場",
+    "titleKana": "ゆめのちょこれーとこうじょう",
+    "directorIds": [
+      "mel-stuart"
+    ],
+    "screenwriterIds": [
+      "roald-dahl"
+    ],
+    "studioIds": [
+      "wolper-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "peter-ostrum",
+        "character": "チャーリー"
+      },
+      {
+        "actorId": "gene-wilder",
+        "character": "ウィリー・ウォンカ"
+      },
+      {
+        "actorId": "jack-albertson",
+        "character": "ジョーおじいちゃん"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "fantasy",
+      "comedy",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1971,
+      "month": 7
+    },
+    "runtime": 100,
+    "originalType": "novel",
+    "synopsis": "世界一の菓子工場が、金の券を当てた五人の子どもを招待すると発表する。貧しい少年チャーリーが最後の一枚を手にし、祖父とともに工場を訪れる。奇想天外な設備のなかで、他の子どもたちは自らの欲で脱落していく。原作を初めて映画化した作品にあたる。ジーン・ワイルダーの掴みどころのない演技が語り草となっている。",
+    "tmdbId": 252,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Willy Wonka & the Chocolate Factory"
+  },
+  {
+    "id": "star-trek-v-the-final-frontier",
+    "title": "スター・トレックV 新たなる未知へ",
+    "titleKana": "すたーとれっくふぁいぶあらたなるみちへ",
+    "directorIds": [
+      "william-shatner"
+    ],
+    "screenwriterIds": [
+      "david-loughery"
+    ],
+    "studioIds": [
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "william-shatner",
+        "character": "ジェームズ・T・カーク"
+      },
+      {
+        "actorId": "leonard-nimoy",
+        "character": "スポック"
+      },
+      {
+        "actorId": "deforest-kelley",
+        "character": "レナード・マッコイ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "adventure",
+      "suspense",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 6
+    },
+    "runtime": 106,
+    "originalType": "other",
+    "synopsis": "中立地帯の惑星で反乱が起き、休暇中のカークたちが急行する。首謀者はスポックの異母兄サイボックで、心の痛みを取り除く力を持っていた。彼の目的は、銀河の中心にあるという場所へ到達することだった。ウィリアム・シャトナーが監督を務めた第五作にあたる。評価は厳しかったが、三人の友情の描写は支持されている。",
+    "tmdbId": 172,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Star Trek V: The Final Frontier",
+    "seriesId": "star-trek"
+  },
+  {
+    "id": "the-legend-of-hei",
+    "title": "羅小黒戦記 ぼくが選ぶ未来",
+    "titleKana": "らしゃおへいせんきぼくがえらぶみらい",
+    "directorIds": [
+      "mtjj"
+    ],
+    "screenwriterIds": [
+      "kexin-peng"
+    ],
+    "studioIds": [
+      "mtjj",
+      "beijing-guangying-gongchang-wenhua-chuanbo"
+    ],
+    "cast": [
+      {
+        "actorId": "shan-xin",
+        "character": "羅小黒"
+      },
+      {
+        "actorId": "liu-mingyue",
+        "character": "無限"
+      },
+      {
+        "actorId": "hao-xianghai",
+        "character": "風息"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "action",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 11
+    },
+    "runtime": 102,
+    "originalType": "original",
+    "synopsis": "森を追われた黒猫の妖精シャオヘイが、同じ妖精のフーシーに拾われる。だが人間の執行人ムゲンに引き離され、彼は師弟のような旅を強いられる。人と妖精のどちらにつくかを、彼は自分で選ぶことになる。中国で制作され、日本でも高い評価を得た長編アニメにあたる。手描きの動きの気持ちよさが、この作品の大きな魅力となっている。",
+    "tmdbId": 620249,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "罗小黑战记"
   }
 ]
