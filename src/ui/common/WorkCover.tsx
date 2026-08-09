@@ -13,13 +13,28 @@ function colorFor(title: string): (typeof COVER_COLORS)[number] {
  *  placeholder (title on a pastel card) when absent or the image fails to load. We don't host
  *  the artwork ourselves; the cache stores TMDb CDN URLs, so a broken/removed image
  *  degrades back to the placeholder automatically. */
-export function WorkCover({ title, coverUrl, size = "sm" }: { title: string; coverUrl?: string; size?: "sm" | "lg" }) {
+/** TMDbの画像URLはサイズをパスに持つ(`/t/p/w500/…`)。一覧のカード用に w500 を保存して
+ *  いるので、184x262 で並べる表紙表示では w780 に差し替えて粗さを防ぐ。取得し直す必要はない。
+ *  想定と違うパスのURLは不一致で素通りする。 */
+function coverSrc(coverUrl: string, size: string): string {
+  return size === "xl" ? coverUrl.replace("/t/p/w500/", "/t/p/w780/") : coverUrl;
+}
+
+export function WorkCover({
+  title,
+  coverUrl,
+  size = "sm",
+}: {
+  title: string;
+  coverUrl?: string;
+  size?: "sm" | "lg" | "xl";
+}) {
   const [broken, setBroken] = useState(false);
   if (coverUrl && !broken) {
     return (
       <img
         className={`work-cover work-cover--${size} work-cover--image`}
-        src={coverUrl}
+        src={coverSrc(coverUrl, size)}
         alt={title}
         loading="lazy"
         onError={() => setBroken(true)}
