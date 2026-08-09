@@ -6222,5 +6222,1978 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "The Green Mile"
+  },
+  {
+    "id": "black-clover-sword-of-the-wizard-king",
+    "title": "映画 ブラッククローバー 魔法帝の剣",
+    "titleKana": "えいがぶらっくくろーばーまほうていのつるぎ",
+    "directorIds": [
+      "ayataka-tanemura"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "pierrot",
+      "bandai-namco-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "gakuto-kajiwara",
+        "character": "アスタ"
+      },
+      {
+        "actorId": "nobunaga-shimazaki",
+        "character": "ユノ"
+      },
+      {
+        "actorId": "junichi-suwabe",
+        "character": "ヤミ・スケヒロ"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "action",
+      "adventure",
+      "magic",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 6
+    },
+    "runtime": 113,
+    "originalType": "manga",
+    "synopsis": "誰もが魔法を使える世界で、ただ一人魔法を持たずに生まれたアスタは、魔法帝を目指して騎士団で修行を積んでいた。そこへ封印を破って蘇った四人の元魔法帝が現れ、クローバー王国の壊滅を宣言する。圧倒的な力を前に、アスタは反魔法の剣を手に仲間と共に立ち向かう。劇場オリジナルの物語。",
+    "tmdbId": 812225,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "battle-royale",
+    "title": "バトル・ロワイアル",
+    "titleKana": "ばとるろわいある",
+    "directorIds": [
+      "kinji-fukasaku"
+    ],
+    "screenwriterIds": [
+      "kenta-fukasaku"
+    ],
+    "studioIds": [
+      "toei-company",
+      "wowow"
+    ],
+    "cast": [
+      {
+        "actorId": "tatsuya-fujiwara",
+        "character": "七原秋也"
+      },
+      {
+        "actorId": "aki-maeda",
+        "character": "中川典子"
+      },
+      {
+        "actorId": "takeshi-kitano",
+        "character": "キタノ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "action",
+      "survival",
+      "school",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 12
+    },
+    "runtime": 113,
+    "originalType": "novel",
+    "synopsis": "荒廃した社会で制定された法により、中学三年のクラスがまるごと孤島へ送られ、最後の一人になるまで殺し合うよう命じられる。首輪をはめられ武器を渡された生徒たちは、逃亡や連帯を試みながら次々と脱落していく。かつての担任キタノが見下ろすなか、七原秋也と中川典子は島からの脱出を目指す。",
+    "tmdbId": 3176,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harry-potter-and-the-deathly-hallows-part-2",
+    "title": "ハリー・ポッターと死の秘宝 Part2",
+    "titleKana": "はりーぽったーとしのひほうぱーとつー",
+    "directorIds": [
+      "david-yates"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 7
+    },
+    "runtime": 130,
+    "originalType": "novel",
+    "synopsis": "残る分霊箱を求めてホグワーツへ戻ったハリーたちを、ヴォルデモート率いる軍勢が包囲する。教師と生徒が城の守りを固めるなか、闇の魔法使いの秘密と、スネイプが長年隠してきた真意が明らかになる。自らも分霊箱であることを知ったハリーは、禁じられた森へ独り歩いていく。全八作の完結編。",
+    "tmdbId": 12445,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Deathly Hallows: Part 2",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "harry-potter-and-the-order-of-the-phoenix",
+    "title": "ハリー・ポッターと不死鳥の騎士団",
+    "titleKana": "はりーぽったーとふしちょうのきしだん",
+    "directorIds": [
+      "david-yates"
+    ],
+    "screenwriterIds": [
+      "michael-goldenberg"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "school",
+      "politics"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 6
+    },
+    "runtime": 138,
+    "originalType": "novel",
+    "synopsis": "闇の帝王の復活を認めない魔法省は、ホグワーツに監督官アンブリッジを送り込み、実技を伴わない防衛術の授業で生徒たちを縛りつける。ハリーは仲間を集め、秘密の部屋で実戦的な魔法を教えはじめる。ヴォルデモートとの精神的なつながりに苦しみながら、彼は魔法省の地下へ誘い込まれていく。",
+    "tmdbId": 675,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Order of the Phoenix",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "toy-story-3",
+    "title": "トイ・ストーリー3",
+    "titleKana": "といすとーりーすりー",
+    "directorIds": [
+      "lee-unkrich"
+    ],
+    "screenwriterIds": [
+      "michael-arndt"
+    ],
+    "studioIds": [
+      "pixar"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-hanks",
+        "character": "ウッディ"
+      },
+      {
+        "actorId": "tim-allen",
+        "character": "バズ・ライトイヤー"
+      },
+      {
+        "actorId": "joan-cusack",
+        "character": "ジェシー"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "comedy",
+      "friendship",
+      "adventure"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 7
+    },
+    "runtime": 103,
+    "originalType": "original",
+    "synopsis": "持ち主のアンディが大学へ旅立つ日が近づき、おもちゃたちは屋根裏か寄付かの分かれ道に立たされる。手違いで保育園へ送られた一同は、そこを支配するくまのぬいぐるみロッツォの管理下に置かれる。脱出を図る仲間たちと、アンディのもとへ戻ろうとするウッディ。役目の終わりを見つめる第三作。",
+    "tmdbId": 10193,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Toy Story 3",
+    "seriesId": "toy-story"
+  },
+  {
+    "id": "the-wind-rises",
+    "title": "風立ちぬ",
+    "titleKana": "かぜたちぬ",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "nippon-television-network-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "hideaki-anno",
+        "character": "堀越二郎"
+      },
+      {
+        "actorId": "hidetoshi-nishijima",
+        "character": "本庄"
+      },
+      {
+        "actorId": "miori-takimoto",
+        "character": "里見菜穂子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "romance",
+      "biography"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 7
+    },
+    "runtime": 126,
+    "originalType": "other",
+    "synopsis": "飛行機に憧れる少年堀越二郎は、関東大震災の混乱のなかで少女菜穂子と出会い、やがて航空機設計者として頭角を現す。美しい機体を作りたいという純粋な願いは、時代の要請によって戦闘機の設計へと結びついていく。療養する菜穂子との限られた時間と、創造に取り憑かれた男の生涯を重ねて描く。",
+    "tmdbId": 149870,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "my-hero-academia-heroes-rising",
+    "title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+    "titleKana": "ぼくのひーろーあかでみあざむーびーひーろーずらいじんぐ",
+    "directorIds": [
+      "kenji-nagasaki"
+    ],
+    "screenwriterIds": [
+      "yosuke-kuroda"
+    ],
+    "studioIds": [
+      "bones",
+      "dentsu"
+    ],
+    "cast": [
+      {
+        "actorId": "daiki-yamashita",
+        "character": "緑谷出久"
+      },
+      {
+        "actorId": "nobuhiko-okamoto",
+        "character": "爆豪勝己"
+      },
+      {
+        "actorId": "yoshio-inoue",
+        "character": "ナイン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "adventure",
+      "hero",
+      "school",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 12
+    },
+    "runtime": 104,
+    "originalType": "manga",
+    "synopsis": "離島での職場体験に赴いた雄英高校一年A組の前に、他人の個性を奪う敵ナインが現れる。島民を人質に取られ、応援も呼べない状況で、生徒たちだけで防衛線を張ることになる。追い詰められた緑谷出久と爆豪勝己が選ぶのは、二人でひとつの力を託し合うという最後の手段だった。個性を託すという選択が、二人の因縁に一つの答えを出す劇場版第三作。",
+    "tmdbId": 592350,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "my-hero-academia"
+  },
+  {
+    "id": "fast-x",
+    "title": "ワイルド・スピード／ファイヤーブースト",
+    "titleKana": "わいるどすぴーどふぁいやーぶーすと",
+    "directorIds": [
+      "louis-leterrier"
+    ],
+    "screenwriterIds": [
+      "dan-mazeau",
+      "justin-lin"
+    ],
+    "studioIds": [
+      "universal",
+      "original-film"
+    ],
+    "cast": [
+      {
+        "actorId": "vin-diesel",
+        "character": "ドミニク・トレット"
+      },
+      {
+        "actorId": "michelle-rodriguez",
+        "character": "レティ"
+      },
+      {
+        "actorId": "tyrese-gibson",
+        "character": "ローマン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "suspense",
+      "racing",
+      "revenge",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 5
+    },
+    "runtime": 142,
+    "originalType": "original",
+    "synopsis": "家族と穏やかに暮らしていたドミニクの前に、かつて倒した麻薬王の息子ダンテが現れる。十年をかけて復讐の計画を練り上げた男は、仲間を分断し、汚名を着せ、家族そのものを標的にする。世界各地に散ったチームがそれぞれの窮地で戦うなか、ドミニクは息子を守るためハンドルを握る。",
+    "tmdbId": 385687,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fast X",
+    "seriesId": "fast-and-furious"
+  },
+  {
+    "id": "monsters-inc",
+    "title": "モンスターズ・インク",
+    "titleKana": "もんすたーずいんく",
+    "directorIds": [
+      "pete-docter"
+    ],
+    "screenwriterIds": [
+      "andrew-stanton",
+      "daniel-gerson"
+    ],
+    "studioIds": [
+      "pixar"
+    ],
+    "cast": [
+      {
+        "actorId": "john-goodman",
+        "character": "サリー"
+      },
+      {
+        "actorId": "billy-crystal",
+        "character": "マイク"
+      },
+      {
+        "actorId": "mary-gibbs",
+        "character": "ブー"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "fantasy",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2002,
+      "month": 3
+    },
+    "runtime": 92,
+    "originalType": "original",
+    "synopsis": "モンスターの街のエネルギー源は、人間の子どもの悲鳴だった。怖がらせ屋の花形サリーと相棒のマイクは、ある夜、人間界から幼い女の子が紛れ込んだことで大騒動に巻き込まれる。危険なはずの子どもを匿ううち、二人は業界そのものの前提が間違っていたことに気づいていく。怖がらせから笑わせることへ、社会の仕組みごと組み替える結末が痛快な一作。",
+    "tmdbId": 585,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Monsters, Inc."
+  },
+  {
+    "id": "harry-potter-and-the-half-blood-prince",
+    "title": "ハリー・ポッターと謎のプリンス",
+    "titleKana": "はりーぽったーとなぞのぷりんす",
+    "directorIds": [
+      "david-yates"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "school"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 7
+    },
+    "runtime": 154,
+    "originalType": "novel",
+    "synopsis": "ハリーは古い魔法薬の教科書に残された謎のプリンスの書き込みを頼りに、めきめきと腕を上げていく。一方ダンブルドアは、闇の帝王の過去をたどる記憶をハリーに見せ、不死の秘密である分霊箱の存在を示唆する。恋の騒がしさの裏で、天文台の塔に向けて静かに悲劇が準備されていく。",
+    "tmdbId": 767,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Half-Blood Prince",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "evangelion-3-0-1-0-thrice-upon-a-time",
+    "title": "シン・エヴァンゲリオン劇場版",
+    "titleKana": "しんえゔぁんげりおんげきじょうばん",
+    "directorIds": [
+      "kazuya-tsurumaki",
+      "mahiro-maeda"
+    ],
+    "screenwriterIds": [
+      "hideaki-anno"
+    ],
+    "studioIds": [
+      "khara"
+    ],
+    "cast": [
+      {
+        "actorId": "megumi-ogata",
+        "character": "碇シンジ"
+      },
+      {
+        "actorId": "yuko-miyamura",
+        "character": "式波・アスカ・ラングレー"
+      },
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "真希波・マリ・イラストリアス"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "human-drama",
+      "apocalypse",
+      "coming-of-age"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 3
+    },
+    "runtime": 155,
+    "originalType": "original",
+    "synopsis": "赤く染まった世界で、反ネルフ組織ヴィレは封印柱の復元作業を進めていた。心を閉ざしたシンジは、生き延びた人々が土を耕す村で時間を過ごし、少しずつ言葉を取り戻していく。やがて始まる最後の作戦で、彼は父ゲンドウと向き合い、エヴァンゲリオンのない世界を選び取る。長い物語の完結編。",
+    "tmdbId": 283566,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "evangelion"
+  },
+  {
+    "id": "my-hero-academia-world-heroes-mission",
+    "title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+    "titleKana": "ぼくのひーろーあかでみあざむーびーわーるどひーろーずみっしょん",
+    "directorIds": [
+      "kenji-nagasaki"
+    ],
+    "screenwriterIds": [
+      "yosuke-kuroda"
+    ],
+    "studioIds": [
+      "bones",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "daiki-yamashita",
+        "character": "緑谷出久"
+      },
+      {
+        "actorId": "nobuhiko-okamoto",
+        "character": "爆豪勝己"
+      },
+      {
+        "actorId": "yuki-kaji",
+        "character": "轟焦凍"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 8
+    },
+    "runtime": 105,
+    "originalType": "manga",
+    "synopsis": "個性を持つ人類こそが滅びの原因だと説く集団が、世界同時多発テロを予告する。全世界のヒーローが動員されるなか、緑谷出久は現地で出会った少年ロディと逃亡生活を送るはめになる。信じることの難しさを抱えながら、デクは残り時間わずかの状況で街を救うために走る。デクが一人のヒーローとして信頼を勝ち取っていく過程が軸になる。",
+    "tmdbId": 768744,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "my-hero-academia"
+  },
+  {
+    "id": "the-gorge",
+    "title": "深い谷の間に",
+    "titleKana": "ふかいたにのあいだに",
+    "directorIds": [
+      "scott-derrickson"
+    ],
+    "screenwriterIds": [
+      "zach-dean"
+    ],
+    "studioIds": [
+      "skydance-media",
+      "crooked-highway"
+    ],
+    "cast": [
+      {
+        "actorId": "miles-teller",
+        "character": "リーヴァイ"
+      },
+      {
+        "actorId": "anya-taylor-joy",
+        "character": "ドラーサ"
+      },
+      {
+        "actorId": "sigourney-weaver",
+        "character": "バーソロミュー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "sf",
+      "suspense",
+      "survival",
+      "monster"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 2
+    },
+    "runtime": 128,
+    "originalType": "original",
+    "synopsis": "世界のどこかにある巨大な峡谷。その両岸に建てられた監視塔に、素性の異なる二人の狙撃手が別々の国から配属される。言葉を交わすことを禁じられた二人は、筆談と身振りで交流を重ね、やがて心を通わせる。谷底から這い上がってくる異形の存在が、二人を同じ側に立たせることになる。",
+    "tmdbId": 950396,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Gorge"
+  },
+  {
+    "id": "big-hero-6",
+    "title": "ベイマックス",
+    "titleKana": "べいまっくす",
+    "directorIds": [
+      "chris-williams",
+      "don-hall"
+    ],
+    "screenwriterIds": [
+      "robert-l-baird",
+      "jordan-roberts"
+    ],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "scott-adsit",
+        "character": "ベイマックス"
+      },
+      {
+        "actorId": "ryan-potter",
+        "character": "ヒロ・ハマダ"
+      },
+      {
+        "actorId": "daniel-henney",
+        "character": "タダシ・ハマダ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "action",
+      "comedy",
+      "robot",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 12
+    },
+    "runtime": 102,
+    "originalType": "manga",
+    "synopsis": "天才少年ヒロは、兄タダシを事故で失い部屋に閉じこもる。兄が遺したケアロボット、ベイマックスとの出会いが彼を再び外へ連れ出し、事故の裏に隠された陰謀が浮かび上がる。ヒロは兄の友人たちとチームを組み、復讐心と向き合いながら、膨らむ悲しみの行き場を探していく。巨大な白いケアロボットの柔らかな造形と、喪失を抱えた少年の再生が響き合う。",
+    "tmdbId": 177572,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Big Hero 6"
+  },
+  {
+    "id": "doctor-strange",
+    "title": "ドクター・ストレンジ",
+    "titleKana": "どくたーすとれんじ",
+    "directorIds": [
+      "scott-derrickson"
+    ],
+    "screenwriterIds": [
+      "jon-spaihts"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "benedict-cumberbatch",
+        "character": "スティーヴン・ストレンジ"
+      },
+      {
+        "actorId": "chiwetel-ejiofor",
+        "character": "モルド"
+      },
+      {
+        "actorId": "rachel-mcadams",
+        "character": "クリスティーン・パーマー"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "action",
+      "magic",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 1
+    },
+    "runtime": 115,
+    "originalType": "manga",
+    "synopsis": "事故で両手の機能を失った傲慢な脳外科医ストレンジは、治療法を求めてネパールの秘境にたどり着く。魔術を学ぶうち、彼は現実そのものを折り曲げる力と、時間を操る禁じられた術に触れる。闇の次元に世界を明け渡そうとする元弟子との戦いで、彼は勝利ではなく交渉という手を選ぶ。",
+    "tmdbId": 284052,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Doctor Strange",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "all-about-lily-chou-chou",
+    "title": "リリイ・シュシュのすべて",
+    "titleKana": "りりいしゅしゅのすべて",
+    "directorIds": [
+      "shunji-iwai"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "rockwell-eyes",
+      "jvc"
+    ],
+    "cast": [
+      {
+        "actorId": "hayato-ichihara",
+        "character": "蓮見雄一"
+      },
+      {
+        "actorId": "shugo-oshinari",
+        "character": "星野修介"
+      },
+      {
+        "actorId": "yu-aoi",
+        "character": "津田詩織"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "school",
+      "youth",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 10
+    },
+    "runtime": 147,
+    "originalType": "novel",
+    "synopsis": "地方都市に暮らす中学生の雄一は、歌手リリイ・シュシュの音楽とネット掲示板だけを心の拠り所にしている。夏の旅行を境に変わってしまった同級生星野は、暴力と支配で教室を塗り替えていく。誰にも助けを求められない少年少女の孤立を、緑の田園風景と電子音の中に沈めて描く。田園と電子音の対比が、出口のない教室の空気を静かに刻みつける。",
+    "tmdbId": 16664,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-incredible-hulk",
+    "title": "インクレディブル・ハルク",
+    "titleKana": "いんくれでぃぶるはるく",
+    "directorIds": [
+      "louis-leterrier"
+    ],
+    "screenwriterIds": [
+      "zak-penn"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "valhalla-motion-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "edward-norton",
+        "character": "ブルース・バナー"
+      },
+      {
+        "actorId": "liv-tyler",
+        "character": "ベティ・ロス"
+      },
+      {
+        "actorId": "tim-roth",
+        "character": "エミル・ブロンスキー"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "adventure",
+      "hero",
+      "monster"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 8
+    },
+    "runtime": 112,
+    "originalType": "manga",
+    "synopsis": "実験の事故で怒りに応じて緑の巨人へ変貌する体になったブルース・バナーは、ブラジルで身を隠しながら治療法を探していた。追跡する軍は彼の血液がもたらす力を兵器化しようと目論み、志願した兵士ブロンスキーは自ら怪物アボミネーションと化す。逃亡者は恋人ベティのもとへ戻る道を探る。",
+    "tmdbId": 1724,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Incredible Hulk",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "blade-runner-2049",
+    "title": "ブレードランナー 2049",
+    "titleKana": "ぶれーどらんなーにせんよんじゅうきゅう",
+    "directorIds": [
+      "denis-villeneuve"
+    ],
+    "screenwriterIds": [
+      "hampton-fancher",
+      "michael-green"
+    ],
+    "studioIds": [
+      "alcon-entertainment",
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "ryan-gosling",
+        "character": "K"
+      },
+      {
+        "actorId": "harrison-ford",
+        "character": "リック・デッカード"
+      },
+      {
+        "actorId": "ana-de-armas",
+        "character": "ジョイ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "human-drama",
+      "dystopia",
+      "ai",
+      "robot"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 10
+    },
+    "runtime": 164,
+    "originalType": "novel",
+    "synopsis": "人造人間を追う捜査官Kは、埋められた遺骨から、レプリカントが子を産んでいた痕跡を見つける。存在してはならない子どもの行方を追ううち、彼は自分の記憶が本物かどうかという問いに囚われていく。三十年前に姿を消した元捜査官デッカードとの邂逅が、事件の核心を明らかにする。",
+    "tmdbId": 335984,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Blade Runner 2049"
+  },
+  {
+    "id": "finding-nemo",
+    "title": "ファインディング・ニモ",
+    "titleKana": "ふぁいんでぃんぐにも",
+    "directorIds": [
+      "andrew-stanton"
+    ],
+    "screenwriterIds": [
+      "david-reynolds",
+      "bob-peterson"
+    ],
+    "studioIds": [
+      "pixar"
+    ],
+    "cast": [
+      {
+        "actorId": "albert-brooks",
+        "character": "マーリン"
+      },
+      {
+        "actorId": "ellen-degeneres",
+        "character": "ドリー"
+      },
+      {
+        "actorId": "alexander-gould",
+        "character": "ニモ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2003,
+      "month": 11
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "グレートバリアリーフに暮らすカクレクマノミのマーリンは、たった一匹残った息子ニモを過保護に育てていた。ダイバーに連れ去られた息子を追い、心配性の父は忘れっぽい魚ドリーとともに広い海へ飛び出す。クラゲの海やサメとの遭遇を越え、父は子を信じることを少しずつ学んでいく。",
+    "tmdbId": 12,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Finding Nemo"
+  },
+  {
+    "id": "rurouni-kenshin-the-final",
+    "title": "るろうに剣心 最終章 The Final",
+    "titleKana": "るろうにけんしんさいしゅうしょうざふぁいなる",
+    "directorIds": [
+      "keishi-otomo"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "warner-bros-japan",
+      "amuse-soft-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "takeru-satoh",
+        "character": "緋村剣心"
+      },
+      {
+        "actorId": "emi-takei",
+        "character": "神谷薫"
+      },
+      {
+        "actorId": "mackenyu",
+        "character": "雪代縁"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "history",
+      "human-drama",
+      "revenge",
+      "jidaigeki"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 4
+    },
+    "runtime": 138,
+    "originalType": "manga",
+    "synopsis": "明治の東京を襲う連続爆破事件の背後にいたのは、剣心が人斬りだった時代に妻を奪われた男、雪代縁だった。剣心の過去を知る者たちが次々と巻き込まれ、神谷道場の仲間も攻撃の的になる。人誅を掲げる縁と、不殺の誓いを守ろうとする剣心の対決を描く実写シリーズの最終章。殺陣の密度と、剣心が背負い続けてきた罪の重さが正面から描かれる。",
+    "tmdbId": 602063,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "rurouni-kenshin"
+  },
+  {
+    "id": "porco-rosso",
+    "title": "紅の豚",
+    "titleKana": "くれないのぶた",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "shuichiro-moriyama",
+        "character": "ポルコ・ロッソ"
+      },
+      {
+        "actorId": "tokiko-kato",
+        "character": "ジーナ"
+      },
+      {
+        "actorId": "bunshi-katsura-vi",
+        "character": "ピッコロおやじ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1992,
+      "month": 7
+    },
+    "runtime": 93,
+    "originalType": "manga",
+    "synopsis": "大戦間のアドリア海。魔法で豚の顔になった元空軍のエースは、賞金稼ぎの飛行艇乗りポルコ・ロッソとして空賊たちに恐れられていた。彼を叩きのめすため空賊が雇ったのは、腕自慢のアメリカ人カーチス。愛機の修理を任された少女フィオを乗せ、ポルコは決着をつけるため空へ舞い上がる。",
+    "tmdbId": 11621,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-godfather-part-ii",
+    "title": "ゴッドファーザー PART II",
+    "titleKana": "ごっどふぁーざーぱーととぅー",
+    "directorIds": [
+      "francis-ford-coppola"
+    ],
+    "screenwriterIds": [
+      "mario-puzo"
+    ],
+    "studioIds": [
+      "paramount",
+      "the-coppola-company"
+    ],
+    "cast": [
+      {
+        "actorId": "al-pacino",
+        "character": "マイケル・コルレオーネ"
+      },
+      {
+        "actorId": "robert-duvall",
+        "character": "トム・ヘイゲン"
+      },
+      {
+        "actorId": "diane-keaton",
+        "character": "ケイ・コルレオーネ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "family",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1975,
+      "month": 4
+    },
+    "runtime": 200,
+    "originalType": "novel",
+    "synopsis": "一族を継いだマイケルは、ラスベガスやキューバへ事業を広げる一方、身内の裏切りと議会の追及に晒される。物語はそれと並行して、シチリアから移民した若き日のヴィトーが、街の顔役を倒して名を上げていく過程を描く。築く父と守るために失う息子。二つの時間が静かに対比される。",
+    "tmdbId": 240,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Godfather Part II",
+    "seriesId": "godfather"
+  },
+  {
+    "id": "the-super-mario-bros-movie",
+    "title": "ザ・スーパーマリオブラザーズ・ムービー",
+    "titleKana": "ざすーぱーまりおぶらざーずむーびー",
+    "directorIds": [
+      "aaron-horvath",
+      "michael-jelenic"
+    ],
+    "screenwriterIds": [
+      "matthew-fogel"
+    ],
+    "studioIds": [
+      "universal",
+      "illumination"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-pratt",
+        "character": "マリオ"
+      },
+      {
+        "actorId": "anya-taylor-joy",
+        "character": "ピーチ姫"
+      },
+      {
+        "actorId": "charlie-day",
+        "character": "ルイージ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "comedy",
+      "adventure",
+      "fantasy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 4
+    },
+    "runtime": 93,
+    "originalType": "game",
+    "synopsis": "ブルックリンで配管業を始めたマリオとルイージは、地下の土管に吸い込まれ、別々の世界へ飛ばされる。マリオはキノコ王国のピーチ姫と出会い、弟を助けるためクッパの軍勢に立ち向かう修行を始める。ゲームの意匠を細部まで散りばめた、任天堂とイルミネーションによる長編アニメ。",
+    "tmdbId": 502356,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Super Mario Bros. Movie"
+  },
+  {
+    "id": "snow-white",
+    "title": "白雪姫",
+    "titleKana": "しらゆきひめ",
+    "directorIds": [
+      "marc-webb"
+    ],
+    "screenwriterIds": [
+      "erin-cressida-wilson"
+    ],
+    "studioIds": [
+      "walt-disney-pictures",
+      "marc-platt-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "rachel-zegler",
+        "character": "白雪姫"
+      },
+      {
+        "actorId": "gal-gadot",
+        "character": "女王"
+      },
+      {
+        "actorId": "andrew-burnap",
+        "character": "ジョナサン"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "fantasy",
+      "magic",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "other",
+    "synopsis": "亡き王の娘である白雪姫は、美しさと権力に執着する継母の女王に命を狙われ、森へ逃げ込む。そこで暮らす七人の小人たちや、盗賊の青年ジョナサンと出会った彼女は、恐怖で統治される国を取り戻すために立ち上がる。ディズニーの長編アニメ第一作を実写で作り直した作品。新たな楽曲を加え、姫が自ら国を取り戻す物語として作り直されている。",
+    "tmdbId": 447273,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Snow White"
+  },
+  {
+    "id": "the-girl-who-leapt-through-time",
+    "title": "時をかける少女",
+    "titleKana": "ときをかけるしょうじょ",
+    "directorIds": [
+      "mamoru-hosoda"
+    ],
+    "screenwriterIds": [
+      "satoko-okudera"
+    ],
+    "studioIds": [
+      "madhouse",
+      "happinet-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "riisa-naka",
+        "character": "紺野真琴"
+      },
+      {
+        "actorId": "takuya-ishida",
+        "character": "間宮千昭"
+      },
+      {
+        "actorId": "mitsutaka-itakura",
+        "character": "津田功介"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "sf",
+      "time-travel",
+      "youth",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2006,
+      "month": 7
+    },
+    "runtime": 98,
+    "originalType": "novel",
+    "synopsis": "高校生の紺野真琴は、ある日を境に時間を跳躍できる力を手に入れる。テストのやり直しやカラオケの延長など些細なことに使ううち、彼女は自分の選択が誰かの不幸を押しつけていることに気づく。幼なじみの千昭と功介との三人の時間が終わりに近づき、跳べる回数も残り少なくなっていく。",
+    "tmdbId": 14069,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "detective-conan-black-iron-submarine",
+    "title": "名探偵コナン 黒鉄の魚影（サブマリン）",
+    "titleKana": "めいたんていこなんくろがねのさぶまりん",
+    "directorIds": [
+      "yuzuru-tachikawa"
+    ],
+    "screenwriterIds": [
+      "takeharu-sakurai"
+    ],
+    "studioIds": [
+      "tms-entertainment",
+      "shogakukan"
+    ],
+    "cast": [
+      {
+        "actorId": "minami-takayama",
+        "character": "江戸川コナン"
+      },
+      {
+        "actorId": "wakana-yamazaki",
+        "character": "毛利蘭"
+      },
+      {
+        "actorId": "rikiya-koyama",
+        "character": "毛利小五郎"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "mystery",
+      "detective"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 4
+    },
+    "runtime": 89,
+    "originalType": "manga",
+    "synopsis": "世界中の防犯カメラをつなぐ海洋施設パシフィック・ブイで、顔認証システムの運用が始まろうとしていた。黒ずくめの組織はそのシステムを使い、灰原哀の正体を突き止めようと動き出す。海中に沈められた施設からの脱出と、組織との攻防が同時に進む劇場版第二十六作。灰原の秘密に組織が最も近づく回であり、海中戦の緊張が全編を貫く。",
+    "tmdbId": 1047041,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "detective-conan"
+  },
+  {
+    "id": "evil-dead-rise",
+    "title": "死霊のはらわた ライジング",
+    "titleKana": "しりょうのはらわたらいじんぐ",
+    "directorIds": [
+      "lee-cronin"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "pacific-renaissance-pictures",
+      "wild-atlantic-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "lily-sullivan",
+        "character": "ベス"
+      },
+      {
+        "actorId": "alyssa-sutherland",
+        "character": "エリー"
+      },
+      {
+        "actorId": "morgan-davies",
+        "character": "ダニー"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "suspense",
+      "zombie",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 8
+    },
+    "runtime": 96,
+    "originalType": "original",
+    "synopsis": "老朽化した高層アパートの地下で見つかった古い書物が、封じられていた悪霊を呼び覚ます。母親が最初に取り憑かれ、子どもたちのいる部屋は逃げ場のない密室と化す。訪ねてきた妹ベスは、姉の姿をした何かから幼い甥や姪を守るため、チェーンソーを手に取ることになる。舞台を森の山小屋から都市の集合住宅に移し、閉塞感を新たな形で描き直した。",
+    "tmdbId": 713704,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Evil Dead Rise"
+  },
+  {
+    "id": "forrest-gump",
+    "title": "フォレスト・ガンプ／一期一会",
+    "titleKana": "ふぉれすとがんぷいちごいちえ",
+    "directorIds": [
+      "robert-zemeckis"
+    ],
+    "screenwriterIds": [
+      "eric-roth"
+    ],
+    "studioIds": [
+      "paramount",
+      "the-steve-tisch-company"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-hanks",
+        "character": "フォレスト・ガンプ"
+      },
+      {
+        "actorId": "robin-wright",
+        "character": "ジェニー・カラン"
+      },
+      {
+        "actorId": "gary-sinise",
+        "character": "ダン・テイラー中尉"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "romance",
+      "true-story",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1995,
+      "month": 2
+    },
+    "runtime": 142,
+    "originalType": "novel",
+    "synopsis": "知能指数は低くとも、母の言葉を胸に走り続けたフォレスト・ガンプは、大学のフットボール選手、ベトナム帰還兵、エビ漁の経営者と、思いがけない形でアメリカ現代史の要所に立ち会っていく。何度離れても心に居続ける幼なじみジェニーへの想いが、長い人生を貫く一本の線になる。",
+    "tmdbId": 13,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Forrest Gump"
+  },
+  {
+    "id": "the-last-naruto-the-movie",
+    "title": "THE LAST -NARUTO THE MOVIE-",
+    "titleKana": "ざらすとなるとざむーびー",
+    "directorIds": [
+      "tsuneo-kobayashi"
+    ],
+    "screenwriterIds": [
+      "maruo-kyozuka"
+    ],
+    "studioIds": [
+      "aniplex",
+      "pierrot"
+    ],
+    "cast": [
+      {
+        "actorId": "junko-takeuchi",
+        "character": "うずまきナルト"
+      },
+      {
+        "actorId": "nana-mizuki",
+        "character": "日向ヒナタ"
+      },
+      {
+        "actorId": "jun-fukuyama",
+        "character": "大筒木トネリ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "romance",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2014,
+      "month": 12
+    },
+    "runtime": 114,
+    "originalType": "manga",
+    "synopsis": "月が地球へ落下する軌道に入り、忍五大国は滅亡の危機を迎える。原因を探るナルトたちは、月を統べる大筒木一族の末裔トネリと対峙する。妹を攫われたヒナタは自らの意志で敵陣へ向かい、ナルトは長く気づかずにいた彼女の想いに、ようやく正面から向き合うことになる。長く続いた物語のなかで、ナルトとヒナタの関係に決着をつける一作。",
+    "tmdbId": 317442,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "naruto"
+  },
+  {
+    "id": "black-widow",
+    "title": "ブラック・ウィドウ",
+    "titleKana": "ぶらっくうぃどう",
+    "directorIds": [
+      "cate-shortland"
+    ],
+    "screenwriterIds": [
+      "eric-pearson"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "scarlett-johansson",
+        "character": "ナターシャ・ロマノフ"
+      },
+      {
+        "actorId": "florence-pugh",
+        "character": "エレーナ・ベロワ"
+      },
+      {
+        "actorId": "rachel-weisz",
+        "character": "メリーナ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "spy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 7
+    },
+    "runtime": 134,
+    "originalType": "manga",
+    "synopsis": "協定違反で追われる身となったナターシャは、幼い頃に偽装家族として過ごしたブダペストの記憶に引き戻される。妹分エレーナから、少女たちを洗脳して暗殺者に仕立てる組織がまだ動いていると知らされ、二人は偽の両親を巻き込んで元締めのもとへ向かう。過去を清算するための戦い。",
+    "tmdbId": 497698,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Black Widow",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "how-to-train-your-dragon",
+    "title": "ヒックとドラゴン",
+    "titleKana": "ひっくとどらごん",
+    "directorIds": [
+      "dean-deblois"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "dreamworks-animation",
+      "marc-platt-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "mason-thames",
+        "character": "ヒック"
+      },
+      {
+        "actorId": "nico-parker",
+        "character": "アスティ"
+      },
+      {
+        "actorId": "gerard-butler",
+        "character": "ストイック"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "family",
+      "action",
+      "adventure",
+      "animal",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 9
+    },
+    "runtime": 125,
+    "originalType": "novel",
+    "synopsis": "ドラゴンとの戦いに明け暮れるバイキングの島で、族長の息子ヒックは戦士に向かない少年だった。彼は撃ち落とした稀少なドラゴンにトゥースと名づけ、殺すことができないまま義足を作り、共に空を飛ぶ術を学ぶ。敵と信じてきた相手を理解することが、島の常識を根底から覆していく。",
+    "tmdbId": 1087192,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "How to Train Your Dragon"
+  },
+  {
+    "id": "black-panther",
+    "title": "ブラックパンサー",
+    "titleKana": "ぶらっくぱんさー",
+    "directorIds": [
+      "ryan-coogler"
+    ],
+    "screenwriterIds": [
+      "joe-robert-cole"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "chadwick-boseman",
+        "character": "ティ・チャラ"
+      },
+      {
+        "actorId": "michael-b-jordan",
+        "character": "エリック・キルモンガー"
+      },
+      {
+        "actorId": "lupita-nyongo",
+        "character": "ナキア"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "politics"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 3
+    },
+    "runtime": 134,
+    "originalType": "manga",
+    "synopsis": "父の死により、隠された超文明国家ワカンダの王位を継いだティ・チャラ。豊富な鉱石ヴィブラニウムの存在を秘匿してきた国の方針は、外の世界で虐げられてきた者たちの怒りを無視するものでもあった。王座を奪いに現れたキルモンガーとの対決が、国のあり方そのものを問い直す。アフリカの文化と近未来技術を融合させた美術設計が高く評価された。",
+    "tmdbId": 284054,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Black Panther",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "10dance",
+    "title": "10DANCE",
+    "titleKana": "てんだんす",
+    "directorIds": [
+      "keishi-otomo"
+    ],
+    "screenwriterIds": [
+      "tomoko-yoshida"
+    ],
+    "studioIds": [
+      "episcope",
+      "netflix"
+    ],
+    "cast": [
+      {
+        "actorId": "ryoma-takeuchi",
+        "character": "鈴木信也"
+      },
+      {
+        "actorId": "keita-machida",
+        "character": "杉木信也"
+      },
+      {
+        "actorId": "shiori-doi",
+        "character": "田島亜紀"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "dance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 12
+    },
+    "runtime": 127,
+    "originalType": "manga",
+    "synopsis": "スタンダードの名手とラテンの名手、対照的な二人の男性ダンサーが、十種目を戦う競技に挑むため互いを教え合うことになる。踊りの流儀も生き方も噛み合わない二人は、練習を重ねるうちに、相手の身体と呼吸を誰よりも知る関係になっていく。競技会の期日が近づくなか、感情は言葉より先に動く。",
+    "tmdbId": 1400032,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "that-time-i-got-reincarnated-as-a-slime-the-movie",
+    "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "titleKana": "げきじょうばんてんせいしたらすらいむだったけんぐれんのきずなへん",
+    "directorIds": [
+      "yasuhito-kikuchi"
+    ],
+    "screenwriterIds": [
+      "kazuyuki-fudeyasu"
+    ],
+    "studioIds": [
+      "8bit",
+      "bandai-namco-filmworks"
+    ],
+    "cast": [
+      {
+        "actorId": "miho-okasaki",
+        "character": "リムル"
+      },
+      {
+        "actorId": "makoto-furukawa",
+        "character": "ベニマル"
+      },
+      {
+        "actorId": "megumi-toyoguchi",
+        "character": "ラファエル"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "isekai",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2022,
+      "month": 11
+    },
+    "runtime": 108,
+    "originalType": "lightnovel",
+    "synopsis": "スライムとして異世界に転生したリムルが築いた国の西方に位置する小国で、女王が持つ不思議な力をめぐる陰謀が動き出す。リムルは獣人の少女と出会い、彼女の一族が背負わされてきた因縁を知る。仲間たちとともに、古い恨みが仕組んだ計略を打ち砕くために立ち上がる。テレビシリーズと地続きの完全新作として、原作者が物語の原案を手がけた。",
+    "tmdbId": 876792,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-notebook",
+    "title": "きみに読む物語",
+    "titleKana": "きみによむものがたり",
+    "directorIds": [
+      "nick-cassavetes"
+    ],
+    "screenwriterIds": [
+      "jan-sardi",
+      "jeremy-leven"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "avery-pix"
+    ],
+    "cast": [
+      {
+        "actorId": "ryan-gosling",
+        "character": "ノア・カルフーン"
+      },
+      {
+        "actorId": "rachel-mcadams",
+        "character": "アリー・ハミルトン"
+      },
+      {
+        "actorId": "gena-rowlands",
+        "character": "年老いたアリー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 2
+    },
+    "runtime": 123,
+    "originalType": "novel",
+    "synopsis": "療養施設で暮らす老女に、一人の男が古びたノートを読み聞かせる。そこに記されていたのは、身分違いの恋に落ちた若い二人の一夏だった。引き裂かれ、戦争と時間を経てなお相手を忘れられなかった男女の物語が、現在の二人の関係とゆるやかに重なっていく。記憶を失っていく妻に物語を読み続ける夫の姿が、静かな結末へつながる。",
+    "tmdbId": 11036,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Notebook"
+  },
+  {
+    "id": "hacksaw-ridge",
+    "title": "ハクソー・リッジ",
+    "titleKana": "はくそーりっじ",
+    "directorIds": [
+      "mel-gibson"
+    ],
+    "screenwriterIds": [
+      "robert-schenkkan",
+      "andrew-knight"
+    ],
+    "studioIds": [
+      "summit",
+      "pandemonium"
+    ],
+    "cast": [
+      {
+        "actorId": "andrew-garfield",
+        "character": "デズモンド・ドス"
+      },
+      {
+        "actorId": "sam-worthington",
+        "character": "グローバー大尉"
+      },
+      {
+        "actorId": "vince-vaughn",
+        "character": "ハウエル軍曹"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "war",
+      "true-story",
+      "biography"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 6
+    },
+    "runtime": 139,
+    "originalType": "other",
+    "synopsis": "信仰から人を傷つけることを拒む青年デズモンド・ドスは、銃を持たない衛生兵として陸軍に志願する。臆病者と罵られ軍法会議にかけられながらも信念を曲げなかった彼は、沖縄の前田高地で、砲火の中に取り残された仲間を一人ずつ崖から降ろし続けた。実話をもとにした戦争映画。一人も殺さずに七十五人を救ったとされる衛生兵の記録が下敷きになっている。",
+    "tmdbId": 324786,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Hacksaw Ridge"
+  },
+  {
+    "id": "lilo-stitch",
+    "title": "リロ＆スティッチ",
+    "titleKana": "りろすてぃっち",
+    "directorIds": [
+      "dean-fleischer-camp"
+    ],
+    "screenwriterIds": [
+      "chris-kekaniokalani-bright",
+      "mike-van-waes"
+    ],
+    "studioIds": [
+      "walt-disney-pictures",
+      "rideback"
+    ],
+    "cast": [
+      {
+        "actorId": "maia-kealoha",
+        "character": "リロ"
+      },
+      {
+        "actorId": "sydney-agudong",
+        "character": "ナニ"
+      },
+      {
+        "actorId": "chris-sanders",
+        "character": "スティッチ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "sf",
+      "comedy",
+      "alien"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 6
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "両親を亡くし姉ナニと二人で暮らすハワイの少女リロは、犬だと思って引き取った生き物と暮らしはじめる。その正体は破壊のために作られた実験体で、宇宙から追手が迫っていた。壊れかけた姉妹の生活に転がり込んだ厄介者が、家族という言葉の意味を教えていく。実写リメイク版。ハワイの言葉オハナが示す、血のつながりを超えた結びつきが主題となる。",
+    "tmdbId": 552524,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Lilo & Stitch"
+  },
+  {
+    "id": "attack-on-titan-the-last-attack",
+    "title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+    "titleKana": "げきじょうばんしんげきのきょじんかんけつへんざらすとあたっく",
+    "directorIds": [
+      "yuichiro-hayashi"
+    ],
+    "screenwriterIds": [
+      "hiroshi-seko"
+    ],
+    "studioIds": [
+      "mappa",
+      "pony-canyon"
+    ],
+    "cast": [
+      {
+        "actorId": "yuki-kaji",
+        "character": "エレン・イェーガー"
+      },
+      {
+        "actorId": "yui-ishikawa",
+        "character": "ミカサ・アッカーマン"
+      },
+      {
+        "actorId": "marina-inoue",
+        "character": "アルミン・アルレルト"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "human-drama",
+      "war",
+      "apocalypse"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2024,
+      "month": 11
+    },
+    "runtime": 145,
+    "originalType": "manga",
+    "synopsis": "地鳴らしを発動させたエレンは、壁の外の世界を踏み潰すために進撃を続ける。かつての仲間たちは、彼を止めるためにマーレの兵士とも手を組み、飛行艇で追いすがる。壁の中と外、どちらの命も選べない者たちの決着を描いた完結編の劇場再構成版。テレビ版完結編の前後編を再構成し、約百四十五分の一本の映画にまとめている。",
+    "tmdbId": 1333100,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "attack-on-titan"
+  },
+  {
+    "id": "dragon-ball-z-resurrection-f",
+    "title": "ドラゴンボールZ 復活の「F」",
+    "titleKana": "どらごんぼーるぜっとふっかつのえふ",
+    "directorIds": [
+      "tadayoshi-yamamuro"
+    ],
+    "screenwriterIds": [
+      "akira-toriyama"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "masako-nozawa",
+        "character": "孫悟空"
+      },
+      {
+        "actorId": "ryo-horikawa",
+        "character": "ベジータ"
+      },
+      {
+        "actorId": "ryusei-nakao",
+        "character": "フリーザ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 4
+    },
+    "runtime": 93,
+    "originalType": "manga",
+    "synopsis": "残党によってドラゴンボールで蘇らされたフリーザは、屈辱を晴らすため四か月の修行で新たな形態を手に入れ、大軍を率いて地球に襲来する。悟空とベジータは界王神の星での修行の成果を試すことになり、宇宙最凶の帝王との再戦に臨む。原作者が脚本を手がけた劇場版。ゴールデンフリーザと超サイヤ人ブルーの激突が全編の見どころとなる。",
+    "tmdbId": 303857,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "dragon-ball"
+  },
+  {
+    "id": "wall-e",
+    "title": "ウォーリー",
+    "titleKana": "うぉーりー",
+    "directorIds": [
+      "andrew-stanton"
+    ],
+    "screenwriterIds": [
+      "jim-reardon"
+    ],
+    "studioIds": [
+      "pixar"
+    ],
+    "cast": [
+      {
+        "actorId": "ben-burtt",
+        "character": "ウォーリー"
+      },
+      {
+        "actorId": "elissa-knight",
+        "character": "イヴ"
+      },
+      {
+        "actorId": "jeff-garlin",
+        "character": "船長"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "sf",
+      "robot",
+      "apocalypse",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2008,
+      "month": 12
+    },
+    "runtime": 103,
+    "originalType": "original",
+    "synopsis": "ゴミに埋もれた地球で、清掃ロボットのウォーリーは七百年間ひとりで働き続けてきた。ある日降りてきた探査機イヴに恋をした彼は、彼女を追って人類が暮らす宇宙船へ飛び出す。台詞をほとんど使わずに描かれる前半と、機械に世話をされ続けた人類の姿が対照をなす。廃墟と化した地球の描写と、無言のロボットの仕草だけで感情を伝える演出が光る。",
+    "tmdbId": 10681,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "WALL·E"
   }
 ]

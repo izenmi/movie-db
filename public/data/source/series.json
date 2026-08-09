@@ -209,5 +209,86 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "evangelion",
+    "name": "「エヴァンゲリオン」劇場版シリーズ",
+    "nameKana": "えゔぁんげりおんげきじょうばんしりーず",
+    "description": "庵野秀明が手がけた汎用人型決戦兵器と少年少女を描くアニメの劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "my-hero-academia",
+    "name": "「僕のヒーローアカデミア」劇場版シリーズ",
+    "nameKana": "ぼくのひーろーあかでみあげきじょうばんしりーず",
+    "description": "堀越耕平の漫画を原作とするヒーロー学園アニメの劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "godfather",
+    "name": "「ゴッドファーザー」三部作",
+    "nameKana": "ごっどふぁーざーさんぶさく",
+    "description": "マリオ・プーゾの小説をフランシス・フォード・コッポラ監督が映画化した三部作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "detective-conan",
+    "name": "「名探偵コナン」劇場版シリーズ",
+    "nameKana": "めいたんていこなんげきじょうばんしりーず",
+    "description": "青山剛昌の漫画を原作とする、毎年公開される長寿劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fast-and-furious",
+    "name": "「ワイルド・スピード」シリーズ",
+    "nameKana": "わいるどすぴーどしりーず",
+    "description": "カーアクションと疑似家族の絆を描くハリウッドの人気アクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dragon-ball",
+    "name": "「ドラゴンボール」劇場版シリーズ",
+    "nameKana": "どらごんぼーるげきじょうばんしりーず",
+    "description": "鳥山明の漫画を原作とする東映アニメーションの劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "attack-on-titan",
+    "name": "「進撃の巨人」劇場版シリーズ",
+    "nameKana": "しんげきのきょじんげきじょうばんしりーず",
+    "description": "諫山創の漫画を原作とするテレビアニメの総集編・完結編を含む劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rurouni-kenshin",
+    "name": "「るろうに剣心」実写映画シリーズ",
+    "nameKana": "るろうにけんしんじっしゃえいがしりーず",
+    "description": "和月伸宏の漫画を大友啓史監督が実写映画化したシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naruto",
+    "name": "「NARUTO」劇場版シリーズ",
+    "nameKana": "なるとげきじょうばんしりーず",
+    "description": "岸本斉史の漫画を原作とする忍者アニメの劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

@@ -1037,5 +1037,257 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Darkwoods Productions。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pierrot",
+    "name": "ぴえろ",
+    "nameKana": "ぴえろ",
+    "description": "映画製作会社。『映画 ブラッククローバー 魔法帝の剣』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pierrot。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bandai-namco-entertainment",
+    "name": "バンダイナムコエンターテインメント",
+    "nameKana": "バンダイナムコエンターテインメント",
+    "description": "映画製作会社。『映画 ブラッククローバー 魔法帝の剣』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bandai Namco Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toei-company",
+    "name": "東映",
+    "nameKana": "とうえい",
+    "description": "映画製作会社。『バトル・ロワイアル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toei Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wowow",
+    "name": "WOWOW",
+    "nameKana": "わうわう",
+    "description": "映画製作会社。『バトル・ロワイアル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nippon-television-network-corporation",
+    "name": "日本テレビ放送網",
+    "nameKana": "にっぽんてれびほうそうもう",
+    "description": "映画製作会社。『風立ちぬ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nippon Television Network Corporation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "original-film",
+    "name": "オリジナル・フィルム",
+    "nameKana": "オリジナルフィルム",
+    "description": "映画製作会社。『ワイルド・スピード／ファイヤーブースト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Original Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "khara",
+    "name": "カラー",
+    "nameKana": "からー",
+    "description": "映画製作会社。『シン・エヴァンゲリオン劇場版:||』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: khara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crooked-highway",
+    "name": "クルックド・ハイウェイ",
+    "nameKana": "クルックドハイウェイ",
+    "description": "映画製作会社。『深い谷の間に』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Crooked Highway。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rockwell-eyes",
+    "name": "ロックウェルアイズ",
+    "nameKana": "ロックウェルアイズ",
+    "description": "映画製作会社。『リリイ・シュシュのすべて』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rockwell Eyes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jvc",
+    "name": "JVC",
+    "nameKana": "じぇいぶいしー",
+    "description": "映画製作会社。『リリイ・シュシュのすべて』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "valhalla-motion-pictures",
+    "name": "ヴァルハラ・モーション・ピクチャーズ",
+    "nameKana": "ばるはらもーしょんぴくちゃーず",
+    "description": "映画製作会社。『インクレディブル・ハルク』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Valhalla Motion Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alcon-entertainment",
+    "name": "アルコン・エンターテインメント",
+    "nameKana": "アルコンエンターテインメント",
+    "description": "映画製作会社。『ブレードランナー 2049』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alcon Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "warner-bros-japan",
+    "name": "ワーナー・ブラザース映画",
+    "nameKana": "わーなーぶらざーすえいが",
+    "description": "映画製作会社。『るろうに剣心 最終章 The Final』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Warner Bros. Japan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amuse-soft-entertainment",
+    "name": "アミューズソフトエンタテインメント",
+    "nameKana": "アミューズソフトエンタテインメント",
+    "description": "映画製作会社。『るろうに剣心 最終章 The Final』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amuse Soft Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-coppola-company",
+    "name": "コッポラ・カンパニー",
+    "nameKana": "コッポラカンパニー",
+    "description": "映画製作会社。『ゴッドファーザー PART II』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Coppola Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "illumination",
+    "name": "イルミネーション",
+    "nameKana": "イルミネーション",
+    "description": "映画製作会社。『ザ・スーパーマリオブラザーズ・ムービー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Illumination。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marc-platt-productions",
+    "name": "マーク・プラット・プロダクションズ",
+    "nameKana": "マークプラットプロダクションズ",
+    "description": "映画製作会社。『白雪姫』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marc Platt Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "happinet-pictures",
+    "name": "ハピネット・ピクチャーズ",
+    "nameKana": "ハピネットピクチャーズ",
+    "description": "映画製作会社。『時をかける少女』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Happinet Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tms-entertainment",
+    "name": "トムス・エンタテインメント",
+    "nameKana": "トムスエンタテインメント",
+    "description": "映画製作会社。『名探偵コナン 黒鉄の魚影（サブマリン）』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: TMS Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shogakukan",
+    "name": "小学館",
+    "nameKana": "しょうがくかん",
+    "description": "映画製作会社。『名探偵コナン 黒鉄の魚影（サブマリン）』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shogakukan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pacific-renaissance-pictures",
+    "name": "パシフィック・ルネッサンス・ピクチャーズ",
+    "nameKana": "パシフィックルネッサンスピクチャーズ",
+    "description": "映画製作会社。『死霊のはらわた ライジング』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pacific Renaissance Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wild-atlantic-pictures",
+    "name": "ワイルド・アトランティック・ピクチャーズ",
+    "nameKana": "ワイルドアトランティックピクチャーズ",
+    "description": "映画製作会社。『死霊のはらわた ライジング』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wild Atlantic Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-steve-tisch-company",
+    "name": "スティーヴ・ティッシュ・カンパニー",
+    "nameKana": "スティーヴティッシュカンパニー",
+    "description": "映画製作会社。『フォレスト・ガンプ／一期一会』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Steve Tisch Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "episcope",
+    "name": "EPISCOPE",
+    "nameKana": "えぴすこーぷ",
+    "description": "映画製作会社。『10DANCE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "8bit",
+    "name": "エイトビット",
+    "nameKana": "エイトビット",
+    "description": "映画製作会社。『劇場版 転生したらスライムだった件 紅蓮の絆編』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 8bit。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bandai-namco-filmworks",
+    "name": "バンダイナムコフィルムワークス",
+    "nameKana": "バンダイナムコフィルムワークス",
+    "description": "映画製作会社。『劇場版 転生したらスライムだった件 紅蓮の絆編』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bandai Namco Filmworks。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "avery-pix",
+    "name": "エイブリー・ピックス",
+    "nameKana": "エイブリーピックス",
+    "description": "映画製作会社。『きみに読む物語』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Avery Pix。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rideback",
+    "name": "ライドバック",
+    "nameKana": "ライドバック",
+    "description": "映画製作会社。『リロ＆スティッチ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rideback。",
+    "updatedAt": "2026-08-09"
   }
 ]
