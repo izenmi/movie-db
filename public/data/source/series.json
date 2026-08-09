@@ -686,5 +686,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sword-art-online",
+    "name": "「ソードアート・オンライン」劇場版シリーズ",
+    "nameKana": "そーどあーとおんらいんげきじょうばんしりーず",
+    "description": "川原礫のライトノベルを原作とする仮想世界を舞台にした劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "madagascar",
+    "name": "「マダガスカル」シリーズ",
+    "nameKana": "まだがすかるしりーず",
+    "description": "動物園から飛び出した動物たちの珍道中を描くドリームワークスのアニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "indiana-jones",
+    "name": "「インディ・ジョーンズ」シリーズ",
+    "nameKana": "いんでぃじょーんずしりーず",
+    "description": "考古学者インディアナ・ジョーンズの秘宝探しを描く冒険活劇シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

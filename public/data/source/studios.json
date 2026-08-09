@@ -3449,5 +3449,176 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: K/O Paper Products。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "egg-firm",
+    "name": "エッグファーム",
+    "nameKana": "エッグファーム",
+    "description": "映画製作会社。『劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: EGG FIRM。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "animate-film",
+    "name": "アニメイトフィルム",
+    "nameKana": "アニメイトフィルム",
+    "description": "映画製作会社。『獣兵衛忍風帖』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Animate Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "levantine-films",
+    "name": "レバンタイン・フィルムズ",
+    "nameKana": "レバンタインフィルムズ",
+    "description": "映画製作会社。『ドリーム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Levantine Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "r-p-productions",
+    "name": "R・Pプロダクションズ",
+    "nameKana": "あーるぴーぷろだくしょんず",
+    "description": "映画製作会社。『戦場のピアニスト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: R.P. Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "heritage-films",
+    "name": "ヘリテージ・フィルムズ",
+    "nameKana": "ヘリテージフィルムズ",
+    "description": "映画製作会社。『戦場のピアニスト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Heritage Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "escape-artists",
+    "name": "エスケープ・アーティスツ",
+    "nameKana": "エスケープアーティスツ",
+    "description": "映画製作会社。『幸せのちから』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Escape Artists。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pikachu-project",
+    "name": "ピカチュウプロジェクト",
+    "nameKana": "ピカチュウプロジェクト",
+    "description": "映画製作会社。『劇場版 ポケットモンスター キミにきめた！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pikachu Project。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "la-cinefacture",
+    "name": "ラ・シネファクチュール",
+    "nameKana": "ラシネファクチュール",
+    "description": "映画製作会社。『君の名前で僕を呼んで』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: La Cinéfacture。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "frenesy-film",
+    "name": "フレネシー・フィルム",
+    "nameKana": "フレネシーフィルム",
+    "description": "映画製作会社。『君の名前で僕を呼んで』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Frenesy Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hyperobject-industries",
+    "name": "ハイパーオブジェクト・インダストリーズ",
+    "nameKana": "ハイパーオブジェクトインダストリーズ",
+    "description": "映画製作会社。『ザ・メニュー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hyperobject Industries。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cruel-unusual-films",
+    "name": "クルーエル・アンド・アンユージュアル・フィルムズ",
+    "nameKana": "クルーエルアンドアンユージュアルフィルムズ",
+    "description": "映画製作会社。『ジャスティス・リーグ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cruel & Unusual Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "goodhill-vision",
+    "name": "グッドヒル・ビジョン",
+    "nameKana": "グッドヒルビジョン",
+    "description": "映画製作会社。『バンパイアハンターD』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Goodhill Vision。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-turman-foster-company",
+    "name": "ターマン・フォスター・カンパニー",
+    "nameKana": "ターマンフォスターカンパニー",
+    "description": "映画製作会社。『遊星からの物体X』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Turman-Foster Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "uden-flame-works",
+    "name": "ユーデン・フレイム・ワークス",
+    "nameKana": "ユーデンフレイムワークス",
+    "description": "映画製作会社。『RE:BORN』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: U'Den Flame Works。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toho-pictures",
+    "name": "東宝映画",
+    "nameKana": "とうほうえいが",
+    "description": "映画製作会社。『ゴジラvsデストロイア』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toho Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olive-bridge-entertainment",
+    "name": "オリーブ・ブリッジ・エンターテインメント",
+    "nameKana": "オリーブブリッジエンターテインメント",
+    "description": "映画製作会社。『恋するプリテンダー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olive Bridge Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roth-kirschenbaum-films",
+    "name": "ロス・キルシェンバウム・フィルムズ",
+    "nameKana": "ロスキルシェンバウムフィルムズ",
+    "description": "映画製作会社。『恋するプリテンダー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roth-Kirschenbaum Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "river-road-entertainment",
+    "name": "リバーロード・エンターテインメント",
+    "nameKana": "リバーロードエンターテインメント",
+    "description": "映画製作会社。『ラスト、コーション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: River Road Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "haishang-films",
+    "name": "海上影業",
+    "nameKana": "かいじょうえいぎょう",
+    "description": "映画製作会社。『ラスト、コーション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Haishang Films。",
+    "updatedAt": "2026-08-09"
   }
 ]
