@@ -48,7 +48,7 @@
     },
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。監督クレジットは総監督・庵野秀明/監督・樋口真嗣。制作プロダクションの東宝映画は東宝として登録。",
     "updatedAt": "2026-08-08",
-    "seriesName": "「ゴジラ」シリーズ"
+    "seriesId": "godzilla"
   },
   {
     "id": "shoplifters",
@@ -294,7 +294,7 @@
     },
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
     "updatedAt": "2026-08-08",
-    "seriesName": "「ゴジラ」シリーズ"
+    "seriesId": "godzilla"
   },
   {
     "id": "hanataba",
@@ -787,7 +787,7 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。日本公開2008年8月。原作はDCコミックス『バットマン』のためoriginalType=manga。",
     "updatedAt": "2026-08-08",
     "originalTitle": "The Dark Knight",
-    "seriesName": "「ダークナイト」三部作"
+    "seriesId": "dark-knight-trilogy"
   },
   {
     "id": "back-to-the-future",
@@ -840,7 +840,7 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。",
     "updatedAt": "2026-08-08",
     "originalTitle": "Back to the Future",
-    "seriesName": "「バック・トゥ・ザ・フューチャー」シリーズ"
+    "seriesId": "back-to-the-future"
   },
   {
     "id": "titanic",
@@ -943,7 +943,7 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。原作はマーベル・コミックのためoriginalType=manga。",
     "updatedAt": "2026-08-08",
     "originalTitle": "Avengers: Endgame",
-    "seriesName": "マーベル・シネマティック・ユニバース(MCU)"
+    "seriesId": "mcu"
   },
   {
     "id": "la-la-land",
@@ -1041,7 +1041,7 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はジョージ・ミラーほか(ニコ・ラサウリス、ブレンダン・マッカーシー)。",
     "updatedAt": "2026-08-08",
     "originalTitle": "Mad Max: Fury Road",
-    "seriesName": "「マッドマックス」シリーズ"
+    "seriesId": "mad-max"
   },
   {
     "id": "parasite",
@@ -1186,7 +1186,7 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-08)。脚本はジョス・ウィードン、アンドリュー・スタントンら4名の共同(未登録)。",
     "updatedAt": "2026-08-08",
     "originalTitle": "Toy Story",
-    "seriesName": "「トイ・ストーリー」シリーズ"
+    "seriesId": "toy-story"
   },
   {
     "id": "frozen",

@@ -17,6 +17,7 @@ const works = readSource("works");
 const staff = readSource("staff");
 const studios = readSource("studios");
 const actors = readSource("actors");
+const series = readSource("series");
 const themes = readSource("themes");
 const awards = readSource("awards");
 
@@ -29,6 +30,7 @@ const coversCache = existsSync(coversCachePath) ? JSON.parse(readFileSync(covers
 const staffById = new Map(staff.map((s) => [s.id, s]));
 const studiosById = new Map(studios.map((s) => [s.id, s]));
 const actorsById = new Map(actors.map((v) => [v.id, v]));
+const seriesById = new Map(series.map((x) => [x.id, x]));
 const themesById = new Map(themes.map((t) => [t.id, t]));
 const awardsById = new Map(awards.map((a) => [a.id, a]));
 
@@ -56,6 +58,7 @@ for (const w of works) {
     checkRef(actorsById, c.actorId, "actor", w.id);
     if (!c.character) errors.push(`work "${w.id}": cast entry "${c.actorId}" is missing character`);
   });
+  if (w.seriesId != null) checkRef(seriesById, w.seriesId, "series", w.id);
   w.themeIds.forEach((id) => checkRef(themesById, id, "theme", w.id));
   (w.awardResults ?? []).forEach((r) => checkRef(awardsById, r.awardId, "award", w.id));
 
@@ -90,6 +93,7 @@ for (const [label, list] of [
   ["staff", staff],
   ["studio", studios],
   ["actor", actors],
+  ["series", series],
   ["theme", themes],
   ["award", awards],
 ]) {
@@ -187,6 +191,7 @@ const worksGenerated = works.map((w) => ({
   relatedWorkIds: relatedById.get(w.id),
   ...w,
   directorNames: w.directorIds.map((id) => staffById.get(id).name),
+  seriesName: w.seriesId != null ? seriesById.get(w.seriesId).name : undefined,
   screenwriterNames: w.screenwriterIds.map((id) => staffById.get(id).name),
   studioNames: w.studioIds.map((id) => studiosById.get(id).name),
   castGenerated: (w.cast ?? []).map((c) => ({
@@ -300,6 +305,24 @@ const actorsGenerated = actors
   })
   .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
 
+// ---- generated/series.json ----
+// 作品はシリーズを追う順(公開順)で固定。一覧は五十音順。
+const worksBySeries = groupWorksBy((w) => (w.seriesId != null ? [w.seriesId] : []));
+const seriesGenerated = series
+  .map((x) => {
+    const theirWorks = worksBySeries.get(x.id) ?? [];
+    return {
+      id: x.id,
+      name: x.name,
+      nameKana: x.nameKana,
+      description: x.description,
+      externalLinks: x.externalLinks,
+      workCount: theirWorks.length,
+      works: theirWorks.map(fullWork).sort(byRelease),
+    };
+  })
+  .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
+
 // ---- generated/themes.json ----
 const worksByTheme = groupWorksBy((w) => w.themeIds);
 const themesGenerated = themes
@@ -356,6 +379,7 @@ const awardsGenerated = awards
 // ---- generated/counts.json ----
 const counts = {
   works: works.length,
+  series: series.length,
   staff: staff.length,
   studios: studios.length,
   actors: actors.length,
@@ -368,12 +392,13 @@ writeFileSync(path.join(outDir, "works.json"), JSON.stringify(worksGenerated), "
 writeFileSync(path.join(outDir, "staff.json"), JSON.stringify(staffGenerated), "utf-8");
 writeFileSync(path.join(outDir, "studios.json"), JSON.stringify(studiosGenerated), "utf-8");
 writeFileSync(path.join(outDir, "actors.json"), JSON.stringify(actorsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "series.json"), JSON.stringify(seriesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(
-  `generate-manifest: wrote ${works.length} works, ${staff.length} staff, ${studios.length} studios, ${actors.length} actors, ${themes.length} themes, ${awards.length} awards`
+  `generate-manifest: wrote ${works.length} works, ${series.length} series, ${staff.length} staff, ${studios.length} studios, ${actors.length} actors, ${themes.length} themes, ${awards.length} awards`
 );
 
 
@@ -391,6 +416,8 @@ const sitemapEntries = [
   urlEntry("/"),
   urlEntry("/works"),
   ...works.map((w) => urlEntry(`/works/${w.id}`, w.updatedAt?.slice(0, 10))),
+  urlEntry("/series"),
+  ...series.map((x) => urlEntry(`/series/${x.id}`, x.updatedAt?.slice(0, 10))),
   urlEntry("/themes"),
   ...themes.map((t) => urlEntry(`/themes/${t.id}`)),
   urlEntry("/staff"),

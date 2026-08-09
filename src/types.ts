@@ -44,8 +44,8 @@ export interface WorkSource {
   /** 主要キャスト。裏取りコストを抑えるため最大5名までにとどめる。 */
   cast: CastCredit[];
   themeIds: string[];
-  /** 表示用テキスト(「ミッション:インポッシブル シリーズ」等)。エンティティ化しない。 */
-  seriesName?: string;
+  /** 所属シリーズ(id into series.json)。単発作品では省略。 */
+  seriesId?: string;
   region: WorkRegion;
   medium: WorkMedium;
   /** 公開時期。海外作品は日本公開年を基本とし、判別が難しいときは本国公開年(sourceNoteに明記)。
@@ -99,6 +99,18 @@ export interface StudioSource {
 
 export type ActorSource = StaffSource;
 
+/** シリーズ(「ゴジラ」シリーズ等)。1作でも「シリーズものである」ことに意味があるので、
+ *  該当作品が1本でもエンティティ化してよい。 */
+export interface SeriesSource {
+  id: string;
+  name: string;
+  nameKana: string;
+  description?: string;
+  externalLinks: ExternalLinks;
+  sourceNote: string;
+  updatedAt: string;
+}
+
 export interface ThemeSource {
   id: string;
   name: string;
@@ -127,6 +139,8 @@ export interface CastCreditGenerated extends CastCredit {
 /** Denormalized work: source fields plus resolved names for direct rendering. */
 export interface WorkGenerated extends WorkSource {
   directorNames: string[];
+  /** Resolved from seriesId at build time; absent for standalone works. */
+  seriesName?: string;
   screenwriterNames: string[];
   studioNames: string[];
   castGenerated: CastCreditGenerated[];
@@ -182,6 +196,17 @@ export interface ActorGenerated {
   roles: ActorRole[];
 }
 
+export interface SeriesGenerated {
+  id: string;
+  name: string;
+  nameKana: string;
+  description?: string;
+  externalLinks: ExternalLinks;
+  workCount: number;
+  /** Sorted by release ascending — シリーズを追う順で固定表示するため。 */
+  works: WorkGenerated[];
+}
+
 export interface ThemeGenerated extends ThemeSource {
   workCount: number;
   works: WorkGenerated[];
@@ -203,6 +228,7 @@ export interface AwardGenerated extends AwardSource {
 
 export interface Counts {
   works: number;
+  series: number;
   staff: number;
   studios: number;
   actors: number;

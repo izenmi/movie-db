@@ -1,6 +1,7 @@
 import type {
   AwardGenerated,
   Counts,
+  SeriesGenerated,
   StaffGenerated,
   StudioGenerated,
   ThemeGenerated,
@@ -30,6 +31,7 @@ export const getWorks = () => fetchJson<WorkGenerated[]>("works.json");
 export const getStaff = () => fetchJson<StaffGenerated[]>("staff.json");
 export const getStudios = () => fetchJson<StudioGenerated[]>("studios.json");
 export const getActors = () => fetchJson<ActorGenerated[]>("actors.json");
+export const getSeries = () => fetchJson<SeriesGenerated[]>("series.json");
 export const getThemes = () => fetchJson<ThemeGenerated[]>("themes.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
@@ -52,6 +54,11 @@ export async function getStudio(studioId: string): Promise<StudioGenerated | und
 export async function getActor(actorId: string): Promise<ActorGenerated | undefined> {
   const actors = await getActors();
   return actors.find((v) => v.id === actorId);
+}
+
+export async function getSeriesItem(seriesId: string): Promise<SeriesGenerated | undefined> {
+  const series = await getSeries();
+  return series.find((x) => x.id === seriesId);
 }
 
 export async function getTheme(themeId: string): Promise<ThemeGenerated | undefined> {

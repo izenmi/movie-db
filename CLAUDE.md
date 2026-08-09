@@ -8,7 +8,7 @@
 
 ## データモデル上の判断(このサイト固有・最重要)
 
-- **映画1本で1エントリ**。続編・リメイクは別エントリ(登録するなら)で、シリーズ関係は`seriesName`(表示用テキスト)と`seriesNote`(自由記述)に書く
+- **映画1本で1エントリ**。続編・リメイクは別エントリで、シリーズは`series.json`のエンティティ(作品から`seriesId`で任意参照。2026-08-09にエンティティ化)。`/series`に一覧・詳細ページ(作品は公開順固定)、ナビタブと作品一覧の絞り込みもある。細かい展開の注記は`seriesNote`(自由記述)
 - **`region: japan|overseas`(邦画/海外)と`medium: liveaction|animation`(実写/アニメ)の2軸**が絞り込みの柱。合作は主たる製作国で決めてsourceNoteに明記
 - **アニメ映画はanime-db(単独劇場アニメのみ収録)と重複してよい**とユーザーが明示的に決定済み。重複作品は`relatedAnimeUrl`で相互リンクする(姉妹サイトリンクは5方向: novel/comic/mystery/game/anime)
 - **`release: { year, month? }` は日本公開を基本**とし、判別が難しい作品は本国公開年+sourceNote明記。monthは裏取りできたときだけ
@@ -37,7 +37,7 @@
   - **役名(character)は英語で返ることが多い**。登録時に日本語の役名表記へ直す
   - **同名リメイク・続編の誤マッチに注意**(『告白』のような一般名詞タイトルは特に)。OKでもtitleの目視確認を省略しない
 - **`scripts/fetch-covers.mjs`** … works.jsonの`tmdbId`をキーに`/movie/{id}`を直接引くため、タイトル検索ベースと違い誤ヒットが構造的に起きない。画像は`image.tmdb.org/t/p/w500{poster_path}`へのホットリンク。検証はcontent-type+実バイト数。`--only`/`--force`(非破壊)/`--retry-misses`
-- **`scripts/apply_batch.py`** … キーは`newStaff`/`newStudios`/`newActors`/`newThemes`/`newAwards`/`works`。**applyは1回だけ**、実行前に既存id衝突件数をレポートで確認する
+- **`scripts/apply_batch.py`** … キーは`newStaff`/`newStudios`/`newActors`/`newSeries`/`newThemes`/`newAwards`/`works`。**applyは1回だけ**、実行前に既存id衝突件数をレポートで確認する
 - **`scripts/find_people.py --names 是枝裕和 東宝 菅田将暉`** … staff/studios/actorsの既存idをJSON全体を読まずに引く。バッチ前に必ず通す
 - あらすじは150〜250字で**必ず独自要約**(TMDbのoverviewも転記禁止)。書き出し後に`[Ѐ-ӿ가-힯]`と`[A-Za-z]{4,}`で機械点検する(「原題は The ...。」のような文はoriginalTitleフィールドと重複するのであらすじに書かない — シード時にこの点検で検出して削除した)
 
@@ -70,7 +70,7 @@ node scripts/generate-icons.mjs  # 手動実行
 
 ## データ規模の推移
 
-25作品(初回シード、2026-08-08)。スタッフ32・制作会社20・キャスト71・テーマ35(うちspoiler 1)・アワード5。邦画12(実写7+アニメ5)・海外13(実写11+アニメ2)。ポスターは25/25(100%)解決。全作品をTMDbで裏取りし、キャストはシード時3名/作品に抑えた(上限5名)。受賞歴は未登録(下記)。
+25作品(初回シード、2026-08-08)。シリーズ6・スタッフ32・制作会社20・キャスト71・テーマ35(うちspoiler 1)・アワード5。邦画12(実写7+アニメ5)・海外13(実写11+アニメ2)。ポスターは25/25(100%)解決。全作品をTMDbで裏取りし、キャストはシード時3名/作品に抑えた(上限5名)。受賞歴は未登録(下記)。
 
 ## 既知の未着手事項
 

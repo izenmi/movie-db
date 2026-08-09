@@ -1,0 +1,60 @@
+[
+  {
+    "id": "godzilla",
+    "name": "「ゴジラ」シリーズ",
+    "nameKana": "ごじらしりーず",
+    "description": "1954年の『ゴジラ』に始まる東宝の怪獣映画シリーズ。国内外で数十作が作られ続けている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B8%E3%83%A9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    },
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dark-knight-trilogy",
+    "name": "「ダークナイト」三部作",
+    "nameKana": "だーくないとさんぶさく",
+    "description": "クリストファー・ノーラン監督によるバットマン映画三部作(2005〜2012)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "back-to-the-future",
+    "name": "「バック・トゥ・ザ・フューチャー」シリーズ",
+    "nameKana": "ばっくとぅざふゅーちゃーしりーず",
+    "description": "ロバート・ゼメキス監督によるタイムトラベル映画三部作(1985〜1990)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mcu",
+    "name": "マーベル・シネマティック・ユニバース(MCU)",
+    "nameKana": "まーべるしねまてぃっくゆにばーす",
+    "description": "マーベル・スタジオ製作のヒーロー映画群が共有する世界観シリーズ。2008年『アイアンマン』から続く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9"
+    },
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mad-max",
+    "name": "「マッドマックス」シリーズ",
+    "nameKana": "まっどまっくすしりーず",
+    "description": "ジョージ・ミラー監督による荒廃した世界のカーアクション映画シリーズ(1979〜)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toy-story",
+    "name": "「トイ・ストーリー」シリーズ",
+    "nameKana": "といすとーりーしりーず",
+    "description": "ピクサーの長編CGアニメーション映画シリーズ。おもちゃたちの冒険を描く(1995〜)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  }
+]
