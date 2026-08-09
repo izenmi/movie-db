@@ -17899,5 +17899,365 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alan Jay Lerner。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-aldrich",
+    "name": "ロバート・アルドリッチ",
+    "nameKana": "ロバートアルドリッチ",
+    "description": "映画監督。『特攻大作戦』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Aldrich。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nunnally-johnson",
+    "name": "ナナリー・ジョンソン",
+    "nameKana": "ナナリージョンソン",
+    "description": "脚本家。『特攻大作戦』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nunnally Johnson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lukas-heller",
+    "name": "ルーカス・ヘラー",
+    "nameKana": "ルーカスヘラー",
+    "description": "脚本家。『特攻大作戦』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lukas Heller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dalton-trumbo",
+    "name": "ダルトン・トランボ",
+    "nameKana": "ダルトントランボ",
+    "description": "脚本家。『スパルタカス』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dalton Trumbo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-ustinov",
+    "name": "ピーター・ユスティノフ",
+    "nameKana": "ピーターユスティノフ",
+    "description": "脚本家。『スパルタカス』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Ustinov。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yasunao-aoki",
+    "name": "青木康直",
+    "nameKana": "あおきやすなお",
+    "description": "映画監督。『新機動戦記ガンダムＷ Endless Waltz 特別篇』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yasunao Aoki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rumi-takahashi",
+    "name": "高橋留美",
+    "nameKana": "たかはしるみ",
+    "description": "脚本家。『キューティーハニー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rumi Takahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-hopkins",
+    "name": "ジョン・ホプキンス",
+    "nameKana": "ジョンホプキンス",
+    "description": "脚本家。『007／サンダーボール作戦』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Hopkins。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "salvatore-samperi",
+    "name": "サルヴァトーレ・サンペリ",
+    "nameKana": "サルヴァトーレサンペリ",
+    "description": "映画監督・脚本家。『青い体験』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Salvatore Samperi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ottavio-jemma",
+    "name": "オッタヴィオ・イエンマ",
+    "nameKana": "オッタヴィオイエンマ",
+    "description": "脚本家。『青い体験』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ottavio Jemma。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alek-keshishian",
+    "name": "アレック・ケシシアン",
+    "nameKana": "アレックケシシアン",
+    "description": "映画監督・脚本家。『セレーナ・ゴメス：My Mind & Me』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alek Keshishian。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-marchand",
+    "name": "ポール・マーチャンド",
+    "nameKana": "ポールマーチャンド",
+    "description": "脚本家。『セレーナ・ゴメス：My Mind & Me』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul Marchand。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenichi-kasai",
+    "name": "笠井賢一",
+    "nameKana": "かさいけんいち",
+    "description": "映画監督。『君を愛したひとりの僕へ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kenichi Kasai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "don-siegel",
+    "name": "ドン・シーゲル",
+    "nameKana": "ドンシーゲル",
+    "description": "映画監督。『ダーティハリー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Don Siegel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dean-riesner",
+    "name": "ディーン・リーズナー",
+    "nameKana": "ディーンリーズナー",
+    "description": "脚本家。『ダーティハリー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dean Riesner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rita-m-fink",
+    "name": "リタ・M・フィンク",
+    "nameKana": "ふぃんりた",
+    "description": "脚本家。『ダーティハリー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rita M. Fink。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "evan-hunter",
+    "name": "エヴァン・ハンター",
+    "nameKana": "エヴァンハンター",
+    "description": "脚本家。『鳥』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Evan Hunter。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tom-mankiewicz",
+    "name": "トム・マンキーウィッツ",
+    "nameKana": "トムマンキーウィッツ",
+    "description": "脚本家。『007／死ぬのは奴らだ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tom Mankiewicz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "franco-zeffirelli",
+    "name": "フランコ・ゼフィレッリ",
+    "nameKana": "フランコゼフィレッリ",
+    "description": "映画監督。『ロミオとジュリエット』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Franco Zeffirelli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "franco-brusati",
+    "name": "フランコ・ブルサーティ",
+    "nameKana": "フランコブルサーティ",
+    "description": "脚本家。『ロミオとジュリエット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Franco Brusati。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masolino-damico",
+    "name": "マゾリーノ・ダミーコ",
+    "nameKana": "マゾリーノダミーコ",
+    "description": "脚本家。『ロミオとジュリエット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masolino D'Amico。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "f-w-murnau",
+    "name": "F・W・ムルナウ",
+    "nameKana": "むなう",
+    "description": "映画監督。『吸血鬼ノスフェラトゥ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: F. W. Murnau。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henrik-galeen",
+    "name": "ヘンリク・ガレーン",
+    "nameKana": "ヘンリクガレーン",
+    "description": "脚本家。『吸血鬼ノスフェラトゥ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Henrik Galeen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "norio-kida",
+    "name": "木田紀生",
+    "nameKana": "きだのりお",
+    "description": "脚本家。『バトル・ロワイアルII 鎮魂歌』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Norio Kida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiichi-sugiyama",
+    "name": "杉山慶一",
+    "nameKana": "すぎやまけいいち",
+    "description": "映画監督。『銀色の髪のアギト』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiichi Sugiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naoko-kakimoto",
+    "name": "柿本直子",
+    "nameKana": "かきもとなおこ",
+    "description": "脚本家。『銀色の髪のアギト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naoko Kakimoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nana-shiina",
+    "name": "椎名奈々",
+    "nameKana": "しいななな",
+    "description": "脚本家。『銀色の髪のアギト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nana Shiina。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "samuel-armstrong",
+    "name": "サミュエル・アームストロング",
+    "nameKana": "サミュエルアームストロング",
+    "description": "映画監督。『ファンタジア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Samuel Armstrong。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-algar",
+    "name": "ジェームズ・アルガー",
+    "nameKana": "ジェームズアルガー",
+    "description": "映画監督。『ファンタジア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Algar。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-a-russo",
+    "name": "ジョン・A・ルッソ",
+    "nameKana": "るっそあじょん",
+    "description": "脚本家。『ナイト・オブ・ザ・リビング・デッド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John A. Russo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fred-zinnemann",
+    "name": "フレッド・ジンネマン",
+    "nameKana": "フレッドジンネマン",
+    "description": "映画監督。『真昼の決闘』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fred Zinnemann。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kurasumi-sunayama",
+    "name": "砂山蔵澄",
+    "nameKana": "すなやまくらすみ",
+    "description": "脚本家。『攻殻機動隊 SAC_2045 持続可能戦争』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kurasumi Sunayama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ken-russell",
+    "name": "ケン・ラッセル",
+    "nameKana": "ケンラッセル",
+    "description": "映画監督・脚本家。『Tommy トミー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ken Russell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ingmar-bergman",
+    "name": "イングマール・ベルイマン",
+    "nameKana": "イングマールベルイマン",
+    "description": "映画監督・脚本家。『第七の封印』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ingmar Bergman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jacques-deray",
+    "name": "ジャック・ドレー",
+    "nameKana": "ジャックドレー",
+    "description": "映画監督・脚本家。『太陽が知っている』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jacques Deray。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blake-edwards",
+    "name": "ブレイク・エドワーズ",
+    "nameKana": "ブレイクエドワーズ",
+    "description": "映画監督。『ティファニーで朝食を』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Blake Edwards。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "george-axelrod",
+    "name": "ジョージ・アクセルロッド",
+    "nameKana": "ジョージアクセルロッド",
+    "description": "脚本家。『ティファニーで朝食を』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: George Axelrod。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vladimir-nabokov",
+    "name": "ウラジーミル・ナボコフ",
+    "nameKana": "ウラジーミルナボコフ",
+    "description": "脚本家。『ロリータ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vladimir Nabokov。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-attenborough",
+    "name": "リチャード・アッテンボロー",
+    "nameKana": "リチャードアッテンボロー",
+    "description": "映画監督。『遠すぎた橋』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Attenborough。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yukiko-takayama",
+    "name": "高山由紀子",
+    "nameKana": "たかやまゆきこ",
+    "description": "脚本家。『メカゴジラの逆襲』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yukiko Takayama。",
+    "updatedAt": "2026-08-09"
   }
 ]

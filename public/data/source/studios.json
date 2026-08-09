@@ -9241,5 +9241,203 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: New World Pictures。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seven-arts-pictures",
+    "name": "セブン・アーツ・ピクチャーズ",
+    "nameKana": "セブンアーツピクチャーズ",
+    "description": "映画製作会社。『特攻大作戦』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seven Arts Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mkh",
+    "name": "MKH",
+    "nameKana": "",
+    "description": "映画製作会社。『特攻大作戦』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bryna-productions",
+    "name": "ブライナ・プロダクションズ",
+    "nameKana": "ブライナプロダクションズ",
+    "description": "映画製作会社。『スパルタカス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bryna Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "towani",
+    "name": "トワニ",
+    "nameKana": "とわに",
+    "description": "映画製作会社。『キューティーハニー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Towani。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "clesi-cinematografica",
+    "name": "クレシ・チネマトグラフィカ",
+    "nameKana": "クレシチネマトグラフィカ",
+    "description": "映画製作会社。『青い体験』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Clesi Cinematografica。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ddl-cinematografica",
+    "name": "DDLチネマトグラフィカ",
+    "nameKana": "いねまとらふぃあっ",
+    "description": "映画製作会社。『青い体験』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DDL Cinematografica。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lighthouse-management-media",
+    "name": "ライトハウス・マネジメント",
+    "nameKana": "ライトハウスマネジメント",
+    "description": "映画製作会社。『セレーナ・ゴメス：My Mind & Me』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lighthouse Management + Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "interscope-films",
+    "name": "インタースコープ・フィルムズ",
+    "nameKana": "インタースコープフィルムズ",
+    "description": "映画製作会社。『セレーナ・ゴメス：My Mind & Me』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Interscope Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "prana-film",
+    "name": "プラナ・フィルム",
+    "nameKana": "プラナフィルム",
+    "description": "映画製作会社。『吸血鬼ノスフェラトゥ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Prana-Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fukasaku-gumi",
+    "name": "深作組",
+    "nameKana": "ふかさくぐみ",
+    "description": "映画製作会社。『バトル・ロワイアルII 鎮魂歌』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fukasaku-gumi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "long-road-productions",
+    "name": "ロング・ロード・プロダクションズ",
+    "nameKana": "ロングロードプロダクションズ",
+    "description": "映画製作会社。『チャイナタウン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Long Road Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "afi",
+    "name": "AFI",
+    "nameKana": "えーえふあい",
+    "description": "映画製作会社。『イレイザーヘッド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "image-ten",
+    "name": "イメージ・テン",
+    "nameKana": "イメージテン",
+    "description": "映画製作会社。『ナイト・オブ・ザ・リビング・デッド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Image Ten。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stanley-kramer-productions",
+    "name": "スタンリー・クレイマー・プロダクションズ",
+    "nameKana": "スタンリークレイマープロダクションズ",
+    "description": "映画製作会社。『真昼の決闘』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stanley Kramer Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "flyingdog",
+    "name": "フライングドッグ",
+    "nameKana": "ふらいんぐどっぐ",
+    "description": "映画製作会社。『攻殻機動隊 SAC_2045 持続可能戦争』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: FlyingDog。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sf-studios",
+    "name": "SFスタジオ",
+    "nameKana": "つでぃお",
+    "description": "映画製作会社。『第七の封印』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SF Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "societe-nouvelle-de-cinematographie",
+    "name": "ソシエテ・ヌーヴェル・ド・シネマトグラフィ",
+    "nameKana": "ソシエテヌーヴェルドシネマトグラフィ",
+    "description": "映画製作会社。『太陽が知っている』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Société Nouvelle de Cinématographie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tritone-cinematografica",
+    "name": "トリトーネ・チネマトグラフィカ",
+    "nameKana": "トリトーネチネマトグラフィカ",
+    "description": "映画製作会社。『太陽が知っている』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tritone Cinematografica。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jurow-shepherd",
+    "name": "ジュロー=シェパード",
+    "nameKana": "じゅろしぇへ",
+    "description": "映画製作会社。『ティファニーで朝食を』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jurow-Shepherd。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seven-arts-productions",
+    "name": "セブン・アーツ・プロダクションズ",
+    "nameKana": "セブンアーツプロダクションズ",
+    "description": "映画製作会社。『ロリータ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seven Arts Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harris-kubrick-pictures",
+    "name": "ハリス・キューブリック・ピクチャーズ",
+    "nameKana": "ハリスキューブリックピクチャーズ",
+    "description": "映画製作会社。『ロリータ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harris Kubrick Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joseph-e-levine-productions",
+    "name": "ジョセフ・E・レヴィン・プロダクションズ",
+    "nameKana": "ろづちおんれゔぃねえじょせ",
+    "description": "映画製作会社。『遠すぎた橋』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joseph E. Levine Productions。",
+    "updatedAt": "2026-08-09"
   }
 ]

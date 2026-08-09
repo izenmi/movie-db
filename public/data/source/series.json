@@ -1751,5 +1751,50 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ju-on",
+    "name": "呪怨 シリーズ",
+    "nameKana": "じゅおんしりーず",
+    "description": "呪われた家に触れた者が次々と死んでいく日本のホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "battle-royale",
+    "name": "バトル・ロワイアル シリーズ",
+    "nameKana": "ばとるろわいあるしりーず",
+    "description": "高見広春の小説を原作とする、中学生の殺し合いを描く実写映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ghost-in-the-shell-sac",
+    "name": "攻殻機動隊 STAND ALONE COMPLEX",
+    "nameKana": "こうかくきどうたいすたんどあろーんこんぷれっくす",
+    "description": "公安九課の活動を描く「攻殻機動隊」のテレビ発シリーズと、その劇場版。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "living-dead",
+    "name": "リビングデッド シリーズ",
+    "nameKana": "りびんぐでっどしりーず",
+    "description": "ジョージ・A・ロメロによる、死者が蘇る世界を描くホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eden-of-the-east",
+    "name": "東のエデン 劇場版",
+    "nameKana": "ひがしのえでんげきじょうばん",
+    "description": "神山健治監督による、ミサイル攻撃を止めた青年の行方を描く劇場アニメ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
