@@ -12283,5 +12283,311 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Lynch。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hana-matsumoto",
+    "name": "松本花奈",
+    "nameKana": "まつもとはな",
+    "description": "脚本家。『今夜、世界からこの恋が消えても』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hana Matsumoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sho-tsukikawa",
+    "name": "月川翔",
+    "nameKana": "つきかわしょう",
+    "description": "脚本家。『今夜、世界からこの恋が消えても』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sho Tsukikawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-a-abrams",
+    "name": "ジョナサン・A・エイブラムス",
+    "nameKana": "あらあじょなはん",
+    "description": "脚本家。『陪審員２番』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan A. Abrams。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rob-greenberg",
+    "name": "ロブ・グリーンバーグ",
+    "nameKana": "ロブグリーンバーグ",
+    "description": "脚本家。『くもりときどきミートボール』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rob Greenberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshiyuki-fukuda",
+    "name": "福田善之",
+    "nameKana": "ふくだよしゆき",
+    "description": "脚本家。『哀しみのベラドンナ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshiyuki Fukuda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-weisberg",
+    "name": "デヴィッド・ワイスバーグ",
+    "nameKana": "デヴィッドワイスバーグ",
+    "description": "脚本家。『ザ・ロック』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Weisberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "douglas-s-cook",
+    "name": "ダグラス・S・クック",
+    "nameKana": "おおどうら",
+    "description": "脚本家。『ザ・ロック』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Douglas S. Cook。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kathryn-bigelow",
+    "name": "キャスリン・ビグロー",
+    "nameKana": "キャスリンビグロー",
+    "description": "映画監督。『ハートブルー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kathryn Bigelow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "w-peter-iliff",
+    "name": "W・ピーター・イリフ",
+    "nameKana": "いりっぺて",
+    "description": "脚本家。『ハートブルー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: W. Peter Iliff。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-gems",
+    "name": "ジョナサン・ジェムズ",
+    "nameKana": "ジョナサンジェムズ",
+    "description": "脚本家。『マーズ・アタック!』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan Gems。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noboru-mitsusawa",
+    "name": "三沢伸",
+    "nameKana": "みつさわのぼる",
+    "description": "映画監督。『劇場版 頭文字D Third Stage』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noboru Mitsusawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "victoria-strouse",
+    "name": "ヴィクトリア・ストラウス",
+    "nameKana": "ヴィクトリアストラウス",
+    "description": "脚本家。『ファインディング・ドリー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Victoria Strouse。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "micah-fitzerman-blue",
+    "name": "マイカ・フィッツァーマン=ブルー",
+    "nameKana": "ふぃぜまんるえみあ",
+    "description": "脚本家。『マレフィセント2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Micah Fitzerman-Blue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masayuki-akehi",
+    "name": "明比正行",
+    "nameKana": "あけひまさゆき",
+    "description": "映画監督。『聖闘士星矢 最終聖戦の戦士たち』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masayuki Akehi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masami-kurumada",
+    "name": "車田正美",
+    "nameKana": "くるまだまさみ",
+    "description": "脚本家。『聖闘士星矢 最終聖戦の戦士たち』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masami Kurumada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alex-convery",
+    "name": "アレックス・コンヴァリー",
+    "nameKana": "アレックスコンヴァリー",
+    "description": "脚本家。『AIR/エア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alex Convery。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuya-konaka",
+    "name": "小中和哉",
+    "nameKana": "こなかかずや",
+    "description": "映画監督。『ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア 超時空の大決戦』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuya Konaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiichi-hasegawa",
+    "name": "長谷川圭一",
+    "nameKana": "はせがわけいいち",
+    "description": "脚本家。『ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア 超時空の大決戦』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiichi Hasegawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "justin-kurzel",
+    "name": "ジャスティン・カーゼル",
+    "nameKana": "ジャスティンカーゼル",
+    "description": "映画監督。『オーダー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Justin Kurzel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gustav-hasford",
+    "name": "グスタフ・ハスフォード",
+    "nameKana": "グスタフハスフォード",
+    "description": "脚本家。『フルメタル・ジャケット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gustav Hasford。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kishida-nobuaki",
+    "name": "岸間信明",
+    "nameKana": "きしまのぶあき",
+    "description": "脚本家。『映画ドラえもん のび太とロボット王国』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kishida Nobuaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takayuki-hamana",
+    "name": "浜名孝行",
+    "nameKana": "はまなたかゆき",
+    "description": "映画監督。『劇場版 七つの大罪 光に呪われし者たち』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takayuki Hamana。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rintaro-ikeda",
+    "name": "池田臨太郎",
+    "nameKana": "いけだりんたろう",
+    "description": "脚本家。『劇場版 七つの大罪 光に呪われし者たち』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rintaro Ikeda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nima-nourizadeh",
+    "name": "ニマ・ヌリザデ",
+    "nameKana": "ニマヌリザデ",
+    "description": "映画監督。『プロジェクトX』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nima Nourizadeh。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-bacall",
+    "name": "マイケル・バコール",
+    "nameKana": "マイケルバコール",
+    "description": "脚本家。『プロジェクトX』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Bacall。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matt-drake",
+    "name": "マット・ドレイク",
+    "nameKana": "マットドレイク",
+    "description": "脚本家。『プロジェクトX』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matt Drake。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noriaki-sugihara",
+    "name": "杉原憲明",
+    "nameKana": "すぎはらのりあき",
+    "description": "脚本家。『禁じられた遊び』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noriaki Sugihara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sachiko-tanaka",
+    "name": "田中幸子",
+    "nameKana": "たなかさちこ",
+    "description": "脚本家。『寝ても覚めても』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sachiko Tanaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alejandro-amenabar",
+    "name": "アレハンドロ・アメナーバル",
+    "nameKana": "アレハンドロアメナーバル",
+    "description": "映画監督・脚本家。『アザーズ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alejandro Amenábar。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "angel-manuel-soto",
+    "name": "アンヘル・マヌエル・ソト",
+    "nameKana": "アンヘルマヌエルソト",
+    "description": "映画監督。『ブルービートル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ángel Manuel Soto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gareth-dunnet-alcocer",
+    "name": "ガレス・ダネット=アルコセール",
+    "nameKana": "づんえたおえがれ",
+    "description": "脚本家。『ブルービートル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gareth Dunnet-Alcocer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "randal-kleiser",
+    "name": "ランダル・クレイザー",
+    "nameKana": "ランダルクレイザー",
+    "description": "映画監督。『グリース』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Randal Kleiser。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bronte-woodard",
+    "name": "ブロンテ・ウッダード",
+    "nameKana": "ブロンテウッダード",
+    "description": "脚本家。『グリース』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bronté Woodard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-scanlon",
+    "name": "ダン・スキャンロン",
+    "nameKana": "ダンスキャンロン",
+    "description": "映画監督。『モンスターズ・ユニバーシティ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Scanlon。",
+    "updatedAt": "2026-08-09"
   }
 ]
