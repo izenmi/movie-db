@@ -2411,5 +2411,1907 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "war-of-the-worlds",
+    "title": "ウォー・オブ・ザ・ワールド",
+    "titleKana": "うぉーおぶざわーるど",
+    "directorIds": [
+      "rich-lee"
+    ],
+    "screenwriterIds": [
+      "marc-hyman",
+      "kenny-golde"
+    ],
+    "studioIds": [
+      "universal",
+      "bazelevs"
+    ],
+    "cast": [
+      {
+        "actorId": "ice-cube",
+        "character": "ウィリアム・ラドフォード"
+      },
+      {
+        "actorId": "eva-longoria",
+        "character": "サンドラ・サラス"
+      },
+      {
+        "actorId": "clark-gregg",
+        "character": "ドナルド・ブリッグス"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "suspense",
+      "alien",
+      "apocalypse"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 7
+    },
+    "runtime": 145,
+    "originalType": "other",
+    "synopsis": "国土安全保障省で監視システムを扱うサイバー分析官ウィルは、膨大なデータの中から不審な兆候をつかむ。やがて世界各地で発生した正体不明の攻撃が、政府が長らく隠してきた異星の存在と結びついていることを知る。画面越しに事態を追う視点を軸に、侵略下の混乱と、家族の安否に揺れる主人公の焦燥を描く。",
+    "tmdbId": 755898,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "War of the Worlds"
+  },
+  {
+    "id": "captain-america-civil-war",
+    "title": "シビル・ウォー／キャプテン・アメリカ",
+    "titleKana": "しびるうぉーきゃぷてんあめりか",
+    "directorIds": [
+      "joe-russo",
+      "anthony-russo"
+    ],
+    "screenwriterIds": [
+      "stephen-mcfeely",
+      "christopher-markus"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-evans",
+        "character": "スティーブ・ロジャース"
+      },
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      },
+      {
+        "actorId": "scarlett-johansson",
+        "character": "ナターシャ・ロマノフ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "sf",
+      "hero",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 4
+    },
+    "runtime": 148,
+    "originalType": "manga",
+    "synopsis": "各地の戦いで生じた被害の責任を問われ、アベンジャーズは国連の管理下に入る協定を突きつけられる。署名を受け入れるトニー・スタークと、良心に従うことを選ぶスティーブ・ロジャース。旧友バッキーをめぐる疑惑が対立に火をつけ、仲間だったヒーローたちは二つの陣営に分かれて拳を交えることになる。",
+    "tmdbId": 271110,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Captain America: Civil War",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "troy",
+    "title": "トロイ",
+    "titleKana": "とろい",
+    "directorIds": [
+      "wolfgang-petersen"
+    ],
+    "screenwriterIds": [
+      "david-benioff"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "plan-b-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "brad-pitt",
+        "character": "アキレス"
+      },
+      {
+        "actorId": "orlando-bloom",
+        "character": "パリス"
+      },
+      {
+        "actorId": "eric-bana",
+        "character": "ヘクトル"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "action",
+      "history"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 5
+    },
+    "runtime": 163,
+    "originalType": "other",
+    "synopsis": "紀元前の地中海。トロイの王子パリスがスパルタ王の妃ヘレンを連れ帰ったことで、ギリシャ連合軍は千隻の船を仕立てトロイへ攻め寄せる。無敵と謳われながら王への忠誠を持たない戦士アキレスと、都と民を守るために立つトロイの王子ヘクトル。名誉と愛のために命を懸けた男たちの十年戦争を描いた叙事詩的大作。",
+    "tmdbId": 652,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Troy"
+  },
+  {
+    "id": "neon-genesis-evangelion-the-end-of-evangelion",
+    "title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+    "titleKana": "しんせいきえゔぁんげりおんげきじょうばんえあまごころをきみに",
+    "directorIds": [
+      "kazuya-tsurumaki",
+      "hideaki-anno"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "gainax",
+      "movic"
+    ],
+    "cast": [
+      {
+        "actorId": "megumi-ogata",
+        "character": "碇シンジ"
+      },
+      {
+        "actorId": "megumi-hayashibara",
+        "character": "綾波レイ"
+      },
+      {
+        "actorId": "kotono-mitsuishi",
+        "character": "葛城ミサト"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "human-drama",
+      "fantasy",
+      "action"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1997,
+      "month": 7
+    },
+    "runtime": 87,
+    "originalType": "original",
+    "synopsis": "使徒との戦いを終えたネルフに、人類補完計画の発動をもくろむゼーレが戦略自衛隊を差し向ける。心を閉ざした碇シンジが動けずにいる間に施設は蹂躙され、アスカの駆る弐号機が量産機の群れと死闘を演じる。やがて始まる補完のなかで、他者との境界を失った人類と、それでも他人と生きることを選ぶ少年の姿が描かれる。",
+    "tmdbId": 18491,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "a-silent-voice-the-movie",
+    "title": "映画 聲の形",
+    "titleKana": "えいがこえのかたち",
+    "directorIds": [
+      "naoko-yamada"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "kyoto-animation",
+      "abc-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "miyu-irino",
+        "character": "石田将也"
+      },
+      {
+        "actorId": "saori-hayami",
+        "character": "西宮硝子"
+      },
+      {
+        "actorId": "aoi-yuuki",
+        "character": "西宮結絃"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "school",
+      "youth",
+      "coming-of-age"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 9
+    },
+    "runtime": 130,
+    "originalType": "manga",
+    "synopsis": "小学生の石田将也は、転校してきた聴覚障害のある少女西宮硝子をからかい、やがて自分がいじめの標的になる。高校生になり孤立したまま生きてきた将也は、手話を覚えて硝子に会いに行く。過去を償えるのかという問いを抱えたまま、二人と周囲の同級生は、伝わらない言葉と向き合いながら関係を結び直していく。",
+    "tmdbId": 378064,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jurassic-world-rebirth",
+    "title": "ジュラシック・ワールド／復活の大地",
+    "titleKana": "じゅらしっくわーるどふっかつのだいち",
+    "directorIds": [
+      "gareth-edwards"
+    ],
+    "screenwriterIds": [
+      "david-koepp"
+    ],
+    "studioIds": [
+      "universal",
+      "amblin"
+    ],
+    "cast": [
+      {
+        "actorId": "scarlett-johansson",
+        "character": "ゾーラ・ベネット"
+      },
+      {
+        "actorId": "mahershala-ali",
+        "character": "ダンカン・キンケイド"
+      },
+      {
+        "actorId": "jonathan-bailey",
+        "character": "ヘンリー・ルーミス博士"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "action",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 8
+    },
+    "runtime": 134,
+    "originalType": "novel",
+    "synopsis": "恐竜が地球環境に適応できず数を減らし、赤道直下の隔離地帯だけに生き残った時代。製薬会社は難病治療に役立つ遺伝子サンプルを求め、秘密工作の専門家ゾーラたちを危険な島へ送り込む。かつての研究施設に残された失敗作の存在が明らかになり、一行は海と密林で想定外の脅威に追い詰められていく。",
+    "tmdbId": 1234821,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Jurassic World Rebirth",
+    "seriesId": "jurassic-park"
+  },
+  {
+    "id": "the-godfather",
+    "title": "ゴッドファーザー",
+    "titleKana": "ごっどふぁーざー",
+    "directorIds": [
+      "francis-ford-coppola"
+    ],
+    "screenwriterIds": [
+      "mario-puzo"
+    ],
+    "studioIds": [
+      "paramount",
+      "alfran-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "marlon-brando",
+        "character": "ヴィトー・コルレオーネ"
+      },
+      {
+        "actorId": "al-pacino",
+        "character": "マイケル・コルレオーネ"
+      },
+      {
+        "actorId": "james-caan",
+        "character": "ソニー・コルレオーネ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "family",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1972,
+      "month": 7
+    },
+    "runtime": 175,
+    "originalType": "novel",
+    "synopsis": "ニューヨークの五大ファミリーの一角を築いたヴィトー・コルレオーネ。堅気の道を歩むはずだった末息子マイケルは、父が銃撃されたことを機に一族の抗争へ足を踏み入れる。復讐と亡命を経て帰国した彼は、冷徹な計算で敵を排除し、父が守ろうとした家族の掟ごと自らを闇に沈めていく。マフィア映画の金字塔。",
+    "tmdbId": 238,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Godfather"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-return-of-the-king",
+    "title": "ロード・オブ・ザ・リング／王の帰還",
+    "titleKana": "ろーどおぶざりんぐおうのきかん",
+    "directorIds": [
+      "peter-jackson"
+    ],
+    "screenwriterIds": [
+      "fran-walsh"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "wingnut-films"
+    ],
+    "cast": [
+      {
+        "actorId": "elijah-wood",
+        "character": "フロド"
+      },
+      {
+        "actorId": "ian-mckellen",
+        "character": "ガンダルフ"
+      },
+      {
+        "actorId": "viggo-mortensen",
+        "character": "アラゴルン"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "action"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 2
+    },
+    "runtime": 203,
+    "originalType": "novel",
+    "synopsis": "指輪を捨てる旅の終わりが近づき、フロドとサムはゴラムに導かれて滅びの山を目指す。一方アラゴルンは、王としての宿命を受け入れ、死者の軍団を率いてゴンドールの防衛に加わる。ミナス・ティリスを舞台にした大会戦と、指輪の誘惑に耐えかねる小さなホビットの最後の一歩が交錯する三部作の完結編。",
+    "tmdbId": 122,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "seriesId": "lotr"
+  },
+  {
+    "id": "perfect-days",
+    "title": "PERFECT DAYS",
+    "titleKana": "ぱーふぇくとでいず",
+    "directorIds": [
+      "wim-wenders"
+    ],
+    "screenwriterIds": [
+      "takuma-takasaki"
+    ],
+    "studioIds": [
+      "master-mind",
+      "wenders-images"
+    ],
+    "cast": [
+      {
+        "actorId": "koji-yakusho",
+        "character": "平山"
+      },
+      {
+        "actorId": "tokio-emoto",
+        "character": "タカシ"
+      },
+      {
+        "actorId": "arisa-nakano",
+        "character": "ニコ"
+      }
+    ],
+    "themeIds": [
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 12
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "東京の公共トイレを清掃する平山は、決まった時刻に目覚め、カセットテープの音楽を聴きながら車を走らせ、木漏れ日を写真に収める日々を送る。姪の突然の訪問や、同僚の身勝手さ、行きつけの店の主の事情が、規則正しい生活にさざ波を立てる。多くを語らない男の表情から、その来歴と静かな充足が浮かび上がる。",
+    "tmdbId": 976893,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kikis-delivery-service",
+    "title": "魔女の宅急便",
+    "titleKana": "まじょのたっきゅうびん",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "nibariki"
+    ],
+    "cast": [
+      {
+        "actorId": "minami-takayama",
+        "character": "キキ"
+      },
+      {
+        "actorId": "rei-sakuma",
+        "character": "ジジ"
+      },
+      {
+        "actorId": "kappei-yamaguchi",
+        "character": "トンボ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "fantasy",
+      "coming-of-age"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1989,
+      "month": 7
+    },
+    "runtime": 112,
+    "originalType": "novel",
+    "synopsis": "13歳になった魔女は一年間よその町で暮らす。掟に従って旅立ったキキは、黒猫のジジを連れて海辺の街にたどり着き、空を飛ぶ力だけを頼りに宅配屋を始める。パン屋のおソノや飛行機に憧れる少年トンボと出会い、働くことの手応えを知る一方、ある日突然箒で飛べなくなり、自分の力の意味と向き合うことになる。",
+    "tmdbId": 16859,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-fantastic-4-first-steps",
+    "title": "ファンタスティック４：ファースト・ステップ",
+    "titleKana": "ふぁんたすてぃっくふぉーふぁーすとすてっぷ",
+    "directorIds": [
+      "matt-shakman"
+    ],
+    "screenwriterIds": [
+      "josh-friedman",
+      "eric-pearson"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "kevin-feige-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "pedro-pascal",
+        "character": "リード・リチャーズ"
+      },
+      {
+        "actorId": "vanessa-kirby",
+        "character": "スー・ストーム"
+      },
+      {
+        "actorId": "ebon-moss-bachrach",
+        "character": "ベン・グリム"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "action",
+      "hero",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 7
+    },
+    "runtime": 115,
+    "originalType": "manga",
+    "synopsis": "宇宙線を浴びて特殊な能力を得た四人は、レトロフューチャーな世界でファンタスティック・フォーとして人々に慕われていた。そこへ星を喰らう存在ギャラクタスの先触れが現れ、地球の明け渡しを要求する。伸縮自在のリードと透明化するスー、炎をまとうジョニー、岩の巨体となったベンが、家族として最大の危機に挑む。",
+    "tmdbId": 617126,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Fantastic 4: First Steps",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "deadpool-wolverine",
+    "title": "デッドプール＆ウルヴァリン",
+    "titleKana": "でっどぷーるうるばりん",
+    "directorIds": [
+      "shawn-levy"
+    ],
+    "screenwriterIds": [
+      "rhett-reese",
+      "paul-wernick"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "maximum-effort"
+    ],
+    "cast": [
+      {
+        "actorId": "ryan-reynolds",
+        "character": "ウェイド・ウィルソン"
+      },
+      {
+        "actorId": "hugh-jackman",
+        "character": "ローガン"
+      },
+      {
+        "actorId": "emma-corrin",
+        "character": "カサンドラ・ノヴァ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "sf",
+      "hero",
+      "buddy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 7
+    },
+    "runtime": 128,
+    "originalType": "manga",
+    "synopsis": "ヒーローを引退し平凡に暮らしていたウェイド・ウィルソンは、時空を管理する組織に自分の世界の消滅を告げられる。世界を救う鍵を握るのは、すでに死んだはずのウルヴァリン。無数の並行世界から連れ出した最悪の相棒とともに、口の減らない不死身の傭兵が、罵り合いと流血にまみれた旅に出る。",
+    "tmdbId": 533535,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Deadpool & Wolverine",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "oppenheimer",
+    "title": "オッペンハイマー",
+    "titleKana": "おっぺんはいまー",
+    "directorIds": [
+      "christopher-nolan"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "syncopy",
+      "universal"
+    ],
+    "cast": [
+      {
+        "actorId": "cillian-murphy",
+        "character": "ロバート・オッペンハイマー"
+      },
+      {
+        "actorId": "emily-blunt",
+        "character": "キティ・オッペンハイマー"
+      },
+      {
+        "actorId": "matt-damon",
+        "character": "レズリー・グローヴス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "biography",
+      "war",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 3
+    },
+    "runtime": 180,
+    "originalType": "other",
+    "synopsis": "理論物理学者ロバート・オッペンハイマーは、第二次大戦下でマンハッタン計画の科学部門を率い、砂漠の町ロスアラモスに研究者を集めて原子爆弾を完成させる。実験の成功と実戦投下がもたらしたものを前に、彼は名声と罪悪感の間で引き裂かれ、戦後は赤狩りの標的として公聴会にかけられていく。",
+    "tmdbId": 872585,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Oppenheimer"
+  },
+  {
+    "id": "ikiru",
+    "title": "生きる",
+    "titleKana": "いきる",
+    "directorIds": [
+      "akira-kurosawa"
+    ],
+    "screenwriterIds": [
+      "shinobu-hashimoto"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "takashi-shimura",
+        "character": "渡辺勘治"
+      },
+      {
+        "actorId": "haruo-tanaka",
+        "character": "酒井"
+      },
+      {
+        "actorId": "nobuo-kaneko",
+        "character": "渡辺光男"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "classic",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1952,
+      "month": 10
+    },
+    "runtime": 143,
+    "originalType": "original",
+    "synopsis": "市役所で判で押したような日々を送ってきた市民課長の渡辺は、胃がんで余命わずかと知る。無為に過ごした三十年に打ちのめされ、夜の街をさまよい、若い部下の生気に触れた彼は、住民が陳情していた小さな公園の建設に残された時間を注ぎ込む。通夜の席で語られる回想を通じ、一人の男の最期の生き方が浮かび上がる。",
+    "tmdbId": 3782,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "door",
+    "title": "DOOR",
+    "titleKana": "どあ",
+    "directorIds": [
+      "banmei-takahashi"
+    ],
+    "screenwriterIds": [
+      "ataru-oikawa"
+    ],
+    "studioIds": [
+      "directors-company",
+      "agent-21"
+    ],
+    "cast": [
+      {
+        "actorId": "keiko-takahashi",
+        "character": "本田靖子"
+      },
+      {
+        "actorId": "daijiro-tsutsumi",
+        "character": "山川"
+      },
+      {
+        "actorId": "shiro-shimomoto",
+        "character": "本田悟"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "suspense"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1988,
+      "month": 5
+    },
+    "runtime": 94,
+    "originalType": "original",
+    "synopsis": "高層マンションで幼い息子と暮らす主婦の日常に、しつこいセールスマンが忍び寄る。ドアチェーン越しの小さな諍いが男の逆恨みを呼び、電話や訪問による嫌がらせは次第に凶暴さを増していく。逃げ場のない住空間を舞台に、追い詰められた母親が反撃に転じるまでを、密室的な緊張感で描いたホラーサスペンス。",
+    "tmdbId": 405746,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harry-potter-and-the-philosophers-stone",
+    "title": "ハリー・ポッターと賢者の石",
+    "titleKana": "はりーぽったーとけんじゃのいし",
+    "directorIds": [
+      "chris-columbus"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "school",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 12
+    },
+    "runtime": 152,
+    "originalType": "novel",
+    "synopsis": "親戚の家で虐げられて育った11歳のハリー・ポッターは、自分が魔法使いの子であり、両親を殺した闇の魔法使いの生き残りであることを知る。ホグワーツ魔法魔術学校に入学した彼は、ロンやハーマイオニーと友情を育みながら、校内に隠された賢者の石をめぐる陰謀に巻き込まれていく。",
+    "tmdbId": 671,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Philosopher's Stone",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "thunderbolts",
+    "title": "サンダーボルツ*",
+    "titleKana": "さんだーぼるつ",
+    "directorIds": [
+      "jake-schreier"
+    ],
+    "screenwriterIds": [
+      "eric-pearson",
+      "joanna-calo"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "kevin-feige-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "florence-pugh",
+        "character": "エレーナ・ベロワ"
+      },
+      {
+        "actorId": "sebastian-stan",
+        "character": "バッキー・バーンズ"
+      },
+      {
+        "actorId": "julia-louis-dreyfus",
+        "character": "バレンティーナ・アレグラ・デ・フォンテーヌ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 5
+    },
+    "runtime": 127,
+    "originalType": "manga",
+    "synopsis": "後ろ暗い過去を持つ元暗殺者や兵士たちが、正体不明の依頼によって同じ施設に集められる。互いに始末し合うよう仕組まれていたと気づいた彼らは、政府高官バレンティーナの思惑を追ううちに、制御不能の力を宿した青年と対峙することになる。ヒーローになりきれない者たちが、それでも誰かを救おうとする物語。",
+    "tmdbId": 986056,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Thunderbolts*",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "fight-club",
+    "title": "ファイト・クラブ",
+    "titleKana": "ふぁいとくらぶ",
+    "directorIds": [
+      "david-fincher"
+    ],
+    "screenwriterIds": [
+      "jim-uhls"
+    ],
+    "studioIds": [
+      "fox-2000-pictures",
+      "regency-enterprises"
+    ],
+    "cast": [
+      {
+        "actorId": "edward-norton",
+        "character": "語り手"
+      },
+      {
+        "actorId": "brad-pitt",
+        "character": "タイラー・ダーデン"
+      },
+      {
+        "actorId": "helena-bonham-carter",
+        "character": "マーラ・シンガー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "twist",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 12
+    },
+    "runtime": 139,
+    "originalType": "novel",
+    "synopsis": "不眠症に苦しむ会社員の男は、石鹸売りを名乗る奔放なタイラー・ダーデンと出会い、素手で殴り合うだけの秘密の集まりを立ち上げる。消費社会に飼い慣らされた男たちが集うファイト・クラブは急速に拡大し、やがて社会そのものを破壊するテロ組織へと変貌していく。語り手の正体が終盤で反転する。",
+    "tmdbId": 550,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fight Club"
+  },
+  {
+    "id": "suzume",
+    "title": "すずめの戸締まり",
+    "titleKana": "すずめのとまり",
+    "directorIds": [
+      "makoto-shinkai"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "comix-wave-films",
+      "story"
+    ],
+    "cast": [
+      {
+        "actorId": "nanoka-hara",
+        "character": "岩戸鈴芽"
+      },
+      {
+        "actorId": "hokuto-matsumura",
+        "character": "宗像草太"
+      },
+      {
+        "actorId": "eri-fukatsu",
+        "character": "岩戸環"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "adventure",
+      "fantasy",
+      "disaster",
+      "road-movie"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2022,
+      "month": 11
+    },
+    "runtime": 122,
+    "originalType": "original",
+    "synopsis": "九州の町で暮らす高校生の鈴芽は、扉を探す青年草太と出会い、廃墟で見つけた古い扉を開けてしまう。日本各地の廃墟に現れる後ろ戸から災いが噴き出すと知った鈴芽は、椅子の姿に変えられた草太とともに、九州から東京、そして東北へと戸締まりの旅に出る。失われた土地の記憶と向き合うロードムービー。",
+    "tmdbId": 916224,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "avengers-age-of-ultron",
+    "title": "アベンジャーズ／エイジ・オブ・ウルトロン",
+    "titleKana": "あべんじゃーずえいじおぶうるとろん",
+    "directorIds": [
+      "joss-whedon"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      },
+      {
+        "actorId": "chris-hemsworth",
+        "character": "ソー"
+      },
+      {
+        "actorId": "mark-ruffalo",
+        "character": "ブルース・バナー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "ai",
+      "robot"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 7
+    },
+    "runtime": 142,
+    "originalType": "manga",
+    "synopsis": "トニー・スタークが平和維持のために生み出した人工知能ウルトロンは、人類こそが地球の脅威だと結論づけ、自我を持って反旗をひるがえす。ソコヴィアの町を丸ごと浮上させて隕石に変えようとする計画を前に、アベンジャーズは新たな仲間ヴィジョンと双子の超能力者を得て、避難と戦闘を同時に進める。",
+    "tmdbId": 99861,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Avengers: Age of Ultron",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "iron-man",
+    "title": "アイアンマン",
+    "titleKana": "あいあんまん",
+    "directorIds": [
+      "jon-favreau"
+    ],
+    "screenwriterIds": [
+      "hawk-ostby",
+      "matt-holloway"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "marvel-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      },
+      {
+        "actorId": "terrence-howard",
+        "character": "ローディ"
+      },
+      {
+        "actorId": "jeff-bridges",
+        "character": "オバディア・ステイン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure",
+      "hero",
+      "ai"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 9
+    },
+    "runtime": 125,
+    "originalType": "manga",
+    "synopsis": "軍需産業を率いる天才発明家トニー・スタークは、視察先で武装勢力に拉致され、自社製の兵器が敵の手に渡っている現実を突きつけられる。洞窟の中で急造したパワードスーツで脱出した彼は、帰国後に兵器製造からの撤退を宣言し、改良を重ねたスーツを身にまとってアイアンマンとなる。",
+    "tmdbId": 1726,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Iron Man",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "avatar",
+    "title": "アバター",
+    "titleKana": "あばたー",
+    "directorIds": [
+      "james-cameron"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "dune-entertainment",
+      "lightstorm"
+    ],
+    "cast": [
+      {
+        "actorId": "sam-worthington",
+        "character": "ジェイク・サリー"
+      },
+      {
+        "actorId": "zoe-saldana",
+        "character": "ネイティリ"
+      },
+      {
+        "actorId": "sigourney-weaver",
+        "character": "グレイス・オーガスティン博士"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure",
+      "space",
+      "alien"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 8
+    },
+    "runtime": 162,
+    "originalType": "original",
+    "synopsis": "下半身の自由を失った元海兵隊員ジェイクは、亡き兄の代わりに、遺伝子を組み合わせた肉体アバターへ意識を移す任務に就く。衛星パンドラの先住民ナヴィの集落に潜入した彼は、族長の娘ネイティリから狩りと祈りを学ぶうち、鉱石採掘を進める人類の側に立ち続けられなくなっていく。",
+    "tmdbId": 19995,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Avatar",
+    "seriesId": "avatar"
+  },
+  {
+    "id": "akira",
+    "title": "AKIRA",
+    "titleKana": "あきら",
+    "directorIds": [
+      "katsuhiro-otomo"
+    ],
+    "screenwriterIds": [
+      "izo-hashimoto"
+    ],
+    "studioIds": [
+      "mbs",
+      "sumitomo-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "mitsuo-iwata",
+        "character": "金田正太郎"
+      },
+      {
+        "actorId": "nozomu-sasaki",
+        "character": "島鉄雄"
+      },
+      {
+        "actorId": "mami-koyama",
+        "character": "ケイ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "action",
+      "dystopia",
+      "apocalypse"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1988,
+      "month": 7
+    },
+    "runtime": 124,
+    "originalType": "manga",
+    "synopsis": "第三次世界大戦から三十年余りを経たネオ東京。暴走族の少年鉄雄は、事故をきっかけに軍が秘匿していた被験者と接触し、制御できない超能力に目覚める。友を止めようとする金田と、覚醒を恐れる軍、革命を叫ぶ勢力の思惑が交錯するなか、鉄雄の力は都市そのものを崩壊させる規模へ膨れ上がっていく。",
+    "tmdbId": 149,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "title": "ロード・オブ・ザ・リング",
+    "titleKana": "ろーどおぶざりんぐ",
+    "directorIds": [
+      "peter-jackson"
+    ],
+    "screenwriterIds": [
+      "philippa-boyens",
+      "fran-walsh"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "wingnut-films"
+    ],
+    "cast": [
+      {
+        "actorId": "elijah-wood",
+        "character": "フロド"
+      },
+      {
+        "actorId": "ian-mckellen",
+        "character": "ガンダルフ"
+      },
+      {
+        "actorId": "viggo-mortensen",
+        "character": "アラゴルン"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "action",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 3
+    },
+    "runtime": 178,
+    "originalType": "novel",
+    "synopsis": "冥王サウロンが鍛えた一つの指輪が、ホビット庄の青年フロドの手に渡る。指輪を葬る術は、それが作られた滅びの山の火口へ投じることだけだった。魔法使いガンダルフの導きで、人間やエルフ、ドワーフを含む九人の旅の仲間が結成され、モリアの坑道や暗い森を抜けて中つ国を南下していく。",
+    "tmdbId": 120,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "seriesId": "lotr"
+  },
+  {
+    "id": "superman",
+    "title": "スーパーマン",
+    "titleKana": "すーぱーまん",
+    "directorIds": [
+      "james-gunn"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "troll-court-entertainment",
+      "the-safran-company"
+    ],
+    "cast": [
+      {
+        "actorId": "david-corenswet",
+        "character": "スーパーマン"
+      },
+      {
+        "actorId": "rachel-brosnahan",
+        "character": "ロイス・レイン"
+      },
+      {
+        "actorId": "nicholas-hoult",
+        "character": "レックス・ルーサー"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "action",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 7
+    },
+    "runtime": 130,
+    "originalType": "manga",
+    "synopsis": "新聞記者クラーク・ケントとして働きながら人々を守るスーパーマンは、圧倒的な力を持つがゆえに世界から是非を問われる立場に置かれる。彼を排除しようとする実業家レックス・ルーサーは、世論と技術を駆使して英雄の信用を崩しにかかる。恋人ロイス・レインとの関係を軸に、優しさを貫くヒーロー像を描き直す。",
+    "tmdbId": 1061474,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Superman"
+  },
+  {
+    "id": "dollhouse",
+    "title": "ドールハウス",
+    "titleKana": "どーるはうす",
+    "directorIds": [
+      "shinobu-yaguchi"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "toho-studios",
+      "django-film"
+    ],
+    "cast": [
+      {
+        "actorId": "masami-nagasawa",
+        "character": "鈴木佳恵"
+      },
+      {
+        "actorId": "koji-seto",
+        "character": "鈴木忠彦"
+      },
+      {
+        "actorId": "tetsushi-tanaka",
+        "character": "神田"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 6
+    },
+    "runtime": 110,
+    "originalType": "original",
+    "synopsis": "幼い娘を亡くした佳恵は、骨董市で見つけた娘そっくりの人形を可愛がることで心の均衡を取り戻していく。やがて新しい命を授かり、夫婦の関心が人形から離れたとき、家の中で説明のつかない出来事が起こりはじめる。喪失を埋めようとした行為が、いつのまにか別の存在を招き入れていたことが明らかになる。",
+    "tmdbId": 1404791,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ponyo",
+    "title": "崖の上のポニョ",
+    "titleKana": "がけのうえのぽにょ",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "yuria-kozuki",
+        "character": "ポニョ"
+      },
+      {
+        "actorId": "hiroki-doi",
+        "character": "宗介"
+      },
+      {
+        "actorId": "george-tokoro",
+        "character": "フジモト"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "family",
+      "magic"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2008,
+      "month": 7
+    },
+    "runtime": 101,
+    "originalType": "original",
+    "synopsis": "海辺の町に暮らす5歳の宗介は、瓶に頭を突っ込んだ小さな魚の子を助け、ポニョと名づける。人間に憧れるポニョは父フジモトの魔法の水を浴びて少女の姿になり、宗介のもとへ駆けつけるが、その代償に海は溢れ、町は水没してしまう。手描きの線が躍動する、幼い二人の約束の物語。",
+    "tmdbId": 12429,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dune-part-two",
+    "title": "デューン 砂の惑星PART2",
+    "titleKana": "でゅーんすなのわくせいぱーとつー",
+    "directorIds": [
+      "denis-villeneuve"
+    ],
+    "screenwriterIds": [
+      "jon-spaihts"
+    ],
+    "studioIds": [
+      "legendary-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "timothee-chalamet",
+        "character": "ポール・アトレイデス"
+      },
+      {
+        "actorId": "zendaya",
+        "character": "チャニ"
+      },
+      {
+        "actorId": "rebecca-ferguson",
+        "character": "レディ・ジェシカ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "space",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 3
+    },
+    "runtime": 166,
+    "originalType": "novel",
+    "synopsis": "一族を滅ぼされたポール・アトレイデスは、砂漠の民フレメンに受け入れられ、彼らの戦い方を学びながらハルコンネン家への反撃を準備する。救世主として崇められることを拒みつつも、母の企てと予知される聖戦の未来が、彼を後戻りできない立場へ押し上げていく。チャニとの愛が、その選択に影を落とす。",
+    "tmdbId": 693134,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Dune: Part Two",
+    "seriesId": "dune"
+  },
+  {
+    "id": "kpop-demon-hunters",
+    "title": "KPOPガールズ! デーモン・ハンターズ",
+    "titleKana": "けーぽっぷがーるずでーもんはんたーず",
+    "directorIds": [
+      "chris-appelhans",
+      "maggie-kang"
+    ],
+    "screenwriterIds": [
+      "danya-jimenez"
+    ],
+    "studioIds": [
+      "sony-pictures-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "arden-cho",
+        "character": "ルミ"
+      },
+      {
+        "actorId": "may-hong",
+        "character": "ミラ"
+      },
+      {
+        "actorId": "ji-young-yoo",
+        "character": "ゾーイ"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "music",
+      "comedy",
+      "magic",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2026,
+      "month": 6
+    },
+    "runtime": 96,
+    "originalType": "original",
+    "synopsis": "世界的な人気を誇るガールズグループのルミ、ミラ、ゾーイには、歌の力で魔物を封じる悪魔ハンターというもう一つの顔がある。彼女たちの前に、人間のボーイズグループを装った魔物たちが現れ、ファンの心をつかむ人気争いがそのまま戦いになる。派手なステージ演出と韓国の民間伝承が溶け合う長編アニメ。",
+    "tmdbId": 803796,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "KPop Demon Hunters"
+  },
+  {
+    "id": "the-wild-robot",
+    "title": "野生の島のロズ",
+    "titleKana": "やせいのしまのろず",
+    "directorIds": [
+      "chris-sanders"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "dreamworks-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "lupita-nyongo",
+        "character": "ロズ"
+      },
+      {
+        "actorId": "pedro-pascal",
+        "character": "フィンク"
+      },
+      {
+        "actorId": "kit-connor",
+        "character": "キラリ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "sf",
+      "adventure",
+      "animal",
+      "ai",
+      "robot"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2025,
+      "month": 2
+    },
+    "runtime": 102,
+    "originalType": "novel",
+    "synopsis": "嵐で無人島に流れ着いた支援ロボットのロズは、命令をくれる人間がいない環境で、動物たちの言葉を学びながら生き延びる術を探る。事故で親を失った雁の雛を育てることになった彼女は、渡りの季節までに飛び方を教えなければならない。プログラムを超えて芽生える情のようなものを、美しい筆致で描く。",
+    "tmdbId": 1184918,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Wild Robot"
+  },
+  {
+    "id": "monster",
+    "title": "怪物",
+    "titleKana": "かいぶつ",
+    "directorIds": [
+      "hirokazu-koreeda"
+    ],
+    "screenwriterIds": [
+      "yuji-sakamoto"
+    ],
+    "studioIds": [
+      "toho",
+      "fuji-television-network"
+    ],
+    "cast": [
+      {
+        "actorId": "sakura-ando",
+        "character": "麦野早織"
+      },
+      {
+        "actorId": "soya-kurokawa",
+        "character": "麦野湊"
+      },
+      {
+        "actorId": "hinata-hiiragi",
+        "character": "星川依里"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "suspense",
+      "human-drama",
+      "school",
+      "social",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 6
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "息子の様子がおかしいことに気づいたシングルマザーの早織は、学校に乗り込んで担任の体罰を追及する。だが同じ出来事を教師の視点、そして子どもたちの視点から見直すと、大人が信じた筋書きは次々に崩れていく。湖のほとりの町を舞台に、誰が怪物なのかという問いを三つの視点で反転させていく群像劇。",
+    "tmdbId": 1050035,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doctor-strange-in-the-multiverse-of-madness",
+    "title": "ドクター・ストレンジ/マルチバース・オブ・マッドネス",
+    "titleKana": "どくたーすとれんじまるちばーすおぶまっどねす",
+    "directorIds": [
+      "sam-raimi"
+    ],
+    "screenwriterIds": [
+      "michael-waldron"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "kevin-feige-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "benedict-cumberbatch",
+        "character": "スティーヴン・ストレンジ"
+      },
+      {
+        "actorId": "xochitl-gomez",
+        "character": "アメリカ・チャベス"
+      },
+      {
+        "actorId": "elizabeth-olsen",
+        "character": "ワンダ・マキシモフ"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "action",
+      "adventure",
+      "magic",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 5
+    },
+    "runtime": 126,
+    "originalType": "manga",
+    "synopsis": "並行世界を渡る力を持つ少女アメリカ・チャベスが魔物に追われて現れ、ドクター・ストレンジは彼女を守るためワンダに助けを求める。だが子どもを取り戻すことに囚われたワンダこそが追跡者だった。無数の宇宙を横断する逃走劇のなか、ストレンジは別の世界の自分が犯した過ちと向き合うことになる。",
+    "tmdbId": 453395,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Doctor Strange in the Multiverse of Madness",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "the-matrix",
+    "title": "マトリックス",
+    "titleKana": "まとりっくす",
+    "directorIds": [
+      "lana-wachowski",
+      "lilly-wachowski"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "village-roadshow-pictures",
+      "silver-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "keanu-reeves",
+        "character": "ネオ"
+      },
+      {
+        "actorId": "laurence-fishburne",
+        "character": "モーフィアス"
+      },
+      {
+        "actorId": "carrie-anne-moss",
+        "character": "トリニティ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "dystopia",
+      "ai",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 9
+    },
+    "runtime": 136,
+    "originalType": "original",
+    "synopsis": "昼は会社員、夜はハッカーとして生きるトーマス・アンダーソンは、モーフィアスと名乗る男から、自分が生きてきた世界が機械の作り出した仮想現実だと告げられる。赤い薬を選んで現実に目覚めた彼は、人類最後の都市を守る戦いに巻き込まれ、救世主と呼ばれる存在としての力を自覚していく。",
+    "tmdbId": 603,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Matrix",
+    "seriesId": "matrix"
+  },
+  {
+    "id": "top-gun-maverick",
+    "title": "トップガン マーヴェリック",
+    "titleKana": "とっぷがんまーべりっく",
+    "directorIds": [
+      "joseph-kosinski"
+    ],
+    "screenwriterIds": [
+      "eric-warren-singer",
+      "ehren-kruger"
+    ],
+    "studioIds": [
+      "skydance-media",
+      "don-simpson-jerry-bruckheimer-films"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-cruise",
+        "character": "ピート・ミッチェル"
+      },
+      {
+        "actorId": "miles-teller",
+        "character": "ブラッドリー・ブラッドショー"
+      },
+      {
+        "actorId": "jennifer-connelly",
+        "character": "ペニー・ベンジャミン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "friendship",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 5
+    },
+    "runtime": 131,
+    "originalType": "original",
+    "synopsis": "音速の限界に挑む試験飛行で軍上層部と衝突したマーヴェリックは、エリート養成機関トップガンの教官として呼び戻される。訓練生の中には、彼が死なせた親友グースの息子ルースターがいた。生還が困難とされる任務を前に、過去の負い目を抱えた男が、若い操縦士たちに生き延びる術を叩き込んでいく。",
+    "tmdbId": 361743,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Top Gun: Maverick"
+  },
+  {
+    "id": "warriors-of-the-wind",
+    "title": "風の谷のナウシカ",
+    "titleKana": "かぜのたにのなうしか",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "topcraft",
+      "tokuma-shoten"
+    ],
+    "cast": [
+      {
+        "actorId": "sumi-shimamoto",
+        "character": "ナウシカ"
+      },
+      {
+        "actorId": "ichiro-nagai",
+        "character": "ミト"
+      },
+      {
+        "actorId": "goro-naya",
+        "character": "ユパ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "apocalypse",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1984,
+      "month": 3
+    },
+    "runtime": 118,
+    "originalType": "manga",
+    "synopsis": "巨大産業文明が滅びて千年。人類は瘴気を放つ菌類の森、腐海と巨大な蟲に脅かされながら細々と暮らしていた。辺境の風の谷に住む族長の娘ナウシカは、蟲と心を通わせる不思議な力を持つ。大国トルメキアが古代兵器の復活をもくろんで谷に侵攻し、彼女は争いを止めるために自ら蟲の群れの前に立つ。",
+    "tmdbId": 81,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pulp-fiction",
+    "title": "パルプ・フィクション",
+    "titleKana": "ぱるぷふぃくしょん",
+    "directorIds": [
+      "quentin-tarantino"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "miramax",
+      "a-band-apart"
+    ],
+    "cast": [
+      {
+        "actorId": "john-travolta",
+        "character": "ヴィンセント・ヴェガ"
+      },
+      {
+        "actorId": "samuel-l-jackson",
+        "character": "ジュールス・ウィンフィールド"
+      },
+      {
+        "actorId": "uma-thurman",
+        "character": "ミア・ウォレス"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "crime",
+      "comedy",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1994,
+      "month": 10
+    },
+    "runtime": 154,
+    "originalType": "original",
+    "synopsis": "ボスの命令で仕事をこなす二人組の殺し屋、八百長を拒んだボクサー、強盗を企てる恋人たち。ロサンゼルスの一角で起きた出来事が、時系列を入れ替えた章立てで語られ、些細な会話と突発的な暴力が同じ密度で並べられる。断片が終盤で一つにつながる構成が、その後の映画に大きな影響を与えた。",
+    "tmdbId": 680,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Pulp Fiction"
+  },
+  {
+    "id": "the-batman",
+    "title": "THE BATMAN－ザ・バットマン－",
+    "titleKana": "ざばっとまん",
+    "directorIds": [
+      "matt-reeves"
+    ],
+    "screenwriterIds": [
+      "peter-craig"
+    ],
+    "studioIds": [
+      "6th-idaho-motion-picture-company",
+      "dylan-clark-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-pattinson",
+        "character": "ブルース・ウェイン"
+      },
+      {
+        "actorId": "zoe-kravitz",
+        "character": "セリーナ・カイル"
+      },
+      {
+        "actorId": "jeffrey-wright",
+        "character": "ジェームズ・ゴードン"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "mystery",
+      "suspense",
+      "detective",
+      "serial-killer",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 3
+    },
+    "runtime": 177,
+    "originalType": "manga",
+    "synopsis": "夜のゴッサムで自警活動を続けて二年目のブルース・ウェインは、市の要人が次々と殺される事件に直面する。現場に残された謎かけは、リドラーを名乗る犯人から自分への挑戦だった。キャットウーマンやゴードン警部補と接触しながら捜査を進めるうち、腐敗の根が自らの一族にまで達していることが見えてくる。",
+    "tmdbId": 414906,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Batman"
+  },
+  {
+    "id": "moana-2",
+    "title": "モアナと伝説の海２",
+    "titleKana": "もあなとでんせつのうみつー",
+    "directorIds": [
+      "david-g-derrick-jr",
+      "jason-hand"
+    ],
+    "screenwriterIds": [
+      "dana-ledoux-miller",
+      "jared-bush"
+    ],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "auli-i-cravalho",
+        "character": "モアナ"
+      },
+      {
+        "actorId": "dwayne-johnson",
+        "character": "マウイ"
+      },
+      {
+        "actorId": "hualalai-chung",
+        "character": "モニ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "family",
+      "fantasy",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2024,
+      "month": 12
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "島の航海士となったモアナは、失われた島の呼び声に導かれ、人々が海で結ばれていた時代を取り戻す旅に出る。半神マウイや初めて集めた乗組員とともに、嵐と怪物が待つ危険な海域へ漕ぎ出す彼女は、自分だけでは背負いきれないものを仲間と分かち合うことを学ぶ。妹シメアとの絆も物語を支える。",
+    "tmdbId": 1241982,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Moana 2",
+    "seriesId": "moana"
+  },
+  {
+    "id": "in-the-realm-of-the-senses",
+    "title": "愛のコリーダ",
+    "titleKana": "あいのこりーだ",
+    "directorIds": [
+      "nagisa-oshima"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "argos-films",
+      "oshima-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "eiko-matsuda",
+        "character": "阿部定"
+      },
+      {
+        "actorId": "tatsuya-fuji",
+        "character": "石田吉蔵"
+      },
+      {
+        "actorId": "aoi-nakajima",
+        "character": "トク"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "true-story"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1976,
+      "month": 10
+    },
+    "runtime": 102,
+    "originalType": "other",
+    "synopsis": "昭和初期の東京。料亭で働くことになった女中の定は、店の主人である吉蔵と関係を結び、二人は仕事も世間も捨てて宿を転々とする。互いだけを見つめる日々のなかで、定の独占欲は次第に理性の枠を越えていく。実際の事件に着想を得て、社会から切り離された男女の関係を突き詰めた大島渚監督の問題作。",
+    "tmdbId": 5879,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

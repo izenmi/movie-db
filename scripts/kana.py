@@ -102,7 +102,13 @@ def kana_for_person(ja_name: str, en_name: str) -> str:
     return "".join(romaji_to_hiragana(t) for t in tokens)
 
 
+_VU = [("ヴァ", "ば"), ("ヴィ", "び"), ("ヴェ", "べ"), ("ヴォ", "ぼ"), ("ヴ", "ぶ")]
+
+
 def katakana_to_hiragana(s: str) -> str:
+    """カタカナをひらがなに。「ヴ」は慣用に合わせてバ行にする(マーヴェリック→まーべりっく)。"""
+    for k, h in _VU:
+        s = (s or "").replace(k, h)
     return "".join(chr(ord(c) - 0x60) if "ァ" <= c <= "ヶ" else c for c in s or "")
 
 
@@ -116,5 +122,5 @@ def kana_for_title(title: str) -> str:
     if re.search(r"[0-9０-９A-Za-zＡ-Ｚａ-ｚ一-龥々〆]", t):
         return ""
     t = katakana_to_hiragana(t)
-    t = re.sub(r"[^ぁ-んー]", "", t)
+    t = re.sub(r"[^ぁ-ゔー]", "", t)
     return t

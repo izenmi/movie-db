@@ -110,5 +110,59 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lotr",
+    "name": "「ロード・オブ・ザ・リング」三部作",
+    "nameKana": "ろーどおぶざりんぐさんぶさく",
+    "description": "J・R・R・トールキンの小説をピーター・ジャクソン監督が映画化した三部作(2001〜2003)。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harry-potter",
+    "name": "「ハリー・ポッター」シリーズ",
+    "nameKana": "はりーぽったーしりーず",
+    "description": "J・K・ローリングの小説を原作とする、魔法魔術学校を舞台にした映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jurassic-park",
+    "name": "「ジュラシック・パーク」シリーズ",
+    "nameKana": "じゅらしっくぱーくしりーず",
+    "description": "よみがえった恐竜と人間の対峙を描くSFアドベンチャー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dune",
+    "name": "「デューン」シリーズ",
+    "nameKana": "でゅーんしりーず",
+    "description": "フランク・ハーバートのSF小説をドゥニ・ヴィルヌーヴ監督が映画化したシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matrix",
+    "name": "「マトリックス」シリーズ",
+    "nameKana": "まとりっくすしりーず",
+    "description": "仮想現実に支配された世界を描くウォシャウスキー姉妹のSFアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "moana",
+    "name": "「モアナと伝説の海」シリーズ",
+    "nameKana": "もあなとでんせつのうみしりーず",
+    "description": "海に選ばれた少女モアナの航海を描くディズニーの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

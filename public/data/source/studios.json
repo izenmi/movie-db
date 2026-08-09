@@ -362,5 +362,356 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Production I.G。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bazelevs",
+    "name": "バゼレフス",
+    "nameKana": "バゼレフス",
+    "description": "映画製作会社。『ウォー・オブ・ザ・ワールド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bazelevs。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "plan-b-entertainment",
+    "name": "プランB・エンターテインメント",
+    "nameKana": "えんてたいんめんらん",
+    "description": "映画製作会社。『トロイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Plan B Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gainax",
+    "name": "GAINAX",
+    "nameKana": "ガイナックス",
+    "description": "映画製作会社。『新世紀エヴァンゲリオン劇場版 Air／まごころを、君に』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "movic",
+    "name": "ムービック",
+    "nameKana": "ムービック",
+    "description": "映画製作会社。『新世紀エヴァンゲリオン劇場版 Air／まごころを、君に』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: movic。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyoto-animation",
+    "name": "京都アニメーション",
+    "nameKana": "きょうとあにめーしょん",
+    "description": "映画製作会社。『映画 聲の形』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyoto Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "abc-animation",
+    "name": "ABCアニメーション",
+    "nameKana": "えーびーしーあにめーしょん",
+    "description": "映画製作会社。『映画 聲の形』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: ABC Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alfran-productions",
+    "name": "アルフラン・プロダクションズ",
+    "nameKana": "アルフランプロダクションズ",
+    "description": "映画製作会社。『ゴッドファーザー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alfran Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "new-line-cinema",
+    "name": "ニュー・ライン・シネマ",
+    "nameKana": "ニューラインシネマ",
+    "description": "映画製作会社。『ロード・オブ・ザ・リング／王の帰還』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: New Line Cinema。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wingnut-films",
+    "name": "ウィングナット・フィルムズ",
+    "nameKana": "ウィングナットフィルムズ",
+    "description": "映画製作会社。『ロード・オブ・ザ・リング／王の帰還』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: WingNut Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "master-mind",
+    "name": "マスターマインド",
+    "nameKana": "マスターマインド",
+    "description": "映画製作会社。『PERFECT DAYS』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Master Mind。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wenders-images",
+    "name": "ヴェンダース・イメージズ",
+    "nameKana": "べんだーすいめーじず",
+    "description": "映画製作会社。『PERFECT DAYS』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wenders Images。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maximum-effort",
+    "name": "マキシマム・エフォート",
+    "nameKana": "マキシマムエフォート",
+    "description": "映画製作会社。『デッドプール＆ウルヴァリン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maximum Effort。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "directors-company",
+    "name": "ディレクターズ・カンパニー",
+    "nameKana": "ディレクターズカンパニー",
+    "description": "映画製作会社。『DOOR』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Directors Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "agent-21",
+    "name": "エージェント21",
+    "nameKana": "えーじぇんとにじゅういち",
+    "description": "映画製作会社。『DOOR』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Agent 21。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "heyday-films",
+    "name": "ヘイデイ・フィルムズ",
+    "nameKana": "ヘイデイフィルムズ",
+    "description": "映画製作会社。『ハリー・ポッターと賢者の石』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Heyday Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fox-2000-pictures",
+    "name": "フォックス2000ピクチャーズ",
+    "nameKana": "ふぉっくすにせんぴくちゃーず",
+    "description": "映画製作会社。『ファイト・クラブ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fox 2000 Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "regency-enterprises",
+    "name": "リージェンシー・エンタープライズ",
+    "nameKana": "リージェンシーエンタープライズ",
+    "description": "映画製作会社。『ファイト・クラブ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Regency Enterprises。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "story",
+    "name": "ストーリー",
+    "nameKana": "ストーリー",
+    "description": "映画製作会社。『すずめの戸締まり』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Story。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dune-entertainment",
+    "name": "デューン・エンタテインメント",
+    "nameKana": "デューンエンタテインメント",
+    "description": "映画製作会社。『アバター』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dune Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "argos-films",
+    "name": "アルゴス・フィルム",
+    "nameKana": "アルゴスフィルム",
+    "description": "映画製作会社。『愛のコリーダ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Argos films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oshima-productions",
+    "name": "大島渚プロダクション",
+    "nameKana": "おおしまなぎさぷろだくしょん",
+    "description": "映画製作会社。『愛のコリーダ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Oshima Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mbs",
+    "name": "毎日放送",
+    "nameKana": "まいにちほうそう",
+    "description": "映画製作会社。『AKIRA』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: MBS。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sumitomo-corporation",
+    "name": "住友商事",
+    "nameKana": "すみともしょうじ",
+    "description": "映画製作会社。『AKIRA』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sumitomo Corporation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "troll-court-entertainment",
+    "name": "トロール・コート・エンターテインメント",
+    "nameKana": "トロールコートエンターテインメント",
+    "description": "映画製作会社。『スーパーマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Troll Court Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-safran-company",
+    "name": "ザ・サフラン・カンパニー",
+    "nameKana": "ザサフランカンパニー",
+    "description": "映画製作会社。『スーパーマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Safran Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toho-studios",
+    "name": "東宝スタジオ",
+    "nameKana": "とうほうすたじお",
+    "description": "映画製作会社。『ドールハウス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: TOHO Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "django-film",
+    "name": "ジャンゴフィルム",
+    "nameKana": "ジャンゴフィルム",
+    "description": "映画製作会社。『ドールハウス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Django Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "legendary-pictures",
+    "name": "レジェンダリー・ピクチャーズ",
+    "nameKana": "レジェンダリーピクチャーズ",
+    "description": "映画製作会社。『デューン 砂の惑星PART2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Legendary Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dreamworks-animation",
+    "name": "ドリームワークス・アニメーション",
+    "nameKana": "ドリームワークスアニメーション",
+    "description": "映画製作会社。『野生の島のロズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DreamWorks Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fuji-television-network",
+    "name": "フジテレビジョン",
+    "nameKana": "ふじてれびじょん",
+    "description": "映画製作会社。『怪物』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fuji Television Network。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "village-roadshow-pictures",
+    "name": "ヴィレッジ・ロードショー・ピクチャーズ",
+    "nameKana": "びれっじろーどしょーぴくちゃーず",
+    "description": "映画製作会社。『マトリックス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Village Roadshow Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "silver-pictures",
+    "name": "シルバー・ピクチャーズ",
+    "nameKana": "シルバーピクチャーズ",
+    "description": "映画製作会社。『マトリックス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Silver Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skydance-media",
+    "name": "スカイダンス・メディア",
+    "nameKana": "スカイダンスメディア",
+    "description": "映画製作会社。『トップガン マーヴェリック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skydance Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "don-simpson-jerry-bruckheimer-films",
+    "name": "ジェリー・ブラッカイマー・フィルムズ",
+    "nameKana": "ジェリーブラッカイマーフィルムズ",
+    "description": "映画製作会社。『トップガン マーヴェリック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Don Simpson/Jerry Bruckheimer Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "topcraft",
+    "name": "トップクラフト",
+    "nameKana": "トップクラフト",
+    "description": "映画製作会社。『風の谷のナウシカ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Topcraft。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miramax",
+    "name": "ミラマックス",
+    "nameKana": "ミラマックス",
+    "description": "映画製作会社。『パルプ・フィクション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miramax。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "a-band-apart",
+    "name": "ア・バンド・アパート",
+    "nameKana": "アバンドアパート",
+    "description": "映画製作会社。『パルプ・フィクション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: A Band Apart。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "6th-idaho-motion-picture-company",
+    "name": "6th＆アイダホ・モーション・ピクチャー・カンパニー",
+    "nameKana": "しっくすすあいだほもーしょんぴくちゃーかんぱにー",
+    "description": "映画製作会社。『THE BATMAN－ザ・バットマン－』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 6th & Idaho Motion Picture Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dylan-clark-productions",
+    "name": "ディラン・クラーク・プロダクションズ",
+    "nameKana": "ディランクラークプロダクションズ",
+    "description": "映画製作会社。『THE BATMAN－ザ・バットマン－』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dylan Clark Productions。",
+    "updatedAt": "2026-08-09"
   }
 ]
