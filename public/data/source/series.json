@@ -1037,5 +1037,50 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "halloween",
+    "name": "「ハロウィン」シリーズ",
+    "nameKana": "はろうぃんしりーず",
+    "description": "殺人鬼マイケル・マイヤーズを描くスラッシャー映画の元祖となったシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crows",
+    "name": "「クローズZERO」シリーズ",
+    "nameKana": "くろうずぜろしりーず",
+    "description": "不良高校の頂点を争う抗争を描く実写映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "insidious",
+    "name": "「インシディアス」シリーズ",
+    "nameKana": "いんしでぃあすしりーず",
+    "description": "霊界と現世を行き来する家族を描くジェームズ・ワン製作のホラーシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kingdom-movies",
+    "name": "「キングダム」実写映画シリーズ",
+    "nameKana": "きんぐだむじっしゃえいがしりーず",
+    "description": "原泰久の漫画を実写映画化した中国春秋戦国時代の戦記シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rocky",
+    "name": "「ロッキー」シリーズ",
+    "nameKana": "ろっきーしりーず",
+    "description": "無名のボクサー、ロッキー・バルボアの半生を描くボクシング映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
