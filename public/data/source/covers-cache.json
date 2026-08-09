@@ -10153,5 +10153,230 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/uytyIfMMQUilZuoDKTkmXrd1DDe.jpg",
     "matchedTitle": "敦煌",
     "tmdbId": 123617
+  },
+  "black-rain": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/azws1wRBy37PTbkf8wxbBkFFjYL.jpg",
+    "matchedTitle": "黒い雨",
+    "tmdbId": 185987
+  },
+  "takeshi-childhood-days": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tCQ6LAPKxjnjKtGQ7zCuCu2zGuW.jpg",
+    "matchedTitle": "少年時代",
+    "tmdbId": 83419
+  },
+  "my-sons": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3Fp8GiGAC2uohvanWq5nibTpDJz.jpg",
+    "matchedTitle": "息子",
+    "tmdbId": 225614
+  },
+  "sumo-do-sumo-dont": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3CTimXaczi5F4PW3kzzXBqjtefc.jpg",
+    "matchedTitle": "シコふんじゃった。",
+    "tmdbId": 51581
+  },
+  "a-class-to-remember": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4voTqp4F4o9ZuZ3M1vzFQ4GhJ4N.jpg",
+    "matchedTitle": "学校",
+    "tmdbId": 197139
+  },
+  "crest-of-betrayal": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3luogbx7uS0N0hx7O4JosaJHeN2.jpg",
+    "matchedTitle": "忠臣蔵外伝 四谷怪談",
+    "tmdbId": 224120
+  },
+  "a-last-note": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zk0Xzhcm13qPBtuqWIVFCxVpheW.jpg",
+    "matchedTitle": "午後の遺言状",
+    "tmdbId": 88417
+  },
+  "begging-for-love": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8svEorShucebMwUxxfysiu92Mbx.jpg",
+    "matchedTitle": "愛を乞うひと",
+    "tmdbId": 340077
+  },
+  "railroad-man": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/s2DushiPv86SjeBWhvzUZJfNLcy.jpg",
+    "matchedTitle": "鉄道員(ぽっぽや)",
+    "tmdbId": 68837
+  },
+  "after-the-rain": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/BuZw41R2OgC8EcS9aOykHUR2Wd.jpg",
+    "matchedTitle": "雨あがる",
+    "tmdbId": 15319
+  },
+  "when-the-last-sword-is-drawn": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6yCL6JD9Ktd51CM4RXxw3hjMSfW.jpg",
+    "matchedTitle": "壬生義士伝",
+    "tmdbId": 14455
+  },
+  "half-a-confession": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kEsixBwuNloFcnWS7YXa061YKXZ.jpg",
+    "matchedTitle": "半落ち",
+    "tmdbId": 318346
+  },
+  "always-sunset-on-third-street-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wPTi4F9YKFHZQpK9HsS83sQhNEC.jpg",
+    "matchedTitle": "ALWAYS 続・三丁目の夕日",
+    "tmdbId": 41177
+  },
+  "hula-girls": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wrEwRwDI79o3O16A248EdrRKLfn.jpg",
+    "matchedTitle": "フラガール",
+    "tmdbId": 38305
+  },
+  "tokyo-towers-mom-and-me-and-sometimes-dad": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/erv4neBI0knvGbTWg6N9l4VvQWs.jpg",
+    "matchedTitle": "東京タワー オカンとボクと、時々、オトン",
+    "tmdbId": 40079
+  },
+  "the-unbroken": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/jzTu440f7pWM0W5JyVeUzcLaOFf.jpg",
+    "matchedTitle": "沈まぬ太陽",
+    "tmdbId": 206719
+  },
+  "rebirth": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yrhbwBBWI2BSUDp3hiy8PmulCqG.jpg",
+    "matchedTitle": "八日目の蟬",
+    "tmdbId": 94054
+  },
+  "the-kirishima-thing": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kDKfi4yRMsJVTtI63of4nSYPuV4.jpg",
+    "matchedTitle": "桐島、部活やめるってよ",
+    "tmdbId": 175041
+  },
+  "the-great-passage": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/nRCqjeDbTxHKWOXtcWAU8CDOFT8.jpg",
+    "matchedTitle": "舟を編む",
+    "tmdbId": 182827
+  },
+  "the-eternal-zero": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zGGa0729JQrfVk4bXBKQLGeW4Ga.jpg",
+    "matchedTitle": "永遠の0",
+    "tmdbId": 248087
+  },
+  "the-journalist": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lOBOclVAw5zHrx97HbzmVhH1zPs.jpg",
+    "matchedTitle": "新聞記者",
+    "tmdbId": 611257
+  },
+  "midnight-swan": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fNXRy2ep6qPolmJzz3B19364bAu.jpg",
+    "matchedTitle": "ミッドナイトスワン",
+    "tmdbId": 725691
+  },
+  "a-man": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1JU1spATrH9Wbcvk3tAR0EFuqaj.jpg",
+    "matchedTitle": "ある男",
+    "tmdbId": 869886
+  },
+  "a-samurai-in-time": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/z5rBx89EKLiInCGWUoCuCEAusx.jpg",
+    "matchedTitle": "侍タイムスリッパー",
+    "tmdbId": 1287819
+  },
+  "repast": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bpSQMl0FwfznJ8G4fGcnWy0sG4U.jpg",
+    "matchedTitle": "めし",
+    "tmdbId": 47184
+  },
+  "twenty-four-eyes": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rMSpbPE3qDbD20PEvH9RHaHkLsM.jpg",
+    "matchedTitle": "二十四の瞳",
+    "tmdbId": 43339
+  },
+  "floating-clouds": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kEyUKCY3PrinYVVEZtlto5EHk41.jpg",
+    "matchedTitle": "浮雲",
+    "tmdbId": 77285
+  },
+  "rice": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/m7zrVglnSG6pkNZkpS2Ggr1u6sN.jpg",
+    "matchedTitle": "米",
+    "tmdbId": 199203
+  },
+  "her-brother": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/srh3eWzWVRpHt0r1609kcr0JdI6.jpg",
+    "matchedTitle": "おとうと",
+    "tmdbId": 125251
+  },
+  "pigs-and-battleships": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zUJgHKs84sNvRZfhceRaMW89nuV.jpg",
+    "matchedTitle": "豚と軍艦",
+    "tmdbId": 31104
+  },
+  "foundry-town": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7NJlzNwVbYU6Ro7oJIcKAPs9gHj.jpg",
+    "matchedTitle": "キューポラのある街",
+    "tmdbId": 49570
+  },
+  "the-insect-woman": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dJU6sOuhIhNPyM9Oc5YUTKoPk25.jpg",
+    "matchedTitle": "にっぽん昆虫記",
+    "tmdbId": 42984
+  },
+  "the-great-white-tower": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/a6V6EDeMt39L5Ncqj3OlXxSy5Eq.jpg",
+    "matchedTitle": "白い巨塔",
+    "tmdbId": 261541
+  },
+  "the-fossil": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/966AIdEG6sI8NtbI2ZG1UerqjBI.jpg",
+    "matchedTitle": "化石",
+    "tmdbId": 277261
+  },
+  "lullaby-of-the-earth": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/df0viL7wzcFhUefBrx0DWckx9C6.jpg",
+    "matchedTitle": "大地の子守歌",
+    "tmdbId": 129377
+  },
+  "third-base": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1bANxnhsVMsIsn358GCBsHjxsYM.jpg",
+    "matchedTitle": "サード",
+    "tmdbId": 96044
+  },
+  "tokyo-trial": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3EF6UDrEaMprhEj1QvswY8TjiXd.jpg",
+    "matchedTitle": "東京裁判",
+    "tmdbId": 155596
+  },
+  "macarthurs-children": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5yxvhpOoza3Q96uq6gmHpLQKiBU.jpg",
+    "matchedTitle": "瀬戸内少年野球団",
+    "tmdbId": 42097
+  },
+  "the-house-of-wedlock": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/Up7dmuHpJ78SAiELSM3Mvs7teK.jpg",
+    "matchedTitle": "ウホッホ探険隊",
+    "tmdbId": 292144
+  },
+  "knockout": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xDw5DuZoa970Iqdb2lmxfcHNUtt.jpg",
+    "matchedTitle": "どついたるねん",
+    "tmdbId": 360457
+  },
+  "all-under-the-moon": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2jXYFRfSlergRLCpWqTbAvhomyn.jpg",
+    "matchedTitle": "月はどっちに出ている",
+    "tmdbId": 129700
+  },
+  "like-a-rolling-stone": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yRPprzT83DxONZQHGyj1mSAV0jX.jpg",
+    "matchedTitle": "棒の哀しみ",
+    "tmdbId": 403568
+  },
+  "boys-be-ambitious": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tDgXgQECBYlGZPmYbdweeGQuCDp.jpg",
+    "matchedTitle": "岸和田少年愚連隊",
+    "tmdbId": 486050
+  },
+  "akame-48-waterfalls": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/apgH3RDgeuu6T3RUdVuGEFWFTFi.jpg",
+    "matchedTitle": "赤目四十八瀧心中未遂",
+    "tmdbId": 319681
+  },
+  "we-shall-overcome-someday": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/30jcjfrwFlTyWqL6obLLzNQxwKK.jpg",
+    "matchedTitle": "パッチギ！",
+    "tmdbId": 129713
   }
 }

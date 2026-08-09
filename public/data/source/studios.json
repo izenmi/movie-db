@@ -10843,5 +10843,158 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hayashibara-group",
+    "name": "林原グループ",
+    "nameKana": "はやしばらぐるーぷ",
+    "description": "映画製作会社。『黒い雨』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hayashibara Group。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cabin-co-ltd",
+    "name": "キャビン",
+    "nameKana": "きゃびん",
+    "description": "映画製作会社。『シコふんじゃった。』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cabin Co., Ltd.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kindai-eiga-kyokai",
+    "name": "近代映画協会",
+    "nameKana": "きんだいえいがきょうかい",
+    "description": "映画製作会社。『午後の遺言状』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kindai Eiga Kyokai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sept-films-cinema",
+    "name": "セット・フィルム",
+    "nameKana": "セットフィルム",
+    "description": "映画製作会社。『雨あがる』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sept Films Cinéma。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dentsu-music-and-entertainment",
+    "name": "電通ミュージック・アンド・エンタテインメント",
+    "nameKana": "でんつうみゅーじっく",
+    "description": "映画製作会社。『ALWAYS 続・三丁目の夕日』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: dentsu Music and Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cinequanon",
+    "name": "シネカノン",
+    "nameKana": "しねかのん",
+    "description": "映画製作会社。『フラガール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cinequanon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ax-on",
+    "name": "AX-ON",
+    "nameKana": "えーえっくすおん",
+    "description": "映画製作会社。『桐島、部活やめるってよ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-icon",
+    "name": "ジ・アイコン",
+    "nameKana": "ジアイコン",
+    "description": "映画製作会社。『新聞記者』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The icon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kino-films",
+    "name": "キノフィルムズ",
+    "nameKana": "きのふぃるむず",
+    "description": "映画製作会社。『ミッドナイトスワン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kino Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "atmovie",
+    "name": "アットムービー",
+    "nameKana": "あっとむーびー",
+    "description": "映画製作会社。『ミッドナイトスワン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: atmovie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mirai-eigasha",
+    "name": "未来映画社",
+    "nameKana": "みらいえいがしゃ",
+    "description": "映画製作会社。『侍タイムスリッパー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mirai Eigasha。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "haiyuza-eiga-hoso-company",
+    "name": "俳優座映画放送",
+    "nameKana": "はいゆうざえいがほうそう",
+    "description": "映画製作会社。『化石』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Haiyuza Eiga Hoso Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kimura-productions",
+    "name": "木村プロダクション",
+    "nameKana": "きむらぷろだくしょん",
+    "description": "映画製作会社。『大地の子守歌』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kimura Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arato-production",
+    "name": "荒戸源次郎事務所",
+    "nameKana": "あらとげんじろうじむしょ",
+    "description": "映画製作会社。『どついたるねん』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arato Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hero-films",
+    "name": "ヒーロー・フィルムズ",
+    "nameKana": "ひーろーふぃるむず",
+    "description": "映画製作会社。『棒の哀しみ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hero Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "excellent-film",
+    "name": "エクセレントフィルム",
+    "nameKana": "えくせれんとふぃるむ",
+    "description": "映画製作会社。『棒の哀しみ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Excellent Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokyo-media-relations",
+    "name": "東京メディアリレーションズ",
+    "nameKana": "とうきょうめでぃありれーしょんず",
+    "description": "映画製作会社。『赤目四十八瀧心中未遂』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo Media Relations。",
+    "updatedAt": "2026-08-09"
   }
 ]

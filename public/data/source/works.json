@@ -102305,5 +102305,2613 @@
         "result": "最優秀作品賞"
       }
     ]
+  },
+  {
+    "id": "black-rain",
+    "title": "黒い雨",
+    "titleKana": "くろいあめ",
+    "directorIds": [
+      "shohei-imamura"
+    ],
+    "screenwriterIds": [
+      "toshiro-ishido"
+    ],
+    "studioIds": [
+      "hayashibara-group",
+      "imamura-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "yoshiko-tanaka",
+        "character": "矢須子"
+      },
+      {
+        "actorId": "kazuo-kitamura",
+        "character": "閑間重松"
+      },
+      {
+        "actorId": "etsuko-ichihara",
+        "character": "閑間シゲ子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 5
+    },
+    "runtime": 123,
+    "originalType": "novel",
+    "synopsis": "広島に原爆が落ちた日、閃馬たちは黒い雨を浴びる。五年後、姪の矢須子には縁談が持ち込まれるが、被爆の噂が邪魔をする。健康な体だと証明するほど、周囲の目は冷たくなる。井伏鱒二の小説を今村昌平監督が白黒で映画化し、日本アカデミー賞の最優秀作品賞を受けている。田中好子の演技が高く評価され、代表作の一本となっている。",
+    "tmdbId": 185987,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1990,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "takeshi-childhood-days",
+    "title": "少年時代",
+    "titleKana": "しょうねんじだい",
+    "directorIds": [
+      "masahiro-shinoda"
+    ],
+    "screenwriterIds": [
+      "taichi-yamada"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "tetsuya-fujita",
+        "character": "風間進二"
+      },
+      {
+        "actorId": "yuji-horioka",
+        "character": "大原武"
+      },
+      {
+        "actorId": "kazuyo-mita",
+        "character": "風間シゲ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "war",
+      "youth",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1990,
+      "month": 8
+    },
+    "runtime": 119,
+    "originalType": "manga",
+    "synopsis": "戦時下の昭和十九年、東京の少年進二が富山へ疎開する。地元を仕切る級長のタケシは、彼を庇いながら支配しようとする。上下関係が入れ替わるたび、二人の友情は歪んでいく。柏原兵三の小説を藤子不二雄Aが漫画化し、それを映画化した作品にあたる。井上陽水の主題歌とともに、疎開の記憶を静かに描いた作品にあたる。",
+    "tmdbId": 83419,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1990,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1991,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1990,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "my-sons",
+    "title": "息子",
+    "titleKana": "むすこ",
+    "directorIds": [
+      "yoji-yamada"
+    ],
+    "screenwriterIds": [
+      "yoshitaka-asama"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "rentaro-mikuni",
+        "character": "浅野昭男"
+      },
+      {
+        "actorId": "masatoshi-nagase",
+        "character": "哲夫"
+      },
+      {
+        "actorId": "emi-wakui",
+        "character": "川島征子"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "family",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1991,
+      "month": 10
+    },
+    "runtime": 120,
+    "originalType": "novel",
+    "synopsis": "妻を亡くした岩手の農家の父が、東京で働く息子たちを訪ねる。定職に就かない次男は、聴覚に障害のある女性と交際していた。不器用な親子が、ようやく互いの気持ちに触れる。山田洋次監督が日本アカデミー賞の最優秀作品賞を受けた作品にあたる。三國連太郎と山田洋次監督の組み合わせが、この作品の核となっている。日本アカデミー賞の最優秀作品賞を受けている。",
+    "tmdbId": 225614,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1992,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1991,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "sumo-do-sumo-dont",
+    "title": "シコふんじゃった。",
+    "titleKana": "しこふんじゃった",
+    "directorIds": [
+      "masayuki-suo"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "cabin-co-ltd",
+      "daiei-film"
+    ],
+    "cast": [
+      {
+        "actorId": "masahiro-motoki",
+        "character": "山本秋平"
+      },
+      {
+        "actorId": "misa-shimizu",
+        "character": "川島夏子"
+      },
+      {
+        "actorId": "naoto-takenaka",
+        "character": "青木富夫"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "sports",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1992,
+      "month": 1
+    },
+    "runtime": 105,
+    "originalType": "original",
+    "synopsis": "卒業を人質に取られた大学生秋平が、廃部寸前の相撲部に入れられる。部員は変わり者ばかりで、試合に出る人数さえ足りない。まわしを締めることに抵抗しながら、彼らは少しずつ本気になる。周防正行監督が日本アカデミー賞の最優秀作品賞を受けた作品にあたる。競技の描写を通じて、社会に出る前の迷いを軽妙に描いている。",
+    "tmdbId": 51581,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1992,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1993,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1992,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "a-class-to-remember",
+    "title": "学校",
+    "titleKana": "がっこう",
+    "directorIds": [
+      "yoji-yamada"
+    ],
+    "screenwriterIds": [
+      "yoshitaka-asama"
+    ],
+    "studioIds": [
+      "nippon-television-network-corporation",
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiyuki-nishida",
+        "character": "黒井先生"
+      },
+      {
+        "actorId": "kunie-tanaka",
+        "character": "イノさん"
+      },
+      {
+        "actorId": "masato-hagiwara",
+        "character": "カズ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "school",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 11
+    },
+    "runtime": 128,
+    "originalType": "original",
+    "synopsis": "下町の夜間中学に、年齢も境遇も異なる生徒たちが通っている。卒業記念の文集を書く授業を通じて、教師の黒井は彼らの人生を思い返す。字を覚えることが、生き直すことと重なっていた。山田洋次監督が日本アカデミー賞の最優秀作品賞を受けた作品にあたる。実在の夜間中学を取材して作られ、続編も複数制作されている。",
+    "tmdbId": 197139,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1994,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1993,
+        "result": "日本映画 第6位"
+      }
+    ]
+  },
+  {
+    "id": "crest-of-betrayal",
+    "title": "忠臣蔵外伝 四谷怪談",
+    "titleKana": "ちゅうしんぐらがいでんよつやかいだん",
+    "directorIds": [
+      "kinji-fukasaku"
+    ],
+    "screenwriterIds": [
+      "motomu-furuta"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "koichi-sato",
+        "character": "民谷伊右衛門"
+      },
+      {
+        "actorId": "saki-takaoka",
+        "character": "お岩"
+      },
+      {
+        "actorId": "keiko-oginome",
+        "character": "お梅"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "human-drama",
+      "action",
+      "history",
+      "fantasy",
+      "jidaigeki"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1994,
+      "month": 10
+    },
+    "runtime": 106,
+    "originalType": "other",
+    "synopsis": "赤穂浪士の討ち入りと、四谷怪談を同じ時間軸で描く。浪人となった伊右衛門は、岩という女と出会いながらも仇討ちに加わろうとする。彼が犯した裏切りが、怨霊となって戻ってくる。深作欣二監督が二つの物語を接続した作品にあたる。様式的な色彩と、幻想的な演出が全編を貫いている。日本アカデミー賞の最優秀作品賞を受けている。",
+    "tmdbId": 224120,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1995,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "a-last-note",
+    "title": "午後の遺言状",
+    "titleKana": "ごごのゆいごんじょう",
+    "directorIds": [
+      "kaneto-shindo"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kindai-eiga-kyokai"
+    ],
+    "cast": [
+      {
+        "actorId": "haruko-sugimura",
+        "character": "森本蓉子"
+      },
+      {
+        "actorId": "nobuko-otowa",
+        "character": "柳川豊子"
+      },
+      {
+        "actorId": "hideo-kanze",
+        "character": "牛国藤八郎"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "medical"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1995,
+      "month": 6
+    },
+    "runtime": 110,
+    "originalType": "original",
+    "synopsis": "蓼科の別荘に、老いた女優が今年も避暑に訪れる。長年管理を任せてきた農婦との関係は、家族に近いものになっている。かつての同僚の訪問が、死と老いの話題を運んでくる。新藤兼人監督が八十三歳で撮り、日本アカデミー賞の最優秀作品賞を受けた作品にあたる。新藤兼人監督の妻でもあった乙羽信子の遺作にあたる作品となっている。",
+    "tmdbId": 88417,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1995,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 1996,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1995,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "begging-for-love",
+    "title": "愛を乞うひと",
+    "titleKana": "あいをこうひと",
+    "directorIds": [
+      "hideyuki-hirayama"
+    ],
+    "screenwriterIds": [
+      "wishing-chong"
+    ],
+    "studioIds": [
+      "toho",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "mieko-harada",
+        "character": "山岡照恵"
+      },
+      {
+        "actorId": "maho-nonami",
+        "character": "山岡深草"
+      },
+      {
+        "actorId": "kiichi-nakai",
+        "character": "陳文雄"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1998,
+      "month": 9
+    },
+    "runtime": 135,
+    "originalType": "novel",
+    "synopsis": "幼い頃に母から凄まじい虐待を受けた照恵が、記憶を封じて生きてきた。娘が成長した今、彼女は父の遺骨を探して台湾へ向かう。母と娘の二役を通じて、連鎖する痛みが描かれる。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。原田美枝子が母と娘を一人で演じ分けた点が高く評価されている。",
+    "tmdbId": 340077,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 1999,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1998,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "railroad-man",
+    "title": "鉄道員(ぽっぽや)",
+    "titleKana": "ぽっぽや",
+    "directorIds": [
+      "yasuo-furuhata"
+    ],
+    "screenwriterIds": [
+      "yoshiki-iwama"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-takakura",
+        "character": "佐藤乙松"
+      },
+      {
+        "actorId": "hirosue-ryoko",
+        "character": "佐藤雪子"
+      },
+      {
+        "actorId": "hidetaka-yoshioka",
+        "character": "杉浦秀男"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 6
+    },
+    "runtime": 112,
+    "originalType": "novel",
+    "synopsis": "廃線が決まった北海道のローカル線で、駅長の乙松が定年を迎えようとしている。娘が死んだ日も妻が死んだ日も、彼は駅に立ち続けてきた。雪の駅に、見知らぬ少女が現れる。浅田次郎の小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。高倉健の代表作の一本として、今も繰り返し語られている。",
+    "tmdbId": 68837,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "鉄道員",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2000,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "日本映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "after-the-rain",
+    "title": "雨あがる",
+    "titleKana": "あめあがる",
+    "directorIds": [
+      "takashi-koizumi"
+    ],
+    "screenwriterIds": [
+      "akira-kurosawa"
+    ],
+    "studioIds": [
+      "kurosawa-production",
+      "sept-films-cinema"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-terao",
+        "character": "三沢伊兵衛"
+      },
+      {
+        "actorId": "yoshiko-miyazaki",
+        "character": "三沢たよ"
+      },
+      {
+        "actorId": "shiro-mifune",
+        "character": "永井和泉守"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "jidaigeki"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 1
+    },
+    "runtime": 91,
+    "originalType": "novel",
+    "synopsis": "腕は立つが世渡りの下手な浪人三沢が、長雨で安宿に足止めされる。困窮する同宿の人々を助けるため、彼は禁じられた賭け試合に出てしまう。仕官の話が持ち上がるが、その事実が障害になる。黒澤明の遺した脚本を小泉堯史監督が映画化した作品にあたる。黒澤明の遺志を継いだ作品として、公開当時に注目を集めた。日本アカデミー賞の最優秀作品賞を受けている。",
+    "tmdbId": 15319,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2001,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2000,
+        "result": "日本映画 第9位"
+      }
+    ]
+  },
+  {
+    "id": "when-the-last-sword-is-drawn",
+    "title": "壬生義士伝",
+    "titleKana": "みぶぎしでん",
+    "directorIds": [
+      "yojiro-takita"
+    ],
+    "screenwriterIds": [
+      "takehiro-nakajima"
+    ],
+    "studioIds": [
+      "shochiku",
+      "tv-tokyo"
+    ],
+    "cast": [
+      {
+        "actorId": "kiichi-nakai",
+        "character": "吉村貫一郎"
+      },
+      {
+        "actorId": "koichi-sato",
+        "character": "斎藤一"
+      },
+      {
+        "actorId": "yui-natsukawa",
+        "character": "しづ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "history",
+      "jidaigeki",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 1
+    },
+    "runtime": 137,
+    "originalType": "novel",
+    "synopsis": "明治になり、かつての新選組隊士斎藤一が、亡き同志吉村貫一郎を回想する。守銭奴と蔑まれた吉村は、国元の家族へ仕送りするために刀を振るっていた。誠の旗の下で、彼は最後まで筋を通す。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。中井貴一の演技が高く評価され、代表作の一本となっている。",
+    "tmdbId": 14455,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2004,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "half-a-confession",
+    "title": "半落ち",
+    "titleKana": "はんおち",
+    "directorIds": [
+      "kiyoshi-sasabe"
+    ],
+    "screenwriterIds": [
+      "toshiyuki-tabe"
+    ],
+    "studioIds": [
+      "tbs",
+      "sumitomo-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-terao",
+        "character": "梶聡一郎"
+      },
+      {
+        "actorId": "mieko-harada",
+        "character": "梶啓子"
+      },
+      {
+        "actorId": "hidetaka-yoshioka",
+        "character": "藤林圭吾"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "crime",
+      "courtroom"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 1
+    },
+    "runtime": 121,
+    "originalType": "novel",
+    "synopsis": "現職の警部が、認知症の妻を殺したと自首してくる。犯行は認めるが、自首までの二日間について彼は何も語らない。刑事、検事、記者、弁護士がそれぞれの立場で空白を追う。横山秀夫の小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。複数の視点を積み重ねる構成が、原作の骨格を保っている。",
+    "tmdbId": 318346,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2005,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "always-sunset-on-third-street-2",
+    "title": "ALWAYS 続・三丁目の夕日",
+    "titleKana": "おーるうぇいずぞくさんちょうめのゆうひ",
+    "directorIds": [
+      "takashi-yamazaki"
+    ],
+    "screenwriterIds": [
+      "ryota-kosawa"
+    ],
+    "studioIds": [
+      "dentsu-music-and-entertainment",
+      "imagica"
+    ],
+    "cast": [
+      {
+        "actorId": "hidetaka-yoshioka",
+        "character": "茶川竜之介"
+      },
+      {
+        "actorId": "maki-horikita",
+        "character": "星野六子"
+      },
+      {
+        "actorId": "shinichi-tsutsumi",
+        "character": "鈴木則文"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 11
+    },
+    "runtime": 146,
+    "originalType": "manga",
+    "synopsis": "昭和三十四年の東京下町で、鈴木家に親戚の少女美加が預けられる。駄菓子屋の茶川は、去った淳之介の帰りを待ちながら小説を書き続ける。東京タワーが完成へ近づくなか、それぞれの生活が動く。日本アカデミー賞の最優秀作品賞を受けた続編にあたる。視覚効果による昭和の街並みの再現が、この作品の見どころとなる。",
+    "tmdbId": 41177,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "always-sunset"
+  },
+  {
+    "id": "hula-girls",
+    "title": "フラガール",
+    "titleKana": "ふらがーる",
+    "directorIds": [
+      "sang-il-lee"
+    ],
+    "screenwriterIds": [
+      "daisuke-habara"
+    ],
+    "studioIds": [
+      "happinet-pictures",
+      "cinequanon"
+    ],
+    "cast": [
+      {
+        "actorId": "yu-aoi",
+        "character": "谷川紀美子"
+      },
+      {
+        "actorId": "yasuko-matsuyuki",
+        "character": "平山まどか"
+      },
+      {
+        "actorId": "etsushi-toyokawa",
+        "character": "谷川洋二朗"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "family",
+      "dance",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 9
+    },
+    "runtime": 120,
+    "originalType": "other",
+    "synopsis": "閉山が迫る福島の炭鉱町で、温泉施設の踊り子を募集する話が持ち上がる。東京から来た講師まどかが、素人の少女たちにフラを教えはじめる。町の反対と家族の反発が、彼女たちの前に立ちはだかる。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。蒼井優の踊りの場面が、この作品の中心を占めている。",
+    "tmdbId": 38305,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2006,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2007,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2006,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-towers-mom-and-me-and-sometimes-dad",
+    "title": "東京タワー オカンとボクと、時々、オトン",
+    "titleKana": "とうきょうたわーおかんとぼくと",
+    "directorIds": [
+      "joji-matsuoka"
+    ],
+    "screenwriterIds": [
+      "suzuki-matsuo"
+    ],
+    "studioIds": [
+      "shochiku",
+      "nippon-television-network-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "joe-odagiri",
+        "character": "中川雅也"
+      },
+      {
+        "actorId": "kirin-kiki",
+        "character": "中川栄子"
+      },
+      {
+        "actorId": "yayako-uchida",
+        "character": "若き日の栄子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 4
+    },
+    "runtime": 142,
+    "originalType": "novel",
+    "synopsis": "筑豊で母と暮らした少年が、上京して自堕落な学生生活を送る。やがて母を東京へ呼び寄せ、二人の暮らしが始まる。母の病が判明したとき、彼はようやく生き方を改める。リリー・フランキーの自伝的小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。樹木希林と内田也哉子が実の母娘で同じ役を演じている。",
+    "tmdbId": 40079,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2008,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "the-unbroken",
+    "title": "沈まぬ太陽",
+    "titleKana": "しずまぬたいよう",
+    "directorIds": [
+      "setsuro-wakamatsu"
+    ],
+    "screenwriterIds": [
+      "takuya-nishioka"
+    ],
+    "studioIds": [
+      "kadokawa",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-watanabe",
+        "character": "恩地元"
+      },
+      {
+        "actorId": "kyoka-suzuki",
+        "character": "恩地りつ子"
+      },
+      {
+        "actorId": "mitsuko-kusabue",
+        "character": "恩地政江"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "disaster"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 10
+    },
+    "runtime": 202,
+    "originalType": "novel",
+    "synopsis": "航空会社の労働組合を率いた恩地が、報復として海外を転々とさせられる。十年の僻地勤務を経て本社に戻った矢先、大規模な墜落事故が起きる。遺族係として、彼は組織の腐敗と正面から向き合う。山崎豊子の小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。三時間を超える上映時間で、組織と個人の対立を描き切っている。",
+    "tmdbId": 206719,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2010,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2009,
+        "result": "日本映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "rebirth",
+    "title": "八日目の蟬",
+    "titleKana": "ようかめのせみ",
+    "directorIds": [
+      "izuru-narushima"
+    ],
+    "screenwriterIds": [
+      "satoko-okudera"
+    ],
+    "studioIds": [
+      "shochiku",
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "mao-inoue",
+        "character": "秋山恵理菜"
+      },
+      {
+        "actorId": "hiromi-nagasaku",
+        "character": "野々宮希和子"
+      },
+      {
+        "actorId": "eiko-koike",
+        "character": "安藤千草"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 4
+    },
+    "runtime": 147,
+    "originalType": "novel",
+    "synopsis": "不倫相手の子を身ごもれなかった希和子が、その家の赤ん坊を連れ去る。名を変えて逃げ続けた四年間は、二人にとって幸せな時間でもあった。成長した娘は、自分の出自と向き合うことになる。角田光代の小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。永作博美と井上真央の演技が、二つの時間軸を繋いでいる。",
+    "tmdbId": 94054,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 2011,
+        "result": "日本映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "the-kirishima-thing",
+    "title": "桐島、部活やめるってよ",
+    "titleKana": "きりしまぶかつやめるってよ",
+    "directorIds": [
+      "daihachi-yoshida"
+    ],
+    "screenwriterIds": [
+      "kohei-kiyasu"
+    ],
+    "studioIds": [
+      "nippon-television-network-corporation",
+      "ax-on"
+    ],
+    "cast": [
+      {
+        "actorId": "ryunosuke-kamiki",
+        "character": "前田涼也"
+      },
+      {
+        "actorId": "ai-hashimoto",
+        "character": "東原かすみ"
+      },
+      {
+        "actorId": "masahiro-higashide",
+        "character": "菊池宏樹"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "school",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 8
+    },
+    "runtime": 103,
+    "originalType": "novel",
+    "synopsis": "バレー部の主将である桐島が退部したという噂が、高校中に広がる。だが桐島本人は最後まで画面に現れない。彼の不在が、生徒たちの序列と関係を静かに揺さぶる。朝井リョウの小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。同じ時間を複数の視点で反復する構成が、高く評価されている。",
+    "tmdbId": 175041,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2013,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2012,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "the-great-passage",
+    "title": "舟を編む",
+    "titleKana": "ふねをあむ",
+    "directorIds": [
+      "yuya-ishii"
+    ],
+    "screenwriterIds": [
+      "kensaku-watanabe"
+    ],
+    "studioIds": [
+      "little-more",
+      "tv-tokyo"
+    ],
+    "cast": [
+      {
+        "actorId": "ryuhei-matsuda",
+        "character": "馬締光也"
+      },
+      {
+        "actorId": "aoi-miyazaki",
+        "character": "林香具矢"
+      },
+      {
+        "actorId": "joe-odagiri",
+        "character": "西岡正志"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 4
+    },
+    "runtime": 134,
+    "originalType": "novel",
+    "synopsis": "営業部で浮いていた青年馬締が、辞書編集部に引き抜かれる。新しい辞書の完成まで、十五年におよぶ地道な作業が続く。言葉に不器用な彼が、下宿先の娘に恋文を書く。三浦しをんの小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。辞書を作るという地味な作業を、静かな熱量で描いている。",
+    "tmdbId": 182827,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2014,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2013,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "the-eternal-zero",
+    "title": "永遠の0",
+    "titleKana": "えいえんのぜろ",
+    "directorIds": [
+      "takashi-yamazaki"
+    ],
+    "screenwriterIds": [
+      "tamio-hayashi"
+    ],
+    "studioIds": [
+      "amuse-soft-entertainment",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "junichi-okada",
+        "character": "宮部久蔵"
+      },
+      {
+        "actorId": "haruma-miura",
+        "character": "佐伯健太郎"
+      },
+      {
+        "actorId": "mao-inoue",
+        "character": "松乃"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "human-drama",
+      "action",
+      "mystery"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 12
+    },
+    "runtime": 144,
+    "originalType": "novel",
+    "synopsis": "司法試験に行き詰まる健太郎が、血縁上の祖父の存在を知る。特攻で死んだその祖父は、臆病者と呼ばれていた。元戦友たちの証言を集めるうち、別の人物像が浮かび上がる。百田尚樹の小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。空戦の視覚効果に、当時の日本映画としては破格の手間がかけられた。",
+    "tmdbId": 248087,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2015,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "the-journalist",
+    "title": "新聞記者",
+    "titleKana": "しんぶんきしゃ",
+    "directorIds": [
+      "michihito-fujii"
+    ],
+    "screenwriterIds": [
+      "akihiko-takaishi"
+    ],
+    "studioIds": [
+      "star-sands",
+      "the-icon"
+    ],
+    "cast": [
+      {
+        "actorId": "shim-eun-kyung",
+        "character": "吉岡エリカ"
+      },
+      {
+        "actorId": "tori-matsuzaka",
+        "character": "杉原拓海"
+      },
+      {
+        "actorId": "tsubasa-honda",
+        "character": "杉原奈津美"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "politics",
+      "suspense"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 6
+    },
+    "runtime": 113,
+    "originalType": "novel",
+    "synopsis": "新聞記者の吉岡が、大学新設をめぐる不透明な文書を受け取る。同じ案件を扱う内閣情報調査室の官僚杉原は、組織と良心の間で揺れる。報じることの意味が、二人に問われる。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。現代の政治を題材にした点で、公開当時に議論を呼んだ作品にあたる。シム・ウンギョンが主演女優賞を受けている。",
+    "tmdbId": 611257,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2020,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "midnight-swan",
+    "title": "ミッドナイトスワン",
+    "titleKana": "みっどないとすわん",
+    "directorIds": [
+      "eiji-uchida"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kino-films",
+      "atmovie"
+    ],
+    "cast": [
+      {
+        "actorId": "tsuyoshi-kusanagi",
+        "character": "凪沙"
+      },
+      {
+        "actorId": "misaki-hattori",
+        "character": "桜田一果"
+      },
+      {
+        "actorId": "asami-mizukawa",
+        "character": "桜田早織"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "dance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2020,
+      "month": 9
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "新宿で働くトランスジェンダーの凪沙が、遠縁の中学生一果を預かることになる。母から疎まれてきた一果は、バレエに才能を見せる。互いを必要としはじめた二人の生活が、少しずつ形になる。日本アカデミー賞の最優秀作品賞を受けた作品にあたる。草彅剛が主演男優賞を受け、代表作の一本となっている。",
+    "tmdbId": 725691,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "japan-academy",
+        "year": 2021,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "a-man",
+    "title": "ある男",
+    "titleKana": "あるおとこ",
+    "directorIds": [
+      "kei-ishikawa"
+    ],
+    "screenwriterIds": [
+      "kosuke-mukai"
+    ],
+    "studioIds": [
+      "shochiku",
+      "kinoshita-group"
+    ],
+    "cast": [
+      {
+        "actorId": "satoshi-tsumabuki",
+        "character": "城戸章良"
+      },
+      {
+        "actorId": "sakura-ando",
+        "character": "谷口里枝"
+      },
+      {
+        "actorId": "masataka-kubota",
+        "character": "谷口大祐"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "mystery",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 11
+    },
+    "runtime": 121,
+    "originalType": "novel",
+    "synopsis": "弁護士の城戸が、依頼人から亡き夫の身元調査を頼まれる。夫は別人の名で生きており、本当の素性は誰も知らなかった。他人の人生を生きるという行為の意味が、調べる側にも跳ね返ってくる。平野啓一郎の小説を映画化し、日本アカデミー賞の最優秀作品賞を受けている。身元と自己をめぐる問いが、静かな筆致で積み上げられている。",
+    "tmdbId": 869886,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2022,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2023,
+        "result": "最優秀作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2022,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "a-samurai-in-time",
+    "title": "侍タイムスリッパー",
+    "titleKana": "さむらいたいむすりっぱー",
+    "directorIds": [
+      "junichi-yasuda"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "mirai-eigasha",
+      "toei-studios-kyoto"
+    ],
+    "cast": [
+      {
+        "actorId": "makiya-yamaguchi",
+        "character": "高坂新左衛門"
+      },
+      {
+        "actorId": "norimasa-fuke",
+        "character": "風見恭一郎"
+      },
+      {
+        "actorId": "yuno-sakura",
+        "character": "山本優子"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "jidaigeki",
+      "time-travel"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 8
+    },
+    "runtime": 131,
+    "originalType": "original",
+    "synopsis": "幕末の会津藩士高坂が、落雷とともに現代の時代劇撮影所へ飛ばされる。行き場を失った彼は、斬られ役として働きはじめる。同じく時を越えていた宿敵と、撮影所で再会する。自主制作から口伝えで広がり、日本アカデミー賞の最優秀作品賞を受けた作品にあたる。個人製作に近い規模から全国公開へ広がった経緯でも話題を集めた。",
+    "tmdbId": 1287819,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2024,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "japan-academy",
+        "year": 2025,
+        "result": "最優秀作品賞"
+      }
+    ]
+  },
+  {
+    "id": "repast",
+    "title": "めし",
+    "titleKana": "めし",
+    "directorIds": [
+      "mikio-naruse"
+    ],
+    "screenwriterIds": [
+      "toshiro-ide",
+      "sumie-tanaka"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "ken-uehara",
+        "character": "岡本初之輔"
+      },
+      {
+        "actorId": "setsuko-hara",
+        "character": "岡本三千代"
+      },
+      {
+        "actorId": "yukiko-shimazaki",
+        "character": "岡本里子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1951,
+      "month": 11
+    },
+    "runtime": 97,
+    "originalType": "novel",
+    "synopsis": "大阪で暮らす倦怠期の夫婦のもとに、夫の姪が家出してくる。奔放な姪と夫の距離に苛立った妻は、東京の実家へ帰る。働くことと家庭に戻ることの間で、彼女は迷い続ける。林芙美子の絶筆を成瀬巳喜男監督が映画化した作品にあたる。原節子と上原謙が演じる夫婦の倦怠が、細部の演出で示される。日常の描写に徹した構成が特徴となる。",
+    "tmdbId": 47184,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1951,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1951,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "twenty-four-eyes",
+    "title": "二十四の瞳",
+    "titleKana": "にじゅうしのひとみ",
+    "directorIds": [
+      "keisuke-kinoshita"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "hideko-takamine",
+        "character": "大石先生"
+      },
+      {
+        "actorId": "hideki-goko",
+        "character": "岡田磯吉"
+      },
+      {
+        "actorId": "itsuo-watanabe",
+        "character": "竹下竹一"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "school",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1954,
+      "month": 9
+    },
+    "runtime": 156,
+    "originalType": "novel",
+    "synopsis": "昭和三年、小豆島の分校に新任の女性教師が赴任する。十二人の一年生と過ごした日々が、戦争を挟んで長く尾を引く。教え子は次々と貧困と戦地に奪われていく。壺井栄の小説を木下惠介監督が映画化した作品にあたる。戦争が個人の生活を壊す過程を、教室の視点から描いている。高峰秀子の代表作の一本にあたり、キネマ旬報のベスト・ワンを受けている。",
+    "tmdbId": 43339,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1954,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1954,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "floating-clouds",
+    "title": "浮雲",
+    "titleKana": "うきぐも",
+    "directorIds": [
+      "mikio-naruse"
+    ],
+    "screenwriterIds": [
+      "yoko-mizuki"
+    ],
+    "studioIds": [
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "hideko-takamine",
+        "character": "幸田ゆき子"
+      },
+      {
+        "actorId": "masayuki-mori",
+        "character": "富岡兼吾"
+      },
+      {
+        "actorId": "mariko-okada",
+        "character": "向井せい"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "postwar"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1955,
+      "month": 1
+    },
+    "runtime": 123,
+    "originalType": "novel",
+    "synopsis": "戦時中の仏印で関係を持ったゆき子と富岡が、敗戦後の東京で再会する。妻がいる富岡は煮え切らず、ゆき子は身を持ち崩していく。それでも離れられない二人は、屋久島へ流れていく。成瀬巳喜男監督の代表作で、キネマ旬報のベスト・ワンを受けている。高峰秀子と森雅之の演技が、救いのない関係を体現している。",
+    "tmdbId": 77285,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1955,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1955,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "rice",
+    "title": "米",
+    "titleKana": "こめ",
+    "directorIds": [
+      "tadashi-imai"
+    ],
+    "screenwriterIds": [
+      "yasutaro-yagi"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "shinjiro-ehara",
+        "character": "次郎"
+      },
+      {
+        "actorId": "eijiro-tono",
+        "character": "与三郎"
+      },
+      {
+        "actorId": "yuko-mochizuki",
+        "character": "おきん"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1957,
+      "month": 3
+    },
+    "runtime": 118,
+    "originalType": "original",
+    "synopsis": "霞ヶ浦の水郷で、零細な農家の暮らしが続いている。田を持てない次三男は出稼ぎに出るしかなく、若者たちの恋も家の事情に阻まれる。密漁に手を出した末の悲劇が、村を覆う。今井正監督がキネマ旬報のベスト・ワンを受けた作品にあたる。水郷の風景描写が、貧しさの厳しさと同居している作品にあたる。",
+    "tmdbId": 199203,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1957,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1957,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "her-brother",
+    "title": "おとうと",
+    "titleKana": "おとうと",
+    "directorIds": [
+      "kon-ichikawa"
+    ],
+    "screenwriterIds": [
+      "yoko-mizuki"
+    ],
+    "studioIds": [
+      "daiei-film"
+    ],
+    "cast": [
+      {
+        "actorId": "keiko-kishi",
+        "character": "げん"
+      },
+      {
+        "actorId": "hiroshi-kawaguchi",
+        "character": "碧郎"
+      },
+      {
+        "actorId": "kinuyo-tanaka",
+        "character": "母"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "family",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1960,
+      "month": 11
+    },
+    "runtime": 97,
+    "originalType": "novel",
+    "synopsis": "大正の東京で、姉のげんが病弱な継母に代わって家を切り盛りしている。弟の碧郎は不良仲間と付き合い、家に金を無心する。姉弟は喧嘩を繰り返しながら、深く結ばれていた。幸田文の小説を市川崑監督が映画化し、色彩を抑えた撮影で知られる。銀残しと呼ばれる現像技法を初めて用いた作品として知られる。",
+    "tmdbId": 125251,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1960,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1960,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "pigs-and-battleships",
+    "title": "豚と軍艦",
+    "titleKana": "ぶたとぐんかん",
+    "directorIds": [
+      "shohei-imamura"
+    ],
+    "screenwriterIds": [
+      "hisashi-yamanouchi"
+    ],
+    "studioIds": [
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroyuki-nagato",
+        "character": "欣太"
+      },
+      {
+        "actorId": "jitsuko-yoshimura",
+        "character": "春子"
+      },
+      {
+        "actorId": "masao-mishima",
+        "character": "氷森"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "social",
+      "comedy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1961,
+      "month": 1
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "米軍基地の街横須賀で、チンピラの欣太が組の使い走りをしている。組は残飯で豚を育てる事業に乗り出すが、内輪揉めが絶えない。恋人の春子は、この街から出ることを願っていた。今村昌平監督の初期の代表作にあたる。豚の群れが街を駆け抜ける終盤の場面が、語り草となっている。占領下の街の猥雑さがそのまま映されている。",
+    "tmdbId": 31104,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1961,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1960,
+        "result": "日本映画 第7位"
+      }
+    ]
+  },
+  {
+    "id": "foundry-town",
+    "title": "キューポラのある街",
+    "titleKana": "きゅーぽらのあるまち",
+    "directorIds": [
+      "kirio-urayama"
+    ],
+    "screenwriterIds": [
+      "shohei-imamura"
+    ],
+    "studioIds": [
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "sayuri-yoshinaga",
+        "character": "ジュン"
+      },
+      {
+        "actorId": "mitsuo-hamada",
+        "character": "塚本克巳"
+      },
+      {
+        "actorId": "eijiro-tono",
+        "character": "石黒辰五郎"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "youth",
+      "social",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1962,
+      "month": 4
+    },
+    "runtime": 100,
+    "originalType": "novel",
+    "synopsis": "鋳物の街川口で、中学三年のジュンが高校進学を目指している。父が工場を解雇され、家計は一気に苦しくなる。彼女は自力で働きながら進路を切り開こうとする。吉永小百合の代表作で、キネマ旬報のベスト・ワンを受けた作品にあたる。働きながら学ぶという主題を、明るい調子で描いた作品にあたる。",
+    "tmdbId": 49570,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1962,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1962,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "the-insect-woman",
+    "title": "にっぽん昆虫記",
+    "titleKana": "にっぽんこんちゅうき",
+    "directorIds": [
+      "shohei-imamura"
+    ],
+    "screenwriterIds": [
+      "keiji-hasebe"
+    ],
+    "studioIds": [
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "sachiko-hidari",
+        "character": "松木とめ"
+      },
+      {
+        "actorId": "jitsuko-yoshimura",
+        "character": "信子"
+      },
+      {
+        "actorId": "shoichi-ozawa",
+        "character": "ケン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1963,
+      "month": 11
+    },
+    "runtime": 123,
+    "originalType": "original",
+    "synopsis": "東北の農村に生まれたとめが、女工、女中、娼婦と職を変えて生きていく。時代に踏みつけられながら、彼女は虫のように這い上がり続ける。娘との関係も、同じ道をたどりはじめる。今村昌平監督がキネマ旬報のベスト・ワンを受けた作品にあたる。静止画を挟む編集と、方言による語りが独特の質感を生んでいる。",
+    "tmdbId": 42984,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1963,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1963,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "the-great-white-tower",
+    "title": "白い巨塔",
+    "titleKana": "しろいきょとう",
+    "directorIds": [
+      "satsuo-yamamoto"
+    ],
+    "screenwriterIds": [
+      "shinobu-hashimoto"
+    ],
+    "studioIds": [
+      "daiei-film"
+    ],
+    "cast": [
+      {
+        "actorId": "jiro-tamiya",
+        "character": "財前五郎"
+      },
+      {
+        "actorId": "eijiro-tono",
+        "character": "東貞蔵教授"
+      },
+      {
+        "actorId": "takahiro-tamura",
+        "character": "里見脩二"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "medical",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1966,
+      "month": 10
+    },
+    "runtime": 150,
+    "originalType": "novel",
+    "synopsis": "大学病院の教授の座をめぐり、財前と関係者の思惑が交錯する。手術の腕は確かだが野心を隠さない財前は、教授選を勝ち抜く。だが誤診をめぐる訴訟が、彼の足元を崩しはじめる。山崎豊子の小説を映画化し、キネマ旬報のベスト・ワンを受けている。田宮二郎の演技が高く評価され、繰り返し映像化される原作となった。",
+    "tmdbId": 261541,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1966,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1966,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "the-fossil",
+    "title": "化石",
+    "titleKana": "かせき",
+    "directorIds": [
+      "masaki-kobayashi"
+    ],
+    "screenwriterIds": [
+      "shun-inagaki",
+      "takeshi-yoshida"
+    ],
+    "studioIds": [
+      "yonki-no-kai-productions",
+      "haiyuza-eiga-hoso-company"
+    ],
+    "cast": [
+      {
+        "actorId": "shin-saburi",
+        "character": "一鬼太治平"
+      },
+      {
+        "actorId": "keiko-kishi",
+        "character": "マルスラン夫人"
+      },
+      {
+        "actorId": "hisashi-igawa",
+        "character": "船津"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "medical"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1975,
+      "month": 10
+    },
+    "runtime": 201,
+    "originalType": "novel",
+    "synopsis": "仕事一筋だった建設会社の社長が、欧州旅行の途中で癌を告知される。余命一年と知った彼の前に、死を擬人化したような女性が現れる。残された時間の使い方を、彼は静かに選び直す。井上靖の小説を小林正樹監督が映画化した作品にあたる。三時間を超える長さで、死を前にした内面を淡々と描いている。",
+    "tmdbId": 277261,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1975,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1975,
+        "result": "日本映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "lullaby-of-the-earth",
+    "title": "大地の子守歌",
+    "titleKana": "だいちのこもりうた",
+    "directorIds": [
+      "yasuzo-masumura"
+    ],
+    "screenwriterIds": [
+      "yoshio-shirasaka"
+    ],
+    "studioIds": [
+      "kimura-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "mieko-harada",
+        "character": "りん"
+      },
+      {
+        "actorId": "natsuko-kahara",
+        "character": "祖母"
+      },
+      {
+        "actorId": "mihoko-nakagawa",
+        "character": "あさ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1976,
+      "month": 6
+    },
+    "runtime": 111,
+    "originalType": "novel",
+    "synopsis": "祖母を亡くした十三歳の少女りんが、瀬戸内の島へ売られる。売春宿での過酷な日々のなかで、彼女は生きる術を身につけていく。無知であることが、彼女を辛うじて守っていた。増村保造監督の作品で、原田美枝子の初期の代表作にあたる。社会の底辺に置かれた者の生を、真正面から描いた作品にあたる。",
+    "tmdbId": 129377,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1976,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1976,
+        "result": "日本映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "third-base",
+    "title": "サード",
+    "titleKana": "さーど",
+    "directorIds": [
+      "yoichi-higashi"
+    ],
+    "screenwriterIds": [
+      "shuji-terayama"
+    ],
+    "studioIds": [
+      "art-theatre-guild"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiyuki-nagashima",
+        "character": "サード"
+      },
+      {
+        "actorId": "tsuguaki-yoshida",
+        "character": "ⅡB"
+      },
+      {
+        "actorId": "aiko-morishita",
+        "character": "新聞部"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "youth",
+      "crime",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1978,
+      "month": 3
+    },
+    "runtime": 102,
+    "originalType": "novel",
+    "synopsis": "高校野球の三塁手だった少年が、事件を起こして少年院に入れられる。塀の中の単調な日々が、彼の記憶と幻想を混ぜ合わせていく。走ることだけが、彼を繋ぎ止めている。寺山修司が脚本を手がけ、キネマ旬報のベスト・ワンを受けた作品にあたる。詩的な言葉と現実の断片が入り混じる構成をとっている。",
+    "tmdbId": 96044,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1978,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1978,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-trial",
+    "title": "東京裁判",
+    "titleKana": "とうきょうさいばん",
+    "directorIds": [
+      "masaki-kobayashi"
+    ],
+    "screenwriterIds": [
+      "kiyoshi-ogasawara"
+    ],
+    "studioIds": [
+      "kodansha"
+    ],
+    "cast": [
+      {
+        "actorId": "kei-sato",
+        "character": "語り"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "documentary",
+      "history"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1983,
+      "month": 6
+    },
+    "runtime": 277,
+    "originalType": "other",
+    "synopsis": "極東国際軍事裁判の記録映像を、五年をかけて編集した長編記録映画。米国防総省に眠っていた膨大なフィルムから、法廷の攻防が再構成される。誰を裁き、何を裁かなかったのかが問われる。小林正樹監督がキネマ旬報のベスト・ワンを受けた作品にあたる。四時間半を超える上映時間で、記録映画の代表作とされている。",
+    "tmdbId": 155596,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1983,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1983,
+        "result": "日本映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "macarthurs-children",
+    "title": "瀬戸内少年野球団",
+    "titleKana": "せとうちしょうねんやきゅうだん",
+    "directorIds": [
+      "masahiro-shinoda"
+    ],
+    "screenwriterIds": [
+      "tsutomu-tamura"
+    ],
+    "studioIds": [
+      "herald-ace"
+    ],
+    "cast": [
+      {
+        "actorId": "takaya-yamauchi",
+        "character": "足柄竜太"
+      },
+      {
+        "actorId": "ken-watanabe",
+        "character": "中井鉄夫"
+      },
+      {
+        "actorId": "yoshiyuki-omori",
+        "character": "正木三郎"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "human-drama",
+      "comedy",
+      "youth",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1984,
+      "month": 6
+    },
+    "runtime": 143,
+    "originalType": "novel",
+    "synopsis": "敗戦直後の淡路島で、教育が軍国から民主主義へ急転する。担任の駒子先生は、子どもたちに野球を教えはじめる。占領軍と土地の暮らしが、少年たちの日常に入り込む。阿久悠の小説を篠田正浩監督が映画化した作品にあたる。占領期の空気を子どもの視点から捉えた作品にあたる。夏目雅子の出演でも知られる。",
+    "tmdbId": 42097,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1984,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1984,
+        "result": "日本映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-wedlock",
+    "title": "ウホッホ探険隊",
+    "titleKana": "うほっほたんけんたい",
+    "directorIds": [
+      "kichitaro-negishi"
+    ],
+    "screenwriterIds": [
+      "yoshimitsu-morita"
+    ],
+    "studioIds": [
+      "directors-company"
+    ],
+    "cast": [
+      {
+        "actorId": "yukiyo-toake",
+        "character": "榎本登起子"
+      },
+      {
+        "actorId": "kunie-tanaka",
+        "character": "榎本和也"
+      },
+      {
+        "actorId": "masatoshi-murakami",
+        "character": "榎本太郎"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1986,
+      "month": 10
+    },
+    "runtime": 105,
+    "originalType": "novel",
+    "synopsis": "夫の不倫を告げられた登起子が、二人の息子と離婚後の生活を考える。深刻になりきれない家族は、それぞれの流儀で事態を受け止める。別れることが、家族の終わりとは限らない。干刈あがたの小説を映画化し、キネマ旬報のベスト・ワンを受けている。離婚を悲劇として描かない視点が、当時としては新鮮だった。",
+    "tmdbId": 292144,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1986,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1986,
+        "result": "日本映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "knockout",
+    "title": "どついたるねん",
+    "titleKana": "どついたるねん",
+    "directorIds": [
+      "junji-sakamoto"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "arato-production"
+    ],
+    "cast": [
+      {
+        "actorId": "hidekazu-akai",
+        "character": "安達英二"
+      },
+      {
+        "actorId": "haruko-sagara",
+        "character": "鴨井貴子"
+      },
+      {
+        "actorId": "yoshio-harada",
+        "character": "佐島牧夫"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sports"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1989,
+      "month": 11
+    },
+    "runtime": 110,
+    "originalType": "original",
+    "synopsis": "網膜剥離で引退したボクサーが、リングに戻ることを諦めきれずにいる。周囲の反対と自分の体を押し切り、彼は再起を目指す。恋人や旧友との関係も、その執着に巻き込まれる。赤井英和の実体験を下敷きに、阪本順治監督が撮った第一作にあたる。大阪の街並みと関西弁の掛け合いが、独特の熱を生んでいる。",
+    "tmdbId": 360457,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1989,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1989,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "all-under-the-moon",
+    "title": "月はどっちに出ている",
+    "titleKana": "つきはどっちにでている",
+    "directorIds": [
+      "yoichi-sai"
+    ],
+    "screenwriterIds": [
+      "wishing-chong"
+    ],
+    "studioIds": [
+      "cinequanon"
+    ],
+    "cast": [
+      {
+        "actorId": "goro-kishitani",
+        "character": "忠男"
+      },
+      {
+        "actorId": "ruby-moreno",
+        "character": "コニー"
+      },
+      {
+        "actorId": "moeko-ezawa",
+        "character": "英順"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1993,
+      "month": 11
+    },
+    "runtime": 110,
+    "originalType": "novel",
+    "synopsis": "在日朝鮮人二世のタクシー運転手忠男が、東京の夜を走り続けている。フィリピン人のホステス、コニーとの関係が、彼の日常を揺さぶる。同僚たちの騒がしいやり取りが、街の多層さを映し出す。梁石日の小説を崔洋一監督が映画化した作品にあたる。在日社会を軽やかに描いた点で、公開当時に高く評価された。",
+    "tmdbId": 129700,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1993,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1993,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "like-a-rolling-stone",
+    "title": "棒の哀しみ",
+    "titleKana": "ぼうのかなしみ",
+    "directorIds": [
+      "tatsumi-kumashiro"
+    ],
+    "screenwriterIds": [
+      "hidehiro-ito"
+    ],
+    "studioIds": [
+      "hero-films",
+      "excellent-film"
+    ],
+    "cast": [
+      {
+        "actorId": "eiji-okuda",
+        "character": "田中"
+      },
+      {
+        "actorId": "eiko-nagashima",
+        "character": "雅子"
+      },
+      {
+        "actorId": "reiko-takashima",
+        "character": "内縁の妻"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1994,
+      "month": 10
+    },
+    "runtime": 123,
+    "originalType": "novel",
+    "synopsis": "中堅組員の田中が、組長の命令で分家を持たされる。上納金を工面するために手を汚し、彼は少しずつ追い詰められていく。組織の駒として生きる男の諦念が、全編を覆っている。神代辰巳監督の晩年の作品で、キネマ旬報のベスト・ワンを受けている。組織のなかで摩耗していく男を、乾いた視線で捉えている。",
+    "tmdbId": 403568,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1994,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1994,
+        "result": "日本映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "boys-be-ambitious",
+    "title": "岸和田少年愚連隊",
+    "titleKana": "きしわだしょうねんぐれんたい",
+    "directorIds": [
+      "kazuyuki-izutsu"
+    ],
+    "screenwriterIds": [
+      "wishing-chong",
+      "masayoshi-azuma"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "takashi-okamura",
+        "character": "小鉄"
+      },
+      {
+        "actorId": "hiroyuki-yabe",
+        "character": "リイチ"
+      },
+      {
+        "actorId": "nanako-okochi",
+        "character": "良子"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "youth",
+      "comedy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 3
+    },
+    "runtime": 106,
+    "originalType": "novel",
+    "synopsis": "一九七〇年代の岸和田で、喧嘩に明け暮れる少年たちの日々を描く。小鉄とリイチは、殴られては殴り返す毎日を繰り返している。だんじりの祭りと、家族や恋人との関係が、その背景に流れる。中場利一の小説を井筒和幸監督が映画化した作品にあたる。お笑い芸人を主演に起用した点でも話題を集めた作品にあたる。",
+    "tmdbId": 486050,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 1996,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1996,
+        "result": "日本映画 第6位"
+      }
+    ]
+  },
+  {
+    "id": "akame-48-waterfalls",
+    "title": "赤目四十八瀧心中未遂",
+    "titleKana": "あかめしじゅうはちたきしんじゅうみすい",
+    "directorIds": [
+      "genjiro-arato"
+    ],
+    "screenwriterIds": [
+      "toya-suzuki"
+    ],
+    "studioIds": [
+      "eisei-gekijo",
+      "tokyo-media-relations"
+    ],
+    "cast": [
+      {
+        "actorId": "shinobu-terajima",
+        "character": "綾"
+      },
+      {
+        "actorId": "shima-onishi",
+        "character": "生島与一"
+      },
+      {
+        "actorId": "michiyo-yasuda",
+        "character": "岸田勢子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 10
+    },
+    "runtime": 159,
+    "originalType": "novel",
+    "synopsis": "人生に行き詰まった生島が、尼崎の安アパートで臓物を串に刺して暮らしている。隣室の女綾との出会いが、彼を別の世界へ引き込む。彫物と借金の影が、二人を追い詰めていく。車谷長吉の小説を映画化し、キネマ旬報のベスト・ワンを受けている。寺島しのぶの演技が高く評価され、代表作の一本となっている。",
+    "tmdbId": 319681,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2003,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2003,
+        "result": "日本映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "we-shall-overcome-someday",
+    "title": "パッチギ!",
+    "titleKana": "ぱっちぎ",
+    "directorIds": [
+      "kazuyuki-izutsu"
+    ],
+    "screenwriterIds": [
+      "daisuke-habara"
+    ],
+    "studioIds": [
+      "cinequanon",
+      "happinet-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "shun-shioya",
+        "character": "松山康介"
+      },
+      {
+        "actorId": "erika-sawajiri",
+        "character": "リ・キョンジャ"
+      },
+      {
+        "actorId": "sousuke-takaoka",
+        "character": "リ・アンソン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "action",
+      "comedy",
+      "youth",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 1
+    },
+    "runtime": 118,
+    "originalType": "novel",
+    "synopsis": "一九六八年の京都で、高校生の康介が朝鮮高校の少女に一目惚れする。フルートで「イムジン河」を吹こうとする彼を、両校の対立が阻む。喧嘩と音楽と恋が、同じ時間の中で交錯する。井筒和幸監督がキネマ旬報のベスト・ワンを受けた作品にあたる。楽曲の使い方と喧嘩場面の勢いが、この作品の魅力となっている。",
+    "tmdbId": 129713,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2005,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "日本映画 第1位"
+      }
+    ]
   }
 ]
