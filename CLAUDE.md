@@ -75,6 +75,6 @@ node scripts/generate-icons.mjs  # 手動実行
 ## 既知の未着手事項
 
 - **受賞歴が0件**。awards.jsonに5賞(日本アカデミー賞・キネマ旬報ベスト・テン・アカデミー賞・カンヌ国際映画祭・ブルーリボン賞)を用意済みだが、`awardResults`は未投入。取り込みは姉妹サイト共通の受賞パイプライン(Wikipediaの賞ページを正とし、**既存作品への付与→未登録作の追加の2段構え**)で行うこと
-- **姉妹サイトへの相互リンクが未設定**。`relatedAnimeUrl`(君の名は。天気の子などanime-db重複作品)、`relatedNovelUrl`/`relatedComicUrl`(告白・ショーシャンク・SLAM DUNKなど原作もの)を手動設定する。逆方向(姉妹サイト側から本サイトへのリンク、各サイトのSISTER_SITESカードへの映画DB追加)も未着手
+- **作品単位の姉妹サイト相互リンクが未設定**。`relatedAnimeUrl`(君の名は。天気の子などanime-db重複作品)、`relatedNovelUrl`/`relatedComicUrl`(告白・ショーシャンク・SLAM DUNKなど原作もの)を手動設定する。サイト単位のリンク(各サイトのSISTER_SITESカード)は2026-08-09に6サイトすべて設定済み
 - **GA4測定IDが未発行**(ユーザーのGoogleアカウント操作が必要)
 - **Google Search Consoleへのsitemap登録**(ユーザー操作が必要)
