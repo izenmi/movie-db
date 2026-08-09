@@ -7903,5 +7903,195 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/gcGxWfOGY3TTzL7TJfVWrnCBfFo.jpg",
     "matchedTitle": "悪魔のいけにえ",
     "tmdbId": 30497
+  },
+  "ultraman-tiga-the-final-odyssey": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/papDk5x8wmkamSpEm70Ssc6SqQG.jpg",
+    "matchedTitle": "ウルトラマンティガ THE FINAL ODYSSEY",
+    "tmdbId": 113094
+  },
+  "highlander": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2vVNptHkdwVaVar4zgMZ11rRFGm.jpg",
+    "matchedTitle": "ハイランダー 悪魔の戦士",
+    "tmdbId": 8009
+  },
+  "the-rescuers": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2YYAGJFTMRxrDoCrGgy5B3hmbNJ.jpg",
+    "matchedTitle": "ビアンカの大冒険",
+    "tmdbId": 11319
+  },
+  "gremlins": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vsunCD4L6em7KpwSSWW3sBC5Gw6.jpg",
+    "matchedTitle": "グレムリン",
+    "tmdbId": 927
+  },
+  "twittering-birds-never-fly-the-clouds-gather": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/k0DQtzs8D4ntKuDxnyD0NxMcXgv.jpg",
+    "matchedTitle": "囀る鳥は羽ばたかない The clouds gather",
+    "tmdbId": 650498
+  },
+  "kizumonogatari-part-3-reiketsu": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mnnFLJehFfaV4lcIAmk88hslgeH.jpg",
+    "matchedTitle": "傷物語〈Ⅲ冷血篇〉",
+    "tmdbId": 362585
+  },
+  "vertigo": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/caCcL8neKm5y4OvNDZgPmKus6zg.jpg",
+    "matchedTitle": "めまい",
+    "tmdbId": 426
+  },
+  "for-a-few-dollars-more": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ujPL0RwhezCQ6gUz452tACyYXTJ.jpg",
+    "matchedTitle": "夕陽のガンマン",
+    "tmdbId": 938
+  },
+  "judge-dredd": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/iLc1VLcDRykhRAPruVY52W9fWLA.jpg",
+    "matchedTitle": "ジャッジ・ドレッド",
+    "tmdbId": 9482
+  },
+  "pretty-guardian-sailor-moon-cosmos-the-movie-part-1": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7fwVpF5gXnFkfM5FyhFRMt199n2.jpg",
+    "matchedTitle": "劇場版 美少女戦士セーラームーンCosmos 前編",
+    "tmdbId": 968868
+  },
+  "the-last-emperor": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oENsYvZfOBLrovMVb0Qo7peabRX.jpg",
+    "matchedTitle": "ラストエンペラー",
+    "tmdbId": 746
+  },
+  "lethal-weapon-4": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/69RaML1b4F3XLLRp5wDXTp7llho.jpg",
+    "matchedTitle": "リーサル・ウェポン4",
+    "tmdbId": 944
+  },
+  "rain-man": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oEWMYDwVQoU2xDJjt6cqXGNDyG3.jpg",
+    "matchedTitle": "レインマン",
+    "tmdbId": 380
+  },
+  "doraemon-nobita-and-the-spiral-city": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mEmOqdiYe1sVL4y5fmy7aF22t2z.jpg",
+    "matchedTitle": "映画ドラえもん のび太のねじ巻き都市冒険記",
+    "tmdbId": 163394
+  },
+  "sukiyaki-western-django": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6rglnNhFPDetSms0DAR2WcXKJvq.jpg",
+    "matchedTitle": "スキヤキ・ウエスタン ジャンゴ",
+    "tmdbId": 13637
+  },
+  "limitless": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rGcHsb5QYR4u7d455SJGs7jQ1FB.jpg",
+    "matchedTitle": "リミットレス",
+    "tmdbId": 51876
+  },
+  "stalker": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8q9mvpCazq7Mc5RzHT96UsjrhFC.jpg",
+    "matchedTitle": "ストーカー",
+    "tmdbId": 1398
+  },
+  "the-face-of-another": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6eM3LC5np9byiXu3uoVkLPVZlVX.jpg",
+    "matchedTitle": "他人の顔",
+    "tmdbId": 29452
+  },
+  "the-x-files": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+    "matchedTitle": "X-ファイル ザ・ムービー",
+    "tmdbId": 846
+  },
+  "platoon": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/e3WjsyOsKkbsDpDSV9RgE6eSxDa.jpg",
+    "matchedTitle": "プラトーン",
+    "tmdbId": 792
+  },
+  "conan-the-barbarian": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yOSN2o5oJk1WnwRMNAcIH1MetmW.jpg",
+    "matchedTitle": "コナン・ザ・グレート",
+    "tmdbId": 9387
+  },
+  "one-piece-adventure-of-nebulandia": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xdu9XJSHT835OoChOiwEgi9Uzjf.jpg",
+    "matchedTitle": "ONE PIECE 〜アドベンチャー オブ ネブランディア〜",
+    "tmdbId": 373879
+  },
+  "lupin-the-3rd-vs-cats-eye": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7mKCPwfHB3DiiZMQJVBlYapkGz.jpg",
+    "matchedTitle": "ルパン三世VSキャッツ・アイ",
+    "tmdbId": 1027159
+  },
+  "lost-highway": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yvhm2D43DUHFzywEkfZqNitmq4O.jpg",
+    "matchedTitle": "ロスト・ハイウェイ",
+    "tmdbId": 638
+  },
+  "modern-times": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vOLOIFtoBZMljzWJFjvWAZtFB6N.jpg",
+    "matchedTitle": "モダン・タイムス",
+    "tmdbId": 3082
+  },
+  "the-anthem-of-the-heart": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/h9UUOcgaHClUIQqebo6hBDMOE89.jpg",
+    "matchedTitle": "心が叫びたがってるんだ。",
+    "tmdbId": 364111
+  },
+  "gurren-lagann-the-movie-the-lights-in-the-sky-are": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4e9J3vCy0uNPlHb4832ins7oaic.jpg",
+    "matchedTitle": "劇場版 天元突破グレンラガン 螺巌篇",
+    "tmdbId": 23452
+  },
+  "witness-for-the-prosecution": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+    "matchedTitle": "情婦",
+    "tmdbId": 37257
+  },
+  "stargate": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lLzeaIiZVjdag9g4sdBPiF2QiBG.jpg",
+    "matchedTitle": "スターゲイト",
+    "tmdbId": 2164
+  },
+  "the-shape-of-water": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/80w2qHQZ1LabrXrJsL4yM13X0i1.jpg",
+    "matchedTitle": "シェイプ・オブ・ウォーター",
+    "tmdbId": 399055
+  },
+  "kingdom-iii-the-flame-of-destiny": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7cIqNt2YPK1nCf904NFISEScCzk.jpg",
+    "matchedTitle": "キングダム 運命の炎",
+    "tmdbId": 1061181
+  },
+  "tokyo": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eqigcYzr8NM51oDfrWNvcOS3sG6.jpg",
+    "matchedTitle": "TOKYO!",
+    "tmdbId": 8938
+  },
+  "close-encounters-of-the-third-kind": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/l00zAvhp1XvtGxIjcVC5q6RROik.jpg",
+    "matchedTitle": "未知との遭遇",
+    "tmdbId": 840
+  },
+  "the-great-escape": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yaryKQCeyKQOfcYOnyfM0SNsBp0.jpg",
+    "matchedTitle": "大脱走",
+    "tmdbId": 5925
+  },
+  "the-breakfast-club": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/swHOQcqzlYADoWZiH8e9RHTobUp.jpg",
+    "matchedTitle": "ブレックファスト・クラブ",
+    "tmdbId": 2108
+  },
+  "umami": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5gVRCyUKEXuN6jmoUqS11HwzZ9r.jpg",
+    "matchedTitle": "旨味の旅",
+    "tmdbId": 788030
+  },
+  "to-every-you-ive-loved-before": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zQqUvA1rxSceehwoChsKB780plX.jpg",
+    "matchedTitle": "僕が愛したすべての君へ",
+    "tmdbId": 874743
+  },
+  "liar-liar": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ltDFk3FFxpfHZjoejh93vxO5v8G.jpg",
+    "matchedTitle": "ライアー ライアー",
+    "tmdbId": 1624
   }
 }

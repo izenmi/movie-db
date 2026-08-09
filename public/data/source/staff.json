@@ -16450,5 +16450,284 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kim Henkel。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hirochika-muraishi",
+    "name": "村石宏實",
+    "nameKana": "むらいしひろちか",
+    "description": "映画監督。『ウルトラマンティガ THE FINAL ODYSSEY』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hirochika Muraishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "russell-mulcahy",
+    "name": "ラッセル・マルケイ",
+    "nameKana": "ラッセルマルケイ",
+    "description": "映画監督。『ハイランダー 悪魔の戦士』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Russell Mulcahy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gregory-widen",
+    "name": "グレゴリー・ワイデン",
+    "nameKana": "グレゴリーワイデン",
+    "description": "脚本家。『ハイランダー 悪魔の戦士』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gregory Widen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-bellwood",
+    "name": "ピーター・ベルウッド",
+    "nameKana": "ピーターベルウッド",
+    "description": "脚本家。『ハイランダー 悪魔の戦士』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Bellwood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-lounsbery",
+    "name": "ジョン・ラウンズベリー",
+    "nameKana": "ジョンラウンズベリー",
+    "description": "映画監督。『ビアンカの大冒険』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Lounsbery。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joe-dante",
+    "name": "ジョー・ダンテ",
+    "nameKana": "ジョーダンテ",
+    "description": "映画監督。『グレムリン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joe Dante。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kaori-makita",
+    "name": "牧田佳織",
+    "nameKana": "まきたかおり",
+    "description": "映画監督。『囀る鳥は羽ばたかない The clouds gather』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kaori Makita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "samuel-a-taylor",
+    "name": "サミュエル・A・テイラー",
+    "nameKana": "たろあさむえ",
+    "description": "脚本家。『めまい』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Samuel A. Taylor。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alec-coppel",
+    "name": "アレック・コッペル",
+    "nameKana": "アレックコッペル",
+    "description": "脚本家。『めまい』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alec Coppel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danny-cannon",
+    "name": "ダニー・キャノン",
+    "nameKana": "ダニーキャノン",
+    "description": "映画監督。『ジャッジ・ドレッド』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Danny Cannon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tomoya-takahashi",
+    "name": "高橋知也",
+    "nameKana": "たかはしともや",
+    "description": "映画監督。『劇場版 美少女戦士セーラームーンCosmos 前編』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tomoya Takahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-peploe",
+    "name": "マーク・ペプロー",
+    "nameKana": "マークペプロー",
+    "description": "脚本家。『ラストエンペラー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Peploe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "channing-gibson",
+    "name": "チャニング・ギブソン",
+    "nameKana": "チャニングギブソン",
+    "description": "脚本家。『リーサル・ウェポン4』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Channing Gibson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barry-levinson",
+    "name": "バリー・レヴィンソン",
+    "nameKana": "バリーレヴィンソン",
+    "description": "映画監督。『レインマン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barry Levinson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ronald-bass",
+    "name": "ロナルド・バス",
+    "nameKana": "ロナルドバス",
+    "description": "脚本家。『レインマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ronald Bass。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barry-morrow",
+    "name": "バリー・モロー",
+    "nameKana": "バリーモロー",
+    "description": "脚本家。『レインマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barry Morrow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masaru-nakamura",
+    "name": "中村雅",
+    "nameKana": "なかむらまさる",
+    "description": "脚本家。『スキヤキ・ウエスタン ジャンゴ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masaru Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andrei-tarkovsky",
+    "name": "アンドレイ・タルコフスキー",
+    "nameKana": "アンドレイタルコフスキー",
+    "description": "映画監督・脚本家。『ストーカー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Andrei Tarkovsky。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rob-bowman",
+    "name": "ロブ・ボウマン",
+    "nameKana": "ロブボウマン",
+    "description": "映画監督。『X-ファイル ザ・ムービー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rob Bowman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-carter",
+    "name": "クリス・カーター",
+    "nameKana": "クリスカーター",
+    "description": "脚本家。『X-ファイル ザ・ムービー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Carter。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shuji-kuzuhara",
+    "name": "葛原秀治",
+    "nameKana": "くずはらしゅうじ",
+    "description": "脚本家。『ルパン三世VSキャッツ・アイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shuji Kuzuhara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barry-gifford",
+    "name": "バリー・ギフォード",
+    "nameKana": "バリーギフォード",
+    "description": "脚本家。『ロスト・ハイウェイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barry Gifford。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "charlie-chaplin",
+    "name": "チャールズ・チャップリン",
+    "nameKana": "チャールズチャップリン",
+    "description": "映画監督・脚本家。『モダン・タイムス』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Charlie Chaplin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harry-kurnitz",
+    "name": "ハリー・カーニッツ",
+    "nameKana": "ハリーカーニッツ",
+    "description": "脚本家。『情婦』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harry Kurnitz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leos-carax",
+    "name": "レオス・カラックス",
+    "nameKana": "レオスカラックス",
+    "description": "映画監督・脚本家。『TOKYO!』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leos Carax。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-clavell",
+    "name": "ジェームズ・クラベル",
+    "nameKana": "ジェームズクラベル",
+    "description": "脚本家。『大脱走』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Clavell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "w-r-burnett",
+    "name": "W・R・バーネット",
+    "nameKana": "ぶねっ",
+    "description": "脚本家。『大脱走』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: W.R. Burnett。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "slony-sow",
+    "name": "スロニー・ソウ",
+    "nameKana": "スロニーソウ",
+    "description": "映画監督・脚本家。『旨味の旅』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Slony Sow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jun-matsumoto",
+    "name": "松本淳",
+    "nameKana": "まつもとじゅん",
+    "description": "映画監督。『僕が愛したすべての君へ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jun Matsumoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-guay",
+    "name": "ポール・ゲイ",
+    "nameKana": "ポールゲイ",
+    "description": "脚本家。『ライアー ライアー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul Guay。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-mazur",
+    "name": "スティーヴン・メイザー",
+    "nameKana": "スティーヴンメイザー",
+    "description": "脚本家。『ライアー ライアー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Mazur。",
+    "updatedAt": "2026-08-09"
   }
 ]
