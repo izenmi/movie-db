@@ -89123,5 +89123,1870 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "Butch Cassidy and the Sundance Kid"
+  },
+  {
+    "id": "escape-from-alcatraz",
+    "title": "アルカトラズからの脱出",
+    "titleKana": "あるかとらずからのだっしゅつ",
+    "directorIds": [
+      "don-siegel"
+    ],
+    "screenwriterIds": [
+      "richard-tuggle"
+    ],
+    "studioIds": [
+      "paramount",
+      "malpaso-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "clint-eastwood",
+        "character": "フランク・モリス"
+      },
+      {
+        "actorId": "patrick-mcgoohan",
+        "character": "所長"
+      },
+      {
+        "actorId": "roberts-blossom",
+        "character": "ドク"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "prison",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1979,
+      "month": 12
+    },
+    "runtime": 113,
+    "originalType": "novel",
+    "synopsis": "脱獄不可能とされるアルカトラズ島の刑務所に、フランク・モリスが送られる。所長の徹底した管理下で、彼は壁の劣化に目をつける。スプーンを削り、頭部の模型を作りながら、彼らは何か月もかけて準備を進める。実際に起きた脱獄事件をもとにした作品にあたる。台詞を抑え、作業の積み重ねだけで緊張を作る構成をとる。",
+    "tmdbId": 10734,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Escape from Alcatraz"
+  },
+  {
+    "id": "drunken-master",
+    "title": "ドランク・モンキー 酔拳",
+    "titleKana": "どらんくもんきーすいけん",
+    "directorIds": [
+      "yuen-woo-ping"
+    ],
+    "screenwriterIds": [
+      "hsiao-lung",
+      "ng-see-yuen"
+    ],
+    "studioIds": [
+      "seasonal-film-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "jackie-chan",
+        "character": "ウォン・フェイフォン"
+      },
+      {
+        "actorId": "simon-yuen-siu-tien",
+        "character": "蘇化子"
+      },
+      {
+        "actorId": "hwang-jang-lee",
+        "character": "閻鉄心"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "martial-arts"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1979,
+      "month": 7
+    },
+    "runtime": 111,
+    "originalType": "original",
+    "synopsis": "素行の悪い若者ウォン・フェイフォンが、父の命で厳しい師のもとへ預けられる。逃げ出しても連れ戻され、彼は酔八仙拳の修行を積んでいく。町を荒らす殺し屋との対決が、彼の腕を試すことになる。ジャッキー・チェンの出世作にあたる作品となっている。独特の型を用いた戦いと、笑いを織り込んだ立ち回りが持ち味となる。",
+    "tmdbId": 11230,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "醉拳"
+  },
+  {
+    "id": "ghost-in-the-shell-stand-alone-complex-solid-state",
+    "title": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
+    "titleKana": "こうかくきどうたいすたんどあろーんこんぷれっくすそりっどすてーとそさえてぃ",
+    "directorIds": [
+      "kenji-kamiyama"
+    ],
+    "screenwriterIds": [
+      "taiki-sakurai"
+    ],
+    "studioIds": [
+      "production-i-g",
+      "bandai-visual"
+    ],
+    "cast": [
+      {
+        "actorId": "atsuko-tanaka",
+        "character": "草薙素子"
+      },
+      {
+        "actorId": "osamu-saka",
+        "character": "荒巻大輔"
+      },
+      {
+        "actorId": "koichi-yamadera",
+        "character": "トグサ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "crime",
+      "sf",
+      "ai"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 3
+    },
+    "runtime": 109,
+    "originalType": "manga",
+    "synopsis": "素子が去って二年、規模を拡大した公安九課が連続自殺事件を追う。事件の中心には、傀儡廻と呼ばれる正体不明の存在がいた。高齢化と児童福祉の制度が、事件の背景に絡んでいた。テレビシリーズの後日譚として作られた作品にあたる。社会制度を主題に据えた点が、この作品の特色となっている。テレビシリーズを締めくくる位置づけにあたる。",
+    "tmdbId": 18874,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "ghost-in-the-shell-sac"
+  },
+  {
+    "id": "the-king-of-kings",
+    "title": "キング・オブ・キングス",
+    "titleKana": "きんぐおぶきんぐす",
+    "directorIds": [
+      "jang-seong-ho"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "mofac",
+      "giantstep"
+    ],
+    "cast": [
+      {
+        "actorId": "oscar-isaac",
+        "character": "イエス・キリスト"
+      },
+      {
+        "actorId": "kenneth-branagh",
+        "character": "チャールズ・ディケンズ"
+      },
+      {
+        "actorId": "uma-thurman",
+        "character": "キャサリン・ディケンズ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "fantasy",
+      "history"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2026,
+      "month": 3
+    },
+    "runtime": 102,
+    "originalType": "novel",
+    "synopsis": "作家チャールズ・ディケンズが、末息子との関係をこじらせてしまう。妻の助言を受けた彼は、我が子のために書いた物語を語り聞かせる。それは救世主の生涯を辿る物語だった。ディケンズの著作をもとに、韓国の制作陣が作った長編アニメにあたる。親子の物語と聖書の物語を二重に語る構成をとっている。",
+    "tmdbId": 1181107,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The King of Kings"
+  },
+  {
+    "id": "l-dk-two-loves-under-one-roof",
+    "title": "L DK ひとつ屋根の下、「スキ」がふたつ。",
+    "titleKana": "えるでぃーけーひとつやねのしたすきがふたつ",
+    "directorIds": [
+      "taisuke-kawamura"
+    ],
+    "screenwriterIds": [
+      "michiru-egashira"
+    ],
+    "studioIds": [
+      "victory-ii"
+    ],
+    "cast": [
+      {
+        "actorId": "mone-kamishiraishi",
+        "character": "西森葵"
+      },
+      {
+        "actorId": "yosuke-sugino",
+        "character": "久我山柊聖"
+      },
+      {
+        "actorId": "ryusei-yokohama",
+        "character": "久我山礼恩"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "school",
+      "comedy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 3
+    },
+    "runtime": 107,
+    "originalType": "manga",
+    "synopsis": "事情から同居することになった高校生の葵と、学校一の人気者である柊聖。秘密の関係を続ける二人のもとに、柊聖の従兄弟がアメリカから現れる。三人での共同生活が、関係を揺さぶりはじめる。人気漫画を実写化した作品にあたる。上白石萌音が主演を務め、原作の設定を踏襲した作品にあたる。三角関係の描写が軸となっている。",
+    "tmdbId": 578672,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "good-morning",
+    "title": "お早よう",
+    "titleKana": "おはよう",
+    "directorIds": [
+      "yasujiro-ozu"
+    ],
+    "screenwriterIds": [
+      "kogo-noda"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "keiji-sada",
+        "character": "福井平一郎"
+      },
+      {
+        "actorId": "yoshiko-kuga",
+        "character": "有田節子"
+      },
+      {
+        "actorId": "chishu-ryu",
+        "character": "林敬太郎"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "human-drama",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1959,
+      "month": 5
+    },
+    "runtime": 94,
+    "originalType": "original",
+    "synopsis": "郊外の住宅地で、テレビをねだる兄弟が両親に断られる。抗議として彼らは口をきかないと決め、家じゅうを困らせる。近所の主婦たちの噂話や、大人の他愛ない挨拶が並行して描かれる。小津安二郎監督が挨拶の意味を軽妙に扱った作品にあたる。下品な笑いも交えつつ、無駄な言葉の効用を静かに肯定している。",
+    "tmdbId": 28276,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "to-catch-a-thief",
+    "title": "泥棒成金",
+    "titleKana": "どろぼうなりきん",
+    "directorIds": [
+      "alfred-hitchcock"
+    ],
+    "screenwriterIds": [
+      "john-michael-hayes"
+    ],
+    "studioIds": [
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "cary-grant",
+        "character": "ジョン・ロビー"
+      },
+      {
+        "actorId": "grace-kelly",
+        "character": "フランシス・スティーヴンス"
+      },
+      {
+        "actorId": "jessie-royce-landis",
+        "character": "ジェシー・スティーヴンス"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "romance",
+      "suspense",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1955,
+      "month": 10
+    },
+    "runtime": 106,
+    "originalType": "novel",
+    "synopsis": "引退した宝石泥棒ロビーが、自分の手口を真似た犯行の濡れ衣を着せられる。潔白を証明するため、彼は次に狙われそうな金持ちに接近する。米国人の令嬢フランシスが、彼に強い関心を寄せてくる。南仏を舞台にした洒脱な作りで愛されている作品にあたる。南仏の景観と衣装の華やかさが、この作品の魅力となっている。",
+    "tmdbId": 381,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "To Catch a Thief"
+  },
+  {
+    "id": "ranma-1-2-the-movie-big-trouble-in-nekonron-china",
+    "title": "らんま1/2 中国寝崑崙大決戦!",
+    "titleKana": "らんまにぶんのいちちゅうごくねこんろんだいけっせん",
+    "directorIds": [
+      "shuuji-iuchi"
+    ],
+    "screenwriterIds": [
+      "ryota-yamaguchi"
+    ],
+    "studioIds": [
+      "studio-deen",
+      "kitty-films"
+    ],
+    "cast": [
+      {
+        "actorId": "kappei-yamaguchi",
+        "character": "早乙女乱馬"
+      },
+      {
+        "actorId": "megumi-hayashibara",
+        "character": "早乙女乱馬(女)"
+      },
+      {
+        "actorId": "noriko-hidaka",
+        "character": "天道あかね"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "action",
+      "romance",
+      "adventure"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1991,
+      "month": 11
+    },
+    "runtime": 74,
+    "originalType": "manga",
+    "synopsis": "天道道場に現れた少女ライチが、嫁入りのため花嫁の証を探していた。手違いであかねがさらわれ、乱馬たちは寝崑崙へ向かう。行く手には、癖の強い八宝斎の弟子たちが待ち構えていた。人気漫画の劇場版第一作にあたる作品となっている。賑やかな戦いと軽快な演出が、テレビ版の空気をそのまま保っている。",
+    "tmdbId": 37024,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "らんま½ 劇場版 中国寝崑崙大決戦!掟やぶりの激闘篇!!"
+  },
+  {
+    "id": "mobile-suit-gundam-the-origin-ii-artesias-sorrow",
+    "title": "機動戦士ガンダム THE ORIGIN II 哀しみのアルテイシア",
+    "titleKana": "きどうせんしがんだむじおりじんにかなしみのあるていしあ",
+    "directorIds": [
+      "yoshikazu-yasuhiko",
+      "takashi-imanishi"
+    ],
+    "screenwriterIds": [
+      "katsuyuki-sumisawa"
+    ],
+    "studioIds": [
+      "sunrise"
+    ],
+    "cast": [
+      {
+        "actorId": "mayumi-tanaka",
+        "character": "幼少期のキャスバル"
+      },
+      {
+        "actorId": "shuichi-ikeda",
+        "character": "キャスバル・レム・ダイクン"
+      },
+      {
+        "actorId": "akeno-watanabe",
+        "character": "キシリア・ザビ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "robot",
+      "war",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 10
+    },
+    "runtime": 58,
+    "originalType": "manga",
+    "synopsis": "父ジオン・ズム・ダイクンを亡くしたキャスバルとアルテイシアが、地球で偽名を使って暮らしている。だがザビ家の追手が、二人の居場所に迫ってくる。母との別れが、幼い兄妹の道を決定的に分ける。全六話の連作の第二話にあたる。シャアが仮面をかぶるまでの経緯が、丁寧に描かれている。",
+    "tmdbId": 368708,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "gundam-the-origin"
+  },
+  {
+    "id": "stop-making-sense",
+    "title": "ストップ・メイキング・センス",
+    "titleKana": "すとっぷめいきんぐせんす",
+    "directorIds": [
+      "jonathan-demme"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "talking-heads-films",
+      "arnold-stiefel-company"
+    ],
+    "cast": [
+      {
+        "actorId": "david-byrne",
+        "character": "本人"
+      },
+      {
+        "actorId": "chris-frantz",
+        "character": "本人"
+      },
+      {
+        "actorId": "jerry-harrison",
+        "character": "本人"
+      }
+    ],
+    "themeIds": [
+      "documentary",
+      "music",
+      "dance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 8
+    },
+    "runtime": 88,
+    "originalType": "other",
+    "synopsis": "トーキング・ヘッズのロサンゼルス公演を三夜にわたって撮影した記録映像。何もない舞台に演奏者が一人ずつ加わっていく構成で始まる。観客をほとんど映さず、演奏そのものに集中している。音楽映画の最高峰として繰り返し名を挙げられる作品にあたる。大きな背広を着て踊る場面が、映画史に残る名場面となっている。",
+    "tmdbId": 24128,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Stop Making Sense"
+  },
+  {
+    "id": "moana",
+    "title": "モアナと伝説の海",
+    "titleKana": "もあなとでんせつのうみ",
+    "directorIds": [
+      "ron-clements",
+      "john-musker"
+    ],
+    "screenwriterIds": [
+      "jared-bush"
+    ],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "auli-i-cravalho",
+        "character": "モアナ"
+      },
+      {
+        "actorId": "dwayne-johnson",
+        "character": "マウイ"
+      },
+      {
+        "actorId": "rachel-house",
+        "character": "タラおばあちゃん"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "family",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2017,
+      "month": 3
+    },
+    "runtime": 107,
+    "originalType": "original",
+    "synopsis": "島の外へ出ることを禁じられた少女モアナが、海に選ばれる。世界を蝕む闇を止めるため、彼女は半神マウイを探して大海へ漕ぎ出す。自惚れの強いマウイと衝突しながら、二人は失われた心を取り戻す旅に出る。太平洋の島々の文化を踏まえて作られた長編にあたる。海の映像表現と楽曲が、高く評価されている作品にあたる。",
+    "tmdbId": 277834,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Moana"
+  },
+  {
+    "id": "death-wish",
+    "title": "狼よさらば",
+    "titleKana": "おおかみよさらば",
+    "directorIds": [
+      "michael-winner"
+    ],
+    "screenwriterIds": [
+      "wendell-mayes"
+    ],
+    "studioIds": [
+      "landers-roberts-productions",
+      "the-de-laurentiis-company"
+    ],
+    "cast": [
+      {
+        "actorId": "charles-bronson",
+        "character": "ポール・カージー"
+      },
+      {
+        "actorId": "hope-lange",
+        "character": "ジョアンナ・カージー"
+      },
+      {
+        "actorId": "vincent-gardenia",
+        "character": "フランク・オチョア"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "action",
+      "revenge",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1974,
+      "month": 7
+    },
+    "runtime": 93,
+    "originalType": "novel",
+    "synopsis": "技師のポールが、押し込み強盗によって妻を殺され娘を失う。警察が犯人を捕らえられないと知り、彼は自ら夜の街を歩きはじめる。襲ってくる者を撃つ彼の行為が、市民の間で議論を呼ぶ。私的制裁を扱った作品として当時大きな論争を招いた。シリーズ化されるほどの人気を得て、続編が四作作られている。",
+    "tmdbId": 13939,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Death Wish",
+    "seriesId": "death-wish-series"
+  },
+  {
+    "id": "sakuran",
+    "title": "さくらん",
+    "titleKana": "さくらん",
+    "directorIds": [
+      "mika-ninagawa"
+    ],
+    "screenwriterIds": [
+      "yuki-tanada"
+    ],
+    "studioIds": [
+      "asmik-ace",
+      "parco"
+    ],
+    "cast": [
+      {
+        "actorId": "anna-tsuchiya",
+        "character": "きよ葉"
+      },
+      {
+        "actorId": "kippei-shiina",
+        "character": "倉之助"
+      },
+      {
+        "actorId": "hiroki-narimiya",
+        "character": "惣次郎"
+      }
+    ],
+    "themeIds": [
+      "history",
+      "human-drama",
+      "romance"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 12
+    },
+    "runtime": 111,
+    "originalType": "manga",
+    "synopsis": "八歳で吉原に売られたきよ葉が、何度も脱走を試みながら育つ。気性の強さを見込まれた彼女は、やがて花魁として頂点に立つ。籠の中で自由を求め続ける彼女の前に、身請けの話が持ち上がる。極彩色の美術と衣装で知られる作品にあたる。蜷川実花監督の初長編にあたり、色彩設計が全編を支配している。",
+    "tmdbId": 20431,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "an-autumn-afternoon",
+    "title": "秋刀魚の味",
+    "titleKana": "さんまのあじ",
+    "directorIds": [
+      "yasujiro-ozu"
+    ],
+    "screenwriterIds": [
+      "kogo-noda"
+    ],
+    "studioIds": [
+      "shochiku",
+      "shochiku-ofuna-film-studio"
+    ],
+    "cast": [
+      {
+        "actorId": "chishu-ryu",
+        "character": "平山周平"
+      },
+      {
+        "actorId": "shima-iwashita",
+        "character": "平山路子"
+      },
+      {
+        "actorId": "keiji-sada",
+        "character": "平山幸一"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1962,
+      "month": 11
+    },
+    "runtime": 113,
+    "originalType": "original",
+    "synopsis": "妻を亡くした平山が、娘と息子と三人で穏やかに暮らしている。友人たちに勧められ、彼は娘の縁談を考えはじめる。旧友の落ちぶれた姿と、その娘の境遇が彼の背を押す。小津安二郎監督の遺作にあたる作品となっている。家族が離れていくことを静かに受け入れる姿勢が全編を貫いている。晩年の代表作として評価が高い。",
+    "tmdbId": 50759,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-many-adventures-of-winnie-the-pooh",
+    "title": "くまのプーさん 完全保存版",
+    "titleKana": "くまのぷーさんかんぜんほぞんばん",
+    "directorIds": [
+      "john-lounsbery",
+      "wolfgang-reitherman"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "walt-disney-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "sterling-holloway",
+        "character": "プーさん"
+      },
+      {
+        "actorId": "john-fiedler",
+        "character": "ピグレット"
+      },
+      {
+        "actorId": "junius-matthews",
+        "character": "ラビット"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 1977,
+      "month": 7
+    },
+    "runtime": 74,
+    "originalType": "novel",
+    "synopsis": "百エーカーの森で、蜂蜜好きの熊プーさんと仲間たちが日々を過ごしている。木に詰まったり、大風に飛ばされたり、洪水に見舞われたりと騒動が続く。絵本のページをめくる形式で、三本の短編が繋がれている。長く親しまれてきた原作の映像化にあたる。穏やかな語り口と手描きの質感で、世代を越えて愛されている。",
+    "tmdbId": 250480,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Many Adventures of Winnie the Pooh"
+  },
+  {
+    "id": "loves-whirlpool",
+    "title": "愛の渦",
+    "titleKana": "あいのうず",
+    "directorIds": [
+      "daisuke-miura"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "the-klockworx",
+      "toei-video-company"
+    ],
+    "cast": [
+      {
+        "actorId": "sosuke-ikematsu",
+        "character": "加藤勇"
+      },
+      {
+        "actorId": "mugi-kadowaki",
+        "character": "鈴木里美"
+      },
+      {
+        "actorId": "kenichi-takitoh",
+        "character": "サラリーマン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 3
+    },
+    "runtime": 123,
+    "originalType": "other",
+    "synopsis": "会員制の秘密クラブに、素性の異なる男女が集まる一夜を描く。ニートや会社員、学生たちが、匿名のまま互いを値踏みしていく。夜が明けるにつれ、それぞれの生活と本音が滲み出てくる。三浦大輔が自作の舞台を自ら映画化した作品にあたる。匿名の関係のなかに現れる階層意識を、冷静に観察している。",
+    "tmdbId": 279185,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "one-piece-stampede",
+    "title": "ONE PIECE STAMPEDE",
+    "titleKana": "わんぴーすすたんぴーど",
+    "directorIds": [
+      "takashi-otsuka"
+    ],
+    "screenwriterIds": [
+      "atsuhiro-tomioka"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "mayumi-tanaka",
+        "character": "モンキー・D・ルフィ"
+      },
+      {
+        "actorId": "kazuya-nakai",
+        "character": "ロロノア・ゾロ"
+      },
+      {
+        "actorId": "akemi-okamura",
+        "character": "ナミ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "fantasy",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 8
+    },
+    "runtime": 101,
+    "originalType": "manga",
+    "synopsis": "海賊たちの万博に招かれた麦わらの一味が、宝探しの競争に参加する。だが主催者の狙いは、海賊王の遺した財宝を餌にした別の計画だった。歴代の敵味方が入り乱れる大混戦になる。原作二十周年を記念して作られた劇場版にあたる。歴代の人物が総登場する構成で、シリーズ最大の興行成績を記録した。",
+    "tmdbId": 568012,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "one-piece"
+  },
+  {
+    "id": "ennio",
+    "title": "モリコーネ 映画が恋した音楽家",
+    "titleKana": "もりこーねえいががこいしたおんがくか",
+    "directorIds": [
+      "giuseppe-tornatore"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "potemkino",
+      "piano-b"
+    ],
+    "cast": [
+      {
+        "actorId": "ennio-morricone",
+        "character": "本人"
+      },
+      {
+        "actorId": "silvano-agosti",
+        "character": "本人"
+      },
+      {
+        "actorId": "alessandro-alessandroni",
+        "character": "本人"
+      }
+    ],
+    "themeIds": [
+      "documentary",
+      "music",
+      "history",
+      "biography"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 2
+    },
+    "runtime": 156,
+    "originalType": "other",
+    "synopsis": "映画音楽の巨匠エンニオ・モリコーネ本人への長い聞き取りを軸にした記録映像。彼が下積み時代に感じていた葛藤と、五百本を超える仕事の軌跡が語られる。関わった監督や音楽家たちの証言も次々と挟まれる。ジュゼッペ・トルナトーレが長年かけて完成させた作品にあたる。証言と楽曲を交互に配し、長い上映時間を飽きさせない構成をとる。",
+    "tmdbId": 396194,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Ennio"
+  },
+  {
+    "id": "miracle-in-cell-no-7",
+    "title": "7番房の奇跡",
+    "titleKana": "ななばんぼうのきせき",
+    "directorIds": [
+      "mehmet-ada-oztekin"
+    ],
+    "screenwriterIds": [
+      "kubilay-tat"
+    ],
+    "studioIds": [
+      "lanistar-media",
+      "motion-content-group"
+    ],
+    "cast": [
+      {
+        "actorId": "aras-bulut-iynemli",
+        "character": "メモ"
+      },
+      {
+        "actorId": "nisa-sofiya-aksongur",
+        "character": "オヴァ"
+      },
+      {
+        "actorId": "ilker-aksum",
+        "character": "アシュコロズル"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "prison",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 10
+    },
+    "runtime": 132,
+    "originalType": "other",
+    "synopsis": "知的障害のある父メモが、身に覚えのない罪で死刑判決を受ける。同房の囚人たちは、彼の無実を信じて娘を密かに房へ招き入れる。看守や所長までが、少しずつ彼の側に立ちはじめる。韓国映画をトルコで作り直した作品にあたる。原作より情感を強めた演出で、大きな反響を呼んだ作品にあたる。",
+    "tmdbId": 637920,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "7. Koğuştaki Mucize"
+  },
+  {
+    "id": "the-silence-of-the-lambs",
+    "title": "羊たちの沈黙",
+    "titleKana": "ひつじたちのちんもく",
+    "directorIds": [
+      "jonathan-demme"
+    ],
+    "screenwriterIds": [
+      "ted-tally"
+    ],
+    "studioIds": [
+      "orion-pictures",
+      "strong-heart"
+    ],
+    "cast": [
+      {
+        "actorId": "jodie-foster",
+        "character": "クラリス・スターリング"
+      },
+      {
+        "actorId": "anthony-hopkins",
+        "character": "ハンニバル・レクター"
+      },
+      {
+        "actorId": "scott-glenn",
+        "character": "ジャック・クロフォード"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "suspense",
+      "human-drama",
+      "serial-killer"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1991,
+      "month": 6
+    },
+    "runtime": 118,
+    "originalType": "novel",
+    "synopsis": "連続殺人犯を追うため、FBI訓練生クラリスが収監中の精神科医レクターに助言を求める。人を喰らう天才は、彼女の過去と引き換えに手がかりを与える。面会を重ねるうち、事件と彼女自身の傷が絡み合っていく。アカデミー賞の主要五部門を独占した作品にあたる。レクターの登場時間は短いが、強烈な印象を残している。",
+    "tmdbId": 274,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Silence of the Lambs"
+  },
+  {
+    "id": "suicide-club",
+    "title": "自殺サークル",
+    "titleKana": "じさつさーくる",
+    "directorIds": [
+      "sion-sono"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "omega-project"
+    ],
+    "cast": [
+      {
+        "actorId": "masatoshi-nagase",
+        "character": "渋沢刑事"
+      },
+      {
+        "actorId": "ryo-ishibashi",
+        "character": "黒田刑事"
+      },
+      {
+        "actorId": "sayako-hagiwara",
+        "character": "ミツコ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "horror",
+      "suspense",
+      "mystery",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 10
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "新宿の駅で、五十四人の女子高生が手をつないだまま線路へ飛び込む。同種の集団自殺が各地で連鎖し、警察は事件性を掴めずにいる。現場に残される皮膚を縫い合わせた巻物が、唯一の手がかりとなる。園子温監督の名を広めた作品にあたる。説明を拒む構成と過激な描写で、公開当時に議論を呼んだ。",
+    "tmdbId": 12720,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doraemon-nobita-and-the-haunts-of-evil",
+    "title": "映画ドラえもん のび太の大魔境",
+    "titleKana": "えいがどらえもんのびたのだいまきょう",
+    "directorIds": [
+      "hideo-nishimaki"
+    ],
+    "screenwriterIds": [
+      "fujiko-f-fujio"
+    ],
+    "studioIds": [
+      "shin-ei-animation",
+      "shogakukan"
+    ],
+    "cast": [
+      {
+        "actorId": "nobuyo-oyama",
+        "character": "ドラえもん"
+      },
+      {
+        "actorId": "noriko-ohara",
+        "character": "野比のび太"
+      },
+      {
+        "actorId": "michiko-nomura",
+        "character": "源静香"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "fantasy",
+      "sf",
+      "animal"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1982,
+      "month": 3
+    },
+    "runtime": 91,
+    "originalType": "manga",
+    "synopsis": "拾った野良犬に導かれ、のび太たちはアフリカ奥地の秘境を目指す。たどり着いたのは、犬たちが築いた王国バウワンコだった。道具をほとんど失った状態で、彼らは王国の危機に立ち向かう。大長編シリーズの第三作にあたる作品となっている。道具に頼れない状況での冒険が、シリーズでも高く評価されている。",
+    "tmdbId": 184004,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "doraemon"
+  },
+  {
+    "id": "ultraman-geed-the-movie-connect-the-wishes",
+    "title": "劇場版 ウルトラマンジード つなぐぜ! 願い!!",
+    "titleKana": "げきじょうばんうるとらまんじーどつなぐぜねがい",
+    "directorIds": [
+      "koichi-sakamoto"
+    ],
+    "screenwriterIds": [
+      "toshizo-nemoto",
+      "otsuichi"
+    ],
+    "studioIds": [
+      "tsuburaya-productions",
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "tatsuomi-hamada",
+        "character": "朝倉リク"
+      },
+      {
+        "actorId": "chihiro-yamamoto",
+        "character": "鳥羽ライハ"
+      },
+      {
+        "actorId": "shintaro-asanuma",
+        "character": "ゼナ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "hero"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 3
+    },
+    "runtime": 72,
+    "originalType": "other",
+    "synopsis": "全宇宙の知的生命体を消し去ろうとする人工頭脳ギルバリスが現れる。光の力さえ跳ね返す相手に、ウルトラマンジードが立ち向かう。オーブやジャグラーも加わり、地球のデータ化を阻止しようとする。テレビシリーズの続きにあたる劇場版となっている。歴代の戦士が共演する構成が、この作品の見どころとなっている。",
+    "tmdbId": 545582,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "transformers",
+    "title": "トランスフォーマー",
+    "titleKana": "とらんすふぉーまー",
+    "directorIds": [
+      "michael-bay"
+    ],
+    "screenwriterIds": [
+      "alex-kurtzman",
+      "roberto-orci"
+    ],
+    "studioIds": [
+      "dreamworks-pictures",
+      "di-bonaventura-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "shia-labeouf",
+        "character": "サム・ウィトウィッキー"
+      },
+      {
+        "actorId": "megan-fox",
+        "character": "ミカエラ・ベインズ"
+      },
+      {
+        "actorId": "mark-ryan",
+        "character": "バンブルビー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "sf",
+      "action",
+      "robot",
+      "alien"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 7
+    },
+    "runtime": 144,
+    "originalType": "other",
+    "synopsis": "高校生サムが、初めて買った中古車が意思を持つ機械生命体だと知る。祖父の遺品が、二つの陣営が争う立方体の在処を示していた。地球を舞台に、オートボットとディセプティコンの戦いが始まる。実写映画シリーズの第一作にあたる。変形の描写に多くの手間がかけられ、以後の連作の起点となった。",
+    "tmdbId": 1858,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Transformers",
+    "seriesId": "transformers"
+  },
+  {
+    "id": "everybodys-everything",
+    "title": "リル・ピープ Everybody's Everything",
+    "titleKana": "りるぴーぷえぶりばでぃずえぶりしんぐ",
+    "directorIds": [
+      "ramez-silyan",
+      "sebastian-jones"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "first-access-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "lil-peep",
+        "character": "本人"
+      },
+      {
+        "actorId": "lil-tracy",
+        "character": "本人"
+      },
+      {
+        "actorId": "ghostemane",
+        "character": "本人"
+      }
+    ],
+    "themeIds": [
+      "documentary",
+      "music",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 11
+    },
+    "runtime": 115,
+    "originalType": "other",
+    "synopsis": "二十一歳で亡くなったラッパー、リル・ピープの短い生涯を追った記録映像。私的な映像や関係者の証言から、彼の人柄と孤独が浮かび上がる。祖父が彼に送った手紙が、全編を貫く語りとなる。急速な成功と依存の関係を描いた作品にあたる。若い表現者を取り巻く環境そのものを問う内容となっている。",
+    "tmdbId": 576712,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Everybody’s Everything"
+  },
+  {
+    "id": "my-tomorrow-your-yesterday",
+    "title": "ぼくは明日、昨日のきみとデートする",
+    "titleKana": "ぼくはあしたきのうのきみとでーとする",
+    "directorIds": [
+      "takahiro-miki"
+    ],
+    "screenwriterIds": [
+      "tomoko-yoshida"
+    ],
+    "studioIds": [
+      "toho",
+      "toho-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "sota-fukushi",
+        "character": "南山高寿"
+      },
+      {
+        "actorId": "nana-komatsu",
+        "character": "福寿愛美"
+      },
+      {
+        "actorId": "masahiro-higashide",
+        "character": "上山正一"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "time-travel"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 12
+    },
+    "runtime": 111,
+    "originalType": "novel",
+    "synopsis": "京都の美大生高寿が、電車で見かけた女性愛美に一目惚れする。交際が始まるが、彼女はときおり理由もなく涙をこぼす。二人の時間の流れには、決定的な違いがあった。設定の仕掛けが明かされる構成で人気を得た作品にあたる。福士蒼汰と小松菜奈の共演で、若い観客に広く支持された。",
+    "tmdbId": 428099,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "el-dorado",
+    "title": "エル・ドラド",
+    "titleKana": "えるどらど",
+    "directorIds": [
+      "howard-hawks"
+    ],
+    "screenwriterIds": [
+      "leigh-brackett"
+    ],
+    "studioIds": [
+      "paramount",
+      "laurel-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "john-wayne",
+        "character": "コール・ソーントン"
+      },
+      {
+        "actorId": "robert-mitchum",
+        "character": "ハラー保安官"
+      },
+      {
+        "actorId": "james-caan",
+        "character": "ミシシッピ"
+      }
+    ],
+    "themeIds": [
+      "western",
+      "human-drama",
+      "friendship",
+      "action"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1966,
+      "month": 12
+    },
+    "runtime": 126,
+    "originalType": "novel",
+    "synopsis": "凄腕のガンマン、コール・ソーントンが旧友の保安官を訪ねる。酒に溺れて使い物にならなくなっていた友を、彼は立て直そうとする。土地と水利をめぐる争いが、町を二分していた。同じ監督の前作と対をなす西部劇にあたる。軽妙な会話と人物の関係が、この作品の持ち味となっている。ジョン・ウェインの代表作の一本にあたる。",
+    "tmdbId": 6644,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "El Dorado"
+  },
+  {
+    "id": "assassination-classroom-the-movie-365-days-time",
+    "title": "劇場版 暗殺教室 365日の時間",
+    "titleKana": "げきじょうばんあんさつきょうしつさんびゃくろくじゅうごにちのじかん",
+    "directorIds": [
+      "seiji-kishi"
+    ],
+    "screenwriterIds": [
+      "makoto-uezu"
+    ],
+    "studioIds": [
+      "lerche"
+    ],
+    "cast": [
+      {
+        "actorId": "jun-fukuyama",
+        "character": "殺せんせー"
+      },
+      {
+        "actorId": "mai-fuchigami",
+        "character": "潮田渚"
+      },
+      {
+        "actorId": "nobuhiko-okamoto",
+        "character": "赤羽業"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "human-drama",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 11
+    },
+    "runtime": 92,
+    "originalType": "manga",
+    "synopsis": "卒業から七年後、かつてのE組の生徒たちが同窓会に集まる。殺せんせーと過ごした一年が、それぞれの記憶として語り直される。新規の場面を加え、彼らの現在も描かれる。テレビシリーズを再構成した総集編にあたる。卒業後を描く新規の場面が、この作品の見どころとなっている。テレビ二期の締めくくりにあたる。",
+    "tmdbId": 431808,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "laplaces-witch",
+    "title": "ラプラスの魔女",
+    "titleKana": "らぷらすのまじょ",
+    "directorIds": [
+      "takashi-miike"
+    ],
+    "screenwriterIds": [
+      "hiroyuki-yatsu"
+    ],
+    "studioIds": [
+      "toho",
+      "olm"
+    ],
+    "cast": [
+      {
+        "actorId": "sho-sakurai",
+        "character": "青江修介"
+      },
+      {
+        "actorId": "suzu-hirose",
+        "character": "羽原円華"
+      },
+      {
+        "actorId": "sota-fukushi",
+        "character": "甘粕謙人"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "crime",
+      "sf"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 5
+    },
+    "runtime": 115,
+    "originalType": "novel",
+    "synopsis": "離れた場所で、同じ自然現象による中毒死が続けて起きる。地球化学の教授青江は、警察に協力して現地を調べる。そこで出会った少女は、風の流れを完全に予測できるという。東野圭吾の小説を三池崇史監督が映画化した作品にあたる。科学的な設定と情感の組み合わせが、この作品の骨格となっている。",
+    "tmdbId": 489891,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "initial-d-legend-3-dream",
+    "title": "新劇場版「頭文字D」Legend3 夢現",
+    "titleKana": "しんげきじょうばんいにしゃるでぃーれじぇんどすりーむげん",
+    "directorIds": [
+      "masamitsu-hidaka"
+    ],
+    "screenwriterIds": [
+      "mayori-sekijima"
+    ],
+    "studioIds": [
+      "sanzigen",
+      "lidenfilms"
+    ],
+    "cast": [
+      {
+        "actorId": "mamoru-miyano",
+        "character": "藤原拓海"
+      },
+      {
+        "actorId": "yuichi-nakamura",
+        "character": "高橋啓介"
+      },
+      {
+        "actorId": "daisuke-ono",
+        "character": "高橋涼介"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "racing",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 2
+    },
+    "runtime": 61,
+    "originalType": "manga",
+    "synopsis": "赤城最速の高橋涼介との対決を前に、拓海は自分の変化に気づきはじめる。走ることに興味がなかったはずの彼が、勝ちたいと思うようになっていた。父文太の言葉が、その理由を照らし出す。三部作の完結編にあたる作品となっている。峠での長い勝負が、この作品の中心を占めている。三次元での作画が刷新されている。",
+    "tmdbId": 372758,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "initial-d"
+  },
+  {
+    "id": "april-story",
+    "title": "四月物語",
+    "titleKana": "しがつものがたり",
+    "directorIds": [
+      "shunji-iwai"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "rockwell-eyes"
+    ],
+    "cast": [
+      {
+        "actorId": "takako-matsu",
+        "character": "楡野卯月"
+      },
+      {
+        "actorId": "seiichi-tanabe",
+        "character": "山崎"
+      },
+      {
+        "actorId": "kaori-fujii",
+        "character": "北尾照子"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "human-drama",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1998,
+      "month": 3
+    },
+    "runtime": 67,
+    "originalType": "original",
+    "synopsis": "北海道から上京した卯月が、武蔵野の大学で一人暮らしを始める。慣れない土地での出会いに戸惑いながら、日々が過ぎていく。だが彼女が東京を選んだ理由は、別のところにあった。六十七分の小品として作られた岩井俊二監督作にあたる。淡い光と控えめな台詞で、季節そのものを描いたような作りとなっている。",
+    "tmdbId": 72933,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jumanji",
+    "title": "ジュマンジ",
+    "titleKana": "じゅまんじ",
+    "directorIds": [
+      "joe-johnston"
+    ],
+    "screenwriterIds": [
+      "jim-strain",
+      "jonathan-hensleigh"
+    ],
+    "studioIds": [
+      "tristar-pictures",
+      "interscope-communications"
+    ],
+    "cast": [
+      {
+        "actorId": "robin-williams",
+        "character": "アラン・パリッシュ"
+      },
+      {
+        "actorId": "kirsten-dunst",
+        "character": "ジュディ"
+      },
+      {
+        "actorId": "bradley-pierce",
+        "character": "ピーター"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1996,
+      "month": 3
+    },
+    "runtime": 104,
+    "originalType": "novel",
+    "synopsis": "少年アランが友人と始めたゲームの指示が、そのまま現実になる。彼はゲームの中に吸い込まれ、二十六年後に子どもたちの手で解放される。だが盤上の獣たちも一斉に町へ放たれてしまう。当時の視覚効果を全面に押し出した作品にあたる。ロビン・ウィリアムズの演技と、獣の映像表現で記憶されている。",
+    "tmdbId": 8844,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Jumanji",
+    "seriesId": "jumanji"
+  },
+  {
+    "id": "beyond-outrage",
+    "title": "アウトレイジ ビヨンド",
+    "titleKana": "あうとれいじびよんど",
+    "directorIds": [
+      "takeshi-kitano"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "bandai-visual",
+      "tv-tokyo"
+    ],
+    "cast": [
+      {
+        "actorId": "takeshi-kitano",
+        "character": "大友"
+      },
+      {
+        "actorId": "ryo-kase",
+        "character": "石原"
+      },
+      {
+        "actorId": "toshiyuki-nishida",
+        "character": "西野"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 10
+    },
+    "runtime": 112,
+    "originalType": "original",
+    "synopsis": "関東を制した組織を潰すため、刑事の片岡が関西の組織との対立を煽る。刑務所を出た大友が、その策略に組み込まれていく。裏切りと報復が、際限なく連鎖していく。北野武監督によるシリーズ第二作にあたる。派手さより駆け引きに重心を置いた構成となっている。会話の応酬が全編を支えている。前作から五年後を描いた作品にあたる。",
+    "tmdbId": 121828,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "outrage"
+  },
+  {
+    "id": "human-lost",
+    "title": "HUMAN LOST 人間失格",
+    "titleKana": "ひゅーまんろすとにんげんしっかく",
+    "directorIds": [
+      "fuminori-kizaki"
+    ],
+    "screenwriterIds": [
+      "tow-ubukata"
+    ],
+    "studioIds": [
+      "polygon-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "mamoru-miyano",
+        "character": "大庭葉蔵"
+      },
+      {
+        "actorId": "kana-hanazawa",
+        "character": "柊美子"
+      },
+      {
+        "actorId": "takahiro-sakurai",
+        "character": "堀木正雄"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2019,
+      "month": 11
+    },
+    "runtime": 110,
+    "originalType": "novel",
+    "synopsis": "医療技術が寿命と健康を保証する昭和百十一年の東京。体内の機械と網が管理する体制の外で、人が異形へ変異する現象が起きる。大庭葉蔵は、その変異と向き合う存在となる。太宰治の小説を近未来に翻案した長編アニメにあたる。三次元の作画と重厚な美術が、この作品の特色となっている。",
+    "tmdbId": 593240,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "battle-angel",
+    "title": "銃夢 GUNNM",
+    "titleKana": "がんむ",
+    "directorIds": [
+      "hiroshi-fukutomi"
+    ],
+    "screenwriterIds": [
+      "akinori-endo"
+    ],
+    "studioIds": [
+      "kss",
+      "atelier-bwca"
+    ],
+    "cast": [
+      {
+        "actorId": "miki-ito",
+        "character": "ガリィ"
+      },
+      {
+        "actorId": "shunsuke-kariya",
+        "character": "イド・ダイスケ"
+      },
+      {
+        "actorId": "kappei-yamaguchi",
+        "character": "ユウゴ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "robot"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1993,
+      "month": 6
+    },
+    "runtime": 54,
+    "originalType": "manga",
+    "synopsis": "空中都市の下に広がる屑鉄町で、医師イドが少女の頭部を拾い再生させる。記憶を失った彼女ガリィは、戦闘用の身体を持っていた。少年ユウゴとの出会いが、彼女に生きる意味を問わせる。木城ゆきとの漫画を映像化した中編作品にあたる。短い尺ながら、原作の世界観を凝縮して映像化している。後にハリウッドでも実写化された。",
+    "tmdbId": 17189,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "銃夢"
+  },
+  {
+    "id": "the-forest-of-love",
+    "title": "愛なき森で叫べ",
+    "titleKana": "あいなきもりでさけべ",
+    "directorIds": [
+      "sion-sono"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "tkd"
+    ],
+    "cast": [
+      {
+        "actorId": "kippei-shiina",
+        "character": "村田譲"
+      },
+      {
+        "actorId": "shinnosuke-mitsushima",
+        "character": "シン"
+      },
+      {
+        "actorId": "kyoko-hinami",
+        "character": "妙子"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "suspense",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 10
+    },
+    "runtime": 151,
+    "originalType": "original",
+    "synopsis": "自称映画監督の若者たちが、詐欺師の村田と出会う。彼は言葉巧みに人の心へ入り込み、家族ごと支配していく。撮影と称した行為が、取り返しのつかない事態を招く。園子温監督が実際の事件に着想を得た配信作品にあたる。言葉で人が支配されていく過程を、長い時間をかけて描いている。",
+    "tmdbId": 631997,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-phantom-of-the-opera-at-the-royal-albert-hall",
+    "title": "オペラ座の怪人 25周年記念公演 in ロンドン",
+    "titleKana": "おぺらざのかいじんにじゅうごしゅうねんきねんこうえん",
+    "directorIds": [
+      "laurence-connor",
+      "nick-morris"
+    ],
+    "screenwriterIds": [
+      "richard-stilgoe",
+      "andrew-lloyd-webber"
+    ],
+    "studioIds": [
+      "universal",
+      "the-really-useful-group"
+    ],
+    "cast": [
+      {
+        "actorId": "ramin-karimloo",
+        "character": "ファントム"
+      },
+      {
+        "actorId": "sierra-boggess",
+        "character": "クリスティーヌ・ダーエ"
+      },
+      {
+        "actorId": "hadley-fraser",
+        "character": "ラウル"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "human-drama",
+      "romance",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 9
+    },
+    "runtime": 160,
+    "originalType": "other",
+    "synopsis": "人気音楽劇の二十五周年を記念した、ロイヤル・アルバート・ホールでの公演を収録した作品。二百人を超える出演者と管弦楽団が、初演の演出を再現する。終演後には初代の出演者たちも登壇する。舞台の記録として広く親しまれている一本にあたる。舞台装置の規模と歌唱の水準が、この公演の見どころとなっている。",
+    "tmdbId": 76115,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Phantom of the Opera at the Royal Albert Hall"
+  },
+  {
+    "id": "a-page-of-madness",
+    "title": "狂った一頁",
+    "titleKana": "くるったいっぺーじ",
+    "directorIds": [
+      "teinosuke-kinugasa"
+    ],
+    "screenwriterIds": [
+      "yasunari-kawabata",
+      "minoru-inuzuka"
+    ],
+    "studioIds": [
+      "shin-kankaku-ha-eiga-renmei-productions",
+      "kinugasa-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "masao-inoue",
+        "character": "小使"
+      },
+      {
+        "actorId": "ayako-iijima",
+        "character": "娘"
+      },
+      {
+        "actorId": "yoshie-nakagawa",
+        "character": "小使の妻"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "human-drama",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1926,
+      "month": 9
+    },
+    "runtime": 59,
+    "originalType": "original",
+    "synopsis": "精神病院で下働きをする老人が、入院中の妻を見守り続けている。娘が結婚の報告に訪れ、父の姿を目にする。現実と幻覚の境目が曖昧なまま、映像だけで物語が進む。字幕を一切用いない前衛的な構成で知られる無声映画にあたる。長く失われたと思われていたが、監督の自宅で発見され復元された。",
+    "tmdbId": 94525,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "009-1-the-end-of-the-beginning",
+    "title": "009ノ1 THE END OF THE BEGINNING",
+    "titleKana": "ぜろぜろくのいちじえんどおぶざびぎにんぐ",
+    "directorIds": [
+      "koichi-sakamoto"
+    ],
+    "screenwriterIds": [
+      "keiichi-hasegawa"
+    ],
+    "studioIds": [
+      "ishimori-production",
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "mayuko-iwasa",
+        "character": "ミレーヌ・ホフマン"
+      },
+      {
+        "actorId": "minehiro-kinomoto",
+        "character": "クリス"
+      },
+      {
+        "actorId": "nao-nagasawa",
+        "character": "ミリアム"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "crime",
+      "human-drama",
+      "spy"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 9
+    },
+    "runtime": 85,
+    "originalType": "manga",
+    "synopsis": "東西に分断された近未来で、改造された女性諜報員ミレーヌが任務にあたる。失われた幼少期の記憶が、彼女の行動を縛っていた。組織の目的と自分の出自が、同じ場所で交わる。石ノ森章太郎の漫画を実写化した作品にあたる。アクション監督出身の演出による立ち回りが、見どころとなっている。",
+    "tmdbId": 259300,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "009ノ1（ゼロゼロクノイチ） THE END OF THE BEGINNING"
   }
 ]

@@ -24316,5 +24316,410 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takashi Tsukamoto。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "patrick-mcgoohan",
+    "name": "パトリック・マッグーハン",
+    "nameKana": "パトリックマッグーハン",
+    "description": "俳優。『アルカトラズからの脱出』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Patrick McGoohan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roberts-blossom",
+    "name": "ロバーツ・ブロッサム",
+    "nameKana": "ロバーツブロッサム",
+    "description": "俳優。『アルカトラズからの脱出』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roberts Blossom。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "simon-yuen-siu-tien",
+    "name": "ユエン・シウティエン",
+    "nameKana": "ユエンシウティエン",
+    "description": "俳優。『ドランク・モンキー／酔拳』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Simon Yuen Siu-Tien。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hwang-jang-lee",
+    "name": "ホァン・ジャンリー",
+    "nameKana": "ホァンジャンリー",
+    "description": "俳優。『ドランク・モンキー／酔拳』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hwang Jang-Lee。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yosuke-sugino",
+    "name": "杉野遥亮",
+    "nameKana": "すぎのようすけ",
+    "description": "俳優。『L♡DK ひとつ屋根の下、「スキ」がふたつ。』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yosuke Sugino。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiji-sada",
+    "name": "佐田啓二",
+    "nameKana": "さだけいじ",
+    "description": "俳優。『お早よう』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiji Sada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshiko-kuga",
+    "name": "久我美子",
+    "nameKana": "くがよしこ",
+    "description": "俳優。『お早よう』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshiko Kuga。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jessie-royce-landis",
+    "name": "ジェシー・ロイス・ランディス",
+    "nameKana": "ジェシーロイスランディス",
+    "description": "俳優。『泥棒成金』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jessie Royce Landis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akeno-watanabe",
+    "name": "渡辺明乃",
+    "nameKana": "わたなべあけの",
+    "description": "俳優。『機動戦士ガンダム THE ORIGIN II 哀しみのアルテイシア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akeno Watanabe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-byrne",
+    "name": "デヴィッド・バーン",
+    "nameKana": "デヴィッドバーン",
+    "description": "俳優。『ストップ・メイキング・センス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Byrne。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-frantz",
+    "name": "クリス・フランツ",
+    "nameKana": "クリスフランツ",
+    "description": "俳優。『ストップ・メイキング・センス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Frantz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jerry-harrison",
+    "name": "ジェリー・ハリソン",
+    "nameKana": "ジェリーハリソン",
+    "description": "俳優。『ストップ・メイキング・センス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jerry Harrison。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rachel-house",
+    "name": "レイチェル・ハウス",
+    "nameKana": "レイチェルハウス",
+    "description": "俳優。『モアナと伝説の海』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rachel House。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hope-lange",
+    "name": "ホープ・ラング",
+    "nameKana": "ホープラング",
+    "description": "俳優。『狼よさらば』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hope Lange。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vincent-gardenia",
+    "name": "ヴィンセント・ガーデニア",
+    "nameKana": "ヴィンセントガーデニア",
+    "description": "俳優。『狼よさらば』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vincent Gardenia。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mugi-kadowaki",
+    "name": "門脇麦",
+    "nameKana": "かどわきむぎ",
+    "description": "俳優。『愛の渦』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mugi Kadowaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kenichi-takitoh",
+    "name": "滝藤賢一",
+    "nameKana": "たきとうけんいち",
+    "description": "俳優。『愛の渦』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kenichi Takitoh。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ennio-morricone",
+    "name": "エンニオ・モリコーネ",
+    "nameKana": "エンニオモリコーネ",
+    "description": "俳優。『モリコーネ 映画が恋した音楽家』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ennio Morricone。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "silvano-agosti",
+    "name": "シルヴァーノ・アゴスティ",
+    "nameKana": "シルヴァーノアゴスティ",
+    "description": "俳優。『モリコーネ 映画が恋した音楽家』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Silvano Agosti。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alessandro-alessandroni",
+    "name": "アレッサンドロ・アレッサンドローニ",
+    "nameKana": "アレッサンドロアレッサンドローニ",
+    "description": "俳優。『モリコーネ 映画が恋した音楽家』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alessandro Alessandroni。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aras-bulut-iynemli",
+    "name": "アラス・ブルット・イネムリ",
+    "nameKana": "アラスブルットイネムリ",
+    "description": "俳優。『7番房の奇跡』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aras Bulut İynemli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nisa-sofiya-aksongur",
+    "name": "ニサ・ソフィヤ・アクソンギュル",
+    "nameKana": "ニサソフィヤアクソンギュル",
+    "description": "俳優。『7番房の奇跡』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nisa Sofiya Aksongur。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ilker-aksum",
+    "name": "イルケル・アクスム",
+    "nameKana": "イルケルアクスム",
+    "description": "俳優。『7番房の奇跡』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: İlker Aksum。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sayako-hagiwara",
+    "name": "萩原沙也子",
+    "nameKana": "はぎわらさやこ",
+    "description": "俳優。『自殺サークル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sayako Hagiwara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tatsuomi-hamada",
+    "name": "濱田龍臣",
+    "nameKana": "はまだたつおみ",
+    "description": "俳優。『劇場版 ウルトラマンジード つなぐぜ！願い!!』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tatsuomi Hamada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chihiro-yamamoto",
+    "name": "山本千尋",
+    "nameKana": "やまもとちひろ",
+    "description": "俳優。『劇場版 ウルトラマンジード つなぐぜ！願い!!』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chihiro Yamamoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-ryan",
+    "name": "マーク・ライアン",
+    "nameKana": "マークライアン",
+    "description": "俳優。『トランスフォーマー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Ryan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lil-peep",
+    "name": "リル・ピープ",
+    "nameKana": "リルピープ",
+    "description": "俳優。『リル・ピープ: Everybody’s Everything』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lil Peep。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lil-tracy",
+    "name": "リル・トレイシー",
+    "nameKana": "リルトレイシー",
+    "description": "俳優。『リル・ピープ: Everybody’s Everything』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lil Tracy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ghostemane",
+    "name": "ゴーステメイン",
+    "nameKana": "ゴーステメイン",
+    "description": "俳優。『リル・ピープ: Everybody’s Everything』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: GHOSTEMANE。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sho-sakurai",
+    "name": "櫻井翔",
+    "nameKana": "さくらいしょう",
+    "description": "俳優。『ラプラスの魔女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sho Sakurai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kaori-fujii",
+    "name": "藤井かほり",
+    "nameKana": "ふじいかおり",
+    "description": "俳優。『四月物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kaori Fujii。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bradley-pierce",
+    "name": "ブラッドリー・ピアース",
+    "nameKana": "ブラッドリーピアース",
+    "description": "俳優。『ジュマンジ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bradley Pierce。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miki-ito",
+    "name": "伊藤美紀",
+    "nameKana": "いとうみき",
+    "description": "俳優。『銃夢 -GUNNM-』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miki Ito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shunsuke-kariya",
+    "name": "狩谷俊介",
+    "nameKana": "かりやしゅんすけ",
+    "description": "俳優。『銃夢 -GUNNM-』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shunsuke Kariya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyoko-hinami",
+    "name": "日南響子",
+    "nameKana": "ひなみきょうこ",
+    "description": "俳優。『愛なき森で叫べ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyoko Hinami。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ramin-karimloo",
+    "name": "ラミン・カリムルー",
+    "nameKana": "ラミンカリムルー",
+    "description": "俳優。『オペラ座の怪人 25周年記念公演 in ロンドン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ramin Karimloo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sierra-boggess",
+    "name": "シエラ・ボーゲス",
+    "nameKana": "シエラボーゲス",
+    "description": "俳優。『オペラ座の怪人 25周年記念公演 in ロンドン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sierra Boggess。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hadley-fraser",
+    "name": "ハドリー・フレイザー",
+    "nameKana": "ハドリーフレイザー",
+    "description": "俳優。『オペラ座の怪人 25周年記念公演 in ロンドン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hadley Fraser。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masao-inoue",
+    "name": "井上正夫",
+    "nameKana": "いのうえまさお",
+    "description": "俳優。『狂った一頁』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masao Inoue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayako-iijima",
+    "name": "飯島綾子",
+    "nameKana": "いいじまあやこ",
+    "description": "俳優。『狂った一頁』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ayako Iijima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshie-nakagawa",
+    "name": "中川芳江",
+    "nameKana": "なかがわよしえ",
+    "description": "俳優。『狂った一頁』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshie Nakagawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mayuko-iwasa",
+    "name": "岩佐真悠子",
+    "nameKana": "いわさまゆこ",
+    "description": "俳優。『009ノ1 THE END OF BEGINNING』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mayuko Iwasa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "minehiro-kinomoto",
+    "name": "木ノ本嶺浩",
+    "nameKana": "きのもとみねひろ",
+    "description": "俳優。『009ノ1 THE END OF BEGINNING』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Minehiro Kinomoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nao-nagasawa",
+    "name": "長澤奈央",
+    "nameKana": "ながさわなお",
+    "description": "俳優。『009ノ1 THE END OF BEGINNING』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nao Nagasawa。",
+    "updatedAt": "2026-08-09"
   }
 ]
