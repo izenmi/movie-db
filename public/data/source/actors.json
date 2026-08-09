@@ -11491,5 +11491,473 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Madeleine McGraw。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "billy-barratt",
+    "name": "ビリー・バラット",
+    "nameKana": "ビリーバラット",
+    "description": "俳優。『ブリング・ハー・バック』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Billy Barratt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sally-hawkins",
+    "name": "サリー・ホーキンス",
+    "nameKana": "サリーホーキンス",
+    "description": "俳優。『ブリング・ハー・バック』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sally Hawkins。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mischa-heywood",
+    "name": "ミーシャ・ヘイウッド",
+    "nameKana": "ミーシャヘイウッド",
+    "description": "俳優。『ブリング・ハー・バック』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mischa Heywood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-woods",
+    "name": "ジェームズ・ウッズ",
+    "nameKana": "ジェームズウッズ",
+    "description": "俳優。『ワンス・アポン・ア・タイム・イン・アメリカ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Woods。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "elizabeth-mcgovern",
+    "name": "エリザベス・マクガヴァン",
+    "nameKana": "エリザベスマクガヴァン",
+    "description": "俳優。『ワンス・アポン・ア・タイム・イン・アメリカ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Elizabeth McGovern。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hana-toyoshima",
+    "name": "豊嶋花",
+    "nameKana": "とよしまはな",
+    "description": "俳優。『ちひろさん』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hana Toyoshima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryuya-wakaba",
+    "name": "若葉竜也",
+    "nameKana": "わかばりゅや",
+    "description": "俳優。『ちひろさん』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryuya Wakaba。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sterling-jerins",
+    "name": "スターリング・ジェリンズ",
+    "nameKana": "スターリングジェリンズ",
+    "description": "俳優。『死霊館 悪魔のせいなら、無罪。』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sterling Jerins。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-krasinski",
+    "name": "ジョン・クラシンスキー",
+    "nameKana": "ジョンクラシンスキー",
+    "description": "俳優。『ファウンテン・オブ・ユース 神秘の泉を探せ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Krasinski。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eiza-gonzalez",
+    "name": "エイザ・ゴンザレス",
+    "nameKana": "エイザゴンザレス",
+    "description": "俳優。『ファウンテン・オブ・ユース 神秘の泉を探せ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eiza González。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jessica-biel",
+    "name": "ジェシカ・ビール",
+    "nameKana": "ジェシカビール",
+    "description": "俳優。『ブレイド3』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jessica Biel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noriko-shitaya",
+    "name": "下屋則子",
+    "nameKana": "したやのりこ",
+    "description": "俳優。『劇場版「Fate/stay night [Heaven’s Feel]」Ⅱ.lost butterfly』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noriko Shitaya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ansel-elgort",
+    "name": "アンセル・エルゴート",
+    "nameKana": "アンセルエルゴート",
+    "description": "俳優。『ベイビー・ドライバー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ansel Elgort。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danny-elfman",
+    "name": "ダニー・エルフマン",
+    "nameKana": "ダニーエルフマン",
+    "description": "俳優。『ナイトメアー・ビフォア・クリスマス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Danny Elfman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-sarandon",
+    "name": "クリス・サランドン",
+    "nameKana": "クリスサランドン",
+    "description": "俳優。『ナイトメアー・ビフォア・クリスマス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Sarandon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "martin-lawrence",
+    "name": "マーティン・ローレンス",
+    "nameKana": "マーティンローレンス",
+    "description": "俳優。『バッドボーイズ RIDE OR DIE』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Martin Lawrence。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vanessa-hudgens",
+    "name": "ヴァネッサ・ハジェンズ",
+    "nameKana": "ヴァネッサハジェンズ",
+    "description": "俳優。『バッドボーイズ RIDE OR DIE』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vanessa Hudgens。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shotaro-mamiya",
+    "name": "間宮祥太朗",
+    "nameKana": "まみやしょたろ",
+    "description": "俳優。『BLUE GIANT』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shotaro Mamiya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amane-okayama",
+    "name": "岡山天音",
+    "nameKana": "おかやまあまね",
+    "description": "俳優。『BLUE GIANT』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amane Okayama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-stewart",
+    "name": "ジェームズ・ステュアート",
+    "nameKana": "ジェームズステュアート",
+    "description": "俳優。『素晴らしき哉、人生！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Stewart。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "donna-reed",
+    "name": "ドナ・リード",
+    "nameKana": "ドナリード",
+    "description": "俳優。『素晴らしき哉、人生！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Donna Reed。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lionel-barrymore",
+    "name": "ライオネル・バリモア",
+    "nameKana": "ライオネルバリモア",
+    "description": "俳優。『素晴らしき哉、人生！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lionel Barrymore。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuzo-kayama",
+    "name": "加山雄三",
+    "nameKana": "かやま",
+    "description": "俳優。『赤ひげ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yūzō Kayama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hayden-christensen",
+    "name": "ヘイデン・クリステンセン",
+    "nameKana": "ヘイデンクリステンセン",
+    "description": "俳優。『スター・ウォーズ エピソード３／シスの復讐』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hayden Christensen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-carradine",
+    "name": "デヴィッド・キャラダイン",
+    "nameKana": "デヴィッドキャラダイン",
+    "description": "俳優。『キル・ビル Vol 2』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Carradine。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daryl-hannah",
+    "name": "ダリル・ハンナ",
+    "nameKana": "ダリルハンナ",
+    "description": "俳優。『キル・ビル Vol 2』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daryl Hannah。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neve-campbell",
+    "name": "ネーヴ・キャンベル",
+    "nameKana": "ネーヴキャンベル",
+    "description": "俳優。『スクリーム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neve Campbell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skeet-ulrich",
+    "name": "スキート・ウールリッチ",
+    "nameKana": "スキートウールリッチ",
+    "description": "俳優。『スクリーム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skeet Ulrich。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rose-mcgowan",
+    "name": "ローズ・マッゴーワン",
+    "nameKana": "ローズマッゴーワン",
+    "description": "俳優。『スクリーム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rose McGowan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hugo-weaving",
+    "name": "ヒューゴ・ウィーヴィング",
+    "nameKana": "ヒューゴウィーヴィング",
+    "description": "俳優。『V フォー・ヴェンデッタ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hugo Weaving。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-rea",
+    "name": "スティーヴン・レイ",
+    "nameKana": "スティーヴンレイ",
+    "description": "俳優。『V フォー・ヴェンデッタ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Rea。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "millicent-simmonds",
+    "name": "ミリセント・シモンズ",
+    "nameKana": "ミリセントシモンズ",
+    "description": "俳優。『クワイエット・プレイス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Millicent Simmonds。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hisako-kanemoto",
+    "name": "金元寿子",
+    "nameKana": "かねもとひさこ",
+    "description": "俳優。『星を追う子ども』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hisako Kanemoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ioan-gruffudd",
+    "name": "ヨアン・グリフィズ",
+    "nameKana": "ヨアングリフィズ",
+    "description": "俳優。『ファンタスティック・フォー ［超能力ユニット］』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ioan Gruffudd。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jessica-alba",
+    "name": "ジェシカ・アルバ",
+    "nameKana": "ジェシカアルバ",
+    "description": "俳優。『ファンタスティック・フォー ［超能力ユニット］』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jessica Alba。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "phoebe-waller-bridge",
+    "name": "フィービー・ウォーラー＝ブリッジ",
+    "nameKana": "わっれりげほえべ",
+    "description": "俳優。『インディ・ジョーンズと運命のダイヤル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Phoebe Waller-Bridge。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "julia-roberts",
+    "name": "ジュリア・ロバーツ",
+    "nameKana": "ジュリアロバーツ",
+    "description": "俳優。『プリティ・ウーマン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Julia Roberts。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ralph-bellamy",
+    "name": "ラルフ・ベラミー",
+    "nameKana": "ラルフベラミー",
+    "description": "俳優。『プリティ・ウーマン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ralph Bellamy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "audrey-tautou",
+    "name": "オドレイ・トトゥ",
+    "nameKana": "オドレイトトゥ",
+    "description": "俳優。『ダ・ヴィンチ・コード』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Audrey Tautou。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anika-noni-rose",
+    "name": "アニカ・ノニ・ローズ",
+    "nameKana": "アニカノニローズ",
+    "description": "俳優。『プリンセスと魔法のキス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anika Noni Rose。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bruno-campos",
+    "name": "ブルーノ・カンポス",
+    "nameKana": "ブルーノカンポス",
+    "description": "俳優。『プリンセスと魔法のキス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bruno Campos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jim-cummings",
+    "name": "ジム・カミングス",
+    "nameKana": "ジムカミングス",
+    "description": "俳優。『プリンセスと魔法のキス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jim Cummings。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rafe-spall",
+    "name": "レイフ・スポール",
+    "nameKana": "レイフスポール",
+    "description": "俳優。『ジュラシック・ワールド／炎の王国』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rafe Spall。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miyu-tomita",
+    "name": "富田美憂",
+    "nameKana": "とみたみゆ",
+    "description": "俳優。『劇場版メイドインアビス 深き魂の黎明』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miyu Tomita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mariya-ise",
+    "name": "伊瀬茉莉也",
+    "nameKana": "いせまりや",
+    "description": "俳優。『劇場版メイドインアビス 深き魂の黎明』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mariya Ise。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shiori-izawa",
+    "name": "井澤詩織",
+    "nameKana": "いざわしおり",
+    "description": "俳優。『劇場版メイドインアビス 深き魂の黎明』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shiori Izawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-chow",
+    "name": "チャウ・シンチー",
+    "nameKana": "チャウシンチー",
+    "description": "俳優。『少林サッカー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Chow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-ng-man-tat",
+    "name": "ン・マンタ",
+    "nameKana": "ンマンタ",
+    "description": "俳優。『少林サッカー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Ng Man-Tat。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vicky-zhao-wei",
+    "name": "ヴィッキー・チャオ",
+    "nameKana": "ヴィッキーチャオ",
+    "description": "俳優。『少林サッカー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vicky Zhao Wei。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "f-murray-abraham",
+    "name": "F・マーリー・エイブラハム",
+    "nameKana": "あらはむっら",
+    "description": "俳優。『グランド・ブダペスト・ホテル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: F. Murray Abraham。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mathieu-amalric",
+    "name": "マチュー・アマルリック",
+    "nameKana": "マチューアマルリック",
+    "description": "俳優。『グランド・ブダペスト・ホテル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mathieu Amalric。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maggie-grace",
+    "name": "マギー・グレイス",
+    "nameKana": "マギーグレイス",
+    "description": "俳優。『96時間／レクイエム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maggie Grace。",
+    "updatedAt": "2026-08-09"
   }
 ]

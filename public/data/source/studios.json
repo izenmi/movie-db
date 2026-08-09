@@ -4439,5 +4439,221 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo Laboratory。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "causeway-films",
+    "name": "コーズウェイ・フィルムズ",
+    "nameKana": "コーズウェイフィルムズ",
+    "description": "映画製作会社。『ブリング・ハー・バック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Causeway Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blue-bear",
+    "name": "ブルー・ベア",
+    "nameKana": "ブルーベア",
+    "description": "映画製作会社。『ブリング・ハー・バック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Blue Bear。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "embassy-international-pictures",
+    "name": "エンバシー・インターナショナル・ピクチャーズ",
+    "nameKana": "エンバシーインターナショナルピクチャーズ",
+    "description": "映画製作会社。『ワンス・アポン・ア・タイム・イン・アメリカ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Embassy International Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pso",
+    "name": "PSO",
+    "nameKana": "ぴーえすおー",
+    "description": "映画製作会社。『ワンス・アポン・ア・タイム・イン・アメリカ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "big-talk-studios",
+    "name": "ビッグ・トーク・スタジオ",
+    "nameKana": "ビッグトークスタジオ",
+    "description": "映画製作会社。『ベイビー・ドライバー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Big Talk Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skellington-productions",
+    "name": "スケリントン・プロダクションズ",
+    "nameKana": "スケリントンプロダクションズ",
+    "description": "映画製作会社。『ナイトメアー・ビフォア・クリスマス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skellington Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "westbrook",
+    "name": "ウエストブルック",
+    "nameKana": "ウエストブルック",
+    "description": "映画製作会社。『バッドボーイズ RIDE OR DIE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Westbrook。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nut",
+    "name": "ノーマッド",
+    "nameKana": "ノーマッド",
+    "description": "映画製作会社。『BLUE GIANT』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: NUT。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "liberty-films",
+    "name": "リバティ・フィルムズ",
+    "nameKana": "リバティフィルムズ",
+    "description": "映画製作会社。『素晴らしき哉、人生！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Liberty Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "super-cool-manchu",
+    "name": "スーパー・クール・マンチュー",
+    "nameKana": "スーパークールマンチュー",
+    "description": "映画製作会社。『キル・ビル Vol 2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Super Cool ManChu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dimension-films",
+    "name": "ディメンション・フィルムズ",
+    "nameKana": "ディメンションフィルムズ",
+    "description": "映画製作会社。『スクリーム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dimension Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "woods-entertainment",
+    "name": "ウッズ・エンターテインメント",
+    "nameKana": "ウッズエンターテインメント",
+    "description": "映画製作会社。『スクリーム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Woods Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "virtual-studios",
+    "name": "バーチャル・スタジオ",
+    "nameKana": "バーチャルスタジオ",
+    "description": "映画製作会社。『V フォー・ヴェンデッタ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Virtual Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anarchos-productions",
+    "name": "アナルコス・プロダクションズ",
+    "nameKana": "アナルコスプロダクションズ",
+    "description": "映画製作会社。『V フォー・ヴェンデッタ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anarchos Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "platinum-dunes",
+    "name": "プラチナ・デューンズ",
+    "nameKana": "プラチナデューンズ",
+    "description": "映画製作会社。『クワイエット・プレイス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Platinum Dunes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kumar-mobiliengesellschaft-mbh-co-projekt-nr-3-kg",
+    "name": "クマール・モビリエンゲゼルシャフト",
+    "nameKana": "クマールモビリエンゲゼルシャフト",
+    "description": "映画製作会社。『ファンタスティック・フォー ［超能力ユニット］』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arnon-milchan-productions",
+    "name": "アーノン・ミルチャン・プロダクションズ",
+    "nameKana": "アーノンミルチャンプロダクションズ",
+    "description": "映画製作会社。『プリティ・ウーマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arnon Milchan Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "imagine-entertainment",
+    "name": "イマジン・エンターテインメント",
+    "nameKana": "イマジンエンターテインメント",
+    "description": "映画製作会社。『ダ・ヴィンチ・コード』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Imagine Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skylark-productions",
+    "name": "スカイラーク・プロダクションズ",
+    "nameKana": "スカイラークプロダクションズ",
+    "description": "映画製作会社。『ダ・ヴィンチ・コード』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skylark Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kinema-citrus",
+    "name": "キネマシトラス",
+    "nameKana": "キネマシトラス",
+    "description": "映画製作会社。『劇場版メイドインアビス 深き魂の黎明』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kinema Citrus。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "star-overseas",
+    "name": "スター・オーバーシーズ",
+    "nameKana": "スターオーバーシーズ",
+    "description": "映画製作会社。『少林サッカー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Star Overseas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "universe-entertainment",
+    "name": "ユニバース・エンターテインメント",
+    "nameKana": "ユニバースエンターテインメント",
+    "description": "映画製作会社。『少林サッカー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Universe Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-babelsberg",
+    "name": "スタジオ・バーベルスベルク",
+    "nameKana": "スタジオバーベルスベルク",
+    "description": "映画製作会社。『グランド・ブダペスト・ホテル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Babelsberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "europacorp",
+    "name": "ヨーロッパ・コープ",
+    "nameKana": "ヨーロッパコープ",
+    "description": "映画製作会社。『96時間／レクイエム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: EuropaCorp。",
+    "updatedAt": "2026-08-09"
   }
 ]

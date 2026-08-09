@@ -8287,5 +8287,338 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: C. Robert Cargill。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-philippou",
+    "name": "マイケル・フィリッポウ",
+    "nameKana": "マイケルフィリッポウ",
+    "description": "映画監督。『ブリング・ハー・バック』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Philippou。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danny-philippou",
+    "name": "ダニー・フィリッポウ",
+    "nameKana": "ダニーフィリッポウ",
+    "description": "映画監督・脚本家。『ブリング・ハー・バック』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Danny Philippou。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bill-hinzman",
+    "name": "ビル・ヒンズマン",
+    "nameKana": "ビルヒンズマン",
+    "description": "脚本家。『ブリング・ハー・バック』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bill Hinzman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "enrico-medioli",
+    "name": "エンリコ・メディオリ",
+    "nameKana": "エンリコメディオリ",
+    "description": "脚本家。『ワンス・アポン・ア・タイム・イン・アメリカ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Enrico Medioli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rikiya-imaizumi",
+    "name": "今泉力哉",
+    "nameKana": "いまいずみりきや",
+    "description": "映画監督・脚本家。『ちひろさん』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rikiya Imaizumi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kaori-sawai",
+    "name": "澤井香織",
+    "nameKana": "さわいかおり",
+    "description": "脚本家。『ちひろさん』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kaori Sawai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tomonori-sudo",
+    "name": "須藤友徳",
+    "nameKana": "すどうとものり",
+    "description": "映画監督。『劇場版「Fate/stay night [Heaven’s Feel]」Ⅱ.lost butterfly』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tomonori Sudo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akira-hiyama",
+    "name": "桧山彬",
+    "nameKana": "ひやまあきら",
+    "description": "脚本家。『劇場版「Fate/stay night [Heaven’s Feel]」Ⅱ.lost butterfly』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akira Hiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edgar-wright",
+    "name": "エドガー・ライト",
+    "nameKana": "エドガーライト",
+    "description": "映画監督・脚本家。『ベイビー・ドライバー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edgar Wright。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "caroline-thompson",
+    "name": "キャロライン・トンプソン",
+    "nameKana": "キャロライントンプソン",
+    "description": "脚本家。『ナイトメアー・ビフォア・クリスマス』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Caroline Thompson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adil-el-arbi",
+    "name": "アディル・エル・アルビ",
+    "nameKana": "アディルエルアルビ",
+    "description": "映画監督。『バッドボーイズ RIDE OR DIE』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Adil El Arbi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bilall-fallah",
+    "name": "ビラル・ファラー",
+    "nameKana": "ビラルファラー",
+    "description": "映画監督。『バッドボーイズ RIDE OR DIE』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bilall Fallah。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chris-bremner",
+    "name": "クリス・ブレムナー",
+    "nameKana": "クリスブレムナー",
+    "description": "脚本家。『バッドボーイズ RIDE OR DIE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chris Bremner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "number-8",
+    "name": "ナンバーエイト",
+    "nameKana": "なんばーえいと",
+    "description": "脚本家。『BLUE GIANT』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: NUMBER 8。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "martin-campbell",
+    "name": "マーティン・キャンベル",
+    "nameKana": "マーティンキャンベル",
+    "description": "映画監督。『007／カジノ・ロワイヤル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Martin Campbell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neal-purvis",
+    "name": "ニール・パーヴィス",
+    "nameKana": "ニールパーヴィス",
+    "description": "脚本家。『007／カジノ・ロワイヤル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neal Purvis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "frank-capra",
+    "name": "フランク・キャプラ",
+    "nameKana": "フランクキャプラ",
+    "description": "映画監督・脚本家。『素晴らしき哉、人生！』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Frank Capra。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "albert-hackett",
+    "name": "アルバート・ハケット",
+    "nameKana": "アルバートハケット",
+    "description": "脚本家。『素晴らしき哉、人生！』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Albert Hackett。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wes-craven",
+    "name": "ウェス・クレイヴン",
+    "nameKana": "ウェスクレイヴン",
+    "description": "映画監督。『スクリーム』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wes Craven。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kevin-williamson",
+    "name": "ケヴィン・ウィリアムソン",
+    "nameKana": "ケヴィンウィリアムソン",
+    "description": "脚本家。『スクリーム』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kevin Williamson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinnosuke-yakuwa",
+    "name": "八鍬新之介",
+    "nameKana": "やくわしんおすけ",
+    "description": "映画監督。『映画ドラえもん のび太の月面探査記』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinnosuke Yakuwa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mizuki-tsujimura",
+    "name": "辻村深月",
+    "nameKana": "つじむらみずき",
+    "description": "脚本家。『映画ドラえもん のび太の月面探査記』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mizuki Tsujimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-mcteigue",
+    "name": "ジェームズ・マクティーグ",
+    "nameKana": "ジェームズマクティーグ",
+    "description": "映画監督。『V フォー・ヴェンデッタ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James McTeigue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-krasinski",
+    "name": "ジョン・クラシンスキー",
+    "nameKana": "ジョンクラシンスキー",
+    "description": "映画監督。『クワイエット・プレイス』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Krasinski。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tim-story",
+    "name": "ティム・ストーリー",
+    "nameKana": "ティムストーリー",
+    "description": "映画監督。『ファンタスティック・フォー ［超能力ユニット］』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tim Story。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-frost",
+    "name": "マーク・フロスト",
+    "nameKana": "マークフロスト",
+    "description": "脚本家。『ファンタスティック・フォー ［超能力ユニット］』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Frost。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "garry-marshall",
+    "name": "ギャリー・マーシャル",
+    "nameKana": "ギャリーマーシャル",
+    "description": "映画監督。『プリティ・ウーマン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Garry Marshall。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "j-f-lawton",
+    "name": "J・F・ロートン",
+    "nameKana": "らとん",
+    "description": "脚本家。『プリティ・ウーマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: J.F. Lawton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ron-howard",
+    "name": "ロン・ハワード",
+    "nameKana": "ロンハワード",
+    "description": "映画監督。『ダ・ヴィンチ・コード』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ron Howard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "j-a-bayona",
+    "name": "J・A・バヨナ",
+    "nameKana": "ばよなあ",
+    "description": "映画監督。『ジュラシック・ワールド／炎の王国』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: J. A. Bayona。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "derek-connolly",
+    "name": "デレク・コノリー",
+    "nameKana": "デレクコノリー",
+    "description": "脚本家。『ジュラシック・ワールド／炎の王国』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Derek Connolly。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masayuki-kojima",
+    "name": "小島正幸",
+    "nameKana": "こじままさゆき",
+    "description": "映画監督。『劇場版メイドインアビス 深き魂の黎明』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masayuki Kojima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hideyuki-kurata",
+    "name": "倉田英之",
+    "nameKana": "くらたひでゆき",
+    "description": "脚本家。『劇場版メイドインアビス 深き魂の黎明』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hideyuki Kurata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-chow",
+    "name": "チャウ・シンチー",
+    "nameKana": "チャウシンチー",
+    "description": "映画監督・脚本家。『少林サッカー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Chow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsang-kan-cheong",
+    "name": "ツァン・カンチョン",
+    "nameKana": "ツァンカンチョン",
+    "description": "脚本家。『少林サッカー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tsang Kan-Cheong。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wes-anderson",
+    "name": "ウェス・アンダーソン",
+    "nameKana": "ウェスアンダーソン",
+    "description": "映画監督・脚本家。『グランド・ブダペスト・ホテル』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wes Anderson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olivier-megaton",
+    "name": "オリヴィエ・メガトン",
+    "nameKana": "オリヴィエメガトン",
+    "description": "映画監督。『96時間／レクイエム』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olivier Megaton。",
+    "updatedAt": "2026-08-09"
   }
 ]
