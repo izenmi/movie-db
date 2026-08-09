@@ -8,7 +8,7 @@
 
 ## データモデル上の判断(このサイト固有・最重要)
 
-- **映画1本で1エントリ**。続編・リメイクは別エントリで、シリーズは`series.json`のエンティティ(作品から`seriesId`で任意参照。2026-08-09にエンティティ化)。`/series`に一覧・詳細ページ(作品は公開順固定)、ナビタブと作品一覧の絞り込みもある。細かい展開の注記は`seriesNote`(自由記述)
+- **映画1本で1エントリ**。続編・リメイクは別エントリで、シリーズは`series.json`のエンティティ(作品から`seriesId`で任意参照。2026-08-09にエンティティ化)。`/series`に一覧・詳細ページ(**一覧は収録作品数の多い順、詳細内の作品は新しい順**で固定)、ナビタブと作品一覧の絞り込みもある。細かい展開の注記は`seriesNote`(自由記述)
 - **`region: japan|overseas`(邦画/海外)と`medium: liveaction|animation`(実写/アニメ)の2軸**が絞り込みの柱。合作は主たる製作国で決めてsourceNoteに明記
 - **アニメ映画はanime-db(単独劇場アニメのみ収録)と重複してよい**とユーザーが明示的に決定済み。重複作品は`relatedAnimeUrl`で相互リンクする(姉妹サイトリンクは5方向: novel/comic/mystery/game/anime)
 - **`release: { year, month? }` は日本公開を基本**とし、判別が難しい作品は本国公開年+sourceNote明記。monthは裏取りできたときだけ
@@ -50,7 +50,7 @@
 ## デザイン方針
 
 - **メインアクセントはシネマゴールド(`--color-gold`/`-strong`/`-deep`)**。ranobe-db水色・manga-dbオレンジ・game-dbグリーン・mystery-db藤色・tech-dbティール・anime-db桜ピンクと区別。装飾用パステルの`--color-yellow`とは別変数
-- **公開区分バッジ(`.season-badge`、公開年月=gold/邦画=blue/海外=peach/アニメ=purple)**。クラス名はscaffold由来の`season-badge`のまま(汎用ピルバッジとして流用)
+- **公開区分バッジ(`.season-badge`、公開年月=gold/邦画=blue/海外=peach/アニメ=purple)**。クラス名はscaffold由来の`season-badge`のまま(汎用ピルバッジとして流用)。ただし**作品カードでは`.season-badge--quiet`を併用して枠線だけのラベルにする**(一覧では作品名とスタッフを先に読ませたいため。塗るのは作品詳細だけ)
 - ページ背景は黒一色固定、装飾最小、見出し`M PLUS Rounded 1c`。favicon(`public/favicon.svg`)は黒背景+「映」の1文字ロゴ(`#ffc85c`)。全面塗り(角丸なし)でアルファを残さない
 - Google Analytics: **未設置**。movie-db専用のGA4測定IDが発行されたら`index.html`のコメント位置にgtagスニペットを追加する(姉妹サイトのIDは流用しない)
 

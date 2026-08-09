@@ -26,11 +26,15 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
       <div className="work-card__content">
         <div className="work-card__title">{work.title}</div>
         <div className="work-card__meta">
-          <span className="season-badge season-badge--year">{releaseLabel(work.release)}</span>{" "}
-          <span className={`season-badge season-badge--${work.region}`}>
+          <span className="season-badge season-badge--quiet season-badge--year">
+            {releaseLabel(work.release)}
+          </span>{" "}
+          <span className={`season-badge season-badge--quiet season-badge--${work.region}`}>
             {work.region === "japan" ? "邦画" : "海外"}
           </span>
-          {work.medium === "animation" && <span className="season-badge season-badge--animation">アニメ</span>}
+          {work.medium === "animation" && (
+            <span className="season-badge season-badge--quiet season-badge--animation">アニメ</span>
+          )}
           {" "}
           監督: {work.directorNames.join("・")} / {work.studioNames.join("・")}
           {work.runtime != null && ` / ${work.runtime}分`}

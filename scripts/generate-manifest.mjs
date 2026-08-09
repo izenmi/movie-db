@@ -306,7 +306,8 @@ const actorsGenerated = actors
   .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
 
 // ---- generated/series.json ----
-// 作品はシリーズを追う順(公開順)で固定。一覧は五十音順。
+// 作品は新しい順(公開順の逆)で固定。最新作から辿れるほうが探しやすいという判断。
+// 一覧はテーマ・アワードと同じく収録作品数の多い順(同数は五十音順)。
 const worksBySeries = groupWorksBy((w) => (w.seriesId != null ? [w.seriesId] : []));
 const seriesGenerated = series
   .map((x) => {
@@ -318,10 +319,10 @@ const seriesGenerated = series
       description: x.description,
       externalLinks: x.externalLinks,
       workCount: theirWorks.length,
-      works: theirWorks.map(fullWork).sort(byRelease),
+      works: theirWorks.map(fullWork).sort((a, b) => byRelease(b, a)),
     };
   })
-  .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
+  .sort((a, b) => b.workCount - a.workCount || a.nameKana.localeCompare(b.nameKana, "ja"));
 
 // ---- generated/themes.json ----
 const worksByTheme = groupWorksBy((w) => w.themeIds);

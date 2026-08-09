@@ -11,7 +11,7 @@ export function SeriesListPage() {
     title: "シリーズ一覧",
     description:
       state.status === "ready"
-        ? `映画シリーズ${state.data.length}件の一覧。シリーズごとに作品を公開順で辿れます。`
+        ? `映画シリーズ${state.data.length}件の一覧。収録作品数の多い順。シリーズごとに作品を新しい順で辿れます。`
         : undefined,
   });
 

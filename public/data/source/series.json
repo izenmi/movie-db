@@ -1697,5 +1697,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gintama-liveaction",
+    "name": "銀魂 実写映画シリーズ",
+    "nameKana": "ぎんたまじっしゃえいがしりーず",
+    "description": "空知英秋の漫画を原作とする、福田雄一監督による実写映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gantz-movie",
+    "name": "GANTZ 実写映画シリーズ",
+    "nameKana": "がんつじっしゃえいがしりーず",
+    "description": "奥浩哉の漫画を原作とする、黒い球体に集められた者たちを描く実写二部作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naked-gun",
+    "name": "裸の銃を持つ男 シリーズ",
+    "nameKana": "はだかのじゅうをもつおとこしりーず",
+    "description": "ドジな刑事ドレビンを主役にしたパロディ喜劇映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gundam-the-origin",
+    "name": "機動戦士ガンダム THE ORIGIN",
+    "nameKana": "きどうせんしがんだむじおりじん",
+    "description": "安彦良和の漫画を原作とする、シャアとセイラの過去を描く劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
