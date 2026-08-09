@@ -59931,5 +59931,308 @@
     "updatedAt": "2026-08-09",
     "originalTitle": "Scary Movie 3",
     "seriesId": "scary-movie"
+  },
+  {
+    "id": "fate-stay-night-unlimited-blade-works",
+    "title": "劇場版 Fate/stay night UNLIMITED BLADE WORKS",
+    "titleKana": "げきじょうばんふぇいとすていないとあんりみてっどぶれいどわーくす",
+    "directorIds": [
+      "yuji-yamaguchi"
+    ],
+    "screenwriterIds": [
+      "takuya-sato"
+    ],
+    "studioIds": [
+      "studio-deen",
+      "frontier-works"
+    ],
+    "cast": [
+      {
+        "actorId": "ayako-kawasumi",
+        "character": "セイバー"
+      },
+      {
+        "actorId": "noriaki-sugiyama",
+        "character": "衛宮士郎"
+      },
+      {
+        "actorId": "junichi-suwabe",
+        "character": "アーチャー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "human-drama",
+      "magic",
+      "survival"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 1
+    },
+    "runtime": 106,
+    "originalType": "game",
+    "synopsis": "願いを叶える聖杯をめぐり、七人の魔術師と使い魔が殺し合う聖杯戦争が冬木市で始まる。巻き込まれた衛宮士郎はセイバーと契約し、正体の読めないアーチャーと対峙することになる。原作の一つのルートを二時間弱にまとめた劇場版として制作されている。限られた尺に収める構成に議論もあったが、戦闘場面の作画は高い評価を得た。",
+    "tmdbId": 46304,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Fate/stay night UNLIMITED BLADE WORKS",
+    "seriesId": "fate-stay-night"
+  },
+  {
+    "id": "men-in-black-ii",
+    "title": "メン・イン・ブラック 2",
+    "titleKana": "めんいんぶらっくつー",
+    "directorIds": [
+      "barry-sonnenfeld"
+    ],
+    "screenwriterIds": [
+      "robert-gordon",
+      "barry-fanaro"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "amblin"
+    ],
+    "cast": [
+      {
+        "actorId": "tommy-lee-jones",
+        "character": "K"
+      },
+      {
+        "actorId": "will-smith",
+        "character": "J"
+      },
+      {
+        "actorId": "rip-torn",
+        "character": "ゼッド"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "sf",
+      "alien"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 7
+    },
+    "runtime": 85,
+    "originalType": "manga",
+    "synopsis": "記憶を消されて郵便局員になっていたKを、Jが現場に呼び戻す。地球を狙う宇宙人サーリーナに対抗するには、Kだけが知る秘密が必要だった。前作の役割を反転させた構成で、宇宙人の造形と小道具の遊びを増やした続編となっている。前作より短い尺で、軽妙な掛け合いと視覚効果に絞った構成をとる。批評は分かれたが興行的には成功した。",
+    "tmdbId": 608,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Men in Black II",
+    "seriesId": "men-in-black"
+  },
+  {
+    "id": "rascal-does-not-dream-of-a-knapsack-kid",
+    "title": "青春ブタ野郎はランドセルガールの夢を見ない",
+    "titleKana": "せいしゅんぶたやろうはらんどせるがーるのゆめをみない",
+    "directorIds": [
+      "soichi-masui"
+    ],
+    "screenwriterIds": [
+      "masahiro-yokotani"
+    ],
+    "studioIds": [
+      "aniplex",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "kaito-ishikawa",
+        "character": "梓川咲太"
+      },
+      {
+        "actorId": "asami-seto",
+        "character": "桜島麻衣"
+      },
+      {
+        "actorId": "yurika-kubo",
+        "character": "梓川かえで"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "romance",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 12
+    },
+    "runtime": 75,
+    "originalType": "lightnovel",
+    "synopsis": "麻衣の卒業式の日、咲太の前に子役時代の麻衣そっくりの小学生が現れる。同じ頃、妹のかえでにも異変が起きていた。思春期症候群の連鎖が、家族と恋人の両方に及んでいく。シリーズの節目となる物語で、テレビ版と映画版の続編にあたる。妹の物語に決着をつける内容で、原作でも屈指の山場とされる。前後編の前半にあたる。",
+    "tmdbId": 1086591,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "rascal-does-not-dream"
+  },
+  {
+    "id": "the-croods-a-new-age",
+    "title": "クルードさんちのあたらしい冒険",
+    "titleKana": "くるーどさんちのあたらしいぼうけん",
+    "directorIds": [
+      "joel-crawford"
+    ],
+    "screenwriterIds": [
+      "dan-hageman",
+      "kevin-hageman"
+    ],
+    "studioIds": [
+      "dreamworks-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "nicolas-cage",
+        "character": "グラグ"
+      },
+      {
+        "actorId": "emma-stone",
+        "character": "イープ"
+      },
+      {
+        "actorId": "ryan-reynolds",
+        "character": "ガイ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "fantasy",
+      "comedy"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 9
+    },
+    "runtime": 95,
+    "originalType": "original",
+    "synopsis": "洞窟を出て旅を続けるクルード一家が、塀に囲まれた快適な農園に暮らす一家と出会う。文明的な暮らしを見せつけられ、粗野な自分たちとの差に父グラグは落ち着かない。娘の恋人をめぐる思惑も絡み、両家はぶつかり合う。前作の続編として作られている。色彩の派手な架空の生物と、家族喜劇の骨格が組み合わされている。",
+    "tmdbId": 529203,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Croods: A New Age",
+    "seriesId": "croods"
+  },
+  {
+    "id": "it",
+    "title": "IT／イット “それ”が見えたら、終わり。",
+    "titleKana": "いっとそれがみえたらおわり",
+    "directorIds": [
+      "andy-muschietti"
+    ],
+    "screenwriterIds": [
+      "cary-joji-fukunaga",
+      "chase-palmer"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "vertigo-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "jaeden-martell",
+        "character": "ビル・デンブロウ"
+      },
+      {
+        "actorId": "jeremy-ray-taylor",
+        "character": "ベン・ハンスコム"
+      },
+      {
+        "actorId": "sophia-lillis",
+        "character": "ベバリー・マーシュ"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "suspense",
+      "human-drama",
+      "youth",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 11
+    },
+    "runtime": 135,
+    "originalType": "novel",
+    "synopsis": "田舎町デリーで子どもの失踪が相次ぎ、弟を失った少年ビルが真相を追う。町の外れに集まった落ちこぼれの子どもたちは、それぞれの恐怖の姿で現れる存在に襲われる。道化師の姿をとったそれに、七人が力を合わせて立ち向かう。原作前半を映像化した作品にあたる。少年たちの友情の描写に時間を割いた点が、原作の魅力を引き継いでいる。",
+    "tmdbId": 346364,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "It",
+    "seriesId": "it-movie"
+  },
+  {
+    "id": "rush-hour-2",
+    "title": "ラッシュアワー2",
+    "titleKana": "らっしゅあわーつー",
+    "directorIds": [
+      "brett-ratner"
+    ],
+    "screenwriterIds": [
+      "jeff-nathanson"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "arthur-sarkissian-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "jackie-chan",
+        "character": "リー警部"
+      },
+      {
+        "actorId": "chris-tucker",
+        "character": "ジェームズ・カーター"
+      },
+      {
+        "actorId": "john-lone",
+        "character": "リッキー・タン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "crime",
+      "buddy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2001,
+      "month": 9
+    },
+    "runtime": 90,
+    "originalType": "original",
+    "synopsis": "休暇で香港を訪れたリーとカーターだったが、米国大使館の爆破事件に巻き込まれる。捜査線上に浮かぶのは、リーの父の元同僚だった犯罪組織の首領だった。舞台を香港とラスベガスに移し、香港の街並みでの立ち回りを増やした続編となっている。二人の掛け合いの軽さが持ち味で、シリーズ最高の興行成績を記録した。",
+    "tmdbId": 5175,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Rush Hour 2",
+    "seriesId": "rush-hour"
   }
 ]
