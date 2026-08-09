@@ -749,5 +749,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blade",
+    "name": "「ブレイド」シリーズ",
+    "nameKana": "ぶれいどしりーず",
+    "description": "吸血鬼と人間の混血ハンターを主人公にしたマーベル原作のアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fantastic-beasts",
+    "name": "「ファンタスティック・ビースト」シリーズ",
+    "nameKana": "ふぁんたすてぃっくびーすとしりーず",
+    "description": "「ハリー・ポッター」の前史にあたる魔法使いたちの物語を描く映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "planet-of-the-apes",
+    "name": "「猿の惑星」シリーズ",
+    "nameKana": "さるのわくせいしりーず",
+    "description": "知性を得た猿と人類の関係を描くSF映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ghost-in-the-shell",
+    "name": "「攻殻機動隊」劇場版シリーズ",
+    "nameKana": "こうかくきどうたいげきじょうばんしりーず",
+    "description": "士郎正宗の漫画を原作とする電脳社会を舞台にした劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

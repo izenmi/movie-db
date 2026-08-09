@@ -3863,5 +3863,167 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sedic International。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "geffen-pictures",
+    "name": "ゲフィン・ピクチャーズ",
+    "nameKana": "ゲフィンピクチャーズ",
+    "description": "映画製作会社。『ビートルジュース ビートルジュース』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Geffen Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oddball-entertainment",
+    "name": "オッドボール・エンターテインメント",
+    "nameKana": "オッドボールエンターテインメント",
+    "description": "映画製作会社。『猿の惑星／キングダム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Oddball Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "palmstar-media",
+    "name": "パームスター・メディア",
+    "nameKana": "パームスターメディア",
+    "description": "映画製作会社。『ヘレディタリー／継承』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: PalmStar Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pulse-films",
+    "name": "パルス・フィルムズ",
+    "nameKana": "パルスフィルムズ",
+    "description": "映画製作会社。『ヘレディタリー／継承』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pulse Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neopa",
+    "name": "ネオパ",
+    "nameKana": "ネオパ",
+    "description": "映画製作会社。『偶然と想像』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neopa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fictive",
+    "name": "フィクティブ",
+    "nameKana": "フィクティブ",
+    "description": "映画製作会社。『偶然と想像』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fictive。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "spyglass-entertainment",
+    "name": "スパイグラス・エンターテインメント",
+    "nameKana": "スパイグラスエンターテインメント",
+    "description": "映画製作会社。『シックス・センス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Spyglass Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-kennedy-marshall-company",
+    "name": "ケネディ・マーシャル・カンパニー",
+    "nameKana": "ケネディマーシャルカンパニー",
+    "description": "映画製作会社。『シックス・センス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Kennedy/Marshall Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toho-eizo-bijutsu",
+    "name": "東宝映像美術",
+    "nameKana": "とうほうえいぞうびじゅつ",
+    "description": "映画製作会社。『ハウス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toho Eizo Bijutsu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "atomic-monster",
+    "name": "アトミック・モンスター",
+    "nameKana": "アトミックモンスター",
+    "description": "映画製作会社。『モータルコンバット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Atomic Monster。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "broken-road-productions",
+    "name": "ブロークン・ロード・プロダクションズ",
+    "nameKana": "ブロークンロードプロダクションズ",
+    "description": "映画製作会社。『モータルコンバット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Broken Road Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "femme-fatale-pictures",
+    "name": "ファムファタール・ピクチャーズ",
+    "nameKana": "ファムファタールピクチャーズ",
+    "description": "映画製作会社。『甘い鞭』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Femme Fatale Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "artmic",
+    "name": "アートミック",
+    "nameKana": "アートミック",
+    "description": "映画製作会社。『メタル スキン パニック MADOX-01』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: ARTMIC。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anime-international-company",
+    "name": "アニメインターナショナルカンパニー",
+    "nameKana": "アニメインターナショナルカンパニー",
+    "description": "映画製作会社。『メタル スキン パニック MADOX-01』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anime International Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "happy-madison-productions",
+    "name": "ハッピー・マディソン・プロダクションズ",
+    "nameKana": "ハッピーマディソンプロダクションズ",
+    "description": "映画製作会社。『ホット・チック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Happy Madison Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roth-films",
+    "name": "ロス・フィルムズ",
+    "nameKana": "ロスフィルムズ",
+    "description": "映画製作会社。『アリス・イン・ワンダーランド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roth Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shaft",
+    "name": "シャフト",
+    "nameKana": "シャフト",
+    "description": "映画製作会社。『打ち上げ花火、下から見るか？横から見るか？』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SHAFT。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-meyers-shyer-company",
+    "name": "マイヤーズ・シャイアー・カンパニー",
+    "nameKana": "マイヤーズシャイアーカンパニー",
+    "description": "映画製作会社。『ファミリー・ゲーム/双子の天使』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Meyers/Shyer Company。",
+    "updatedAt": "2026-08-09"
   }
 ]
