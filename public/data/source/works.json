@@ -104913,5 +104913,531 @@
         "result": "日本映画 第1位"
       }
     ]
+  },
+  {
+    "id": "kisaragi",
+    "title": "キサラギ",
+    "titleKana": "きさらぎ",
+    "directorIds": [
+      "yuichi-satoh"
+    ],
+    "screenwriterIds": [
+      "ryota-kosawa"
+    ],
+    "studioIds": [
+      "micott-basara-k-k",
+      "parco"
+    ],
+    "cast": [
+      {
+        "actorId": "shun-oguri",
+        "character": "家元"
+      },
+      {
+        "actorId": "yusuke-santamaria",
+        "character": "オダ・ユージ"
+      },
+      {
+        "actorId": "keisuke-koide",
+        "character": "スネーク"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "mystery",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2007,
+      "month": 6
+    },
+    "runtime": 108,
+    "originalType": "other",
+    "synopsis": "自殺したアイドルの一周忌に、面識のない五人の熱心なファンが集まる。追悼のはずの会は、彼女の死が他殺だったのではという疑いから一変する。それぞれが隠していた立場が、次々と明かされていく。ほぼ一室だけで進む会話劇として、口伝えで評判を広げた作品にあたる。低予算の会話劇として作られ、口伝えで人気を広げた一本にあたる。",
+    "tmdbId": 27698,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2007,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "climbers-high",
+    "title": "クライマーズ・ハイ",
+    "titleKana": "くらいまーずはい",
+    "directorIds": [
+      "masato-harada"
+    ],
+    "screenwriterIds": [
+      "masato-kato",
+      "izuru-narushima"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "shinichi-tsutsumi",
+        "character": "悠木和雅"
+      },
+      {
+        "actorId": "masato-sakai",
+        "character": "佐山達哉"
+      },
+      {
+        "actorId": "machiko-ono",
+        "character": "玉置千鶴子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "disaster",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 7
+    },
+    "runtime": 145,
+    "originalType": "novel",
+    "synopsis": "一九八五年、群馬の地方紙に日航機墜落の一報が飛び込む。全権デスクを任された悠木は、社内の権力争いと締切に追われる。何を一面に置くかという判断が、記者たちの矜持を試す。横山秀夫の小説を映画化した作品にあたる。報道の現場の熱気と軋轢を、密度の高い台詞で描いている。堤真一の演技が全編を支えている。ブルーリボン賞の作品賞を受けている。",
+    "tmdbId": 41533,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2008,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2008,
+        "result": "日本映画 第8位"
+      }
+    ]
+  },
+  {
+    "id": "the-summit-a-chronicle-of-stones-to-serenity",
+    "title": "劔岳 点の記",
+    "titleKana": "つるぎだけてんのき",
+    "directorIds": [
+      "daisaku-kimura"
+    ],
+    "screenwriterIds": [
+      "toshimasa-miyamura"
+    ],
+    "studioIds": [
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "tadanobu-asano",
+        "character": "柴崎芳太郎"
+      },
+      {
+        "actorId": "teruyuki-kagawa",
+        "character": "宇治長次郎"
+      },
+      {
+        "actorId": "ryuhei-matsuda",
+        "character": "生田信"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "adventure"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 6
+    },
+    "runtime": 139,
+    "originalType": "novel",
+    "synopsis": "明治四十年、地図の空白を埋めるため測量隊が劔岳の登頂に挑む。前人未到とされる山を前に、案内人の宇治長次郎が道を探る。山岳会との登頂争いも、彼らの背を押す。実際に現地で長期の撮影を行った作品にあたる。実際の山中で二年をかけて撮影された点でも話題を集めた。撮影監督だった木村大作の初監督作にあたる。日本映画としては異例の規模の山岳撮影となった。",
+    "tmdbId": 148066,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "our-homeland",
+    "title": "かぞくのくに",
+    "titleKana": "かぞくのくに",
+    "directorIds": [
+      "yang-yong-hi"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "star-sands",
+      "slow-learner"
+    ],
+    "cast": [
+      {
+        "actorId": "sakura-ando",
+        "character": "リエ"
+      },
+      {
+        "actorId": "arata-iura",
+        "character": "ソンホ"
+      },
+      {
+        "actorId": "tatsushi-omori",
+        "character": "ヨンヒ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 8
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "帰国事業で北朝鮮へ渡った兄ソンホが、二十五年ぶりに治療のため帰国する。妹リエは再会を喜ぶが、監視役の男が常に付き添っている。滞在は突然打ち切られ、家族は再び引き裂かれる。監督自身の家族の経験をもとにした作品にあたる。抑えた演出で、国家に引き裂かれる家族を描いた作品にあたる。安藤サクラの演技が高く評価されている。ブルーリボン賞の作品賞を受けている。",
+    "tmdbId": 107453,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2012,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2012,
+        "result": "日本映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "a-story-of-yonosuke",
+    "title": "横道世之介",
+    "titleKana": "よこみちよのすけ",
+    "directorIds": [
+      "shuichi-okita"
+    ],
+    "screenwriterIds": [
+      "shiro-maeda"
+    ],
+    "studioIds": [
+      "kirishima-1945",
+      "nikkatsu-corporation"
+    ],
+    "cast": [
+      {
+        "actorId": "kengo-kora",
+        "character": "横道世之介"
+      },
+      {
+        "actorId": "yuriko-yoshitaka",
+        "character": "与謝野祥子"
+      },
+      {
+        "actorId": "sosuke-ikematsu",
+        "character": "倉持一平"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "comedy",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 2
+    },
+    "runtime": 160,
+    "originalType": "novel",
+    "synopsis": "長崎から上京した大学生の世之介が、東京での日々を過ごす。頼まれごとを断れない彼の周りに、自然と人が集まってくる。十六年後、彼を思い出す人々の現在が挟み込まれる。吉田修一の小説を映画化した作品にあたる。現在と過去を往復する構成が、静かな余韻を生んでいる。高良健吾と吉高由里子の共演も見どころとなる。",
+    "tmdbId": 200145,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2013,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "samurai-hustle-returns",
+    "title": "超高速!参勤交代 リターンズ",
+    "titleKana": "ちょうこうそくさんきんこうたいりたーんず",
+    "directorIds": [
+      "katsuhide-motoki"
+    ],
+    "screenwriterIds": [
+      "akihiro-dobashi"
+    ],
+    "studioIds": [
+      "shochiku",
+      "shochiku-studio"
+    ],
+    "cast": [
+      {
+        "actorId": "kuranosuke-sasaki",
+        "character": "内藤政醇"
+      },
+      {
+        "actorId": "kyoko-fukada",
+        "character": "お咲"
+      },
+      {
+        "actorId": "tsuyoshi-ihara",
+        "character": "雲隠段蔵"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "jidaigeki",
+      "adventure"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 9
+    },
+    "runtime": 119,
+    "originalType": "novel",
+    "synopsis": "参勤を果たした湯長谷藩の一行が、帰路で一揆の報せを受ける。老中の報復による仕組まれた騒動だと知り、彼らは急ぎ国元を目指す。少人数で知恵を絞る道中が再び始まる。前作に続く続編にあたる作品となっている。軽快な会話と道中の趣向が、この作品の持ち味となっている。時代劇でありながら喜劇として作られている。",
+    "tmdbId": 442321,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "samurai-hustle"
+  },
+  {
+    "id": "the-emperor-in-august",
+    "title": "日本のいちばん長い日",
+    "titleKana": "にほんのいちばんながいひ",
+    "directorIds": [
+      "masato-harada"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "shochiku",
+      "asmik-ace"
+    ],
+    "cast": [
+      {
+        "actorId": "koji-yakusho",
+        "character": "阿南惟幾"
+      },
+      {
+        "actorId": "masahiro-motoki",
+        "character": "昭和天皇"
+      },
+      {
+        "actorId": "tori-matsuzaka",
+        "character": "畑中健二"
+      }
+    ],
+    "themeIds": [
+      "history",
+      "war",
+      "human-drama"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 8
+    },
+    "runtime": 136,
+    "originalType": "novel",
+    "synopsis": "一九四五年夏、ポツダム宣言をめぐって閣議が結論を出せずにいる。阿南陸相は本土決戦を主張し、天皇の意向との間で板挟みになる。玉音放送を阻もうとする将校たちが、宮城で決起する。半藤一利の著作を原作とし、二度目の映画化にあたる。閣議と宮城の二つの場を並行して描く構成をとっている。役所広司の演技が全編を支えている。",
+    "tmdbId": 314837,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2015,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "wilderness-part-1",
+    "title": "あゝ、荒野 前篇",
+    "titleKana": "ああこうや",
+    "directorIds": [
+      "yoshiyuki-kishi"
+    ],
+    "screenwriterIds": [
+      "takehiko-minato"
+    ],
+    "studioIds": [
+      "tv-man-union"
+    ],
+    "cast": [
+      {
+        "actorId": "masaki-suda",
+        "character": "新次"
+      },
+      {
+        "actorId": "yang-ik-june",
+        "character": "バリカン"
+      },
+      {
+        "actorId": "akari-kinoshita",
+        "character": "曽根芳子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sports",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 10
+    },
+    "runtime": 157,
+    "originalType": "novel",
+    "synopsis": "近未来の東京で、少年院を出た新次が拳闘の道へ入る。吃音に苦しむ建二もまた、同じジムで拳を握りはじめる。互いに欠けたものを補うように、二人は結びつく。寺山修司の唯一の長編小説を映画化した前後編の前編にあたる。原作の舞台を近未来に移し替え、長尺で描いた作品にあたる。菅田将暉の身体的な演技も見どころとなる。",
+    "tmdbId": 410227,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fly-me-to-the-saitama",
+    "title": "翔んで埼玉",
+    "titleKana": "とんでさいたま",
+    "directorIds": [
+      "hideki-takeuchi"
+    ],
+    "screenwriterIds": [
+      "yuichi-tokunaga"
+    ],
+    "studioIds": [
+      "toei-company",
+      "film"
+    ],
+    "cast": [
+      {
+        "actorId": "fumi-nikaido",
+        "character": "壇ノ浦百美"
+      },
+      {
+        "actorId": "gackt",
+        "character": "麻実麗"
+      },
+      {
+        "actorId": "yusuke-iseya",
+        "character": "阿久津翔"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "social",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 2
+    },
+    "runtime": 107,
+    "originalType": "manga",
+    "synopsis": "埼玉県人が東京都民に虐げられる架空の社会で、名門校に帰国子女の麗が転入する。生徒会長の百美は彼に惹かれるが、麗の正体は埼玉解放を目指す者だった。県境をめぐる荒唐無稽な争いが繰り広げられる。魔夜峰央の漫画を実写化した作品にあたる。荒唐無稽な設定を全力で押し切る作りが、大きな話題を呼んだ。二階堂ふみと歌手出身の俳優の共演も見どころとなる。",
+    "tmdbId": 554814,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2019,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "last-of-the-wolves",
+    "title": "孤狼の血 LEVEL2",
+    "titleKana": "ころうのちれべるつー",
+    "directorIds": [
+      "kazuya-shiraishi"
+    ],
+    "screenwriterIds": [
+      "junya-ikegami"
+    ],
+    "studioIds": [
+      "toei-tokyo",
+      "kinoshita-group"
+    ],
+    "cast": [
+      {
+        "actorId": "tori-matsuzaka",
+        "character": "日岡秀一"
+      },
+      {
+        "actorId": "ryohei-suzuki",
+        "character": "上林成浩"
+      },
+      {
+        "actorId": "nijiro-murakami",
+        "character": "近田耕太"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "suspense",
+      "action"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 8
+    },
+    "runtime": 139,
+    "originalType": "novel",
+    "synopsis": "大上の死から三年、日岡が広島の均衡を独自の方法で保っている。出所した上林が現れ、その均衡は一気に崩れる。容赦のない暴力が、街の関係者を次々に巻き込む。前作に続く白石和彌監督の続編にあたる作品となっている。鈴木亮平演じる敵役の造形が、公開当時に強い印象を残した。暴力描写の激しさでも議論を呼んでいる。",
+    "tmdbId": 826691,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "blood-of-wolves",
+    "awardResults": [
+      {
+        "awardId": "blue-ribbon",
+        "year": 2021,
+        "result": "作品賞"
+      }
+    ]
   }
 ]

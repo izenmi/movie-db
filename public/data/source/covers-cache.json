@@ -10378,5 +10378,55 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/30jcjfrwFlTyWqL6obLLzNQxwKK.jpg",
     "matchedTitle": "パッチギ！",
     "tmdbId": 129713
+  },
+  "kisaragi": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3VKvfyIePYCLxNYZeuJm0LHe17f.jpg",
+    "matchedTitle": "キサラギ",
+    "tmdbId": 27698
+  },
+  "climbers-high": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kbKRX7ylOUGc0YtVFp9XBqUTwvm.jpg",
+    "matchedTitle": "クライマーズ・ハイ",
+    "tmdbId": 41533
+  },
+  "the-summit-a-chronicle-of-stones-to-serenity": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kgtBerZSieaxAMAn2oVMj41NFpB.jpg",
+    "matchedTitle": "劔岳 点の記",
+    "tmdbId": 148066
+  },
+  "our-homeland": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uU1p1zPsXkdUwTPBRzdcJlvFu8.jpg",
+    "matchedTitle": "かぞくのくに",
+    "tmdbId": 107453
+  },
+  "a-story-of-yonosuke": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ipzOfDWK0xELYSNo1pJBkJSAUA3.jpg",
+    "matchedTitle": "横道世之介",
+    "tmdbId": 200145
+  },
+  "samurai-hustle-returns": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/Adcv0EjdRq4LjiiYBLXPcQ3qprh.jpg",
+    "matchedTitle": "超高速！参勤交代 リターンズ",
+    "tmdbId": 442321
+  },
+  "the-emperor-in-august": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9xV8znGkYatq0CrNAiXq3jAzznh.jpg",
+    "matchedTitle": "日本のいちばん長い日",
+    "tmdbId": 314837
+  },
+  "wilderness-part-1": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/jSX1xLSGEepasoenOGZsgpj18FU.jpg",
+    "matchedTitle": "あゝ、荒野 前篇",
+    "tmdbId": 410227
+  },
+  "fly-me-to-the-saitama": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yLIe5td2VpWHRMez5Wc8fVYJ8wM.jpg",
+    "matchedTitle": "翔んで埼玉",
+    "tmdbId": 554814
+  },
+  "last-of-the-wolves": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lK1Ueoiy1fbTJjOdseK3Tu0hT6L.jpg",
+    "matchedTitle": "孤狼の血 LEVEL2",
+    "tmdbId": 826691
   }
 }

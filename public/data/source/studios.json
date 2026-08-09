@@ -10996,5 +10996,59 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo Media Relations。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "micott-basara-k-k",
+    "name": "ミコット・エンド・バサラ",
+    "nameKana": "みこっとえんどばさら",
+    "description": "映画製作会社。『キサラギ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Micott & Basara K.K.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "slow-learner",
+    "name": "スローラーナー",
+    "nameKana": "すろーらーなー",
+    "description": "映画製作会社。『かぞくのくに』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Slow Learner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kirishima-1945",
+    "name": "キリシマ1945",
+    "nameKana": "きりしま",
+    "description": "映画製作会社。『横道世之介』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kirishima 1945。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shochiku-studio",
+    "name": "松竹撮影所",
+    "nameKana": "しょうちくさつえいじょ",
+    "description": "映画製作会社。『超高速！参勤交代 リターンズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shochiku Studio。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "film",
+    "name": "FILM",
+    "nameKana": "ふぃるむ",
+    "description": "映画製作会社。『翔んで埼玉』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toei-tokyo",
+    "name": "東映東京撮影所",
+    "nameKana": "とうえいとうきょうさつえいじょ",
+    "description": "映画製作会社。『孤狼の血 LEVEL2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toei Tokyo。",
+    "updatedAt": "2026-08-09"
   }
 ]
