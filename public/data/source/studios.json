@@ -5879,5 +5879,104 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Electric City Entertainment。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-sommers-company",
+    "name": "ソマーズ・カンパニー",
+    "nameKana": "ソマーズカンパニー",
+    "description": "映画製作会社。『ヴァン・ヘルシング』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Sommers Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "double-feature-films",
+    "name": "ダブル・フィーチャー・フィルムズ",
+    "nameKana": "ダブルフィーチャーフィルムズ",
+    "description": "映画製作会社。『ヘイトフル・エイト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Double Feature Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "destination-films",
+    "name": "デスティネーション・フィルムズ",
+    "nameKana": "デスティネーションフィルムズ",
+    "description": "映画製作会社。『メトロポリス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Destination Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "signal-md",
+    "name": "シグナル・エムディ",
+    "nameKana": "シグナルエムディ",
+    "description": "映画製作会社。『Fate/Grand Order -神聖円卓領域キャメロット- 前編 Wandering; Agateram』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Signal.MD。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gyao",
+    "name": "GYAO",
+    "nameKana": "ぎゃお",
+    "description": "映画製作会社。『寄生獣』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "3000-pictures",
+    "name": "3000ピクチャーズ",
+    "nameKana": "さんぜんぴくちゃーず",
+    "description": "映画製作会社。『ザリガニの鳴くところ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 3000 Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hello-sunshine",
+    "name": "ハロー・サンシャイン",
+    "nameKana": "ハローサンシャイン",
+    "description": "映画製作会社。『ザリガニの鳴くところ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hello Sunshine。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marza-animation-planet",
+    "name": "マーザ・アニメーションプラネット",
+    "nameKana": "マーザアニメーションプラネット",
+    "description": "映画製作会社。『キャプテンハーロック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marza Animation Planet。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "figment-films",
+    "name": "フィグメント・フィルムズ",
+    "nameKana": "フィグメントフィルムズ",
+    "description": "映画製作会社。『28週後...』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Figment Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "selznick-international-pictures",
+    "name": "セルズニック・インターナショナル・ピクチャーズ",
+    "nameKana": "セルズニックインターナショナルピクチャーズ",
+    "description": "映画製作会社。『風と共に去りぬ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Selznick International Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "canal",
+    "name": "カナル・プリュス",
+    "nameKana": "カナルプリュス",
+    "description": "映画製作会社。『LUCY／ルーシー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Canal+。",
+    "updatedAt": "2026-08-09"
   }
 ]

@@ -49610,5 +49610,1191 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "originalTitle": "The Accountant"
+  },
+  {
+    "id": "van-helsing",
+    "title": "ヴァン・ヘルシング",
+    "titleKana": "ばんへるしんぐ",
+    "directorIds": [
+      "stephen-sommers"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "universal",
+      "the-sommers-company"
+    ],
+    "cast": [
+      {
+        "actorId": "hugh-jackman",
+        "character": "ヴァン・ヘルシング"
+      },
+      {
+        "actorId": "kate-beckinsale",
+        "character": "アンナ・ヴァレリアス"
+      },
+      {
+        "actorId": "richard-roxburgh",
+        "character": "ドラキュラ伯爵"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "adventure",
+      "action",
+      "vampire",
+      "monster"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 9
+    },
+    "runtime": 133,
+    "originalType": "other",
+    "synopsis": "バチカンの密命で魔物を狩る男ヴァン・ヘルシングが、吸血鬼ドラキュラを倒すためトランシルバニアへ向かう。一族の宿命を背負う女性アンナと組んだ彼は、狼男や人造人間フランケンシュタインの怪物とも対峙する。古典的な怪物たちを一堂に集めた娯楽活劇として作られている。古典的な怪物映画への敬意と、大掛かりな特殊効果が同居している。",
+    "tmdbId": 7131,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Van Helsing"
+  },
+  {
+    "id": "pretty-guardian-sailor-moon-eternal-the-movie-part-1",
+    "title": "劇場版 美少女戦士セーラームーンEternal 前編",
+    "titleKana": "げきじょうばんびしょうじょせんしせーらーむーんえたーなるぜんぺん",
+    "directorIds": [
+      "chiaki-kon"
+    ],
+    "screenwriterIds": [
+      "kazuyuki-fudeyasu"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "toei-company"
+    ],
+    "cast": [
+      {
+        "actorId": "kotono-mitsuishi",
+        "character": "月野うさぎ"
+      },
+      {
+        "actorId": "misato-fukuen",
+        "character": "ちびうさ"
+      },
+      {
+        "actorId": "hisako-kanemoto",
+        "character": "水野亜美"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "magic",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 1
+    },
+    "runtime": 80,
+    "originalType": "manga",
+    "synopsis": "皆既日食に沸く街に、デッド・ムーンサーカスと名乗る一団が現れる。うさぎとちびうさは助けを求めるペガサスと出会い、悪夢を撒く女王ネヘレニアの企てに巻き込まれる。原作のデッド・ムーン編を二部構成で映像化した前編で、変身の作画と色彩設計が大きく刷新されている。原作に近い意匠へ回帰した作りで、長年の愛好者に向けて制作された。",
+    "tmdbId": 618851,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "sailor-moon"
+  },
+  {
+    "id": "fullmetal-alchemist-the-sacred-star-of-milos",
+    "title": "鋼の錬金術師 嘆きの丘（ミロス）の聖なる星",
+    "titleKana": "はがねのれんきんじゅつしなげきのおかのせいなるほし",
+    "directorIds": [
+      "kazuya-murata"
+    ],
+    "screenwriterIds": [
+      "yuichi-shinpo"
+    ],
+    "studioIds": [
+      "bones",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "romi-park",
+        "character": "エドワード・エルリック"
+      },
+      {
+        "actorId": "rie-kugimiya",
+        "character": "アルフォンス・エルリック"
+      },
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "ジュリア・クライトン"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "action",
+      "sf",
+      "magic",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2011,
+      "month": 7
+    },
+    "runtime": 111,
+    "originalType": "manga",
+    "synopsis": "脱獄した錬金術師を追ったエドとアルは、二国に挟まれた谷の街ミロスにたどり着く。そこでは故郷を奪われた民族が独立を求めて抵抗を続けていた。血の紋章を巡る争いに巻き込まれた兄弟は、少女ジュリアの願いの行き着く先を目の当たりにする。劇場版の第二作にあたる。劇場オリジナルの題材ながら、原作の主題である等価交換が貫かれている。",
+    "tmdbId": 80518,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "fullmetal-alchemist"
+  },
+  {
+    "id": "mission-impossible-iii",
+    "title": "ミッション：インポッシブル３",
+    "titleKana": "みっしょんいんぽっしぶるすりー",
+    "directorIds": [
+      "j-j-abrams"
+    ],
+    "screenwriterIds": [
+      "alex-kurtzman",
+      "roberto-orci"
+    ],
+    "studioIds": [
+      "paramount",
+      "cruise-wagner-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-cruise",
+        "character": "イーサン・ハント"
+      },
+      {
+        "actorId": "philip-seymour-hoffman",
+        "character": "オーウェン・デイヴィアン"
+      },
+      {
+        "actorId": "ving-rhames",
+        "character": "ルーサー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "suspense",
+      "spy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 7
+    },
+    "runtime": 126,
+    "originalType": "original",
+    "synopsis": "教官として後進を育てていたイーサンは、教え子の救出任務で武器商人デイヴィアンと対峙する。私生活を守るために身分を隠していた彼は、婚約者を人質に取られ追い詰められる。バチカンへの潜入や上海の高層ビルからの降下など、任務ごとの趣向が積み重ねられている。敵役の不気味さが際立ち、シリーズの中でも緊張の強い一作となった。",
+    "tmdbId": 956,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Mission: Impossible III",
+    "seriesId": "mission-impossible"
+  },
+  {
+    "id": "the-hateful-eight",
+    "title": "ヘイトフル・エイト",
+    "titleKana": "へいとふるえいと",
+    "directorIds": [
+      "quentin-tarantino"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "the-weinstein-company",
+      "double-feature-films"
+    ],
+    "cast": [
+      {
+        "actorId": "samuel-l-jackson",
+        "character": "マーキス・ウォーレン"
+      },
+      {
+        "actorId": "kurt-russell",
+        "character": "ジョン・ルース"
+      },
+      {
+        "actorId": "jennifer-jason-leigh",
+        "character": "デイジー・ドメルグ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "western",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 2
+    },
+    "runtime": 168,
+    "originalType": "original",
+    "synopsis": "猛吹雪のワイオミングで、賞金稼ぎや保安官を名乗る八人が一軒の宿に閉じ込められる。全員が嘘をついている状況で、コーヒーに毒が仕込まれていることが判明する。誰が味方で誰が敵かを探り合う密室劇が、長い会話の応酬として展開する。七十ミリ撮影で作られた一作。一室に人物を閉じ込める構成で、会話そのものが武器として機能する。",
+    "tmdbId": 273248,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Hateful Eight"
+  },
+  {
+    "id": "war-for-the-planet-of-the-apes",
+    "title": "猿の惑星：聖戦記",
+    "titleKana": "さるのわくせいせいせんき",
+    "directorIds": [
+      "matt-reeves"
+    ],
+    "screenwriterIds": [
+      "mark-bomback"
+    ],
+    "studioIds": [
+      "20th-century-fox",
+      "tsg-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "andy-serkis",
+        "character": "シーザー"
+      },
+      {
+        "actorId": "woody-harrelson",
+        "character": "大佐"
+      },
+      {
+        "actorId": "karin-konoval",
+        "character": "モーリス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sf",
+      "war",
+      "revenge",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 10
+    },
+    "runtime": 140,
+    "originalType": "novel",
+    "synopsis": "人類との戦争が続くなか、シーザーは奇襲で妻と長男を失う。復讐のため大佐を追う旅に出た彼は、捕虜として収容所に囚われる同胞たちを目にする。指導者としての責務と個人の憎しみの間で揺れる姿を描き、三部作を締めくくる完結編となっている。表情を捉える技術の到達点として、シーザーの演技が高く評価された。三部作の主題に静かな決着をつけている。",
+    "tmdbId": 281338,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "War for the Planet of the Apes",
+    "seriesId": "planet-of-the-apes"
+  },
+  {
+    "id": "metropolis",
+    "title": "メトロポリス",
+    "titleKana": "めとろぽりす",
+    "directorIds": [
+      "rintaro"
+    ],
+    "screenwriterIds": [
+      "katsuhiro-otomo"
+    ],
+    "studioIds": [
+      "bandai-visual",
+      "destination-films"
+    ],
+    "cast": [
+      {
+        "actorId": "yuka-imoto",
+        "character": "ティマ"
+      },
+      {
+        "actorId": "kohki-okada",
+        "character": "ロック"
+      },
+      {
+        "actorId": "kosei-tomita",
+        "character": "伴俊作"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "robot",
+      "dystopia"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2001,
+      "month": 5
+    },
+    "runtime": 107,
+    "originalType": "manga",
+    "synopsis": "巨大都市メトロポリスを訪れた探偵と助手のケンイチは、人造人間の開発をめぐる事件を追う。そこで出会った少女ティマは、自分が人間かどうかを知らずにいた。人とロボットの階層が固定された社会で、権力者の思惑が都市そのものを崩していく。手塚治虫の漫画を原作にした劇場アニメ。",
+    "tmdbId": 9606,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fate-grand-order-the-movie-divine-realm-of-the",
+    "title": "Fate/Grand Order 神聖円卓領域キャメロット 前編",
+    "titleKana": "ふぇいとぐらんどおーだーきゃめろっとぜんぺん",
+    "directorIds": [
+      "kei-suezawa"
+    ],
+    "screenwriterIds": [
+      "ukyo-kodachi"
+    ],
+    "studioIds": [
+      "signal-md",
+      "production-i-g"
+    ],
+    "cast": [
+      {
+        "actorId": "mamoru-miyano",
+        "character": "ベディヴィエール"
+      },
+      {
+        "actorId": "nobunaga-shimazaki",
+        "character": "藤丸立香"
+      },
+      {
+        "actorId": "rie-takahashi",
+        "character": "マシュ・キリエライト"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "history",
+      "human-drama",
+      "fantasy",
+      "magic",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2020,
+      "month": 12
+    },
+    "runtime": 90,
+    "originalType": "game",
+    "synopsis": "人理修復の旅の途上、藤丸立香とマシュは十三世紀の聖地エルサレムに降り立つ。そこでは獅子王が円卓の騎士を従え、独自の理想郷を築こうとしていた。片腕の騎士ベディヴィエールとともに、彼らは砂の大地を巡り抵抗勢力と合流する。人気ゲームの章を二部作で映像化した前編。砂漠の風景と円卓の騎士たちの造形が、映像として大きく描かれている。",
+    "tmdbId": 637202,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "star-trek-into-darkness",
+    "title": "スター・トレック イントゥ・ダークネス",
+    "titleKana": "すたーとれっくいんとぅだーくねす",
+    "directorIds": [
+      "j-j-abrams"
+    ],
+    "screenwriterIds": [
+      "alex-kurtzman",
+      "roberto-orci"
+    ],
+    "studioIds": [
+      "bad-robot",
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-pine",
+        "character": "ジェームズ・T・カーク"
+      },
+      {
+        "actorId": "zachary-quinto",
+        "character": "スポック"
+      },
+      {
+        "actorId": "zoe-saldana",
+        "character": "ウフーラ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 8
+    },
+    "runtime": 133,
+    "originalType": "other",
+    "synopsis": "ロンドンでの爆破と宇宙艦隊本部への襲撃を起こした男ハリソンを追い、カークは規律を破って敵地へ乗り込む。だが捕らえた相手の正体は、冷凍睡眠から目覚めた強化人間だった。艦隊内部の思惑が明らかになるなか、カークとスポックの友情が試される。再起動シリーズの第二作。古典的な人物を現代的に再解釈した点で、公開時に議論を呼んだ。",
+    "tmdbId": 54138,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Star Trek Into Darkness",
+    "seriesId": "star-trek"
+  },
+  {
+    "id": "sing",
+    "title": "SING／シング",
+    "titleKana": "しんぐ",
+    "directorIds": [
+      "garth-jennings"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "illumination"
+    ],
+    "cast": [
+      {
+        "actorId": "matthew-mcconaughey",
+        "character": "バスター・ムーン"
+      },
+      {
+        "actorId": "reese-witherspoon",
+        "character": "ロジータ"
+      },
+      {
+        "actorId": "seth-macfarlane",
+        "character": "マイク"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "music"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2017,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "取り壊し寸前の劇場を救うため、コアラの支配人バスターは歌のオーディションを企画する。集まったのは、家庭に埋もれた母豚、内気な象、盗みを働く家族を持つゴリラなど、事情を抱えた面々だった。実在の楽曲を多数使い、それぞれの再起を軽やかに描く。楽曲の使用権に多額を投じ、劇中歌の充実が作品の魅力になっている。",
+    "tmdbId": 335797,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Sing",
+    "seriesId": "sing"
+  },
+  {
+    "id": "50-first-dates",
+    "title": "50回目のファースト・キス",
+    "titleKana": "ごじゅっかいめのふぁーすときす",
+    "directorIds": [
+      "peter-segal"
+    ],
+    "screenwriterIds": [
+      "george-wing"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "anonymous-content"
+    ],
+    "cast": [
+      {
+        "actorId": "adam-sandler",
+        "character": "ヘンリー・ロス"
+      },
+      {
+        "actorId": "drew-barrymore",
+        "character": "ルーシー・ウィットモア"
+      },
+      {
+        "actorId": "rob-schneider",
+        "character": "ウラ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 6
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "ハワイで気楽な独身生活を送るヘンリーは、事故の後遺症で一日しか記憶を保てない女性ルーシーに恋をする。毎朝はじめましてから始まる関係を続けるため、彼は毎日新しい出会い方を考える。忘れられる側の忍耐と、家族が守ってきた嘘が同時に描かれる。軽い喜劇として進みながら、終盤で家族の献身が静かに効いてくる。",
+    "tmdbId": 1824,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "50 First Dates"
+  },
+  {
+    "id": "pokemon-jirachi-wish-maker",
+    "title": "劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ",
+    "titleKana": "げきじょうばんぽけっともんすたーななよのねがいぼしじらーち",
+    "directorIds": [
+      "kunihiko-yuyama"
+    ],
+    "screenwriterIds": [
+      "hideki-sonoda"
+    ],
+    "studioIds": [
+      "olm",
+      "pikachu-project"
+    ],
+    "cast": [
+      {
+        "actorId": "rica-matsumoto",
+        "character": "サトシ"
+      },
+      {
+        "actorId": "yuji-ueda",
+        "character": "タケシ"
+      },
+      {
+        "actorId": "kaori",
+        "character": "ハルカ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "action",
+      "adventure",
+      "fantasy",
+      "sf",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2003,
+      "month": 7
+    },
+    "runtime": 82,
+    "originalType": "game",
+    "synopsis": "千年に一度だけ目覚める幻のポケモン、ジラーチと出会ったマサトは、七日間だけの友情を育む。だが願いを叶える力を狙う元ロケット団の科学者バトラーが、故郷の再生のために暴走する。別れが決まっている相手とどう過ごすかという主題が、静かに描かれる。願いを叶える力の代償という主題が、シリーズらしい形で描かれている。",
+    "tmdbId": 36218,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "pokemon"
+  },
+  {
+    "id": "parasyte-part-1",
+    "title": "寄生獣",
+    "titleKana": "きせいじゅう",
+    "directorIds": [
+      "takashi-yamazaki"
+    ],
+    "screenwriterIds": [
+      "ryota-kosawa"
+    ],
+    "studioIds": [
+      "dentsu",
+      "gyao"
+    ],
+    "cast": [
+      {
+        "actorId": "shota-sometani",
+        "character": "泉新一"
+      },
+      {
+        "actorId": "sadao-abe",
+        "character": "ミギー"
+      },
+      {
+        "actorId": "eri-fukatsu",
+        "character": "田宮良子"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "horror",
+      "action",
+      "human-drama",
+      "monster"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 11
+    },
+    "runtime": 90,
+    "originalType": "manga",
+    "synopsis": "夜空から降ってきた寄生生物が人間に取り憑き、同族を捕食しはじめる。高校生の泉新一は脳を乗っ取られずに済み、右手に宿った寄生生物ミギーと共生することになる。人を食う存在と暮らすうち、彼は人間とは何かという問いを突きつけられる。漫画を前後編で実写化した前編。ミギーの表現に力が注がれ、原作の異物感を実写で成立させている。",
+    "tmdbId": 282069,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-twilight-saga-breaking-dawn-part-2",
+    "title": "トワイライト・サーガ／ブレイキング・ドーン Part  2",
+    "titleKana": "とわいらいとさーがぶれいきんぐどーんぱーとつー",
+    "directorIds": [
+      "bill-condon"
+    ],
+    "screenwriterIds": [
+      "melissa-rosenberg"
+    ],
+    "studioIds": [
+      "summit",
+      "temple-hill-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "kristen-stewart",
+        "character": "ベラ・スワン"
+      },
+      {
+        "actorId": "robert-pattinson",
+        "character": "エドワード・カレン"
+      },
+      {
+        "actorId": "taylor-lautner",
+        "character": "ジェイコブ・ブラック"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "romance",
+      "vampire",
+      "family",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 12
+    },
+    "runtime": 116,
+    "originalType": "novel",
+    "synopsis": "吸血鬼となったベラは、娘レネズミとともに新しい生を歩みはじめる。だが不滅の子と誤解した王族ヴォルトゥーリが、一族の抹殺を決定する。世界中から証人を集めたカレン一族との対峙が、雪原での決戦へ向かう。五部作の完結編にあたる。終盤に用意された仕掛けが、シリーズの締めくくりとして話題を呼んだ。長い物語に一つの答えが与えられる。",
+    "tmdbId": 50620,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Twilight Saga: Breaking Dawn - Part 2",
+    "seriesId": "twilight"
+  },
+  {
+    "id": "where-the-crawdads-sing",
+    "title": "ザリガニの鳴くところ",
+    "titleKana": "ざりがにのなくところ",
+    "directorIds": [
+      "olivia-newman"
+    ],
+    "screenwriterIds": [
+      "lucy-alibar"
+    ],
+    "studioIds": [
+      "3000-pictures",
+      "hello-sunshine"
+    ],
+    "cast": [
+      {
+        "actorId": "daisy-edgar-jones",
+        "character": "カイア・クラーク"
+      },
+      {
+        "actorId": "taylor-john-smith",
+        "character": "テイト・ウォーカー"
+      },
+      {
+        "actorId": "harris-dickinson",
+        "character": "チェイス・アンドリュース"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 11
+    },
+    "runtime": 126,
+    "originalType": "novel",
+    "synopsis": "一九六九年、湿地帯で青年の変死体が見つかり、家族に捨てられ独りで育った女性カイアが逮捕される。裁判と並行して、彼女が湿地で生き延び、絵と観察の力を身につけていった半生が語られる。閉ざされた共同体の偏見と、自然の描写が全編を貫く。湿地の映像と法廷劇を往復する構成が、原作の空気を伝えている。ベストセラー小説の映画化として注目された。",
+    "tmdbId": 682507,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Where the Crawdads Sing"
+  },
+  {
+    "id": "space-pirate-captain-harlock",
+    "title": "キャプテンハーロック",
+    "titleKana": "きゃぷてんはーろっく",
+    "directorIds": [
+      "shinji-aramaki"
+    ],
+    "screenwriterIds": [
+      "kiyoto-takeuchi",
+      "harutoshi-fukui"
+    ],
+    "studioIds": [
+      "toei-animation",
+      "marza-animation-planet"
+    ],
+    "cast": [
+      {
+        "actorId": "shun-oguri",
+        "character": "ハーロック"
+      },
+      {
+        "actorId": "haruma-miura",
+        "character": "ヤマ"
+      },
+      {
+        "actorId": "yu-aoi",
+        "character": "ミーメ"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "space",
+      "robot",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2013,
+      "month": 9
+    },
+    "runtime": 115,
+    "originalType": "manga",
+    "synopsis": "居住権をめぐって人類が争う時代、宇宙海賊ハーロックは巨大戦艦アルカディア号で全宙域から追われていた。密偵として乗り込んだ青年ヤマは、船長の真の目的を知ることになる。松本零士の作品をフルCGで作り直した一作で、映像技術に大きな予算が投じられた。艦の造形と宇宙戦の映像は、当時の国産CGの水準を示すものとなった。",
+    "tmdbId": 192577,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ugetsu",
+    "title": "雨月物語",
+    "titleKana": "うげつものがたり",
+    "directorIds": [
+      "kenji-mizoguchi"
+    ],
+    "screenwriterIds": [
+      "yoshikata-yoda"
+    ],
+    "studioIds": [
+      "daiei-film"
+    ],
+    "cast": [
+      {
+        "actorId": "machiko-kyo",
+        "character": "若狭"
+      },
+      {
+        "actorId": "mitsuko-mito",
+        "character": "お浜"
+      },
+      {
+        "actorId": "kinuyo-tanaka",
+        "character": "宮木"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "mystery",
+      "classic",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1953,
+      "month": 3
+    },
+    "runtime": 96,
+    "originalType": "novel",
+    "synopsis": "戦国の世、陶工の源十郎は一儲けを夢見て都へ向かい、屋敷に住む若狭という女性に迎え入れられる。だが彼女は死霊であり、男は妻と子を残して幻の暮らしに溺れていく。もう一人の男は侍になる夢を追い、妻を失う。上田秋成の怪異譚を下敷きに、戦乱と人の欲を描いた古典。移動撮影と長回しによる幽玄な画面が、映画史の古典として語られる。",
+    "tmdbId": 14696,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tomb-raider",
+    "title": "トゥームレイダー ファースト・ミッション",
+    "titleKana": "とぅーむれいだーふぁーすとみっしょん",
+    "directorIds": [
+      "roar-uthaug"
+    ],
+    "screenwriterIds": [
+      "geneva-robertson-dworet",
+      "alastair-siddons"
+    ],
+    "studioIds": [
+      "square-enix",
+      "gk-films"
+    ],
+    "cast": [
+      {
+        "actorId": "alicia-vikander",
+        "character": "ララ・クロフト"
+      },
+      {
+        "actorId": "dominic-west",
+        "character": "リチャード・クロフト"
+      },
+      {
+        "actorId": "walton-goggins",
+        "character": "マティアス・ヴォーゲル"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "fantasy",
+      "game-world"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2018,
+      "month": 3
+    },
+    "runtime": 118,
+    "originalType": "game",
+    "synopsis": "冒険家だった父の失踪から七年、ララ・クロフトは遺言を拒み配達員として生計を立てていた。父の隠し部屋で見つけた記録をもとに、彼女は日本近海の伝説の島へ向かう。島では組織が古代の墓所を暴こうとしており、彼女は初めて命懸けの戦いに身を投じる。人気ゲームの再映画化として、生身の肉体を使った描写を重視している。",
+    "tmdbId": 338970,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Tomb Raider"
+  },
+  {
+    "id": "28-weeks-later",
+    "title": "28週後...",
+    "titleKana": "にじゅうはっしゅうご",
+    "directorIds": [
+      "juan-carlos-fresnadillo"
+    ],
+    "screenwriterIds": [
+      "rowan-joffe"
+    ],
+    "studioIds": [
+      "dna-films",
+      "figment-films"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-carlyle",
+        "character": "ドナルド・ハリス"
+      },
+      {
+        "actorId": "rose-byrne",
+        "character": "スカーレット"
+      },
+      {
+        "actorId": "jeremy-renner",
+        "character": "ドイル軍曹"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "suspense",
+      "sf",
+      "zombie",
+      "apocalypse",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 1
+    },
+    "runtime": 99,
+    "originalType": "original",
+    "synopsis": "感染爆発から二十八週、ロンドンでは軍の管理下で市民の帰還が始まっていた。だが妻を見捨てて生き延びた男の家族が再会したことで、免疫を持つ感染者が持ち込まれてしまう。安全地帯が一夜で崩壊し、子どもたちは軍の掃討から逃げることになる。前作の続編にあたる。軍による管理と統制の脆さを描き、前作とは別の恐怖を提示している。",
+    "tmdbId": 1562,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "28 Weeks Later",
+    "seriesId": "28-days-later"
+  },
+  {
+    "id": "saw",
+    "title": "ソウ",
+    "titleKana": "そう",
+    "directorIds": [
+      "james-wan"
+    ],
+    "screenwriterIds": [
+      "leigh-whannell"
+    ],
+    "studioIds": [
+      "twisted-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "tobin-bell",
+        "character": "ジョン・クレイマー"
+      },
+      {
+        "actorId": "cary-elwes",
+        "character": "ローレンス・ゴードン"
+      },
+      {
+        "actorId": "leigh-whannell",
+        "character": "アダム"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "crime",
+      "twist",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 10
+    },
+    "runtime": 103,
+    "originalType": "original",
+    "synopsis": "老朽化した浴室で、二人の男が足を鎖でつながれた状態で目覚める。与えられたのはノコギリと録音テープ、そして六時間以内に相手を殺せという指示だった。同じ頃、猟奇的な仕掛けで人を試す犯人ジグソウを刑事が追っていた。低予算から始まり長大なシリーズを生んだ一作。密室と回想を組み合わせた構成で、終盤の反転が広く知られている。",
+    "tmdbId": 176,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Saw",
+    "seriesId": "saw"
+  },
+  {
+    "id": "fate-strange-fake-whispers-of-dawn",
+    "title": "Fate/strange Fake -Whispers of Dawn-",
+    "titleKana": "ふぇいとすとれんじふぇいく",
+    "directorIds": [
+      "takahito-sakazume",
+      "shun-enokido"
+    ],
+    "screenwriterIds": [
+      "daisuke-ohigashi"
+    ],
+    "studioIds": [
+      "a-1-pictures",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "kana-hanazawa",
+        "character": "沙条綾香"
+      },
+      {
+        "actorId": "yuki-ono",
+        "character": "セイバー"
+      },
+      {
+        "actorId": "sumire-morohoshi",
+        "character": "ティーネ・チェルク"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy",
+      "human-drama",
+      "magic",
+      "war"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 7
+    },
+    "runtime": 56,
+    "originalType": "lightnovel",
+    "synopsis": "アメリカの荒野の街で、偽物と呼ばれる聖杯戦争が始まろうとしていた。魔術師と英霊たちが思惑を抱えて集結するなか、記憶を失った少女アヤカがセイバーと出会う。テレビシリーズに先立って制作された特別編で、開幕までの空気を丁寧に積み上げている。米国を舞台にした新しい聖杯戦争の幕開けを描く序章にあたる。",
+    "tmdbId": 1145612,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gone-with-the-wind",
+    "title": "風と共に去りぬ",
+    "titleKana": "かぜとともにさりぬ",
+    "directorIds": [
+      "victor-fleming"
+    ],
+    "screenwriterIds": [
+      "sidney-howard"
+    ],
+    "studioIds": [
+      "selznick-international-pictures",
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "vivien-leigh",
+        "character": "スカーレット・オハラ"
+      },
+      {
+        "actorId": "clark-gable",
+        "character": "レット・バトラー"
+      },
+      {
+        "actorId": "olivia-de-havilland",
+        "character": "メラニー・ハミルトン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "war",
+      "romance",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1952,
+      "month": 9
+    },
+    "runtime": 238,
+    "originalType": "novel",
+    "synopsis": "南北戦争前夜のジョージア。大農園の令嬢スカーレット・オハラは、思い通りにならない恋に苛立ちながら奔放に生きていた。戦争が全てを焼き払い、彼女は生き延びるために手段を選ばなくなる。時代の変化と一人の女性の意地を四時間にわたって描いた大作。当時の技術を尽くした色彩と大規模な場面が、今も語り継がれている。",
+    "tmdbId": 770,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Gone with the Wind"
+  },
+  {
+    "id": "lucy",
+    "title": "LUCY／ルーシー",
+    "titleKana": "るーしー",
+    "directorIds": [
+      "luc-besson"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "europacorp",
+      "canal"
+    ],
+    "cast": [
+      {
+        "actorId": "scarlett-johansson",
+        "character": "ルーシー"
+      },
+      {
+        "actorId": "morgan-freeman",
+        "character": "ノーマン教授"
+      },
+      {
+        "actorId": "choi-min-sik",
+        "character": "ジャン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "dystopia"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 8
+    },
+    "runtime": 89,
+    "originalType": "original",
+    "synopsis": "台北で運び屋にされた女性ルーシーは、体内に埋め込まれた薬物が漏れ出したことで脳の使用領域が加速度的に拡大していく。物質や時間さえ操れるようになる一方、人としての感覚は薄れていく。残された時間で知識を託そうとする彼女と、それを追う組織の争いが描かれる。科学的な誇張を承知の上で押し切る構成が、独特の勢いを生んでいる。",
+    "tmdbId": 240832,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Lucy"
+  },
+  {
+    "id": "john-wick-chapter-3-parabellum",
+    "title": "ジョン・ウィック：パラベラム",
+    "titleKana": "じょんうぃっくぱらべらむ",
+    "directorIds": [
+      "chad-stahelski"
+    ],
+    "screenwriterIds": [
+      "marc-abrams",
+      "chris-collins"
+    ],
+    "studioIds": [
+      "thunder-road",
+      "lionsgate"
+    ],
+    "cast": [
+      {
+        "actorId": "keanu-reeves",
+        "character": "ジョン・ウィック"
+      },
+      {
+        "actorId": "halle-berry",
+        "character": "ソフィア"
+      },
+      {
+        "actorId": "ian-mcshane",
+        "character": "ウィンストン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "crime",
+      "revenge",
+      "martial-arts"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 10
+    },
+    "runtime": 131,
+    "originalType": "original",
+    "synopsis": "掟を破ったジョンは、聖域を失い世界中の殺し屋から狙われる身になる。かつての恩義を頼りにカサブランカへ渡り、旧知のソフィアと共に組織の頂点との接触を図る。図書館の書物や馬、犬までが武器になる戦いが続く。シリーズ第三作にあたる。馬上や図書館での戦いなど、趣向を凝らした場面が連続する。犬を使った戦闘も見どころとなっている。",
+    "tmdbId": 458156,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "John Wick: Chapter 3 - Parabellum",
+    "seriesId": "john-wick"
   }
 ]
