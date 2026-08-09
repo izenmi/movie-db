@@ -1096,5 +1096,392 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dana Ledoux Miller。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masaki-kobayashi",
+    "name": "小林正樹",
+    "nameKana": "こばやしまさき",
+    "description": "映画監督。『切腹』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masaki Kobayashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tensai-okamura",
+    "name": "岡村天斎",
+    "nameKana": "おかむらてんさい",
+    "description": "映画監督。『僕のヒーローアカデミア THE MOVIE ユアネクスト』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tensai Okamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yosuke-kuroda",
+    "name": "黒田洋介",
+    "nameKana": "くろだよすけ",
+    "description": "脚本家。『僕のヒーローアカデミア THE MOVIE ユアネクスト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yosuke Kuroda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-sinclair",
+    "name": "スティーヴン・シンクレア",
+    "nameKana": "スティーヴンシンクレア",
+    "description": "脚本家。『ロード・オブ・ザ・リング／二つの塔』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Sinclair。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "domingo-gonzalez",
+    "name": "ドミンゴ・ゴンサレス",
+    "nameKana": "ドミンゴゴンサレス",
+    "description": "映画監督・脚本家。『俺の過ち』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Domingo González。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sunghoo-park",
+    "name": "朴性厚",
+    "nameKana": "ぱすんほお",
+    "description": "映画監督。『劇場版 呪術廻戦 0』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sunghoo Park。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mike-newell",
+    "name": "マイク・ニューウェル",
+    "nameKana": "マイクニューウェル",
+    "description": "映画監督。『ハリー・ポッターと炎のゴブレット』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mike Newell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henry-selick",
+    "name": "ヘンリー・セリック",
+    "nameKana": "ヘンリーセリック",
+    "description": "映画監督・脚本家。『コララインとボタンの魔女』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Henry Selick。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-trachtenberg",
+    "name": "ダン・トラクテンバーグ",
+    "nameKana": "ダントラクテンバーグ",
+    "description": "映画監督。『プレデター：バッドランド』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Trachtenberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "patrick-aison",
+    "name": "パトリック・アイソン",
+    "nameKana": "パトリックアイソン",
+    "description": "脚本家。『プレデター：バッドランド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Patrick Aison。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kiyotaka-oshiyama",
+    "name": "押山清高",
+    "nameKana": "おしやまきよたか",
+    "description": "映画監督・脚本家。『ルックバック』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kiyotaka Oshiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kota-yoshida",
+    "name": "吉田浩太",
+    "nameKana": "よしだた",
+    "description": "映画監督・脚本家。『ちょっとかわいいアイアンメイデン』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kōta Yoshida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roger-allers",
+    "name": "ロジャー・アレーズ",
+    "nameKana": "ロジャーアレーズ",
+    "description": "映画監督。『ライオン・キング』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roger Allers。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rob-minkoff",
+    "name": "ロブ・ミンコフ",
+    "nameKana": "ロブミンコフ",
+    "description": "映画監督。『ライオン・キング』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rob Minkoff。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "linda-woolverton",
+    "name": "リンダ・ウールヴァートン",
+    "nameKana": "リンダウールヴァートン",
+    "description": "脚本家。『ライオン・キング』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Linda Woolverton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-roberts",
+    "name": "ジョナサン・ロバーツ",
+    "nameKana": "ジョナサンロバーツ",
+    "description": "脚本家。『ライオン・キング』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan Roberts。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alfonso-cuaron",
+    "name": "アルフォンソ・キュアロン",
+    "nameKana": "アルフォンソキュアロン",
+    "description": "映画監督。『ハリー・ポッターとアズカバンの囚人』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alfonso Cuarón。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-morita",
+    "name": "森田宏幸",
+    "nameKana": "もりたひろゆき",
+    "description": "映画監督。『猫の恩返し』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Morita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "coralie-fargeat",
+    "name": "コラリー・ファルジャ",
+    "nameKana": "コラリーファルジャ",
+    "description": "映画監督・脚本家。『サブスタンス』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Coralie Fargeat。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "george-lucas",
+    "name": "ジョージ・ルーカス",
+    "nameKana": "ジョージルーカス",
+    "description": "映画監督・脚本家。『スター・ウォーズ エピソード４／新たなる希望』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: George Lucas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eijiro-hisaita",
+    "name": "久板栄二郎",
+    "nameKana": "ひさいたえいじろ",
+    "description": "脚本家。『天国と地獄』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eijiro Hisaita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryuzo-kikushima",
+    "name": "菊島隆三",
+    "nameKana": "きくしまりゅぞ",
+    "description": "脚本家。『天国と地獄』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryuzo Kikushima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ridley-scott",
+    "name": "リドリー・スコット",
+    "nameKana": "リドリースコット",
+    "description": "映画監督。『グラディエーター』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ridley Scott。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-franzoni",
+    "name": "デヴィッド・フランゾーニ",
+    "nameKana": "デヴィッドフランゾーニ",
+    "description": "脚本家。『グラディエーター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Franzoni。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-logan",
+    "name": "ジョン・ローガン",
+    "nameKana": "ジョンローガン",
+    "description": "脚本家。『グラディエーター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Logan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taika-waititi",
+    "name": "タイカ・ワイティティ",
+    "nameKana": "タイカワイティティ",
+    "description": "映画監督。『マイティ・ソー バトルロイヤル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Taika Waititi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "craig-kyle",
+    "name": "クレイグ・カイル",
+    "nameKana": "クレイグカイル",
+    "description": "脚本家。『マイティ・ソー バトルロイヤル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Craig Kyle。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "christopher-l-yost",
+    "name": "クリストファー・L・ヨスト",
+    "nameKana": "よりとへ",
+    "description": "脚本家。『マイティ・ソー バトルロイヤル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Christopher L. Yost。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryan-coogler",
+    "name": "ライアン・クーグラー",
+    "nameKana": "ライアンクーグラー",
+    "description": "映画監督・脚本家。『罪人たち』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryan Coogler。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiromasa-yonebayashi",
+    "name": "米林宏昌",
+    "nameKana": "よねばやしひろまさ",
+    "description": "映画監督。『借りぐらしのアリエッティ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiromasa Yonebayashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiko-niwa",
+    "name": "丹羽圭子",
+    "nameKana": "にわけいこ",
+    "description": "脚本家。『借りぐらしのアリエッティ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiko Niwa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seishi-minakami",
+    "name": "水上清資",
+    "nameKana": "みなかみせいし",
+    "description": "脚本家。『パプリカ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seishi Minakami。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-frankel",
+    "name": "デヴィッド・フランケル",
+    "nameKana": "デヴィッドフランケル",
+    "description": "映画監督。『プラダを着た悪魔』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Frankel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aline-brosh-mckenna",
+    "name": "アライン・ブロッシュ・マッケンナ",
+    "nameKana": "アラインブロッシュマッケンナ",
+    "description": "脚本家。『プラダを着た悪魔』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aline Brosh McKenna。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-yates",
+    "name": "デヴィッド・イェーツ",
+    "nameKana": "デヴィッドイェーツ",
+    "description": "映画監督。『ハリー・ポッターと死の秘宝 Part1』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Yates。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "justin-theroux",
+    "name": "ジャスティン・セロー",
+    "nameKana": "ジャスティンセロー",
+    "description": "脚本家。『アイアンマン2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Justin Theroux。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seiji-tanaka",
+    "name": "田中征爾",
+    "nameKana": "たなかせいじ",
+    "description": "映画監督・脚本家。『Demon City 鬼ゴロシ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seiji Tanaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eric-roth",
+    "name": "エリック・ロス",
+    "nameKana": "エリックロス",
+    "description": "脚本家。『DUNE／デューン 砂の惑星』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eric Roth。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gale-anne-hurd",
+    "name": "ゲイル・アン・ハード",
+    "nameKana": "ゲイルアンハード",
+    "description": "脚本家。『ターミネーター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gale Anne Hurd。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masato-jimbo",
+    "name": "神保昌登",
+    "nameKana": "じぼまさと",
+    "description": "映画監督。『映画 五等分の花嫁』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masato Jimbo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiichiro-ochi",
+    "name": "大知慶一郎",
+    "nameKana": "おちけいいちろ",
+    "description": "脚本家。『映画 五等分の花嫁』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiichiro Ochi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taichi-ishidate",
+    "name": "石立太一",
+    "nameKana": "いしだてたいち",
+    "description": "映画監督。『劇場版 ヴァイオレット・エヴァーガーデン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Taichi Ishidate。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "guillermo-del-toro",
+    "name": "ギレルモ・デル・トロ",
+    "nameKana": "ギレルモデルトロ",
+    "description": "脚本家。『ホビット 決戦のゆくえ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Guillermo del Toro。",
+    "updatedAt": "2026-08-09"
   }
 ]

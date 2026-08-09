@@ -4313,5 +4313,1914 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harakiri",
+    "title": "切腹",
+    "titleKana": "せっぷく",
+    "directorIds": [
+      "masaki-kobayashi"
+    ],
+    "screenwriterIds": [
+      "shinobu-hashimoto"
+    ],
+    "studioIds": [
+      "shochiku"
+    ],
+    "cast": [
+      {
+        "actorId": "tatsuya-nakadai",
+        "character": "津雲半四郎"
+      },
+      {
+        "actorId": "akira-ishihama",
+        "character": "千々岩求女"
+      },
+      {
+        "actorId": "shima-iwashita",
+        "character": "津雲美保"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "history",
+      "jidaigeki",
+      "classic",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1962,
+      "month": 9
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "太平のはじまりで浪人があふれた江戸。井伊家の門前に現れた老浪人津雲半四郎は、庭先を借りての切腹を願い出る。応対した家老は、以前同じ口上で来た若者を突き放した顛末を語るが、半四郎の真の目的はその若者の死の責任を問うことにあった。武士の面目という建前を、静かな語りで解体していく時代劇。",
+    "tmdbId": 14537,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "my-hero-academia-youre-next",
+    "title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
+    "titleKana": "ぼくのひーろーあかでみあざむーびーゆあねくすと",
+    "directorIds": [
+      "tensai-okamura"
+    ],
+    "screenwriterIds": [
+      "yosuke-kuroda"
+    ],
+    "studioIds": [
+      "bones",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "daiki-yamashita",
+        "character": "緑谷出久"
+      },
+      {
+        "actorId": "meru-nukumi",
+        "character": "アンナ・シェルヴィーノ"
+      },
+      {
+        "actorId": "mamoru-miyano",
+        "character": "ジュリオ・ガンディーニ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero",
+      "school",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2024,
+      "month": 8
+    },
+    "runtime": 110,
+    "originalType": "manga",
+    "synopsis": "平和の象徴オールマイトの引退後、社会の混乱に乗じて巨大な要塞が浮上する。そこに君臨するのは、かつての英雄の姿と力を模倣する男だった。緑谷出久らヒーロー科の生徒は、要塞に囚われた少女アンナを救うため潜入し、憧れの背中を騙る存在に立ち向かう。劇場版シリーズ第四作。",
+    "tmdbId": 1159311,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-two-towers",
+    "title": "ロード・オブ・ザ・リング／二つの塔",
+    "titleKana": "ろーどおぶざりんぐふたつのとう",
+    "directorIds": [
+      "peter-jackson"
+    ],
+    "screenwriterIds": [
+      "stephen-sinclair",
+      "philippa-boyens"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "wingnut-films"
+    ],
+    "cast": [
+      {
+        "actorId": "elijah-wood",
+        "character": "フロド"
+      },
+      {
+        "actorId": "ian-mckellen",
+        "character": "ガンダルフ"
+      },
+      {
+        "actorId": "viggo-mortensen",
+        "character": "アラゴルン"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "action"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 2
+    },
+    "runtime": 179,
+    "originalType": "novel",
+    "synopsis": "旅の仲間は散り散りになり、フロドとサムは指輪の元の持ち主ゴラムを道案内にモルドールを目指す。アラゴルンたちは人間の国ローハンへ向かい、白の魔法使いサルマンが放った大軍とヘルム峡谷で対峙する。忠誠と裏切り、そして指輪に蝕まれていく者たちの姿を描く三部作の第二部。",
+    "tmdbId": 121,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Lord of the Rings: The Two Towers",
+    "seriesId": "lotr"
+  },
+  {
+    "id": "harry-potter-and-the-chamber-of-secrets",
+    "title": "ハリー・ポッターと秘密の部屋",
+    "titleKana": "はりーぽったーとひみつのへや",
+    "directorIds": [
+      "chris-columbus"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "school",
+      "mystery"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 11
+    },
+    "runtime": 161,
+    "originalType": "novel",
+    "synopsis": "二年生になったハリーは、屋敷しもべ妖精ドビーから学校へ戻るなと警告される。案の定ホグワーツでは生徒が次々と石にされる怪事件が起き、開かれた秘密の部屋の伝説が囁かれはじめる。ハリーは蛇と会話する自分の能力に戸惑いながら、城の地下に潜む怪物の正体を追う。石にされた友人を救う手がかりは、五十年前の日記に残された記憶の中にあった。",
+    "tmdbId": 672,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Chamber of Secrets",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "my-fault",
+    "title": "俺の過ち",
+    "titleKana": "おれのあやまち",
+    "directorIds": [
+      "domingo-gonzalez"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "pokeepsie-films",
+      "amazon-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "nicole-wallace",
+        "character": "ノア・モラン"
+      },
+      {
+        "actorId": "gabriel-guevara",
+        "character": "ニック・レイスター"
+      },
+      {
+        "actorId": "marta-hazas",
+        "character": "ラファエラ・レイスター"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "suspense",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 6
+    },
+    "runtime": 116,
+    "originalType": "novel",
+    "synopsis": "母の再婚で豪邸に移り住むことになった少女ノアは、地元の恋人や友人と別れ、義理の兄となるニックと出会う。二人は反発し合いながらも惹かれ合い、公にできない関係に踏み込んでいく。裏社会の非合法レースに関わるニックの事情が明らかになるにつれ、恋は危険と隣り合わせになる。",
+    "tmdbId": 1010581,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Culpa mía"
+  },
+  {
+    "id": "shin-ultraman",
+    "title": "シン・ウルトラマン",
+    "titleKana": "しんうるとらまん",
+    "directorIds": [
+      "shinji-higuchi"
+    ],
+    "screenwriterIds": [
+      "hideaki-anno"
+    ],
+    "studioIds": [
+      "tsuburaya-productions",
+      "toho"
+    ],
+    "cast": [
+      {
+        "actorId": "takumi-saitoh",
+        "character": "神永新二"
+      },
+      {
+        "actorId": "masami-nagasawa",
+        "character": "浅見弘子"
+      },
+      {
+        "actorId": "hidetoshi-nishijima",
+        "character": "田村君男"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "kaiju",
+      "hero"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 5
+    },
+    "runtime": 112,
+    "originalType": "other",
+    "synopsis": "次々と出現する巨大生物、禍威獣に対処するため政府が設けた専従組織に、分析官の神永新二と公安から出向した浅見弘子が加わる。そこへ銀色の巨人が飛来し、人知を超えた力で禍威獣を退ける。地球外の存在から見た人類とは何かという問いを、初代ウルトラマンの意匠で描き直した作品。",
+    "tmdbId": 634429,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jujutsu-kaisen-0",
+    "title": "劇場版 呪術廻戦 0",
+    "titleKana": "げきじょうばんじゅじゅつかいせんぜろ",
+    "directorIds": [
+      "sunghoo-park"
+    ],
+    "screenwriterIds": [
+      "hiroshi-seko"
+    ],
+    "studioIds": [
+      "mappa",
+      "shueisha"
+    ],
+    "cast": [
+      {
+        "actorId": "megumi-ogata",
+        "character": "乙骨憂太"
+      },
+      {
+        "actorId": "kana-hanazawa",
+        "character": "祈本里香"
+      },
+      {
+        "actorId": "yuichi-nakamura",
+        "character": "五条悟"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 12
+    },
+    "runtime": 105,
+    "originalType": "manga",
+    "synopsis": "幼なじみの祈本里香を事故で失った乙骨憂太は、強力な怨霊と化した彼女に取り憑かれ、死を願うほど追い詰められていた。五条悟に呪術高専へ迎え入れられた乙骨は、同級生たちと任務をこなすうちに生きる理由を見出す。やがて呪詛師夏油傑が仕掛けた百鬼夜行に、里香の力ごと立ち向かう。",
+    "tmdbId": 810693,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "jujutsu-kaisen"
+  },
+  {
+    "id": "harry-potter-and-the-goblet-of-fire",
+    "title": "ハリー・ポッターと炎のゴブレット",
+    "titleKana": "はりーぽったーとほのおのごぶれっと",
+    "directorIds": [
+      "mike-newell"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "school"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 11
+    },
+    "runtime": 157,
+    "originalType": "novel",
+    "synopsis": "三大魔法学校対抗試合の年、選ばれるはずのないハリーの名が炎のゴブレットから出てくる。ドラゴンや湖の底、迷路という命がけの課題に挑む一方、同級生との友情はきしみ、思春期の距離感にも振り回される。試合の果てで彼が目にするのは、闇の帝王の完全な復活だった。学園の物語から、はっきりと戦いの物語へ移り変わる転換点となる第四作。",
+    "tmdbId": 674,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Goblet of Fire",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "coraline",
+    "title": "コララインとボタンの魔女",
+    "titleKana": "こららいんとぼたんのまじょ",
+    "directorIds": [
+      "henry-selick"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "laika",
+      "pandemonium"
+    ],
+    "cast": [
+      {
+        "actorId": "dakota-fanning",
+        "character": "コラライン・ジョーンズ"
+      },
+      {
+        "actorId": "teri-hatcher",
+        "character": "メル・ジョーンズ"
+      },
+      {
+        "actorId": "jennifer-saunders",
+        "character": "スピンク"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "fantasy",
+      "magic",
+      "horror"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 2
+    },
+    "runtime": 100,
+    "originalType": "novel",
+    "synopsis": "古いアパートに越してきた少女コララインは、両親に構ってもらえない退屈な日々を送っていた。壁の奥に隠された小さな扉をくぐると、そこには自分を歓迎してくれるもう一つの家族がいる。だが目にボタンを縫いつけられた母親は、彼女を永遠に手元へ置こうとしていた。人形アニメの傑作。",
+    "tmdbId": 14836,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Coraline"
+  },
+  {
+    "id": "predator-badlands",
+    "title": "プレデター：バッドランド",
+    "titleKana": "ぷれでたーばっどらんど",
+    "directorIds": [
+      "dan-trachtenberg"
+    ],
+    "screenwriterIds": [
+      "patrick-aison"
+    ],
+    "studioIds": [
+      "20th-century-studios",
+      "lawrence-gordon-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "elle-fanning",
+        "character": "シア"
+      },
+      {
+        "actorId": "dimitrius-schuster-koloamatangi",
+        "character": "デク"
+      },
+      {
+        "actorId": "ravi-narayan",
+        "character": "バッド"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "adventure",
+      "alien",
+      "survival",
+      "buddy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 11
+    },
+    "runtime": 107,
+    "originalType": "original",
+    "synopsis": "一族から未熟と見なされ追放された若きヤウジャの戦士デクは、生き物すべてが敵となる惑星に降り立つ。そこで出会ったのは、下半身を失った企業製アンドロイドのシア。互いの弱点を補い合う奇妙な相棒として、二人は最強の獲物を狩るための旅に出る。プレデター側から描く異色の一作。",
+    "tmdbId": 1242898,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Predator: Badlands",
+    "seriesId": "predator"
+  },
+  {
+    "id": "look-back",
+    "title": "ルックバック",
+    "titleKana": "るっくばっく",
+    "directorIds": [
+      "kiyotaka-oshiyama"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-durian",
+      "avex-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "yuumi-kawai",
+        "character": "藤野"
+      },
+      {
+        "actorId": "mizuki-yoshida",
+        "character": "京本"
+      },
+      {
+        "actorId": "yoichiro-saito",
+        "character": "担任教師"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "youth",
+      "filmmaking"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2024,
+      "month": 6
+    },
+    "runtime": 62,
+    "originalType": "manga",
+    "synopsis": "学年新聞の四コマ漫画で称賛されてきた小学生の藤野は、不登校の同級生京本の絵の巧さに打ちのめされる。卒業の日に初めて対面した二人は意気投合し、共同で漫画を描きはじめる。やがて別々の道を選んだ後に訪れる出来事が、描き続けることの意味を問い直す。約六十分の短編アニメーション。",
+    "tmdbId": 1244492,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-torture-club",
+    "title": "ちょっとかわいいアイアンメイデン",
+    "titleKana": "ちょっとかわいいあいあんめいでん",
+    "directorIds": [
+      "kota-yoshida"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "kadokawa",
+      "shaiker"
+    ],
+    "cast": [
+      {
+        "actorId": "noriko-kohara",
+        "character": "武藤結月"
+      },
+      {
+        "actorId": "haruna-yoshizumi",
+        "character": "舟木碧生"
+      },
+      {
+        "actorId": "yuki-mamiya",
+        "character": "小橋ゆり"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 7
+    },
+    "runtime": 97,
+    "originalType": "manga",
+    "synopsis": "中学に入学した武藤結月は、憧れの上級生に誘われるまま、学校公認という奇妙な部活動に足を踏み入れる。そこは古今の拷問器具を再現して披露する部で、少女たちは羞恥と快感が入り混じった活動にのめり込んでいく。荒唐無稽な設定を生真面目に押し通す、青春コメディの怪作。少女たちの生真面目さが可笑しみを生み、部の存続を懸けた対決へ雪崩れ込む。",
+    "tmdbId": 297090,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "spider-man-2",
+    "title": "スパイダーマン2",
+    "titleKana": "すぱいだーまんつー",
+    "directorIds": [
+      "sam-raimi"
+    ],
+    "screenwriterIds": [
+      "alvin-sargent"
+    ],
+    "studioIds": [
+      "marvel-enterprises",
+      "laura-ziskin-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "tobey-maguire",
+        "character": "ピーター・パーカー"
+      },
+      {
+        "actorId": "kirsten-dunst",
+        "character": "メリー・ジェーン・ワトソン"
+      },
+      {
+        "actorId": "james-franco",
+        "character": "ハリー・オズボーン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "hero"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 7
+    },
+    "runtime": 127,
+    "originalType": "manga",
+    "synopsis": "ヒーロー活動と学業やアルバイトの両立に疲れ果てたピーターは、能力を失いかけ、MJへの想いも打ち明けられずにいた。核融合実験の事故で四本の機械腕と一体化した科学者オクタビアス博士がドック・オックとして暴走し、ピーターは一度は脱ぎ捨てたスーツを再びまとう。力を持つ者の孤独と、それでも人を助けずにいられない性分が丁寧に描かれる。",
+    "tmdbId": 558,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spider-Man 2",
+    "seriesId": "spider-man-raimi"
+  },
+  {
+    "id": "the-lion-king",
+    "title": "ライオン・キング",
+    "titleKana": "らいおんきんぐ",
+    "directorIds": [
+      "roger-allers",
+      "rob-minkoff"
+    ],
+    "screenwriterIds": [
+      "linda-woolverton",
+      "jonathan-roberts"
+    ],
+    "studioIds": [
+      "walt-disney-pictures",
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "matthew-broderick",
+        "character": "シンバ"
+      },
+      {
+        "actorId": "moira-kelly",
+        "character": "ナラ"
+      },
+      {
+        "actorId": "jeremy-irons",
+        "character": "スカー"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "human-drama",
+      "animal",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 1994,
+      "month": 7
+    },
+    "runtime": 89,
+    "originalType": "original",
+    "synopsis": "プライドランドの王ムファサのもとに生まれた子ライオンのシンバは、弟スカーの謀略で父を失い、自分のせいだと思い込んで故郷を捨てる。ティモンとプンバァに拾われ気ままに育った彼は、旧友ナラとの再会をきっかけに、王としての責任と向き合うために帰還を決意する。アフリカの大地と生命の連なりを、壮麗な音楽とともに描いたディズニーの代表作。",
+    "tmdbId": 8587,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Lion King"
+  },
+  {
+    "id": "harry-potter-and-the-prisoner-of-azkaban",
+    "title": "ハリー・ポッターとアズカバンの囚人",
+    "titleKana": "はりーぽったーとあずかばんのしゅうじん",
+    "directorIds": [
+      "alfonso-cuaron"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "1492-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "school",
+      "mystery"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 6
+    },
+    "runtime": 142,
+    "originalType": "novel",
+    "synopsis": "アズカバンから脱獄した凶悪犯シリウス・ブラックがハリーの命を狙っているという報せが届く。学校の周囲には囚人を追う吸魂鬼が配置され、ハリーは幸福な記憶を奪われて倒れてしまう。新任教師ルーピンから守りの魔法を学ぶうち、両親の死をめぐる真相が姿を変えていく。時間を巻き戻す魔法具が、救えなかったはずの命に別の道筋を与える。",
+    "tmdbId": 673,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "castle-in-the-sky",
+    "title": "天空の城ラピュタ",
+    "titleKana": "てんくうのしろらぴゅた",
+    "directorIds": [
+      "hayao-miyazaki"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "studio-ghibli",
+      "nibariki"
+    ],
+    "cast": [
+      {
+        "actorId": "keiko-yokozawa",
+        "character": "シータ"
+      },
+      {
+        "actorId": "mayumi-tanaka",
+        "character": "パズー"
+      },
+      {
+        "actorId": "minori-terada",
+        "character": "ムスカ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "action",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1986,
+      "month": 8
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "鉱山町で働く少年パズーは、空から降ってきた少女シータを受け止める。彼女が首から下げた飛行石は、伝説の浮遊都市ラピュタへの鍵だった。政府の特務機関と空賊ドーラ一家に追われながら雲の中の島を目指す二人は、そこで滅びた文明の力と、それを支配しようとする者に直面する。",
+    "tmdbId": 10515,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-cat-returns",
+    "title": "猫の恩返し",
+    "titleKana": "ねこのおんがえし",
+    "directorIds": [
+      "hiroyuki-morita"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "studio-ghibli",
+      "mitsubishi"
+    ],
+    "cast": [
+      {
+        "actorId": "chizuru-ikewaki",
+        "character": "吉岡ハル"
+      },
+      {
+        "actorId": "yoshihiko-hakamada",
+        "character": "バロン"
+      },
+      {
+        "actorId": "aki-maeda",
+        "character": "ユキ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "human-drama",
+      "family",
+      "animal"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2002,
+      "month": 7
+    },
+    "runtime": 75,
+    "originalType": "manga",
+    "synopsis": "女子高生のハルは、車にはねられそうになった猫を助ける。その猫が猫の国の王子だったことから、恩返しと称して王宮へ招かれ、王子の妃にされそうになる。猫に変えられていく自分を取り戻すため、ハルは猫の事務所の紳士バロンとムタの力を借りて城からの脱出を図る。自分の時間を生きろという言葉が、流されがちな少女の背中を押す物語。",
+    "tmdbId": 15370,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-substance",
+    "title": "サブスタンス",
+    "titleKana": "さぶすたんす",
+    "directorIds": [
+      "coralie-fargeat"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "working-title-films",
+      "blacksmith"
+    ],
+    "cast": [
+      {
+        "actorId": "demi-moore",
+        "character": "エリザベス"
+      },
+      {
+        "actorId": "margaret-qualley",
+        "character": "スー"
+      },
+      {
+        "actorId": "dennis-quaid",
+        "character": "ハーヴェイ"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "sf",
+      "suspense",
+      "body-swap",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 5
+    },
+    "runtime": 141,
+    "originalType": "original",
+    "synopsis": "五十歳を迎えた元人気女優のエリザベスは、若さを失ったという理由で番組を降ろされる。彼女が手を出した闇の薬は、自分の細胞からもう一人の若い自分を生み出すというものだった。二人で一つの生を分け合う規則が破られるたび、代償は肉体そのものに刻まれていく。美の基準に追い立てられる女性の苦痛を、過激な身体変容の映像に置き換えた一作。",
+    "tmdbId": 933260,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Substance"
+  },
+  {
+    "id": "star-wars",
+    "title": "スター・ウォーズ エピソード４／新たなる希望",
+    "titleKana": "すたーうぉーずえぴそーどよんあらたなるきぼう",
+    "directorIds": [
+      "george-lucas"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "lucasfilm-ltd"
+    ],
+    "cast": [
+      {
+        "actorId": "mark-hamill",
+        "character": "ルーク・スカイウォーカー"
+      },
+      {
+        "actorId": "harrison-ford",
+        "character": "ハン・ソロ"
+      },
+      {
+        "actorId": "carrie-fisher",
+        "character": "レイア・オーガナ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "sf",
+      "space",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1978,
+      "month": 6
+    },
+    "runtime": 121,
+    "originalType": "original",
+    "synopsis": "銀河帝国の圧政に抗う反乱軍のレイア姫は、要塞デス・スターの設計図をドロイドに託して逃がす。砂の惑星で暮らす青年ルーク・スカイウォーカーは、その託された記録をきっかけに老騎士オビ=ワンと出会い、密輸業者ハン・ソロの船で銀河へ飛び出す。神話的構造で語られる冒険譚。",
+    "tmdbId": 11,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Star Wars",
+    "seriesId": "star-wars"
+  },
+  {
+    "id": "f1",
+    "title": "F1／エフワン",
+    "titleKana": "えふわん",
+    "directorIds": [
+      "joseph-kosinski"
+    ],
+    "screenwriterIds": [
+      "ehren-kruger"
+    ],
+    "studioIds": [
+      "plan-b-entertainment",
+      "don-simpson-jerry-bruckheimer-films"
+    ],
+    "cast": [
+      {
+        "actorId": "brad-pitt",
+        "character": "ソニー・ヘイズ"
+      },
+      {
+        "actorId": "damson-idris",
+        "character": "ジョシュア・ピアース"
+      },
+      {
+        "actorId": "javier-bardem",
+        "character": "ルーベン・セルバンテス"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "racing",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 6
+    },
+    "runtime": 156,
+    "originalType": "original",
+    "synopsis": "かつて将来を嘱望されながら大事故で表舞台を去ったドライバー、ソニー・ヘイズが、最下位を低迷するF1チームの再建を頼まれる。チームメイトとなるのは自信過剰な若手ジョシュア。世代も流儀も異なる二人は衝突を繰り返しながら、限られたシーズンで結果を出すために走る。実際のレース現場で撮影された走行映像が、速度と危うさを画面に焼きつける。",
+    "tmdbId": 911430,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "F1"
+  },
+  {
+    "id": "high-and-low",
+    "title": "天国と地獄",
+    "titleKana": "てんごくとじごく",
+    "directorIds": [
+      "akira-kurosawa"
+    ],
+    "screenwriterIds": [
+      "eijiro-hisaita",
+      "ryuzo-kikushima"
+    ],
+    "studioIds": [
+      "toho",
+      "kurosawa-production"
+    ],
+    "cast": [
+      {
+        "actorId": "toshiro-mifune",
+        "character": "権藤金吾"
+      },
+      {
+        "actorId": "tatsuya-nakadai",
+        "character": "戸倉警部"
+      },
+      {
+        "actorId": "kyoko-kagawa",
+        "character": "権藤伶子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "crime",
+      "suspense",
+      "mystery",
+      "classic",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1963,
+      "month": 3
+    },
+    "runtime": 143,
+    "originalType": "novel",
+    "synopsis": "製靴会社の重役権藤は、会社の実権を握るため私財を投じる決断をした矢先、息子が誘拐されたと告げられる。だが攫われたのは運転手の子だった。それでも身代金を払うか否かという選択を経て、物語は特急列車での受け渡しと、刑事たちの執拗な捜査へ移っていく。富める者と貧しい者を高台と下町の対比で描き、社会の断層を照らし出す。",
+    "tmdbId": 12493,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gladiator",
+    "title": "グラディエーター",
+    "titleKana": "ぐらでぃえーたー",
+    "directorIds": [
+      "ridley-scott"
+    ],
+    "screenwriterIds": [
+      "david-franzoni",
+      "john-logan"
+    ],
+    "studioIds": [
+      "universal",
+      "scott-free-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "russell-crowe",
+        "character": "マキシマス"
+      },
+      {
+        "actorId": "joaquin-phoenix",
+        "character": "コモドゥス"
+      },
+      {
+        "actorId": "connie-nielsen",
+        "character": "ルッシラ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "adventure",
+      "history",
+      "revenge"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 6
+    },
+    "runtime": 155,
+    "originalType": "original",
+    "synopsis": "皇帝マルクス・アウレリウスの信頼を得た将軍マキシマスは、次の統治を託されようとした矢先、皇帝の息子コモドゥスに家族を殺され奴隷に落とされる。剣闘士として生き延びた彼は闘技場の人気を味方につけ、群衆の熱狂を武器に、権力の座にある仇へ復讐の刃を向ける。剣闘士の生き様を通して、権力と民衆の熱狂の危うさを描いた歴史大作。",
+    "tmdbId": 98,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Gladiator"
+  },
+  {
+    "id": "thor-ragnarok",
+    "title": "マイティ・ソー バトルロイヤル",
+    "titleKana": "まいてぃそーばとるろいやる",
+    "directorIds": [
+      "taika-waititi"
+    ],
+    "screenwriterIds": [
+      "craig-kyle",
+      "christopher-l-yost"
+    ],
+    "studioIds": [
+      "marvel-studios"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-hemsworth",
+        "character": "ソー"
+      },
+      {
+        "actorId": "mark-ruffalo",
+        "character": "ブルース・バナー"
+      },
+      {
+        "actorId": "tom-hiddleston",
+        "character": "ロキ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "sf",
+      "comedy",
+      "adventure",
+      "hero",
+      "space"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 11
+    },
+    "runtime": 131,
+    "originalType": "manga",
+    "synopsis": "父オーディンの死を機に封印を解かれた死の女神ヘラが、アスガルドを制圧する。宇宙の果ての惑星に飛ばされたソーは、闘技場の見世物として旧友ハルクと戦わされる羽目になる。ロキや女戦士ヴァルキリーを巻き込み、破天荒な脱出劇の末、故郷そのものの意味を問う選択に至る。軽妙な語り口に転じたことで、シリーズの色を大きく塗り替えた一作となった。",
+    "tmdbId": 284053,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Thor: Ragnarok",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "sinners",
+    "title": "罪人たち",
+    "titleKana": "つみびとたち",
+    "directorIds": [
+      "ryan-coogler"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "warner-bros",
+      "proximity-media"
+    ],
+    "cast": [
+      {
+        "actorId": "michael-b-jordan",
+        "character": "スモーク"
+      },
+      {
+        "actorId": "hailee-steinfeld",
+        "character": "メアリー"
+      },
+      {
+        "actorId": "miles-caton",
+        "character": "サミー・ムーア"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "action",
+      "suspense",
+      "vampire",
+      "music",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 6
+    },
+    "runtime": 137,
+    "originalType": "original",
+    "synopsis": "一九三二年のミシシッピ。シカゴで裏稼業に染まっていた双子の兄弟が、資金を携えて故郷に戻り、黒人たちのための酒場を開く。開店の夜、若い従弟の歌う音楽が人ならざるものを呼び寄せ、店は血に染まる一夜へと転じる。ブルースの誕生と人種差別の歴史を土台にした怪奇譚。同じ俳優が双子を演じ分け、音楽が時代を貫くように鳴り響く演出が際立つ。",
+    "tmdbId": 1233413,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Sinners"
+  },
+  {
+    "id": "the-secret-world-of-arrietty",
+    "title": "借りぐらしのアリエッティ",
+    "titleKana": "かりぐらしのありえってぃ",
+    "directorIds": [
+      "hiromasa-yonebayashi"
+    ],
+    "screenwriterIds": [
+      "hayao-miyazaki",
+      "keiko-niwa"
+    ],
+    "studioIds": [
+      "studio-ghibli",
+      "mitsubishi"
+    ],
+    "cast": [
+      {
+        "actorId": "mirai-shida",
+        "character": "アリエッティ"
+      },
+      {
+        "actorId": "ryunosuke-kamiki",
+        "character": "翔"
+      },
+      {
+        "actorId": "tomokazu-miura",
+        "character": "ポッド"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 7
+    },
+    "runtime": 94,
+    "originalType": "novel",
+    "synopsis": "人間の家の床下に暮らす身長十センチの小人一家。人間に見られてはならないという掟のもと、砂糖やティッシュを少しずつ借りて生きてきた。十四歳のアリエッティは、療養のため屋敷に来た少年翔に姿を見られてしまい、家族は住処を捨てるかどうかの選択を迫られる。小さな者の視点から見た日用品と庭の描写が、世界の見え方を変えてしまう。",
+    "tmdbId": 51739,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paprika",
+    "title": "パプリカ",
+    "titleKana": "ぱぷりか",
+    "directorIds": [
+      "satoshi-kon"
+    ],
+    "screenwriterIds": [
+      "seishi-minakami"
+    ],
+    "studioIds": [
+      "madhouse",
+      "sony-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "megumi-hayashibara",
+        "character": "パプリカ"
+      },
+      {
+        "actorId": "tohru-emori",
+        "character": "乾精次郎"
+      },
+      {
+        "actorId": "katsunosuke-hori",
+        "character": "島寅太郎"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "suspense",
+      "dream",
+      "twist"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2006,
+      "month": 10
+    },
+    "runtime": 90,
+    "originalType": "novel",
+    "synopsis": "他人の夢に入り込める装置DCミニが研究所から盗まれ、夢と現実の境目が壊れはじめる。セラピストの千葉敦子は、夢の中でパプリカという分身となって事件を追う。パレードのイメージが人々の精神を侵食していくなか、装置を悪用する者の正体と、敦子自身の抑えていた感情が露わになる。",
+    "tmdbId": 4977,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-devil-wears-prada",
+    "title": "プラダを着た悪魔",
+    "titleKana": "ぷらだをきたあくま",
+    "directorIds": [
+      "david-frankel"
+    ],
+    "screenwriterIds": [
+      "aline-brosh-mckenna"
+    ],
+    "studioIds": [
+      "fox-2000-pictures",
+      "wendy-finerman-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "meryl-streep",
+        "character": "ミランダ・プリーストリー"
+      },
+      {
+        "actorId": "anne-hathaway",
+        "character": "アンディ・サックス"
+      },
+      {
+        "actorId": "emily-blunt",
+        "character": "エミリー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "social",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 11
+    },
+    "runtime": 110,
+    "originalType": "novel",
+    "synopsis": "ジャーナリスト志望のアンディは、一流ファッション誌の編集長ミランダの第二アシスタントとして働きはじめる。理不尽な要求をこなすうちに服装も価値観も変わり、仕事の手応えと引き換えに恋人や友人との時間を失っていく。憧れの世界の内側を、痛烈なユーモアとともに描く。働くとは何を差し出すことなのかという問いが、最後の選択に凝縮される。",
+    "tmdbId": 350,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Devil Wears Prada"
+  },
+  {
+    "id": "harry-potter-and-the-deathly-hallows-part-1",
+    "title": "ハリー・ポッターと死の秘宝 Part1",
+    "titleKana": "はりーぽったーとしのひほうぱーとわん",
+    "directorIds": [
+      "david-yates"
+    ],
+    "screenwriterIds": [
+      "steve-kloves"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "heyday-films"
+    ],
+    "cast": [
+      {
+        "actorId": "daniel-radcliffe",
+        "character": "ハリー・ポッター"
+      },
+      {
+        "actorId": "emma-watson",
+        "character": "ハーマイオニー・グレンジャー"
+      },
+      {
+        "actorId": "rupert-grint",
+        "character": "ロン・ウィーズリー"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "fantasy",
+      "magic",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 11
+    },
+    "runtime": 146,
+    "originalType": "novel",
+    "synopsis": "ダンブルドアを失い、魔法省も陥落した世界で、ハリーとロン、ハーマイオニーは学校へ戻らず分霊箱を探す旅に出る。手がかりの乏しさと閉塞した逃亡生活が三人の関係をきしませ、ロンは一度仲間のもとを去る。伝説として語られる死の秘宝の存在が、旅の意味を変えていく。少年たちが逃亡者として過ごす時間を、静かな緊張とともに積み上げていく。",
+    "tmdbId": 12444,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Harry Potter and the Deathly Hallows: Part 1",
+    "seriesId": "harry-potter"
+  },
+  {
+    "id": "iron-man-2",
+    "title": "アイアンマン2",
+    "titleKana": "あいあんまんつー",
+    "directorIds": [
+      "jon-favreau"
+    ],
+    "screenwriterIds": [
+      "justin-theroux"
+    ],
+    "studioIds": [
+      "marvel-studios",
+      "fairview-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-downey-jr",
+        "character": "トニー・スターク"
+      },
+      {
+        "actorId": "gwyneth-paltrow",
+        "character": "ペッパー・ポッツ"
+      },
+      {
+        "actorId": "don-cheadle",
+        "character": "ジェームズ・ローズ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "action",
+      "sf",
+      "hero",
+      "robot"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 5
+    },
+    "runtime": 124,
+    "originalType": "manga",
+    "synopsis": "アイアンマンとしての正体を公表したトニー・スタークは、スーツの技術を軍に引き渡すよう迫られる。同じ頃、父の代の因縁を抱えるロシア人技術者ヴァンコが電磁鞭を武器に襲いかかる。動力源の毒に蝕まれ死期を悟ったトニーは、破滅的にふるまいながら新たな元素の合成に挑む。父から受け継いだ遺産と、後の物語につながる組織の影が同時に描かれる。",
+    "tmdbId": 10138,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Iron Man 2",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "demon-city",
+    "title": "Demon City 鬼ゴロシ",
+    "titleKana": "でーもんしてぃおにごろし",
+    "directorIds": [
+      "seiji-tanaka"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "netflix",
+      "amuse"
+    ],
+    "cast": [
+      {
+        "actorId": "toma-ikuta",
+        "character": "坂田修兵"
+      },
+      {
+        "actorId": "masahiro-higashide",
+        "character": "ファセ寛太"
+      },
+      {
+        "actorId": "miou-tanaka",
+        "character": "竹本誉"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "fantasy",
+      "suspense",
+      "revenge"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 2
+    },
+    "runtime": 106,
+    "originalType": "manga",
+    "synopsis": "足を洗った元殺し屋の坂田修兵は、鬼の面をかぶった集団に妻子を殺され、自らも瀕死の重傷を負う。十二年の昏睡から目覚めた彼は、街を牛耳るようになった鬼たちへ復讐を開始する。政財界に食い込んだ組織と、たった一人の男の暴力が正面からぶつかる。薄暗い路地と廃墟を舞台にした徒手空拳の格闘描写が、全編を通して続く。",
+    "tmdbId": 1405338,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ran",
+    "title": "乱",
+    "titleKana": "らん",
+    "directorIds": [
+      "akira-kurosawa"
+    ],
+    "screenwriterIds": [
+      "hideo-oguni"
+    ],
+    "studioIds": [
+      "nippon-herald-films",
+      "greenwich-film-production"
+    ],
+    "cast": [
+      {
+        "actorId": "tatsuya-nakadai",
+        "character": "一文字秀虎"
+      },
+      {
+        "actorId": "akira-terao",
+        "character": "一文字太郎孝虎"
+      },
+      {
+        "actorId": "jinpachi-nezu",
+        "character": "一文字次郎正虎"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "history",
+      "jidaigeki",
+      "war",
+      "classic"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 6
+    },
+    "runtime": 163,
+    "originalType": "other",
+    "synopsis": "戦国の世を武力で制した老将一文字秀虎は、家督を三人の息子に分け与えて隠居しようとする。父の甘さを諫めた三男は追放され、残る二人は城と権力をめぐって刃を向け合う。狂気に追い込まれた秀虎がさまよう荒野を、色彩設計と大規模な合戦描写で描いた黒澤明の晩年の代表作。老いと因果応報を能の様式を取り入れた画面で描き、国際的にも高く評価された。",
+    "tmdbId": 11645,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dune",
+    "title": "DUNE／デューン 砂の惑星",
+    "titleKana": "でゅーんすなのわくせい",
+    "directorIds": [
+      "denis-villeneuve"
+    ],
+    "screenwriterIds": [
+      "eric-roth"
+    ],
+    "studioIds": [
+      "legendary-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "timothee-chalamet",
+        "character": "ポール・アトレイデス"
+      },
+      {
+        "actorId": "rebecca-ferguson",
+        "character": "レディ・ジェシカ"
+      },
+      {
+        "actorId": "oscar-isaac",
+        "character": "レト・アトレイデス公爵"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "space",
+      "politics"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 10
+    },
+    "runtime": 155,
+    "originalType": "novel",
+    "synopsis": "皇帝の命により、アトレイデス家は香料の産出する砂の惑星アラキスの統治を任される。だがそれは宿敵ハルコンネン家と皇帝が仕組んだ罠だった。一夜で一族を失った若きポールは、母ジェシカとともに砂漠へ逃れ、先住民フレメンの世界と自らの予知能力に向き合うことになる。砂虫の蠢く広大な砂漠を圧倒的な画面規模で描いた、原作前半の映画化。",
+    "tmdbId": 438631,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Dune",
+    "seriesId": "dune"
+  },
+  {
+    "id": "the-terminator",
+    "title": "ターミネーター",
+    "titleKana": "たーみねーたー",
+    "directorIds": [
+      "james-cameron"
+    ],
+    "screenwriterIds": [
+      "gale-anne-hurd"
+    ],
+    "studioIds": [
+      "hemdale",
+      "pacific-western"
+    ],
+    "cast": [
+      {
+        "actorId": "arnold-schwarzenegger",
+        "character": "ターミネーター"
+      },
+      {
+        "actorId": "michael-biehn",
+        "character": "カイル・リース"
+      },
+      {
+        "actorId": "linda-hamilton",
+        "character": "サラ・コナー"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "sf",
+      "robot",
+      "time-travel",
+      "apocalypse"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1985,
+      "month": 5
+    },
+    "runtime": 108,
+    "originalType": "original",
+    "synopsis": "近未来、機械に支配された世界から一体の殺人機械が現代のロサンゼルスへ送り込まれる。標的は、抵抗軍の指導者を産むことになる女性サラ・コナー。同じく未来から来た兵士カイル・リースは、彼女を守るため執拗な追跡から逃げ続ける。低予算から生まれたSFアクションの原点。追う者と追われる者の単純な構図を、執拗な追跡と機械の造形で恐怖に変えた。",
+    "tmdbId": 218,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Terminator",
+    "seriesId": "terminator"
+  },
+  {
+    "id": "guardians-of-the-galaxy-vol-3",
+    "title": "ガーディアンズ・オブ・ギャラクシー：VOLUME 3",
+    "titleKana": "がーでぃあんずおぶぎゃらくしーぼりゅーむすりー",
+    "directorIds": [
+      "james-gunn"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "marvel-studios",
+      "kevin-feige-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "chris-pratt",
+        "character": "ピーター・クイル"
+      },
+      {
+        "actorId": "zoe-saldana",
+        "character": "ガモーラ"
+      },
+      {
+        "actorId": "dave-bautista",
+        "character": "ドラックス"
+      }
+    ],
+    "themeIds": [
+      "sf",
+      "adventure",
+      "action",
+      "space",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 5
+    },
+    "runtime": 150,
+    "originalType": "manga",
+    "synopsis": "恋人を失った喪失から立ち直れないピーターと、平穏を取り戻しつつあったガーディアンズの前に、強大な敵が現れロケットが瀕死の重傷を負う。彼を救う鍵は、生命を作り変える存在ハイ・エボリューショナリーによって改造された過去にあった。仲間たちの旅の区切りを描く三部作の完結編。",
+    "tmdbId": 447365,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Guardians of the Galaxy Vol. 3",
+    "seriesId": "mcu"
+  },
+  {
+    "id": "the-quintessential-quintuplets-movie",
+    "title": "映画 五等分の花嫁",
+    "titleKana": "えいががとうぶんのはなよめ",
+    "directorIds": [
+      "masato-jimbo"
+    ],
+    "screenwriterIds": [
+      "keiichiro-ochi"
+    ],
+    "studioIds": [
+      "pony-canyon",
+      "nichion"
+    ],
+    "cast": [
+      {
+        "actorId": "yoshitsugu-matsuoka",
+        "character": "上杉風太郎"
+      },
+      {
+        "actorId": "kana-hanazawa",
+        "character": "中野一花"
+      },
+      {
+        "actorId": "ayana-taketatsu",
+        "character": "中野二乃"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "school",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2022,
+      "month": 5
+    },
+    "runtime": 136,
+    "originalType": "manga",
+    "synopsis": "落第寸前の五つ子姉妹の家庭教師を務めてきた上杉風太郎と、彼を取り巻く中野家の五人。最後の学園祭を舞台に、それぞれが抱えた想いと将来への迷いが一気に動き出す。五人の中で誰が風太郎の花嫁になるのかという問いに答えを出す、テレビシリーズの完結編。五人それぞれの選択を丁寧に描き、長く続いた物語に区切りをつける。",
+    "tmdbId": 820067,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "violet-evergarden-the-movie",
+    "title": "劇場版 ヴァイオレット・エヴァーガーデン",
+    "titleKana": "げきじょうばんゔぁいおれっとえゔぁーがーでん",
+    "directorIds": [
+      "taichi-ishidate"
+    ],
+    "screenwriterIds": [
+      "reiko-yoshida"
+    ],
+    "studioIds": [
+      "kyoto-animation",
+      "abc-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "yui-ishikawa",
+        "character": "ヴァイオレット・エヴァーガーデン"
+      },
+      {
+        "actorId": "daisuke-namikawa",
+        "character": "ギルベルト・ブーゲンビリア"
+      },
+      {
+        "actorId": "takehito-koyasu",
+        "character": "クラウディア・ホッジンズ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "romance",
+      "postwar"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2020,
+      "month": 9
+    },
+    "runtime": 140,
+    "originalType": "novel",
+    "synopsis": "戦争で両腕を失い、代筆業として人の想いを言葉にしてきたヴァイオレット。時代が電話の普及へ移り変わるなか、彼女は少年の依頼を受けて手紙を届ける旅に出る。もう会えないと諦めていた少佐の消息が伝わり、伝えられなかった言葉と向き合うときが訪れる。手紙という古い手段が、人の想いを時間を越えて運ぶことを静かに示す。",
+    "tmdbId": 533514,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-hobbit-the-battle-of-the-five-armies",
+    "title": "ホビット 決戦のゆくえ",
+    "titleKana": "ほびっとけっせんのゆくえ",
+    "directorIds": [
+      "peter-jackson"
+    ],
+    "screenwriterIds": [
+      "guillermo-del-toro",
+      "philippa-boyens"
+    ],
+    "studioIds": [
+      "new-line-cinema",
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "ian-mckellen",
+        "character": "ガンダルフ"
+      },
+      {
+        "actorId": "martin-freeman",
+        "character": "ビルボ・バギンズ"
+      },
+      {
+        "actorId": "richard-armitage",
+        "character": "トーリン・オーケンシールド"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "fantasy",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 12
+    },
+    "runtime": 144,
+    "originalType": "novel",
+    "synopsis": "竜スマウグから王国を取り戻したドワーフたちだったが、山に眠る財宝がトーリンの心を蝕んでいく。追われた竜が湖の町を焼き、行き場を失った人間とエルフが分け前を求めて山へ押し寄せる。そこへオークの軍勢が加わり、五つの軍が入り乱れる決戦が始まる。ビルボは戦を止めようと動く。",
+    "tmdbId": 122917,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Hobbit: The Battle of the Five Armies",
+    "seriesId": "hobbit"
+  },
+  {
+    "id": "django-unchained",
+    "title": "ジャンゴ 繋がれざる者",
+    "titleKana": "じゃんごつながれざるもの",
+    "directorIds": [
+      "quentin-tarantino"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "the-weinstein-company",
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "jamie-foxx",
+        "character": "ジャンゴ・フリーマン"
+      },
+      {
+        "actorId": "christoph-waltz",
+        "character": "キング・シュルツ"
+      },
+      {
+        "actorId": "leonardo-dicaprio",
+        "character": "カルビン・キャンディ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "western",
+      "revenge",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 3
+    },
+    "runtime": 165,
+    "originalType": "original",
+    "synopsis": "南北戦争前のアメリカ南部。奴隷だったジャンゴは、賞金稼ぎの歯科医シュルツに買い取られ自由の身となり、相棒として銃の腕を磨く。目的は、離ればなれになった妻を大農園主キャンディの手から取り戻すこと。二人は身分を偽って屋敷に入り込み、危うい交渉に臨む。誇張された暴力と軽やかな語り口で、奴隷制の残酷さを正面から撃ち抜く。",
+    "tmdbId": 68718,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Django Unchained"
+  },
+  {
+    "id": "the-green-mile",
+    "title": "グリーンマイル",
+    "titleKana": "ぐりーんまいる",
+    "directorIds": [
+      "frank-darabont"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "castle-rock",
+      "darkwoods-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-hanks",
+        "character": "ポール・エッジコム"
+      },
+      {
+        "actorId": "david-morse",
+        "character": "ブルータス・ハウエル"
+      },
+      {
+        "actorId": "bonnie-hunt",
+        "character": "ジャン・エッジコム"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "crime",
+      "prison"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2000,
+      "month": 3
+    },
+    "runtime": 189,
+    "originalType": "novel",
+    "synopsis": "大恐慌時代の刑務所で死刑囚棟を預かる看守ポールは、幼い姉妹を殺した罪で送られてきた大男コーフィと出会う。だが彼は言葉少なで臆病、そして触れた者の病や傷を癒やす不思議な力を持っていた。処刑の日が近づくなか、看守たちは自分たちが何を執行するのかを思い知らされる。奇跡を目にした者が背負う無力さを、長い時間をかけて描き出す物語。",
+    "tmdbId": 497,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Green Mile"
   }
 ]

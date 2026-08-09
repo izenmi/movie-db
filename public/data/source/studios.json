@@ -713,5 +713,329 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dylan Clark Productions。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shochiku",
+    "name": "松竹",
+    "nameKana": "しょうちく",
+    "description": "映画製作会社。『切腹』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shochiku。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bones",
+    "name": "ボンズ",
+    "nameKana": "ボンズ",
+    "description": "映画製作会社。『僕のヒーローアカデミア THE MOVIE ユアネクスト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: BONES。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pokeepsie-films",
+    "name": "ポキプシー・フィルムズ",
+    "nameKana": "ポキプシーフィルムズ",
+    "description": "映画製作会社。『俺の過ち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pokeepsie Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amazon-studios",
+    "name": "アマゾン・スタジオ",
+    "nameKana": "アマゾンスタジオ",
+    "description": "映画製作会社。『俺の過ち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amazon Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsuburaya-productions",
+    "name": "円谷プロダクション",
+    "nameKana": "つぶらやぷろだくしょん",
+    "description": "映画製作会社。『シン・ウルトラマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tsuburaya Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shueisha",
+    "name": "集英社",
+    "nameKana": "しゅうえいしゃ",
+    "description": "映画製作会社。『劇場版 呪術廻戦 0』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shueisha。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "laika",
+    "name": "ライカ",
+    "nameKana": "ライカ",
+    "description": "映画製作会社。『コララインとボタンの魔女』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: LAIKA。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pandemonium",
+    "name": "パンデモニウム",
+    "nameKana": "パンデモニウム",
+    "description": "映画製作会社。『コララインとボタンの魔女』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pandemonium。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lawrence-gordon-productions",
+    "name": "ローレンス・ゴードン・プロダクションズ",
+    "nameKana": "ローレンスゴードンプロダクションズ",
+    "description": "映画製作会社。『プレデター：バッドランド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lawrence Gordon Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-durian",
+    "name": "スタジオドリアン",
+    "nameKana": "スタジオドリアン",
+    "description": "映画製作会社。『ルックバック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Durian。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "avex-pictures",
+    "name": "エイベックス・ピクチャーズ",
+    "nameKana": "エイベックスピクチャーズ",
+    "description": "映画製作会社。『ルックバック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: avex pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kadokawa",
+    "name": "KADOKAWA",
+    "nameKana": "かどかわ",
+    "description": "映画製作会社。『ちょっとかわいいアイアンメイデン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shaiker",
+    "name": "シェイカー",
+    "nameKana": "シェイカー",
+    "description": "映画製作会社。『ちょっとかわいいアイアンメイデン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shaiker。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "walt-disney-pictures",
+    "name": "ウォルト・ディズニー・ピクチャーズ",
+    "nameKana": "ウォルトディズニーピクチャーズ",
+    "description": "映画製作会社。『ライオン・キング』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Walt Disney Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "1492-pictures",
+    "name": "1492ピクチャーズ",
+    "nameKana": "いちよんきゅうにぴくちゃーず",
+    "description": "映画製作会社。『ハリー・ポッターとアズカバンの囚人』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 1492 Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsubishi",
+    "name": "三菱商事",
+    "nameKana": "みつびししょうじ",
+    "description": "映画製作会社。『猫の恩返し』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsubishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "working-title-films",
+    "name": "ワーキング・タイトル・フィルムズ",
+    "nameKana": "ワーキングタイトルフィルムズ",
+    "description": "映画製作会社。『サブスタンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Working Title Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blacksmith",
+    "name": "ブラックスミス",
+    "nameKana": "ブラックスミス",
+    "description": "映画製作会社。『サブスタンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Blacksmith。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lucasfilm-ltd",
+    "name": "ルーカスフィルム",
+    "nameKana": "ルーカスフィルム",
+    "description": "映画製作会社。『スター・ウォーズ エピソード４／新たなる希望』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lucasfilm Ltd.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kurosawa-production",
+    "name": "黒澤プロダクション",
+    "nameKana": "くろさわぷろだくしょん",
+    "description": "映画製作会社。『天国と地獄』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kurosawa Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-free-productions",
+    "name": "スコット・フリー・プロダクションズ",
+    "nameKana": "スコットフリープロダクションズ",
+    "description": "映画製作会社。『グラディエーター』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Free Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "proximity-media",
+    "name": "プロキシミティ・メディア",
+    "nameKana": "プロキシミティメディア",
+    "description": "映画製作会社。『罪人たち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Proximity Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sony-pictures",
+    "name": "ソニー・ピクチャーズ",
+    "nameKana": "ソニーピクチャーズ",
+    "description": "映画製作会社。『パプリカ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sony Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wendy-finerman-productions",
+    "name": "ウェンディ・フィナーマン・プロダクションズ",
+    "nameKana": "ウェンディフィナーマンプロダクションズ",
+    "description": "映画製作会社。『プラダを着た悪魔』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wendy Finerman Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fairview-entertainment",
+    "name": "フェアビュー・エンターテインメント",
+    "nameKana": "フェアビューエンターテインメント",
+    "description": "映画製作会社。『アイアンマン2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fairview Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "nameKana": "ねっとふりっくす",
+    "description": "映画製作会社。『Demon City 鬼ゴロシ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amuse",
+    "name": "アミューズ",
+    "nameKana": "アミューズ",
+    "description": "映画製作会社。『Demon City 鬼ゴロシ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: AMUSE。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nippon-herald-films",
+    "name": "日本ヘラルド映画",
+    "nameKana": "にほんへらるどえいが",
+    "description": "映画製作会社。『乱』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nippon Herald Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "greenwich-film-production",
+    "name": "グリニッチ・フィルム・プロダクション",
+    "nameKana": "グリニッチフィルムプロダクション",
+    "description": "映画製作会社。『乱』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Greenwich Film Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hemdale",
+    "name": "ヘムデール",
+    "nameKana": "ヘムデール",
+    "description": "映画製作会社。『ターミネーター』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hemdale。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pacific-western",
+    "name": "パシフィック・ウェスタン",
+    "nameKana": "パシフィックウェスタン",
+    "description": "映画製作会社。『ターミネーター』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pacific Western。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pony-canyon",
+    "name": "ポニーキャニオン",
+    "nameKana": "ポニーキャニオン",
+    "description": "映画製作会社。『映画 五等分の花嫁』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pony Canyon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nichion",
+    "name": "日音",
+    "nameKana": "にちおん",
+    "description": "映画製作会社。『映画 五等分の花嫁』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nichion。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "metro-goldwyn-mayer",
+    "name": "メトロ・ゴールドウィン・メイヤー",
+    "nameKana": "メトロゴールドウィンメイヤー",
+    "description": "映画製作会社。『ホビット 決戦のゆくえ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Metro-Goldwyn-Mayer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-weinstein-company",
+    "name": "ワインスタイン・カンパニー",
+    "nameKana": "ワインスタインカンパニー",
+    "description": "映画製作会社。『ジャンゴ 繋がれざる者』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Weinstein Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "darkwoods-productions",
+    "name": "ダークウッズ・プロダクションズ",
+    "nameKana": "ダークウッズプロダクションズ",
+    "description": "映画製作会社。『グリーンマイル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Darkwoods Productions。",
+    "updatedAt": "2026-08-09"
   }
 ]

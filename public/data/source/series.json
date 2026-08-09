@@ -164,5 +164,50 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "star-wars",
+    "name": "「スター・ウォーズ」シリーズ",
+    "nameKana": "すたーうぉーずしりーず",
+    "description": "ジョージ・ルーカスが創造した銀河を舞台とするスペースオペラ映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hobbit",
+    "name": "「ホビット」三部作",
+    "nameKana": "ほびっとさんぶさく",
+    "description": "『ロード・オブ・ザ・リング』の前日譚をピーター・ジャクソン監督が映画化した三部作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "predator",
+    "name": "「プレデター」シリーズ",
+    "nameKana": "ぷれでたーしりーず",
+    "description": "狩りを行う異星の戦士プレデターを描くSFアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "terminator",
+    "name": "「ターミネーター」シリーズ",
+    "nameKana": "たーみねーたーしりーず",
+    "description": "未来から送り込まれる殺人機械と人類の戦いを描くSFアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "name": "「呪術廻戦」シリーズ",
+    "nameKana": "じゅじゅつかいせんしりーず",
+    "description": "芥見下々の漫画を原作とするMAPPA制作の劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
