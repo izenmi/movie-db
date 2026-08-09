@@ -6923,5 +6923,140 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toei Studios Kyoto。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "disney-television-animation",
+    "name": "ディズニー・テレビジョン・アニメーション",
+    "nameKana": "ディズニーテレビジョンアニメーション",
+    "description": "映画製作会社。『ライオン・キング2 シンバズ・プライド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Disney Television Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anima",
+    "name": "ANIMA",
+    "nameKana": "あにま",
+    "description": "映画製作会社。『オルタード・カーボン：リスリーブド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vidhu-vinod-chopra-productions",
+    "name": "ヴィドゥ・ヴィノド・チョープラー・プロダクションズ",
+    "nameKana": "ヴィドゥヴィノドチョープラープロダクションズ",
+    "description": "映画製作会社。『きっと、うまくいく』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vidhu Vinod Chopra Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vinod-chopra-films",
+    "name": "ヴィノド・チョープラー・フィルムズ",
+    "nameKana": "ヴィノドチョープラーフィルムズ",
+    "description": "映画製作会社。『きっと、うまくいく』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vinod Chopra Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "npv-entertainment",
+    "name": "NPVエンターテインメント",
+    "nameKana": "えんてたいんめんん",
+    "description": "映画製作会社。『マトリックス レボリューションズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: NPV Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lstar-capital",
+    "name": "LStarキャピタル",
+    "nameKana": "あぴたた",
+    "description": "映画製作会社。『SEXテープ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: LStar Capital。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "south-of-the-river-pictures",
+    "name": "サウス・オブ・ザ・リバー・ピクチャーズ",
+    "nameKana": "サウスオブザリバーピクチャーズ",
+    "description": "映画製作会社。『ローズ家～崖っぷちの夫婦～』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: South of the River Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toho-towa",
+    "name": "東宝東和",
+    "nameKana": "とうほうとうわ",
+    "description": "映画製作会社。『愛の亡霊』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: TOHO-TOWA。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rysher-entertainment",
+    "name": "ライシャー・エンターテインメント",
+    "nameKana": "ライシャーエンターテインメント",
+    "description": "映画製作会社。『真実の行方』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rysher Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gen-productions",
+    "name": "ゲンプロダクション",
+    "nameKana": "げんぷろだくしょん",
+    "description": "映画製作会社。『はだしのゲン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gen Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "project-team-argos",
+    "name": "プロジェクトチーム・アルゴス",
+    "nameKana": "ぷろじぇくとちーむあるごす",
+    "description": "映画製作会社。『迷宮物語』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Project Team Argos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "horizon-pictures",
+    "name": "ホライズン・ピクチャーズ",
+    "nameKana": "ホライズンピクチャーズ",
+    "description": "映画製作会社。『アラビアのロレンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Horizon Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "annapurna-pictures",
+    "name": "アンナプルナ・ピクチャーズ",
+    "nameKana": "アンナプルナピクチャーズ",
+    "description": "映画製作会社。『her／世界でひとつの彼女』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Annapurna Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-nue",
+    "name": "スタジオぬえ",
+    "nameKana": "すたじおぬえ",
+    "description": "映画製作会社。『マクロスプラス MOVIE EDITION』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio Nue。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "triangle-staff",
+    "name": "トライアングルスタッフ",
+    "nameKana": "とらいあんぐるすたっふ",
+    "description": "映画製作会社。『マクロスプラス MOVIE EDITION』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Triangle Staff。",
+    "updatedAt": "2026-08-09"
   }
 ]

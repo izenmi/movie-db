@@ -1292,5 +1292,32 @@
     "name": "ラッシュアワー シリーズ",
     "nameKana": "らっしゅあわーしりーず",
     "description": "香港とロサンゼルスの刑事が組む凸凹コンビの活躍を描くアクション喜劇シリーズ。"
+  },
+  {
+    "id": "gintama-movie",
+    "name": "劇場版 銀魂",
+    "nameKana": "げきじょうばんぎんたま",
+    "description": "空知英秋の漫画を原作とする「銀魂」の劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lion-king",
+    "name": "ライオン・キング シリーズ",
+    "nameKana": "らいおんきんぐしりーず",
+    "description": "アフリカのサバンナを舞台にしたディズニーの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danmachi",
+    "name": "ダンジョンに出会いを求めるのは間違っているだろうか",
+    "nameKana": "だんじょんにであいをもとめるのはまちがっているだろうか",
+    "description": "大森藤ノのライトノベルを原作とする、迷宮都市を舞台にした劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
