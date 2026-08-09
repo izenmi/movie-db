@@ -3224,5 +3224,230 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hughes Entertainment。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ekipa",
+    "name": "エキパ",
+    "nameKana": "エキパ",
+    "description": "映画製作会社。『愛は、この日を迎えて』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ekipa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "open-mind-production",
+    "name": "オープン・マインド・プロダクション",
+    "nameKana": "オープンマインドプロダクション",
+    "description": "映画製作会社。『愛は、この日を迎えて』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Open Mind Production。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mario-e-vittorio-cecchi-gori-c-e-i-a-d",
+    "name": "チェッキ・ゴーリ・グループ",
+    "nameKana": "ちぇっきごーりぐるーぷ",
+    "description": "映画製作会社。『ライフ・イズ・ビューティフル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mario e Vittorio Cecchi Gori - C.E.I.A.D.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "melampo-cinematografica",
+    "name": "メランポ・チネマトグラフィカ",
+    "nameKana": "メランポチネマトグラフィカ",
+    "description": "映画製作会社。『ライフ・イズ・ビューティフル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Melampo Cinematografica。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hera-pictures",
+    "name": "ヘラ・ピクチャーズ",
+    "nameKana": "ヘラピクチャーズ",
+    "description": "映画製作会社。『ハムネット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hera Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neal-street-productions",
+    "name": "ニール・ストリート・プロダクションズ",
+    "nameKana": "ニールストリートプロダクションズ",
+    "description": "映画製作会社。『ハムネット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neal Street Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "basara-pictures",
+    "name": "バサラ・ピクチャーズ",
+    "nameKana": "バサラピクチャーズ",
+    "description": "映画製作会社。『オーディション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Basara Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "creators-company-connection",
+    "name": "クリエイターズ・カンパニー・コネクション",
+    "nameKana": "クリエイターズカンパニーコネクション",
+    "description": "映画製作会社。『オーディション』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Creators Company Connection。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rox-productions",
+    "name": "ロックス・プロダクションズ",
+    "nameKana": "ロックスプロダクションズ",
+    "description": "映画製作会社。『トリプルX：再起動』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rox Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "radio-silence",
+    "name": "レディオ・サイレンス",
+    "nameKana": "レディオサイレンス",
+    "description": "映画製作会社。『スクリーム6』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Radio Silence。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "project-x-entertainment",
+    "name": "プロジェクトX・エンターテインメント",
+    "nameKana": "えんてたいんめんろじぇ",
+    "description": "映画製作会社。『スクリーム6』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Project X Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "j-c-staff",
+    "name": "J.C.STAFF",
+    "nameKana": "じぇいしーすたっふ",
+    "description": "映画製作会社。『映画 この素晴らしい世界に祝福を！紅伝説』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ratpac-entertainment",
+    "name": "ラットパック・エンターテインメント",
+    "nameKana": "ラットパックエンターテインメント",
+    "description": "映画製作会社。『バットマン vs スーパーマン ジャスティスの誕生』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: RatPac Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "one-race",
+    "name": "ワン・レース・フィルムズ",
+    "nameKana": "ワンレースフィルムズ",
+    "description": "映画製作会社。『ワイルド・スピード SKY MISSION』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: One Race。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dub",
+    "name": "DUB",
+    "nameKana": "だぶ",
+    "description": "映画製作会社。『最近、妹のようすがちょっとおかしいんだが』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "apatow-productions",
+    "name": "アパトー・プロダクションズ",
+    "nameKana": "アパトープロダクションズ",
+    "description": "映画製作会社。『スーパーバッド 童貞ウォーズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Apatow Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-de-luca-productions",
+    "name": "マイケル・デ・ルーカ・プロダクションズ",
+    "nameKana": "マイケルデルーカプロダクションズ",
+    "description": "映画製作会社。『フィフティ・シェイズ・フリード』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael De Luca Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "entertainment-360",
+    "name": "エンターテインメント360",
+    "nameKana": "えんためんとさんろくまる",
+    "description": "映画製作会社。『フォールガイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Entertainment 360。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amen-ra-films",
+    "name": "アメン・ラー・フィルムズ",
+    "nameKana": "アメンラーフィルムズ",
+    "description": "映画製作会社。『ブレイド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amen Ra Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "2am",
+    "name": "2AM",
+    "nameKana": "つーえーえむ",
+    "description": "映画製作会社。『ベイビーガール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio-ponoc",
+    "name": "スタジオポノック",
+    "nameKana": "スタジオポノック",
+    "description": "映画製作会社。『メアリと魔女の花』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: STUDIO PONOC。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "color-force",
+    "name": "カラー・フォース",
+    "nameKana": "カラーフォース",
+    "description": "映画製作会社。『ハンガー・ゲーム FINAL：レジスタンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Color Force。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skreba-films",
+    "name": "スクレバ・フィルムズ",
+    "nameKana": "スクレバフィルムズ",
+    "description": "映画製作会社。『ダメージ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skreba Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "office-augusta-co-ltd",
+    "name": "オフィス・オーガスタ",
+    "nameKana": "オフィスオーガスタ",
+    "description": "映画製作会社。『仄暗い水の底から』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Office Augusta Co. Ltd.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "k-o-paper-products",
+    "name": "K/Oペーパー・プロダクツ",
+    "nameKana": "けーおーぺーぱーぷろだくつ",
+    "description": "映画製作会社。『グランド・イリュージョン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: K/O Paper Products。",
+    "updatedAt": "2026-08-09"
   }
 ]

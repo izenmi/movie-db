@@ -659,5 +659,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scream",
+    "name": "「スクリーム」シリーズ",
+    "nameKana": "すくりーむしりーず",
+    "description": "ホラー映画の約束事を逆手に取った覆面殺人鬼を描くスラッシャー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hunger-games",
+    "name": "「ハンガー・ゲーム」シリーズ",
+    "nameKana": "はんがーげーむしりーず",
+    "description": "独裁国家が催す殺し合いの中継を軸にしたディストピアSF映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "incredibles",
+    "name": "「Mr.インクレディブル」シリーズ",
+    "nameKana": "みすたーいんくれでぃぶるしりーず",
+    "description": "超能力を持つ一家を主人公にしたピクサーのヒーローアニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

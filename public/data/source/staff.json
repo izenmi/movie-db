@@ -5830,5 +5830,473 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Hughes。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barbara-bia-owas",
+    "name": "バルバラ・ビャウォヴァス",
+    "nameKana": "バルバラビャウォヴァス",
+    "description": "映画監督。『愛は、この日を迎えて』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barbara Białowąs。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tomasz-mandes",
+    "name": "トマシュ・マンデス",
+    "nameKana": "トマシュマンデス",
+    "description": "映画監督・脚本家。『愛は、この日を迎えて』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tomasz Mandes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mojca-tirs",
+    "name": "モイツァ・ティルシュ",
+    "nameKana": "モイツァティルシュ",
+    "description": "脚本家。『愛は、この日を迎えて』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mojca Tirš。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roberto-benigni",
+    "name": "ロベルト・ベニーニ",
+    "nameKana": "ロベルトベニーニ",
+    "description": "映画監督・脚本家。『ライフ・イズ・ビューティフル』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roberto Benigni。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vincenzo-cerami",
+    "name": "ヴィンチェンツォ・チェラミ",
+    "nameKana": "ヴィンチェンツォチェラミ",
+    "description": "脚本家。『ライフ・イズ・ビューティフル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vincenzo Cerami。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinichiro-watanabe",
+    "name": "渡辺信一郎",
+    "nameKana": "わたなべしにちろ",
+    "description": "映画監督。『カウボーイビバップ 天国の扉』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinichiro Watanabe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masamitsu-hidaka",
+    "name": "日高政光",
+    "nameKana": "ひだかまさみつ",
+    "description": "映画監督。『ポケットモンスター ミュウツー! 我ハココニ在リ MEWTWO SAGA』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masamitsu Hidaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chloe-zhao",
+    "name": "クロエ・ジャオ",
+    "nameKana": "クロエジャオ",
+    "description": "映画監督・脚本家。『ハムネット』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chloé Zhao。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maggie-ofarrell",
+    "name": "マギー・オファーレル",
+    "nameKana": "マギーオファーレル",
+    "description": "脚本家。『ハムネット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maggie O'Farrell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "victor-fleming",
+    "name": "ヴィクター・フレミング",
+    "nameKana": "ヴィクターフレミング",
+    "description": "映画監督。『オズの魔法使』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Victor Fleming。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "florence-ryerson",
+    "name": "フローレンス・ライアソン",
+    "nameKana": "フローレンスライアソン",
+    "description": "脚本家。『オズの魔法使』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Florence Ryerson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edgar-allan-woolf",
+    "name": "エドガー・アラン・ウルフ",
+    "nameKana": "エドガーアランウルフ",
+    "description": "脚本家。『オズの魔法使』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edgar Allan Woolf。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsuo-fukuda",
+    "name": "福田己津央",
+    "nameKana": "ふくだみつお",
+    "description": "映画監督・脚本家。『機動戦士ガンダムSEED FREEDOM』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsuo Fukuda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chiaki-morosawa",
+    "name": "両澤千晶",
+    "nameKana": "もろさわちあき",
+    "description": "脚本家。『機動戦士ガンダムSEED FREEDOM』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chiaki Morosawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daisuke-tengan",
+    "name": "天願大介",
+    "nameKana": "てんがんだいすけ",
+    "description": "脚本家。『オーディション』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daisuke Tengan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "d-j-caruso",
+    "name": "Ｄ・Ｊ・カルーソ",
+    "nameKana": "あるそ",
+    "description": "映画監督。『トリプルX：再起動』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: D.J. Caruso。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "f-scott-frazier",
+    "name": "F・スコット・フレイジャー",
+    "nameKana": "らじえおっ",
+    "description": "脚本家。『トリプルX：再起動』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: F. Scott Frazier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arthur-c-clarke",
+    "name": "アーサー・C・クラーク",
+    "nameKana": "らけあふ",
+    "description": "脚本家。『2001年宇宙の旅』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arthur C. Clarke。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matt-bettinelli-olpin",
+    "name": "マット・ベティネッリ＝オルピン",
+    "nameKana": "べっちねっりおぴんまっ",
+    "description": "映画監督。『スクリーム6』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matt Bettinelli-Olpin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tyler-gillett",
+    "name": "タイラー・ジレット",
+    "nameKana": "タイラージレット",
+    "description": "映画監督。『スクリーム6』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tyler Gillett。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yasushi-kawamura",
+    "name": "川村泰",
+    "nameKana": "かわむらやすし",
+    "description": "映画監督。『GANTZ:O』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yasushi Kawamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiichi-sato",
+    "name": "さとうけいいち",
+    "nameKana": "さとけいいち",
+    "description": "映画監督。『GANTZ:O』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiichi Sato。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takaomi-kanasaki",
+    "name": "金崎貴臣",
+    "nameKana": "かなさきたかおみ",
+    "description": "映画監督。『映画 この素晴らしい世界に祝福を！紅伝説』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takaomi Kanasaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "makoto-uezu",
+    "name": "上江洲誠",
+    "nameKana": "うえずまこと",
+    "description": "脚本家。『映画 この素晴らしい世界に祝福を！紅伝説』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Makoto Uezu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "iggy-coen",
+    "name": "イギー・コーエン",
+    "nameKana": "イギーコーエン",
+    "description": "映画監督・脚本家。『最近、妹のようすがちょっとおかしいんだが』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Iggy Coen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuki-aoyama",
+    "name": "青山裕企",
+    "nameKana": "あおやまゆき",
+    "description": "映画監督。『最近、妹のようすがちょっとおかしいんだが』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuki Aoyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takehiko-minato",
+    "name": "港岳彦",
+    "nameKana": "みなとたけひこ",
+    "description": "脚本家。『最近、妹のようすがちょっとおかしいんだが』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takehiko Minato。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "colin-trevorrow",
+    "name": "コリン・トレボロウ",
+    "nameKana": "コリントレボロウ",
+    "description": "映画監督・脚本家。『ジュラシック・ワールド／新たなる支配者』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Colin Trevorrow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "emily-carmichael",
+    "name": "エミリー・カーマイケル",
+    "nameKana": "エミリーカーマイケル",
+    "description": "脚本家。『ジュラシック・ワールド／新たなる支配者』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Emily Carmichael。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "greg-mottola",
+    "name": "グレッグ・モットーラ",
+    "nameKana": "グレッグモットーラ",
+    "description": "映画監督。『スーパーバッド 童貞ウォーズ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Greg Mottola。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "evan-goldberg",
+    "name": "エヴァン・ゴールドバーグ",
+    "nameKana": "エヴァンゴールドバーグ",
+    "description": "脚本家。『スーパーバッド 童貞ウォーズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Evan Goldberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "seth-rogen",
+    "name": "セス・ローゲン",
+    "nameKana": "セスローゲン",
+    "description": "脚本家。『スーパーバッド 童貞ウォーズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Seth Rogen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-foley",
+    "name": "ジェームズ・フォーリー",
+    "nameKana": "ジェームズフォーリー",
+    "description": "映画監督。『フィフティ・シェイズ・フリード』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Foley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "niall-leonard",
+    "name": "ナイル・レナード",
+    "nameKana": "ナイルレナード",
+    "description": "脚本家。『フィフティ・シェイズ・フリード』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Niall Leonard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-norrington",
+    "name": "スティーヴン・ノリントン",
+    "nameKana": "スティーヴンノリントン",
+    "description": "映画監督。『ブレイド』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Norrington。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "halina-reijn",
+    "name": "ハリナ・ライン",
+    "nameKana": "ハリナライン",
+    "description": "映画監督・脚本家。『ベイビーガール』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Halina Reijn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michiko-yokote",
+    "name": "横手美智子",
+    "nameKana": "よこてみちこ",
+    "description": "脚本家。『劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michiko Yokote。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masahiro-okubo",
+    "name": "大久保昌弘",
+    "nameKana": "おくぼまさひろ",
+    "description": "脚本家。『劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masahiro Okubo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "danny-strong",
+    "name": "ダニー・ストロング",
+    "nameKana": "ダニーストロング",
+    "description": "脚本家。『ハンガー・ゲーム FINAL：レジスタンス』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Danny Strong。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hirotsugu-kawasaki",
+    "name": "川崎博嗣",
+    "nameKana": "かわさきひろつぐ",
+    "description": "映画監督・脚本家。『劇場版 NARUTO -ナルト- 大激突！幻の地底遺跡だってばよ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hirotsugu Kawasaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "louis-malle",
+    "name": "ルイ・マル",
+    "nameKana": "ルイマル",
+    "description": "映画監督。『ダメージ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Louis Malle。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-hare",
+    "name": "デヴィッド・ヘア",
+    "nameKana": "デヴィッドヘア",
+    "description": "脚本家。『ダメージ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Hare。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-andrews",
+    "name": "マーク・アンドリュース",
+    "nameKana": "マークアンドリュース",
+    "description": "映画監督・脚本家。『メリダとおそろしの森』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Andrews。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brenda-chapman",
+    "name": "ブレンダ・チャップマン",
+    "nameKana": "ブレンダチャップマン",
+    "description": "映画監督。『メリダとおそろしの森』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brenda Chapman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "irene-mecchi",
+    "name": "アイリーン・メッキ",
+    "nameKana": "アイリーンメッキ",
+    "description": "脚本家。『メリダとおそろしの森』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Irene Mecchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuaki-imai",
+    "name": "今井一暁",
+    "nameKana": "いまいかずあき",
+    "description": "映画監督。『映画ドラえもん のび太の宝島』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuaki Imai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshihiro-nakamura",
+    "name": "中村義洋",
+    "nameKana": "なかむらよしひろ",
+    "description": "脚本家。『仄暗い水の底から』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshihiro Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takashige-ichise",
+    "name": "一瀬隆重",
+    "nameKana": "いちせたかしげ",
+    "description": "脚本家。『仄暗い水の底から』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takashige Ichise。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-mangold",
+    "name": "ジェームズ・マンゴールド",
+    "nameKana": "ジェームズマンゴールド",
+    "description": "映画監督。『LOGAN／ローガン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Mangold。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-frank",
+    "name": "スコット・フランク",
+    "nameKana": "スコットフランク",
+    "description": "脚本家。『LOGAN／ローガン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Frank。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edward-ricourt",
+    "name": "エドワード・リコート",
+    "nameKana": "エドワードリコート",
+    "description": "脚本家。『グランド・イリュージョン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edward Ricourt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "boaz-yakin",
+    "name": "ボアズ・イェーキン",
+    "nameKana": "ボアズイェーキン",
+    "description": "脚本家。『グランド・イリュージョン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Boaz Yakin。",
+    "updatedAt": "2026-08-09"
   }
 ]
