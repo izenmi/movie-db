@@ -4075,5 +4075,446 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takahiro Miki。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lawrence-kasdan",
+    "name": "ローレンス・カスダン",
+    "nameKana": "ローレンスカスダン",
+    "description": "脚本家。『スター・ウォーズ／フォースの覚醒』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lawrence Kasdan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ben-queen",
+    "name": "ベン・クイーン",
+    "nameKana": "ベンクイーン",
+    "description": "脚本家。『カーズ２』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ben Queen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ann-peacock",
+    "name": "アン・ピーコック",
+    "nameKana": "アンピーコック",
+    "description": "脚本家。『ナルニア国物語／第1章：ライオンと魔女』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ann Peacock。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-osborne",
+    "name": "マーク・オズボーン",
+    "nameKana": "マークオズボーン",
+    "description": "映画監督。『カンフー・パンダ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Osborne。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-stevenson",
+    "name": "ジョン・スティーヴンソン",
+    "nameKana": "ジョンスティーヴンソン",
+    "description": "映画監督。『カンフー・パンダ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Stevenson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "glenn-berger",
+    "name": "グレン・バーガー",
+    "nameKana": "グレンバーガー",
+    "description": "脚本家。『カンフー・パンダ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Glenn Berger。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-aibel",
+    "name": "ジョナサン・エイベル",
+    "nameKana": "ジョナサンエイベル",
+    "description": "脚本家。『カンフー・パンダ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan Aibel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-yamashita",
+    "name": "山下宏幸",
+    "nameKana": "やましたひろゆき",
+    "description": "映画監督。『BORUTO -NARUTO THE MOVIE-』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Yamashita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masashi-kishimoto",
+    "name": "岸本斉史",
+    "nameKana": "きしもとまさし",
+    "description": "脚本家。『BORUTO -NARUTO THE MOVIE-』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masashi Kishimoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yorgos-lanthimos",
+    "name": "ヨルゴス・ランティモス",
+    "nameKana": "ヨルゴスランティモス",
+    "description": "映画監督。『ブゴニア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yorgos Lanthimos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "will-tracy",
+    "name": "ウィル・トレイシー",
+    "nameKana": "ウィルトレイシー",
+    "description": "脚本家。『ブゴニア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Will Tracy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "giuseppe-tornatore",
+    "name": "ジュゼッペ・トルナトーレ",
+    "nameKana": "ジュゼッペトルナトーレ",
+    "description": "映画監督・脚本家。『マレーナ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Giuseppe Tornatore。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-webb-peoples",
+    "name": "デビッド・ウェッブ・ピープルズ",
+    "nameKana": "デビッドウェッブピープルズ",
+    "description": "脚本家。『ブレードランナー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Webb Peoples。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joel-crawford",
+    "name": "ジョエル・クロフォード",
+    "nameKana": "ジョエルクロフォード",
+    "description": "映画監督。『長ぐつをはいたネコと9つの命』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joel Crawford。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-fisher",
+    "name": "ポール・フィッシャー",
+    "nameKana": "ポールフィッシャー",
+    "description": "脚本家。『長ぐつをはいたネコと9つの命』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul Fisher。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tommy-swerdlow",
+    "name": "トミー・スワードロウ",
+    "nameKana": "トミースワードロウ",
+    "description": "脚本家。『長ぐつをはいたネコと9つの命』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tommy Swerdlow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "munehisa-sakai",
+    "name": "境宗久",
+    "nameKana": "さかいむねひさ",
+    "description": "映画監督。『ONE PIECE FILM STRONG WORLD』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Munehisa Sakai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hirohiko-uesaka",
+    "name": "上坂浩彦",
+    "nameKana": "うえさかひろいこ",
+    "description": "脚本家。『ONE PIECE FILM STRONG WORLD』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hirohiko Uesaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "junichi-mori",
+    "name": "森淳一",
+    "nameKana": "もりじゅにち",
+    "description": "映画監督・脚本家。『リトル・フォレスト 夏・秋』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Junichi Mori。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sylvester-stallone",
+    "name": "シルヴェスター・スタローン",
+    "nameKana": "シルヴェスタースタローン",
+    "description": "脚本家。『ワーキングマン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sylvester Stallone。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barry-jenkins",
+    "name": "バリー・ジェンキンス",
+    "nameKana": "バリージェンキンス",
+    "description": "映画監督。『ライオン・キング：ムファサ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barry Jenkins。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeff-nathanson",
+    "name": "ジェフ・ナサンソン",
+    "nameKana": "ジェフナサンソン",
+    "description": "脚本家。『ライオン・キング：ムファサ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeff Nathanson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "atsushi-maekawa",
+    "name": "前川淳",
+    "nameKana": "まえかわあつし",
+    "description": "脚本家。『ルパン三世VS名探偵コナン THE MOVIE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Atsushi Maekawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "junji-shimizu",
+    "name": "志水淳児",
+    "nameKana": "しみずじゅんじ",
+    "description": "映画監督。『劇場版 マジンガーZ ／ INFINITY』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Junji Shimizu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takahiro-ozawa",
+    "name": "小沢高広",
+    "nameKana": "おざわたかひろ",
+    "description": "脚本家。『劇場版 マジンガーZ ／ INFINITY』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takahiro Ozawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "carl-gottlieb",
+    "name": "カール・ゴットリーブ",
+    "nameKana": "カールゴットリーブ",
+    "description": "脚本家。『ジョーズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Carl Gottlieb。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-benchley",
+    "name": "ピーター・ベンチリー",
+    "nameKana": "ピーターベンチリー",
+    "description": "脚本家。『ジョーズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Benchley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-obannon",
+    "name": "ダン・オバノン",
+    "nameKana": "ダンオバノン",
+    "description": "脚本家。『エイリアン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan O'Bannon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yukiyo-teramoto",
+    "name": "寺本幸代",
+    "nameKana": "てらもとゆきよ",
+    "description": "映画監督。『映画ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yukiyo Teramoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuichi-shinpo",
+    "name": "真保裕一",
+    "nameKana": "しんぽゆいち",
+    "description": "脚本家。『映画ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuichi Shinpo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gints-zilbalodis",
+    "name": "ギンツ・ジルバロディス",
+    "nameKana": "ギンツジルバロディス",
+    "description": "映画監督・脚本家。『Flow』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gints Zilbalodis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "matiss-kaza",
+    "name": "マティス・カジャ",
+    "nameKana": "マティスカジャ",
+    "description": "脚本家。『Flow』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Matīss Kaža。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steven-caple-jr",
+    "name": "スティーヴン・ケイプル・ジュニア",
+    "nameKana": "スティーヴンケイプルジュニア",
+    "description": "映画監督。『トランスフォーマー／ビースト覚醒』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Steven Caple Jr.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "darnell-metayer",
+    "name": "ダーネル・メテイヤー",
+    "nameKana": "ダーネルメテイヤー",
+    "description": "脚本家。『トランスフォーマー／ビースト覚醒』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Darnell Metayer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "erich-hoeber",
+    "name": "エリック・ホーバー",
+    "nameKana": "エリックホーバー",
+    "description": "脚本家。『トランスフォーマー／ビースト覚醒』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Erich Hoeber。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yasujiro-ozu",
+    "name": "小津安二郎",
+    "nameKana": "おずやすじ",
+    "description": "映画監督・脚本家。『東京物語』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yasujirō Ozu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kogo-noda",
+    "name": "野田高梧",
+    "nameKana": "のだご",
+    "description": "脚本家。『東京物語』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kōgo Noda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "frederic-raphael",
+    "name": "フレデリック・ラファエル",
+    "nameKana": "フレデリックラファエル",
+    "description": "脚本家。『アイズ ワイド シャット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Frederic Raphael。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jordan-peele",
+    "name": "ジョーダン・ピール",
+    "nameKana": "ジョーダンピール",
+    "description": "映画監督・脚本家。『ゲット・アウト』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jordan Peele。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryusuke-hamaguchi",
+    "name": "濱口竜介",
+    "nameKana": "はまぐちりゅすけ",
+    "description": "映画監督・脚本家。『ドライブ・マイ・カー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryusuke Hamaguchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takamasa-oe",
+    "name": "大江崇允",
+    "nameKana": "おえたかまさ",
+    "description": "脚本家。『ドライブ・マイ・カー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takamasa Oe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuro-araki",
+    "name": "荒木哲郎",
+    "nameKana": "あらきてつろ",
+    "description": "映画監督。『DEATH NOTE リライト 幻視する神』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuro Araki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "francis-lawrence",
+    "name": "フランシス・ローレンス",
+    "nameKana": "フランシスローレンス",
+    "description": "映画監督。『ロングウォーク』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Francis Lawrence。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jt-mollner",
+    "name": "JT・モルナー",
+    "nameKana": "もっね",
+    "description": "脚本家。『ロングウォーク』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: JT Mollner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-chaves",
+    "name": "マイケル・チャベス",
+    "nameKana": "マイケルチャベス",
+    "description": "映画監督。『死霊館 最後の儀式』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Chaves。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ian-b-goldberg",
+    "name": "イアン・B・ゴールドバーグ",
+    "nameKana": "ごべいあん",
+    "description": "脚本家。『死霊館 最後の儀式』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ian B. Goldberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-naing",
+    "name": "リチャード・ナイン",
+    "nameKana": "リチャードナイン",
+    "description": "脚本家。『死霊館 最後の儀式』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Naing。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jon-turteltaub",
+    "name": "ジョン・タートルトーブ",
+    "nameKana": "ジョンタートルトーブ",
+    "description": "映画監督。『MEG ザ・モンスター』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jon Turteltaub。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dean-georgaris",
+    "name": "ディーン・ジョーガリス",
+    "nameKana": "ディーンジョーガリス",
+    "description": "脚本家。『MEG ザ・モンスター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dean Georgaris。",
+    "updatedAt": "2026-08-09"
   }
 ]

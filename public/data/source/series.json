@@ -533,5 +533,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "narnia",
+    "name": "「ナルニア国物語」シリーズ",
+    "nameKana": "なるにあこくものがたりしりーず",
+    "description": "C・S・ルイスの児童文学を原作とする異世界冒険映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kung-fu-panda",
+    "name": "「カンフー・パンダ」シリーズ",
+    "nameKana": "かんふーぱんだしりーず",
+    "description": "カンフーを学ぶパンダのポーを主人公とするドリームワークスの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "transformers",
+    "name": "「トランスフォーマー」シリーズ",
+    "nameKana": "とらんすふぉーまーしりーず",
+    "description": "変形する機械生命体と人類の関わりを描く実写SFアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

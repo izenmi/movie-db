@@ -6091,5 +6091,599 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keira Knightley。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-boyega",
+    "name": "ジョン・ボイエガ",
+    "nameKana": "ジョンボイエガ",
+    "description": "俳優。『スター・ウォーズ／フォースの覚醒』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Boyega。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "larry-the-cable-guy",
+    "name": "ラリー・ザ・ケーブル・ガイ",
+    "nameKana": "ラリーザケーブルガイ",
+    "description": "俳優。『カーズ２』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Larry the Cable Guy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsuko-baisho",
+    "name": "倍賞美津子",
+    "nameKana": "ばいしょみつこ",
+    "description": "俳優。『夢』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsuko Baisho。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshie-negishi",
+    "name": "根岸季衣",
+    "nameKana": "ねぎしとしえ",
+    "description": "俳優。『夢』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshie Negishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miki-imai",
+    "name": "今井美樹",
+    "nameKana": "いまいみき",
+    "description": "俳優。『おもひでぽろぽろ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miki Imai。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshiro-yanagiba",
+    "name": "柳葉敏郎",
+    "nameKana": "やなぎばとしろ",
+    "description": "俳優。『おもひでぽろぽろ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshiro Yanagiba。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "william-moseley",
+    "name": "ウィリアム・モーズリー",
+    "nameKana": "ウィリアムモーズリー",
+    "description": "俳優。『ナルニア国物語／第1章：ライオンと魔女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: William Moseley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anna-popplewell",
+    "name": "アナ・ポップルウェル",
+    "nameKana": "アナポップルウェル",
+    "description": "俳優。『ナルニア国物語／第1章：ライオンと魔女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anna Popplewell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "skandar-keynes",
+    "name": "スキャンダー・ケインズ",
+    "nameKana": "スキャンダーケインズ",
+    "description": "俳優。『ナルニア国物語／第1章：ライオンと魔女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Skandar Keynes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dustin-hoffman",
+    "name": "ダスティン・ホフマン",
+    "nameKana": "ダスティンホフマン",
+    "description": "俳優。『カンフー・パンダ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dustin Hoffman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "angelina-jolie",
+    "name": "アンジェリーナ・ジョリー",
+    "nameKana": "アンジェリーナジョリー",
+    "description": "俳優。『カンフー・パンダ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Angelina Jolie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoko-tsukasa",
+    "name": "司葉子",
+    "nameKana": "つかさこ",
+    "description": "俳優。『用心棒』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yōko Tsukasa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuko-sanpei",
+    "name": "三瓶由布子",
+    "nameKana": "さんぺいゆこ",
+    "description": "俳優。『BORUTO -NARUTO THE MOVIE-』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuko Sanpei。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cocoro-kikuchi",
+    "name": "菊池こころ",
+    "nameKana": "きくちおおろ",
+    "description": "俳優。『BORUTO -NARUTO THE MOVIE-』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cocoro Kikuchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jesse-plemons",
+    "name": "ジェシー・プレモンス",
+    "nameKana": "ジェシープレモンス",
+    "description": "俳優。『ブゴニア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jesse Plemons。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aidan-delbis",
+    "name": "エイダン・デルビス",
+    "nameKana": "エイダンデルビス",
+    "description": "俳優。『ブゴニア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aidan Delbis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "monica-bellucci",
+    "name": "モニカ・ベルッチ",
+    "nameKana": "モニカベルッチ",
+    "description": "俳優。『マレーナ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Monica Bellucci。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "giuseppe-sulfaro",
+    "name": "ジュゼッペ・スルファーロ",
+    "nameKana": "ジュゼッペスルファーロ",
+    "description": "俳優。『マレーナ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Giuseppe Sulfaro。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "luciano-federico",
+    "name": "ルチアーノ・フェデリコ",
+    "nameKana": "ルチアーノフェデリコ",
+    "description": "俳優。『マレーナ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Luciano Federico。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rutger-hauer",
+    "name": "ルトガー・ハウアー",
+    "nameKana": "ルトガーハウアー",
+    "description": "俳優。『ブレードランナー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rutger Hauer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sean-young",
+    "name": "ショーン・ヤング",
+    "nameKana": "ショーンヤング",
+    "description": "俳優。『ブレードランナー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sean Young。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hitomi-miyauchi",
+    "name": "宮内ひとみ",
+    "nameKana": "みやうちひとみ",
+    "description": "俳優。『サマーウォーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hitomi Miyauchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsuki-tanimura",
+    "name": "谷村美月",
+    "nameKana": "たにむらみつき",
+    "description": "俳優。『サマーウォーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsuki Tanimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "makoto-nonomura",
+    "name": "野々村真",
+    "nameKana": "ののむらまこと",
+    "description": "俳優。『平成狸合戦ぽんぽこ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Makoto Nonomura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nijiko-kiyokawa",
+    "name": "清川虹子",
+    "nameKana": "きよかわにじこ",
+    "description": "俳優。『平成狸合戦ぽんぽこ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nijiko Kiyokawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shigeru-izumiya",
+    "name": "泉谷しげる",
+    "nameKana": "いずみやしげる",
+    "description": "俳優。『平成狸合戦ぽんぽこ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shigeru Izumiya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "antonio-banderas",
+    "name": "アントニオ・バンデラス",
+    "nameKana": "アントニオバンデラス",
+    "description": "俳優。『長ぐつをはいたネコと9つの命』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Antonio Banderas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "salma-hayek-pinault",
+    "name": "サルマ・ハエック・ピノー",
+    "nameKana": "サルマハエックピノー",
+    "description": "俳優。『長ぐつをはいたネコと9つの命』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Salma Hayek Pinault。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harvey-guillen",
+    "name": "ハーヴィー・ギレン",
+    "nameKana": "ハーヴィーギレン",
+    "description": "俳優。『長ぐつをはいたネコと9つの命』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harvey Guillén。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akemi-okamura",
+    "name": "岡村明美",
+    "nameKana": "おかむらあけみ",
+    "description": "俳優。『ONE PIECE FILM STRONG WORLD』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akemi Okamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ai-hashimoto",
+    "name": "橋本愛",
+    "nameKana": "はしもとあい",
+    "description": "俳優。『リトル・フォレスト 夏・秋』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ai Hashimoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takahiro-miura",
+    "name": "三浦貴大",
+    "nameKana": "みうらたかひろ",
+    "description": "俳優。『リトル・フォレスト 夏・秋』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takahiro Miura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jason-flemyng",
+    "name": "ジェイソン・フレミング",
+    "nameKana": "ジェイソンフレミング",
+    "description": "俳優。『ワーキングマン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jason Flemyng。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "merab-ninidze",
+    "name": "メラブ・ニニッゼ",
+    "nameKana": "メラブニニッゼ",
+    "description": "俳優。『ワーキングマン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Merab Ninidze。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aaron-pierre",
+    "name": "アーロン・ピエール",
+    "nameKana": "アーロンピエール",
+    "description": "俳優。『ライオン・キング：ムファサ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aaron Pierre。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kelvin-harrison-jr",
+    "name": "ケルヴィン・ハリソン・Jr.",
+    "nameKana": "はっりそんけゔぃん",
+    "description": "俳優。『ライオン・キング：ムファサ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kelvin Harrison Jr.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tiffany-boone",
+    "name": "ティファニー・ブーン",
+    "nameKana": "ティファニーブーン",
+    "description": "俳優。『ライオン・キング：ムファサ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tiffany Boone。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kanichi-kurita",
+    "name": "栗田貫一",
+    "nameKana": "くりたかにち",
+    "description": "俳優。『ルパン三世VS名探偵コナン THE MOVIE』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kanichi Kurita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "showtaro-morikubo",
+    "name": "森久保祥太郎",
+    "nameKana": "もりくぼしょたろ",
+    "description": "俳優。『劇場版 マジンガーZ ／ INFINITY』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Showtaro Morikubo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sumire-uesaka",
+    "name": "上坂すみれ",
+    "nameKana": "うえさかすみれ",
+    "description": "俳優。『劇場版 マジンガーZ ／ INFINITY』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sumire Uesaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daniel-craig",
+    "name": "ダニエル・クレイグ",
+    "nameKana": "ダニエルクレイグ",
+    "description": "俳優。『ナイブズ・アウト 名探偵と刃の館の秘密』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daniel Craig。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roy-scheider",
+    "name": "ロイ・シャイダー",
+    "nameKana": "ロイシャイダー",
+    "description": "俳優。『ジョーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roy Scheider。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-shaw",
+    "name": "ロバート・ショウ",
+    "nameKana": "ロバートショウ",
+    "description": "俳優。『ジョーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Shaw。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-dreyfuss",
+    "name": "リチャード・ドレイファス",
+    "nameKana": "リチャードドレイファス",
+    "description": "俳優。『ジョーズ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Dreyfuss。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tom-skerritt",
+    "name": "トム・スケリット",
+    "nameKana": "トムスケリット",
+    "description": "俳優。『エイリアン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tom Skerritt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "veronica-cartwright",
+    "name": "ヴェロニカ・カートライト",
+    "nameKana": "ヴェロニカカートライト",
+    "description": "俳優。『エイリアン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Veronica Cartwright。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jean-reno",
+    "name": "ジャン・レノ",
+    "nameKana": "ジャンレノ",
+    "description": "俳優。『レオン』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jean Reno。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anthony-ramos",
+    "name": "アンソニー・ラモス",
+    "nameKana": "アンソニーラモス",
+    "description": "俳優。『トランスフォーマー／ビースト覚醒』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anthony Ramos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dominique-fishback",
+    "name": "ドミニク・フィッシュバック",
+    "nameKana": "ドミニクフィッシュバック",
+    "description": "俳優。『トランスフォーマー／ビースト覚醒』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dominique Fishback。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-cullen",
+    "name": "ピーター・カレン",
+    "nameKana": "ピーターカレン",
+    "description": "俳優。『トランスフォーマー／ビースト覚醒』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Cullen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chishu-ryu",
+    "name": "笠智衆",
+    "nameKana": "ち",
+    "description": "俳優。『東京物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chishū Ryū。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chieko-higashiyama",
+    "name": "東山千栄子",
+    "nameKana": "ひがしやまちえこ",
+    "description": "俳優。『東京物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chieko Higashiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "setsuko-hara",
+    "name": "原節子",
+    "nameKana": "はらせつこ",
+    "description": "俳優。『東京物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Setsuko Hara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takeshi-kusao",
+    "name": "草尾毅",
+    "nameKana": "くさおたけし",
+    "description": "俳優。『ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takeshi Kusao。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nicole-kidman",
+    "name": "ニコール・キッドマン",
+    "nameKana": "ニコールキッドマン",
+    "description": "俳優。『アイズ ワイド シャット』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nicole Kidman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sydney-pollack",
+    "name": "シドニー・ポラック",
+    "nameKana": "シドニーポラック",
+    "description": "俳優。『アイズ ワイド シャット』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sydney Pollack。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daniel-kaluuya",
+    "name": "ダニエル・カルーヤ",
+    "nameKana": "ダニエルカルーヤ",
+    "description": "俳優。『ゲット・アウト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daniel Kaluuya。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "allison-williams",
+    "name": "アリソン・ウィリアムズ",
+    "nameKana": "アリソンウィリアムズ",
+    "description": "俳優。『ゲット・アウト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Allison Williams。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "catherine-keener",
+    "name": "キャサリン・キーナー",
+    "nameKana": "キャサリンキーナー",
+    "description": "俳優。『ゲット・アウト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Catherine Keener。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toko-miura",
+    "name": "三浦透子",
+    "nameKana": "みうらとこ",
+    "description": "俳優。『ドライブ・マイ・カー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toko Miura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shido-nakamura",
+    "name": "中村獅童",
+    "nameKana": "なかむらしど",
+    "description": "俳優。『DEATH NOTE リライト 幻視する神』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shido Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cooper-hoffman",
+    "name": "クーパー・ホフマン",
+    "nameKana": "クーパーホフマン",
+    "description": "俳優。『ロングウォーク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cooper Hoffman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ben-wang",
+    "name": "ベン・ウォン",
+    "nameKana": "ベンウォン",
+    "description": "俳優。『ロングウォーク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ben Wang。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mia-tomlinson",
+    "name": "ミア・トムリンソン",
+    "nameKana": "ミアトムリンソン",
+    "description": "俳優。『死霊館 最後の儀式』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mia Tomlinson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "li-bingbing",
+    "name": "李冰冰",
+    "nameKana": "びんびんり",
+    "description": "俳優。『MEG ザ・モンスター』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Li Bingbing。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rainn-wilson",
+    "name": "レイン・ウィルソン",
+    "nameKana": "レインウィルソン",
+    "description": "俳優。『MEG ザ・モンスター』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rainn Wilson。",
+    "updatedAt": "2026-08-09"
   }
 ]
