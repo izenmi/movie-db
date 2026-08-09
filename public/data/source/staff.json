@@ -19420,5 +19420,473 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yasuto Nishikata。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edmund-goulding",
+    "name": "エドマンド・グールディング",
+    "nameKana": "エドマンドグールディング",
+    "description": "映画監督。『グランド・ホテル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edmund Goulding。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bela-balazs",
+    "name": "ベラ・バラージュ",
+    "nameKana": "ベラバラージュ",
+    "description": "脚本家。『グランド・ホテル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Béla Balázs。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-riskin",
+    "name": "ロバート・リスキン",
+    "nameKana": "ロバートリスキン",
+    "description": "脚本家。『或る夜の出来事』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Riskin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-e-sherwood",
+    "name": "ロバート・E・シャーウッド",
+    "nameKana": "しぇをおえろべ",
+    "description": "脚本家。『レベッカ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert E. Sherwood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joan-harrison",
+    "name": "ジョーン・ハリソン",
+    "nameKana": "ジョーンハリソン",
+    "description": "脚本家。『レベッカ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joan Harrison。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "philip-dunne",
+    "name": "フィリップ・ダン",
+    "nameKana": "フィリップダン",
+    "description": "脚本家。『わが谷は緑なりき』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Philip Dunne。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arthur-wimperis",
+    "name": "アーサー・ウィンペリス",
+    "nameKana": "アーサーウィンペリス",
+    "description": "脚本家。『ミニヴァー夫人』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arthur Wimperis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "george-froeschel",
+    "name": "ジョージ・フローシェル",
+    "nameKana": "ジョージフローシェル",
+    "description": "脚本家。『ミニヴァー夫人』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: George Froeschel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "elia-kazan",
+    "name": "エリア・カザン",
+    "nameKana": "エリアカザン",
+    "description": "映画監督。『紳士協定』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Elia Kazan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "moss-hart",
+    "name": "モス・ハート",
+    "nameKana": "モスハート",
+    "description": "脚本家。『紳士協定』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Moss Hart。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joseph-l-mankiewicz",
+    "name": "ジョセフ・L・マンキーウィッツ",
+    "nameKana": "まんきえうぃじょせ",
+    "description": "映画監督・脚本家。『イヴの総て』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joseph L. Mankiewicz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vincente-minnelli",
+    "name": "ヴィンセント・ミネリ",
+    "nameKana": "ヴィンセントミネリ",
+    "description": "映画監督。『巴里のアメリカ人』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vincente Minnelli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "theodore-st-john",
+    "name": "セオドア・セント・ジョン",
+    "nameKana": "セオドアセントジョン",
+    "description": "脚本家。『地上最大のショウ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Theodore St. John。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daniel-taradash",
+    "name": "ダニエル・タラダッシュ",
+    "nameKana": "ダニエルタラダッシュ",
+    "description": "脚本家。『地上より永遠に』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daniel Taradash。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "budd-schulberg",
+    "name": "バッド・シュールバーグ",
+    "nameKana": "バッドシュールバーグ",
+    "description": "脚本家。『波止場』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Budd Schulberg。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-anderson",
+    "name": "マイケル・アンダーソン",
+    "nameKana": "マイケルアンダーソン",
+    "description": "映画監督。『80日間世界一周』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Anderson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-farrow",
+    "name": "ジョン・ファロー",
+    "nameKana": "ジョンファロー",
+    "description": "脚本家。『80日間世界一周』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Farrow。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-poe",
+    "name": "ジェームズ・ポー",
+    "nameKana": "ジェームズポー",
+    "description": "脚本家。『80日間世界一周』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Poe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jerome-robbins",
+    "name": "ジェローム・ロビンス",
+    "nameKana": "ジェロームロビンス",
+    "description": "映画監督。『ウエスト・サイド物語』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jerome Robbins。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "norman-jewison",
+    "name": "ノーマン・ジュイソン",
+    "nameKana": "ノーマンジュイソン",
+    "description": "映画監督。『夜の大捜査線』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Norman Jewison。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stirling-silliphant",
+    "name": "スターリング・シリファント",
+    "nameKana": "スターリングシリファント",
+    "description": "脚本家。『夜の大捜査線』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stirling Silliphant。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "carol-reed",
+    "name": "キャロル・リード",
+    "nameKana": "キャロルリード",
+    "description": "映画監督。『オリバー！』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Carol Reed。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vernon-harris",
+    "name": "ヴァーノン・ハリス",
+    "nameKana": "ヴァーノンハリス",
+    "description": "脚本家。『オリバー！』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vernon Harris。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-schlesinger",
+    "name": "ジョン・シュレシンジャー",
+    "nameKana": "ジョンシュレシンジャー",
+    "description": "映画監督。『真夜中のカーボーイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Schlesinger。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "waldo-salt",
+    "name": "ウォルド・ソルト",
+    "nameKana": "ウォルドソルト",
+    "description": "脚本家。『真夜中のカーボーイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Waldo Salt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edmund-h-north",
+    "name": "エドマンド・H・ノース",
+    "nameKana": "のえむん",
+    "description": "脚本家。『パットン大戦車軍団』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edmund H. North。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ernest-tidyman",
+    "name": "アーネスト・タイディマン",
+    "nameKana": "アーネストタイディマン",
+    "description": "脚本家。『フレンチ・コネクション』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ernest Tidyman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "woody-allen",
+    "name": "ウディ・アレン",
+    "nameKana": "ウディアレン",
+    "description": "映画監督・脚本家。『アニー・ホール』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Woody Allen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marshall-brickman",
+    "name": "マーシャル・ブリックマン",
+    "nameKana": "マーシャルブリックマン",
+    "description": "脚本家。『アニー・ホール』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marshall Brickman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-benton",
+    "name": "ロバート・ベントン",
+    "nameKana": "ロバートベントン",
+    "description": "映画監督・脚本家。『クレイマー、クレイマー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Benton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-redford",
+    "name": "ロバート・レッドフォード",
+    "nameKana": "ロバートレッドフォード",
+    "description": "映画監督。『普通の人々』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Redford。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hugh-hudson",
+    "name": "ヒュー・ハドソン",
+    "nameKana": "ヒューハドソン",
+    "description": "映画監督。『炎のランナー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hugh Hudson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "colin-welland",
+    "name": "コリン・ウェランド",
+    "nameKana": "コリンウェランド",
+    "description": "脚本家。『炎のランナー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Colin Welland。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-briley",
+    "name": "ジョン・ブライリー",
+    "nameKana": "ジョンブライリー",
+    "description": "脚本家。『ガンジー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Briley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-l-brooks",
+    "name": "ジェームズ・L・ブルックス",
+    "nameKana": "ろおじゃめ",
+    "description": "映画監督・脚本家。『愛と追憶の日々』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James L. Brooks。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sydney-pollack",
+    "name": "シドニー・ポラック",
+    "nameKana": "シドニーポラック",
+    "description": "映画監督。『愛と哀しみの果て』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sydney Pollack。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kurt-luedtke",
+    "name": "カート・リュートケ",
+    "nameKana": "カートリュートケ",
+    "description": "脚本家。『愛と哀しみの果て』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kurt Luedtke。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bruce-beresford",
+    "name": "ブルース・ベレスフォード",
+    "nameKana": "ブルースベレスフォード",
+    "description": "映画監督。『ドライビング Miss デイジー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bruce Beresford。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alfred-uhry",
+    "name": "アルフレッド・ウーリー",
+    "nameKana": "アルフレッドウーリー",
+    "description": "脚本家。『ドライビング Miss デイジー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alfred Uhry。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anthony-minghella",
+    "name": "アンソニー・ミンゲラ",
+    "nameKana": "アンソニーミンゲラ",
+    "description": "映画監督・脚本家。『イングリッシュ・ペイシェント』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anthony Minghella。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-madden",
+    "name": "ジョン・マッデン",
+    "nameKana": "ジョンマッデン",
+    "description": "映画監督。『恋におちたシェイクスピア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Madden。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marc-norman",
+    "name": "マーク・ノーマン",
+    "nameKana": "マークノーマン",
+    "description": "脚本家。『恋におちたシェイクスピア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marc Norman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tom-stoppard",
+    "name": "トム・ストッパード",
+    "nameKana": "トムストッパード",
+    "description": "脚本家。『恋におちたシェイクスピア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tom Stoppard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-haggis",
+    "name": "ポール・ハギス",
+    "nameKana": "ポールハギス",
+    "description": "映画監督・脚本家。『ミリオンダラー・ベイビー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul Haggis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bobby-moresco",
+    "name": "ボビー・モレスコ",
+    "nameKana": "ボビーモレスコ",
+    "description": "脚本家。『クラッシュ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bobby Moresco。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mark-boal",
+    "name": "マーク・ボール",
+    "nameKana": "マークボール",
+    "description": "脚本家。『ハート・ロッカー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mark Boal。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michel-hazanavicius",
+    "name": "ミシェル・アザナヴィシウス",
+    "nameKana": "ミシェルアザナヴィシウス",
+    "description": "映画監督・脚本家。『アーティスト』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michel Hazanavicius。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tom-mccarthy",
+    "name": "トム・マッカーシー",
+    "nameKana": "トムマッカーシー",
+    "description": "映画監督・脚本家。『スポットライト 世紀のスクープ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tom McCarthy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sian-heder",
+    "name": "シアン・ヘダー",
+    "nameKana": "シアンヘダー",
+    "description": "映画監督・脚本家。『コーダ あいのうた』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sian Heder。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "graham-greene",
+    "name": "グレアム・グリーン",
+    "nameKana": "グレアムグリーン",
+    "description": "脚本家。『第三の男』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Graham Greene。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henri-georges-clouzot",
+    "name": "アンリ=ジョルジュ・クルーゾー",
+    "nameKana": "ろうぞへんりげおげ",
+    "description": "映画監督・脚本家。『恐怖の報酬』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Henri-Georges Clouzot。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jerome-geronimi",
+    "name": "ジェローム・ジェロニミ",
+    "nameKana": "ジェロームジェロニミ",
+    "description": "脚本家。『恐怖の報酬』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jérôme Géronimi。",
+    "updatedAt": "2026-08-09"
   }
 ]

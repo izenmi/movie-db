@@ -97121,5 +97121,2602 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "grand-hotel",
+    "title": "グランド・ホテル",
+    "titleKana": "ぐらんどほてる",
+    "directorIds": [
+      "edmund-goulding"
+    ],
+    "screenwriterIds": [
+      "bela-balazs",
+      "edgar-allan-woolf"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "greta-garbo",
+        "character": "グルシンスカヤ"
+      },
+      {
+        "actorId": "john-barrymore",
+        "character": "ガイゲルン男爵"
+      },
+      {
+        "actorId": "joan-crawford",
+        "character": "フレムヒェン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1932,
+      "month": 9
+    },
+    "runtime": 112,
+    "originalType": "other",
+    "synopsis": "ベルリンの高級ホテルに、事情の異なる客たちが同じ日に滞在している。落ち目のバレリーナ、宝石を狙う男爵、余命の短い会計係、破綻寸前の実業家。それぞれの物語が、廊下と客室で交差していく。限定した舞台で群像を描く形式の原点として、今も参照され続けている作品にあたる。",
+    "tmdbId": 33680,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Grand Hotel",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1931,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "it-happened-one-night",
+    "title": "或る夜の出来事",
+    "titleKana": "あるよるのできごと",
+    "directorIds": [
+      "frank-capra"
+    ],
+    "screenwriterIds": [
+      "robert-riskin"
+    ],
+    "studioIds": [
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "clark-gable",
+        "character": "ピーター・ウォーン"
+      },
+      {
+        "actorId": "claudette-colbert",
+        "character": "エリー・アンドリュース"
+      },
+      {
+        "actorId": "walter-connolly",
+        "character": "アレクサンダー・アンドリュース"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "road-movie"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1934,
+      "month": 8
+    },
+    "runtime": 105,
+    "originalType": "other",
+    "synopsis": "結婚を反対されて家出した大富豪の娘エリーが、長距離バスに乗り込む。同乗した失業中の新聞記者ピーターは、特ダネ欲しさに彼女に同行する。宿代を節約するため毛布を吊るした相部屋で、二人の距離は縮まっていく。アカデミー賞の主要五部門を史上初めて独占した作品にあたる。軽妙な会話と道中の描写が、以後の恋愛喜劇の型を作った。",
+    "tmdbId": 3078,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "It Happened One Night",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1934,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1934,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "you-cant-take-it-with-you",
+    "title": "我が家の楽園",
+    "titleKana": "わがやのらくえん",
+    "directorIds": [
+      "frank-capra"
+    ],
+    "screenwriterIds": [
+      "robert-riskin"
+    ],
+    "studioIds": [
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "jean-arthur",
+        "character": "アリス・シカモア"
+      },
+      {
+        "actorId": "lionel-barrymore",
+        "character": "マーティン・ヴァンダーホフ"
+      },
+      {
+        "actorId": "james-stewart",
+        "character": "トニー・カービー"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1939,
+      "month": 4
+    },
+    "runtime": 126,
+    "originalType": "other",
+    "synopsis": "風変わりな家族に囲まれて育ったアリスが、裕福な銀行家の息子トニーと恋に落ちる。家格の違いを気にする相手の両親を招いた夕食は、想像を超えた騒動になる。金より生きる楽しさを選ぶ祖父の姿が、対立を溶かしていく。フランク・キャプラ監督がアカデミー作品賞を受けた一本にあたる。",
+    "tmdbId": 34106,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "You Can't Take It with You",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1938,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1939,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "rebecca",
+    "title": "レベッカ",
+    "titleKana": "れべっか",
+    "directorIds": [
+      "alfred-hitchcock"
+    ],
+    "screenwriterIds": [
+      "robert-e-sherwood",
+      "joan-harrison"
+    ],
+    "studioIds": [
+      "selznick-international-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "laurence-olivier",
+        "character": "マキシム・デ・ウィンター"
+      },
+      {
+        "actorId": "joan-fontaine",
+        "character": "デ・ウィンター夫人"
+      },
+      {
+        "actorId": "george-sanders",
+        "character": "ジャック・ファヴェル"
+      }
+    ],
+    "themeIds": [
+      "mystery",
+      "romance",
+      "human-drama",
+      "suspense"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1951,
+      "month": 4
+    },
+    "runtime": 130,
+    "originalType": "novel",
+    "synopsis": "南仏で出会った富豪マキシムと結婚した女性が、英国の大邸宅マンダレイへ移る。屋敷には亡くなった前妻レベッカの記憶が濃く残り、家政婦頭が新妻を追い詰める。夫が何を隠しているのかが、少しずつ明らかになる。ヒッチコックの渡米第一作で、アカデミー作品賞を受けた作品にあたる。",
+    "tmdbId": 223,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Rebecca"
+  },
+  {
+    "id": "how-green-was-my-valley",
+    "title": "わが谷は緑なりき",
+    "titleKana": "わがたにはみどりなりき",
+    "directorIds": [
+      "john-ford"
+    ],
+    "screenwriterIds": [
+      "philip-dunne"
+    ],
+    "studioIds": [
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "walter-pidgeon",
+        "character": "ヒュー・モーガン"
+      },
+      {
+        "actorId": "maureen-ohara",
+        "character": "モーガン氏"
+      },
+      {
+        "actorId": "anna-lee",
+        "character": "アンハラッド"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1950,
+      "month": 12
+    },
+    "runtime": 118,
+    "originalType": "novel",
+    "synopsis": "ウェールズの炭鉱町で、モーガン家の末子ヒューが少年時代を回想する。炭鉱の合理化と賃下げが、家族と町を少しずつ分断していく。兄たちは家を出て、姉は望まぬ結婚をする。緑だった谷が炭塵に覆われていく過程を、静かな叙情で描いた作品にあたる。炭鉱の暮らしを詩情豊かに捉え、アカデミー作品賞を受けている。ジョン・フォード監督の代表作の一本にあたる。",
+    "tmdbId": 43266,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "How Green Was My Valley",
+    "awardResults": [
+      {
+        "awardId": "kinema-junpo",
+        "year": 1951,
+        "result": "外国映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "mrs-miniver",
+    "title": "ミニヴァー夫人",
+    "titleKana": "みにばーふじん",
+    "directorIds": [
+      "william-wyler"
+    ],
+    "screenwriterIds": [
+      "arthur-wimperis",
+      "george-froeschel"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "greer-garson",
+        "character": "ミニヴァー夫人"
+      },
+      {
+        "actorId": "walter-pidgeon",
+        "character": "クレム・ミニヴァー"
+      },
+      {
+        "actorId": "teresa-wright",
+        "character": "キャロル・ベルドン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "war",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1949,
+      "month": 5
+    },
+    "runtime": 134,
+    "originalType": "novel",
+    "synopsis": "ロンドン郊外で穏やかに暮らすミニヴァー一家に、開戦の報せが届く。夫は民間船でダンケルクの救出に向かい、妻は不時着した敵兵と対峙する。空襲で町も教会も壊れていくなか、彼女は日常を守り抜こうとする。戦時下に作られ、アカデミー作品賞を受けた作品にあたる。当時の英国の抗戦意識を高めたと評され、政治的にも影響を持った。",
+    "tmdbId": 27367,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Mrs. Miniver"
+  },
+  {
+    "id": "the-best-years-of-our-lives",
+    "title": "我等の生涯の最良の年",
+    "titleKana": "われらのしょうがいのさいりょうのとし",
+    "directorIds": [
+      "william-wyler"
+    ],
+    "screenwriterIds": [
+      "robert-e-sherwood"
+    ],
+    "studioIds": [
+      "samuel-goldwyn-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "dana-andrews",
+        "character": "フレッド・デリー"
+      },
+      {
+        "actorId": "fredric-march",
+        "character": "アル・スティーヴンソン"
+      },
+      {
+        "actorId": "harold-russell",
+        "character": "ホーマー・パリッシュ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "war",
+      "postwar"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1948,
+      "month": 6
+    },
+    "runtime": 171,
+    "originalType": "novel",
+    "synopsis": "復員した三人の男が、同じ町でそれぞれの日常に戻ろうとする。両手を失った水兵は家族の同情に耐えられず、爆撃手は職も妻も失っていた。銀行員に戻った中年の男も、以前と同じ判断ができない。戦後の帰還兵を正面から描き、アカデミー作品賞を受けた作品にあたる。実際に両手を失った復員兵が出演した点でも知られている。",
+    "tmdbId": 887,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Best Years of Our Lives",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1946,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1948,
+        "result": "外国映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "gentlemans-agreement",
+    "title": "紳士協定",
+    "titleKana": "しんしきょうてい",
+    "directorIds": [
+      "elia-kazan"
+    ],
+    "screenwriterIds": [
+      "moss-hart"
+    ],
+    "studioIds": [
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "gregory-peck",
+        "character": "フィリップ・グリーン"
+      },
+      {
+        "actorId": "dorothy-mcguire",
+        "character": "キャシー・レイシー"
+      },
+      {
+        "actorId": "john-garfield",
+        "character": "デイヴ・ゴールドマン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1987,
+      "month": 10
+    },
+    "runtime": 118,
+    "originalType": "novel",
+    "synopsis": "雑誌の依頼で反ユダヤ主義を取材する記者フィルが、自らユダヤ人だと名乗って生活する。住居も職場も交友も、名前ひとつで態度が変わっていく。婚約者すら、その事実の前で揺らぐ。差別を扱った作品として、アカデミー作品賞を受けている。公開当時としては踏み込んだ題材で、大きな議論を呼んだ作品にあたる。エリア・カザン監督の初期の代表作となる。",
+    "tmdbId": 33667,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Gentleman's Agreement"
+  },
+  {
+    "id": "all-about-eve",
+    "title": "イヴの総て",
+    "titleKana": "いぶのすべて",
+    "directorIds": [
+      "joseph-l-mankiewicz"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "bette-davis",
+        "character": "マーゴ・チャニング"
+      },
+      {
+        "actorId": "anne-baxter",
+        "character": "イヴ・ハリントン"
+      },
+      {
+        "actorId": "george-sanders",
+        "character": "アディソン・デウィット"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "filmmaking",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1951,
+      "month": 9
+    },
+    "runtime": 139,
+    "originalType": "other",
+    "synopsis": "舞台女優マーゴのもとに、熱心な崇拝者を名乗る若い女性イヴが現れる。献身的に働く彼女は、周囲の信頼を得ながら少しずつ立場を奪っていく。誰もが後から、彼女の意図に気づくことになる。辛辣な台詞の応酬で知られ、アカデミー作品賞を受けた作品にあたる。アカデミー賞に十四部門で候補入りし、六部門を受けている。",
+    "tmdbId": 705,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "All About Eve",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1950,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1951,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "an-american-in-paris",
+    "title": "巴里のアメリカ人",
+    "titleKana": "ぱりのあめりかじん",
+    "directorIds": [
+      "vincente-minnelli"
+    ],
+    "screenwriterIds": [
+      "alan-jay-lerner"
+    ],
+    "studioIds": [
+      "metro-goldwyn-mayer",
+      "loews-incorporated"
+    ],
+    "cast": [
+      {
+        "actorId": "gene-kelly",
+        "character": "ジェリー・マリガン"
+      },
+      {
+        "actorId": "leslie-caron",
+        "character": "リズ・ブヴィエ"
+      },
+      {
+        "actorId": "oscar-levant",
+        "character": "アダム・クック"
+      }
+    ],
+    "themeIds": [
+      "music",
+      "romance",
+      "comedy",
+      "musical",
+      "dance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1952,
+      "month": 5
+    },
+    "runtime": 113,
+    "originalType": "other",
+    "synopsis": "パリで画家を志す元兵士ジェリーが、富豪の女性に見出される。彼は店員の娘リズに一目惚れするが、彼女には婚約者がいた。ガーシュウィンの楽曲に乗せた長いバレエ場面が、終盤を占める。アカデミー作品賞を受けた音楽映画にあたる。十七分に及ぶ舞踊の場面が、この作品の代名詞となっている。ジーン・ケリーの代表作の一本にあたる。",
+    "tmdbId": 2769,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "An American in Paris",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1951,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "the-greatest-show-on-earth",
+    "title": "地上最大のショウ",
+    "titleKana": "ちじょうさいだいのしょう",
+    "directorIds": [
+      "cecil-b-demille"
+    ],
+    "screenwriterIds": [
+      "fredric-m-frank",
+      "theodore-st-john"
+    ],
+    "studioIds": [
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "betty-hutton",
+        "character": "ホリー"
+      },
+      {
+        "actorId": "cornel-wilde",
+        "character": "セバスチャン"
+      },
+      {
+        "actorId": "charlton-heston",
+        "character": "ブラッド・ブレイデン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1953,
+      "month": 4
+    },
+    "runtime": 152,
+    "originalType": "other",
+    "synopsis": "巨大なサーカス団に、空中曲芸の名手セバスチャンが加わる。看板芸人ホリーは、彼と危険な技を競い合うようになる。過去を隠す道化と、団を狙う賭博組織も絡み、列車事故が全員を巻き込む。実際の巡業を大規模に撮影し、アカデミー作品賞を受けた作品にあたる。サーカスの実景を大量に取り込んだ点が、この作品の見どころとなる。",
+    "tmdbId": 27191,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Greatest Show on Earth",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1952,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "from-here-to-eternity",
+    "title": "地上より永遠に",
+    "titleKana": "ちじょうよりえいえんに",
+    "directorIds": [
+      "fred-zinnemann"
+    ],
+    "screenwriterIds": [
+      "daniel-taradash"
+    ],
+    "studioIds": [
+      "columbia-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "burt-lancaster",
+        "character": "ウォーデン曹長"
+      },
+      {
+        "actorId": "montgomery-clift",
+        "character": "プルーイット"
+      },
+      {
+        "actorId": "deborah-kerr",
+        "character": "カレン・ホームズ"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "romance",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1953,
+      "month": 11
+    },
+    "runtime": 118,
+    "originalType": "novel",
+    "synopsis": "真珠湾攻撃前夜のハワイで、ボクシングを拒んだ兵士プルーが執拗な私的制裁を受ける。上級曹長ウォーデンは、上官の妻と危うい関係を結ぶ。軍隊の内側の理不尽が、開戦の朝に断ち切られる。波打ち際の場面で知られ、アカデミー作品賞を受けた作品にあたる。フランク・シナトラが助演男優賞を受け、俳優として復活した作品でもある。",
+    "tmdbId": 11426,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "From Here to Eternity",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1953,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "on-the-waterfront",
+    "title": "波止場",
+    "titleKana": "はとば",
+    "directorIds": [
+      "elia-kazan"
+    ],
+    "screenwriterIds": [
+      "budd-schulberg"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "horizon-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "marlon-brando",
+        "character": "テリー・マロイ"
+      },
+      {
+        "actorId": "eva-marie-saint",
+        "character": "イディ・ドイル"
+      },
+      {
+        "actorId": "karl-malden",
+        "character": "バリー神父"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "romance",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1954,
+      "month": 6
+    },
+    "runtime": 108,
+    "originalType": "other",
+    "synopsis": "元ボクサーのテリーが、港湾労働組合を牛耳る組織の下働きをしている。仲間の死に関わってしまった彼は、遺された妹と神父に心を動かされる。証言すれば、兄も仲間も敵に回すことになる。マーロン・ブランドの演技で知られ、アカデミー作品賞を受けた作品にあたる。タクシー内の兄弟の会話が、映画史に残る場面とされている。",
+    "tmdbId": 654,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "On the Waterfront",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1954,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1954,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "around-the-world-in-80-days",
+    "title": "80日間世界一周",
+    "titleKana": "はちじゅうにちかんせかいいっしゅう",
+    "directorIds": [
+      "michael-anderson"
+    ],
+    "screenwriterIds": [
+      "john-farrow",
+      "james-poe"
+    ],
+    "studioIds": [
+      "michael-todd-company"
+    ],
+    "cast": [
+      {
+        "actorId": "david-niven",
+        "character": "フィリアス・フォッグ"
+      },
+      {
+        "actorId": "cantinflas",
+        "character": "パスパルトゥー"
+      },
+      {
+        "actorId": "shirley-maclaine",
+        "character": "アウダ姫"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "comedy",
+      "family",
+      "fantasy",
+      "romance",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1957,
+      "month": 7
+    },
+    "runtime": 182,
+    "originalType": "novel",
+    "synopsis": "英国紳士フォッグが、八十日間で世界を一周できるかを賭ける。従者パスパルトゥーを連れ、彼は汽船と気球と象で東へ進む。銀行強盗と疑われ、刑事にも追われる旅になる。多数の有名俳優が短い場面で登場する趣向でも知られ、アカデミー作品賞を受けている。世界各地での実地撮影に、当時としては破格の予算が投じられた。",
+    "tmdbId": 2897,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Around the World in 80 Days"
+  },
+  {
+    "id": "the-bridge-on-the-river-kwai",
+    "title": "戦場にかける橋",
+    "titleKana": "せんじょうにかけるはし",
+    "directorIds": [
+      "david-lean"
+    ],
+    "screenwriterIds": [
+      "carl-foreman",
+      "michael-wilson"
+    ],
+    "studioIds": [
+      "horizon-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "william-holden",
+        "character": "シアーズ"
+      },
+      {
+        "actorId": "alec-guinness",
+        "character": "ニコルソン大佐"
+      },
+      {
+        "actorId": "jack-hawkins",
+        "character": "ウォーデン少佐"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "war",
+      "prison"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1957,
+      "month": 12
+    },
+    "runtime": 162,
+    "originalType": "novel",
+    "synopsis": "日本軍の捕虜収容所で、英軍のニコルソン大佐が橋の建設を指揮することになる。軍人としての誇りから、彼は完璧な橋を作ることに没頭していく。同じ橋を爆破するための部隊が、密かに接近していた。主題の口笛で知られ、アカデミー作品賞を受けた作品にあたる。アレック・ギネスが主演男優賞を受けた作品でもある。",
+    "tmdbId": 826,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Bridge on the River Kwai",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1957,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1957,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "gigi",
+    "title": "恋の手ほどき",
+    "titleKana": "こいのてほどき",
+    "directorIds": [
+      "vincente-minnelli"
+    ],
+    "screenwriterIds": [
+      "alan-jay-lerner"
+    ],
+    "studioIds": [
+      "arthur-freed-production",
+      "metro-goldwyn-mayer"
+    ],
+    "cast": [
+      {
+        "actorId": "leslie-caron",
+        "character": "ジジ"
+      },
+      {
+        "actorId": "maurice-chevalier",
+        "character": "オノレ・ラシャイユ"
+      },
+      {
+        "actorId": "louis-jourdan",
+        "character": "ガストン・ラシャイユ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "romance",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1959,
+      "month": 6
+    },
+    "runtime": 115,
+    "originalType": "novel",
+    "synopsis": "十九世紀末のパリで、少女ジジが社交界の作法を仕込まれて育つ。遊び人の青年ガストンは、彼女を妹のように可愛がっていた。だが彼が彼女を女性として意識しはじめ、関係が変わる。アカデミー賞九部門を受けた音楽映画にあたる。パリの美術と衣装が華やかで、当時の受賞記録を塗り替えた作品にあたる。モーリス・シュヴァリエの歌も見どころとなる。",
+    "tmdbId": 17281,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Gigi",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1958,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "west-side-story",
+    "title": "ウエスト・サイド物語",
+    "titleKana": "うえすとさいどものがたり",
+    "directorIds": [
+      "jerome-robbins",
+      "robert-wise"
+    ],
+    "screenwriterIds": [
+      "ernest-lehman"
+    ],
+    "studioIds": [
+      "seven-arts-productions",
+      "the-mirisch-company"
+    ],
+    "cast": [
+      {
+        "actorId": "natalie-wood",
+        "character": "マリア"
+      },
+      {
+        "actorId": "richard-beymer",
+        "character": "トニー"
+      },
+      {
+        "actorId": "russ-tamblyn",
+        "character": "リフ"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "romance",
+      "musical",
+      "dance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1961,
+      "month": 12
+    },
+    "runtime": 153,
+    "originalType": "other",
+    "synopsis": "マンハッタンの一角で、イタリア系とプエルトリコ系の若者集団が対立している。片方の元リーダー、トニーが、相手側の妹マリアと恋に落ちる。決闘の約束が、二人の未来を断ち切る。ロミオとジュリエットを下敷きにし、アカデミー賞十部門を受けた作品にあたる。路上での踊りと楽曲が、音楽映画の水準を大きく引き上げた。",
+    "tmdbId": 1725,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "West Side Story",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1961,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1961,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "a-man-for-all-seasons",
+    "title": "わが命つきるとも",
+    "titleKana": "わがいのちつきるとも",
+    "directorIds": [
+      "fred-zinnemann"
+    ],
+    "screenwriterIds": [
+      "robert-bolt"
+    ],
+    "studioIds": [
+      "highland-films"
+    ],
+    "cast": [
+      {
+        "actorId": "paul-scofield",
+        "character": "トマス・モア"
+      },
+      {
+        "actorId": "wendy-hiller",
+        "character": "アリス・モア"
+      },
+      {
+        "actorId": "leo-mckern",
+        "character": "トマス・クロムウェル"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "courtroom"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1967,
+      "month": 7
+    },
+    "runtime": 120,
+    "originalType": "other",
+    "synopsis": "十六世紀の英国で、国王ヘンリー八世が離婚と再婚を強行しようとする。大法官トマス・モアは、信念に背く宣誓を最後まで拒み続ける。沈黙こそが最大の抵抗となるが、それも許されない。信念の代償を描き、アカデミー作品賞を受けた作品にあたる。抑えた演出と台詞の力で、法廷劇としても高く評価されている。",
+    "tmdbId": 874,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "A Man for All Seasons",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1966,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1967,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "in-the-heat-of-the-night",
+    "title": "夜の大捜査線",
+    "titleKana": "よるのだいそうさせん",
+    "directorIds": [
+      "norman-jewison"
+    ],
+    "screenwriterIds": [
+      "stirling-silliphant"
+    ],
+    "studioIds": [
+      "united-artists",
+      "the-mirisch-company"
+    ],
+    "cast": [
+      {
+        "actorId": "sidney-poitier",
+        "character": "ヴァージル・ティッブス"
+      },
+      {
+        "actorId": "rod-steiger",
+        "character": "ギレスピー署長"
+      },
+      {
+        "actorId": "warren-oates",
+        "character": "サム・ウッド"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "mystery",
+      "suspense",
+      "detective",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1967,
+      "month": 10
+    },
+    "runtime": 109,
+    "originalType": "novel",
+    "synopsis": "南部の田舎町で起きた殺人事件で、通りかかった黒人男性が容疑者にされる。彼が北部の敏腕刑事だと判明し、白人署長は渋々協力を受け入れる。互いへの反発を抱えたまま、二人は捜査を進める。人種差別を正面から扱い、アカデミー作品賞を受けた作品にあたる。平手打ちの場面が、当時の米国社会に強い衝撃を与えた。",
+    "tmdbId": 10633,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "In the Heat of the Night",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1967,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1967,
+        "result": "外国映画 第8位"
+      }
+    ]
+  },
+  {
+    "id": "oliver",
+    "title": "オリバー!",
+    "titleKana": "おりばー",
+    "directorIds": [
+      "carol-reed"
+    ],
+    "screenwriterIds": [
+      "vernon-harris"
+    ],
+    "studioIds": [
+      "warwick-film-productions",
+      "romulus-films"
+    ],
+    "cast": [
+      {
+        "actorId": "ron-moody",
+        "character": "フェイギン"
+      },
+      {
+        "actorId": "shani-wallis",
+        "character": "ナンシー"
+      },
+      {
+        "actorId": "oliver-reed",
+        "character": "ビル・サイクス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "musical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1968,
+      "month": 10
+    },
+    "runtime": 146,
+    "originalType": "novel",
+    "synopsis": "救貧院で育った少年オリバーが、おかわりを求めたことで放り出される。ロンドンで掏摸の少年団に拾われた彼は、老人フェイギンのもとで暮らしはじめる。優しい紳士に引き取られかけた矢先、彼は連れ戻される。ディケンズの小説を音楽劇として映画化し、アカデミー作品賞を受けている。",
+    "tmdbId": 17917,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Oliver!",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1968,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "midnight-cowboy",
+    "title": "真夜中のカーボーイ",
+    "titleKana": "まよなかのかーぼーい",
+    "directorIds": [
+      "john-schlesinger"
+    ],
+    "screenwriterIds": [
+      "waldo-salt"
+    ],
+    "studioIds": [
+      "florin-productions",
+      "jerome-hellman-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "dustin-hoffman",
+        "character": "ラッツォ"
+      },
+      {
+        "actorId": "jon-voight",
+        "character": "ジョー・バック"
+      },
+      {
+        "actorId": "sylvia-miles",
+        "character": "キャス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "friendship",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1969,
+      "month": 10
+    },
+    "runtime": 113,
+    "originalType": "novel",
+    "synopsis": "テキサスから出てきた青年ジョーが、身体を売って稼ごうとニューヨークへ向かう。詐欺に遭った彼は、足の悪い小男ラッツォと廃屋で共同生活を始める。二人は南へ行く夢を語りながら、冬を越えられずにいた。成人指定でありながらアカデミー作品賞を受けた唯一の作品にあたる。都市の孤独を捉えた映像と、二人の関係の描写で語り継がれている。",
+    "tmdbId": 3116,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Midnight Cowboy",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1969,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1969,
+        "result": "外国映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "patton",
+    "title": "パットン大戦車軍団",
+    "titleKana": "ぱっとんだいせんしゃぐんだん",
+    "directorIds": [
+      "franklin-j-schaffner"
+    ],
+    "screenwriterIds": [
+      "francis-ford-coppola",
+      "edmund-h-north"
+    ],
+    "studioIds": [
+      "20th-century-fox"
+    ],
+    "cast": [
+      {
+        "actorId": "george-c-scott",
+        "character": "パットン将軍"
+      },
+      {
+        "actorId": "karl-malden",
+        "character": "ブラッドリー将軍"
+      },
+      {
+        "actorId": "stephen-young",
+        "character": "ハンセン大尉"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "human-drama",
+      "history",
+      "biography"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1970,
+      "month": 6
+    },
+    "runtime": 170,
+    "originalType": "other",
+    "synopsis": "北アフリカ戦線で、米軍のパットン将軍が独軍を押し返していく。勝利への執着と、部下への理不尽な言動が、彼を何度も窮地に立たせる。戦争そのものを愛してしまう男の像が、容赦なく描かれる。冒頭の演説場面で知られ、アカデミー作品賞を受けた作品にあたる。ジョージ・C・スコットが主演男優賞の受賞を拒否した件でも知られる。",
+    "tmdbId": 11202,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Patton",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1970,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "the-french-connection",
+    "title": "フレンチ・コネクション",
+    "titleKana": "ふれんちこねくしょん",
+    "directorIds": [
+      "william-friedkin"
+    ],
+    "screenwriterIds": [
+      "ernest-tidyman"
+    ],
+    "studioIds": [
+      "dantoni-productions",
+      "schine-moore-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "gene-hackman",
+        "character": "ポパイ・ドイル"
+      },
+      {
+        "actorId": "roy-scheider",
+        "character": "バディ・ルッソ"
+      },
+      {
+        "actorId": "fernando-rey",
+        "character": "アラン・シャルニエ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "suspense",
+      "detective"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1972,
+      "month": 2
+    },
+    "runtime": 104,
+    "originalType": "novel",
+    "synopsis": "麻薬取締の刑事ポパイが、勘だけを頼りにマルセイユからの密輸を嗅ぎつける。相棒とともに執拗な尾行を続けるが、上層部は取り合わない。高架下での自動車と電車の追跡が、事態を一気に動かす。アカデミー作品賞を受け、警察映画の型を変えた作品にあたる。実際の街路で撮られた追跡場面が、今も引用され続けている。",
+    "tmdbId": 1051,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The French Connection",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1971,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1972,
+        "result": "外国映画 第10位"
+      }
+    ]
+  },
+  {
+    "id": "annie-hall",
+    "title": "アニー・ホール",
+    "titleKana": "あにーほーる",
+    "directorIds": [
+      "woody-allen"
+    ],
+    "screenwriterIds": [
+      "marshall-brickman"
+    ],
+    "studioIds": [
+      "jack-rollins-charles-h-joffe-productions",
+      "united-artists"
+    ],
+    "cast": [
+      {
+        "actorId": "diane-keaton",
+        "character": "アニー・ホール"
+      },
+      {
+        "actorId": "woody-allen",
+        "character": "アルビー・シンガー"
+      },
+      {
+        "actorId": "tony-roberts",
+        "character": "ロブ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1978,
+      "month": 1
+    },
+    "runtime": 93,
+    "originalType": "original",
+    "synopsis": "神経質な喜劇作家アルビーが、歌手志望のアニーとの恋を回想する。観客に語りかけ、字幕で本音を示し、時代も場所も自在に飛び越えていく。うまくいかないと分かっていながら、彼は関係を反芻し続ける。アカデミー作品賞を受け、恋愛喜劇の型を変えた作品にあたる。実験的な語り口が、後の恋愛映画に大きな影響を残した。",
+    "tmdbId": 703,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Annie Hall",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1977,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1978,
+        "result": "外国映画 第10位"
+      }
+    ]
+  },
+  {
+    "id": "kramer-vs-kramer",
+    "title": "クレイマー、クレイマー",
+    "titleKana": "くれいまーくれいまー",
+    "directorIds": [
+      "robert-benton"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "columbia-pictures",
+      "stanley-jaffe-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "dustin-hoffman",
+        "character": "テッド・クレイマー"
+      },
+      {
+        "actorId": "meryl-streep",
+        "character": "ジョアンナ・クレイマー"
+      },
+      {
+        "actorId": "jane-alexander",
+        "character": "マーガレット・フェルプス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "courtroom"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1980,
+      "month": 4
+    },
+    "runtime": 105,
+    "originalType": "novel",
+    "synopsis": "仕事に没頭していたテッドが、突然妻に家を出られて息子と二人になる。慣れない家事と育児に追われ、彼は職を失いかける。ようやく親子の生活が成り立った頃、妻が親権を求めて戻ってくる。アカデミー作品賞を受け、当時の家族観を映した作品にあたる。父と子の食卓の場面が、繰り返し語られる名場面となっている。",
+    "tmdbId": 12102,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Kramer vs. Kramer",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1979,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1980,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "ordinary-people",
+    "title": "普通の人々",
+    "titleKana": "ふつうのひとびと",
+    "directorIds": [
+      "robert-redford"
+    ],
+    "screenwriterIds": [
+      "alvin-sargent"
+    ],
+    "studioIds": [
+      "paramount",
+      "wildwood-enterprises"
+    ],
+    "cast": [
+      {
+        "actorId": "donald-sutherland",
+        "character": "カルヴィン・ジャレット"
+      },
+      {
+        "actorId": "mary-tyler-moore",
+        "character": "ベス・ジャレット"
+      },
+      {
+        "actorId": "judd-hirsch",
+        "character": "バーガー医師"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "medical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1981,
+      "month": 3
+    },
+    "runtime": 124,
+    "originalType": "novel",
+    "synopsis": "事故で長男を失った一家が、表面上は元通りの生活を続けている。生き残った次男は自責の念から自殺を図り、精神科医のもとへ通いはじめる。母は感情を閉ざし、家庭の均衡はゆっくり崩れていく。ロバート・レッドフォードの初監督作で、アカデミー作品賞を受けている。抑えた演出で家族の崩壊を描き、高い評価を得た作品にあたる。",
+    "tmdbId": 16619,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Ordinary People",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1980,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1981,
+        "result": "外国映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "chariots-of-fire",
+    "title": "炎のランナー",
+    "titleKana": "ほのおのらんなー",
+    "directorIds": [
+      "hugh-hudson"
+    ],
+    "screenwriterIds": [
+      "colin-welland"
+    ],
+    "studioIds": [
+      "enigma-productions",
+      "allied-stars"
+    ],
+    "cast": [
+      {
+        "actorId": "ben-cross",
+        "character": "ハロルド・エイブラハムズ"
+      },
+      {
+        "actorId": "ian-charleson",
+        "character": "エリック・リデル"
+      },
+      {
+        "actorId": "cheryl-campbell",
+        "character": "ジェニー・リデル"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "sports"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1982,
+      "month": 8
+    },
+    "runtime": 123,
+    "originalType": "other",
+    "synopsis": "一九二四年のパリ五輪を目指す二人の英国人走者を並行して描く。ユダヤ系のハロルドは差別への反発を、宣教師のエリックは信仰を走る理由にしていた。日曜の競技を拒む選択が、後者に決断を迫る。主題曲と海辺の場面で知られ、アカデミー作品賞を受けた作品にあたる。ヴァンゲリスの楽曲が、作品と切り離せない存在になっている。",
+    "tmdbId": 9443,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Chariots of Fire",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1981,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1982,
+        "result": "外国映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "gandhi",
+    "title": "ガンジー",
+    "titleKana": "がんじー",
+    "directorIds": [
+      "richard-attenborough"
+    ],
+    "screenwriterIds": [
+      "john-briley"
+    ],
+    "studioIds": [
+      "goldcrest",
+      "indo-british"
+    ],
+    "cast": [
+      {
+        "actorId": "ben-kingsley",
+        "character": "マハトマ・ガンジー"
+      },
+      {
+        "actorId": "candice-bergen",
+        "character": "マーガレット・バーク=ホワイト"
+      },
+      {
+        "actorId": "edward-fox",
+        "character": "ダイアー将軍"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "biography",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1983,
+      "month": 4
+    },
+    "runtime": 188,
+    "originalType": "other",
+    "synopsis": "南アフリカで差別を受けた若き弁護士ガンジーが、非暴力の抵抗を始める。インドへ戻った彼は、塩の行進などを通じて独立運動を導いていく。だが独立と同時に、宗教対立による分断が待っていた。アカデミー賞八部門を受けた大作にあたる。ベン・キングズレーが主演男優賞を受け、群衆場面の規模でも知られる。葬列の場面には多数の出演者が参加した。",
+    "tmdbId": 783,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Gandhi",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1982,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1983,
+        "result": "外国映画 第3位"
+      }
+    ]
+  },
+  {
+    "id": "terms-of-endearment",
+    "title": "愛と追憶の日々",
+    "titleKana": "あいとついおくのひび",
+    "directorIds": [
+      "james-l-brooks"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "shirley-maclaine",
+        "character": "オーロラ・グリーンウェイ"
+      },
+      {
+        "actorId": "debra-winger",
+        "character": "エマ・ホートン"
+      },
+      {
+        "actorId": "jack-nicholson",
+        "character": "ギャレット・ブリードラヴ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1984,
+      "month": 2
+    },
+    "runtime": 132,
+    "originalType": "novel",
+    "synopsis": "過干渉な母オーロラと、独立心の強い娘エマが長年ぶつかり合っている。エマは母の反対を押し切って結婚し、三人の子を育てる。オーロラも隣人の元宇宙飛行士と関係を持ちはじめる。母娘の三十年を描き、アカデミー作品賞を受けた作品にあたる。笑いと涙を行き来する構成で、アカデミー賞五部門を受けている。",
+    "tmdbId": 11050,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Terms of Endearment",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1983,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1984,
+        "result": "外国映画 第4位"
+      }
+    ]
+  },
+  {
+    "id": "out-of-africa",
+    "title": "愛と哀しみの果て",
+    "titleKana": "あいとかなしみのはて",
+    "directorIds": [
+      "sydney-pollack"
+    ],
+    "screenwriterIds": [
+      "kurt-luedtke"
+    ],
+    "studioIds": [
+      "universal",
+      "mirage-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-redford",
+        "character": "デニス・フィンチ・ハットン"
+      },
+      {
+        "actorId": "meryl-streep",
+        "character": "カレン・ブリクセン"
+      },
+      {
+        "actorId": "klaus-maria-brandauer",
+        "character": "ブロア男爵"
+      }
+    ],
+    "themeIds": [
+      "history",
+      "romance",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1986,
+      "month": 3
+    },
+    "runtime": 161,
+    "originalType": "novel",
+    "synopsis": "二十世紀初頭、デンマークの令嬢カレンがケニアで農園を営みはじめる。形ばかりの結婚に失望した彼女は、自由な狩猟家デニスと惹かれ合う。だが彼は誰にも縛られることを拒み続ける。壮大な空撮と音楽で知られ、アカデミー作品賞を受けた作品にあたる。アフリカの自然を捉えた映像と音楽が、この作品の魅力となっている。",
+    "tmdbId": 606,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Out of Africa",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1985,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "driving-miss-daisy",
+    "title": "ドライビング Miss デイジー",
+    "titleKana": "どらいびんぐみすでいじー",
+    "directorIds": [
+      "bruce-beresford"
+    ],
+    "screenwriterIds": [
+      "alfred-uhry"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "majestic-films-international"
+    ],
+    "cast": [
+      {
+        "actorId": "morgan-freeman",
+        "character": "ホーク・コルバーン"
+      },
+      {
+        "actorId": "jessica-tandy",
+        "character": "デイジー・ワーサン"
+      },
+      {
+        "actorId": "dan-aykroyd",
+        "character": "ブーリー・ワーサン"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "friendship"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1990,
+      "month": 5
+    },
+    "runtime": 99,
+    "originalType": "other",
+    "synopsis": "運転をやめさせられた老婦人デイジーに、息子が黒人運転手ホークを雇う。当初は口もきかなかった二人が、二十五年をかけて信頼を築いていく。公民権運動の時代が、その関係の背景に流れている。アカデミー作品賞を受けた作品にあたる。ジェシカ・タンディが主演女優賞を最高齢で受けた作品でもある。二人の距離が縮まる過程が丁寧に描かれる。",
+    "tmdbId": 403,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Driving Miss Daisy",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1989,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1990,
+        "result": "外国映画 第8位"
+      }
+    ]
+  },
+  {
+    "id": "the-english-patient",
+    "title": "イングリッシュ・ペイシェント",
+    "titleKana": "いんぐりっしゅぺいしぇんと",
+    "directorIds": [
+      "anthony-minghella"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "miramax",
+      "the-saul-zaentz-company"
+    ],
+    "cast": [
+      {
+        "actorId": "ralph-fiennes",
+        "character": "アルマシー"
+      },
+      {
+        "actorId": "juliette-binoche",
+        "character": "ハナ"
+      },
+      {
+        "actorId": "willem-dafoe",
+        "character": "カラヴァッジョ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "romance",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1997,
+      "month": 4
+    },
+    "runtime": 162,
+    "originalType": "novel",
+    "synopsis": "大戦末期のイタリアで、全身に火傷を負った男が修道院に運ばれる。看護師ハナが世話をするうち、彼は砂漠での過去を断片的に語りはじめる。人妻との恋が、彼を裏切りへ導いた顛末が明らかになる。アカデミー賞九部門を受けた作品にあたる。砂漠の映像と、二つの時代を往復する構成が高く評価されている。",
+    "tmdbId": 409,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The English Patient",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1996,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1997,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "shakespeare-in-love",
+    "title": "恋におちたシェイクスピア",
+    "titleKana": "こいにおちたしぇいくすぴあ",
+    "directorIds": [
+      "john-madden"
+    ],
+    "screenwriterIds": [
+      "marc-norman",
+      "tom-stoppard"
+    ],
+    "studioIds": [
+      "miramax",
+      "universal"
+    ],
+    "cast": [
+      {
+        "actorId": "joseph-fiennes",
+        "character": "ウィル・シェイクスピア"
+      },
+      {
+        "actorId": "gwyneth-paltrow",
+        "character": "ヴァイオラ・デ・レセップス"
+      },
+      {
+        "actorId": "geoffrey-rush",
+        "character": "フィリップ・ヘンズロー"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "history",
+      "comedy",
+      "human-drama"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1999,
+      "month": 5
+    },
+    "runtime": 124,
+    "originalType": "original",
+    "synopsis": "筆が進まない劇作家シェイクスピアが、劇場の資金繰りに追われている。男装して舞台に上がった良家の娘ヴァイオラと出会い、彼は書けるようになる。だが彼女には決められた縁談があった。虚構と現実が重なっていく構成で、アカデミー作品賞を受けている。軽妙な脚本が評価され、脚本賞も受けた作品にあたる。",
+    "tmdbId": 1934,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Shakespeare in Love",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 1998,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1999,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "chicago",
+    "title": "シカゴ",
+    "titleKana": "しかご",
+    "directorIds": [
+      "rob-marshall"
+    ],
+    "screenwriterIds": [
+      "bill-condon"
+    ],
+    "studioIds": [
+      "miramax",
+      "the-producer-circle-co"
+    ],
+    "cast": [
+      {
+        "actorId": "renee-zellweger",
+        "character": "ロキシー・ハート"
+      },
+      {
+        "actorId": "catherine-zeta-jones",
+        "character": "ヴェルマ・ケリー"
+      },
+      {
+        "actorId": "richard-gere",
+        "character": "ビリー・フリン"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "crime",
+      "human-drama",
+      "musical",
+      "dance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 4
+    },
+    "runtime": 113,
+    "originalType": "other",
+    "synopsis": "一九二〇年代のシカゴで、スターを夢見るロキシーが愛人を射殺する。留置場で憧れの歌手ヴェルマと出会い、二人は世間の注目を奪い合う。腕利きの弁護士が、裁判そのものを見世物に変えていく。楽曲と編集の切れ味で、アカデミー作品賞を受けた作品にあたる。舞台と現実を往復する演出が、音楽映画の復権を導いた。",
+    "tmdbId": 1574,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Chicago",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2002,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2003,
+        "result": "外国映画 第8位"
+      }
+    ]
+  },
+  {
+    "id": "million-dollar-baby",
+    "title": "ミリオンダラー・ベイビー",
+    "titleKana": "みりおんだらーべいびー",
+    "directorIds": [
+      "clint-eastwood"
+    ],
+    "screenwriterIds": [
+      "paul-haggis"
+    ],
+    "studioIds": [
+      "lakeshore-entertainment",
+      "malpaso-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "clint-eastwood",
+        "character": "フランキー・ダン"
+      },
+      {
+        "actorId": "hilary-swank",
+        "character": "マギー・フィッツジェラルド"
+      },
+      {
+        "actorId": "morgan-freeman",
+        "character": "エディ・デュプリス"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "sports"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 5
+    },
+    "runtime": 133,
+    "originalType": "novel",
+    "synopsis": "老トレーナーのフランキーが、三十を過ぎた女性マギーの指導を渋々引き受ける。素質と執念で彼女は勝ち進み、二人は疑似的な父娘のようになる。だが試合中の反則が、すべてを覆す。アカデミー作品賞と監督賞を受けた作品にあたる。モーガン・フリーマンの語りが、全編を静かに支えている。ヒラリー・スワンクが主演女優賞を受けている。",
+    "tmdbId": 70,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Million Dollar Baby",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2004,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2005,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "crash",
+    "title": "クラッシュ",
+    "titleKana": "くらっしゅ",
+    "directorIds": [
+      "paul-haggis"
+    ],
+    "screenwriterIds": [
+      "bobby-moresco"
+    ],
+    "studioIds": [
+      "blackfriars-bridge-films",
+      "yari-film-group"
+    ],
+    "cast": [
+      {
+        "actorId": "don-cheadle",
+        "character": "グラハム・ウォーターズ"
+      },
+      {
+        "actorId": "sandra-bullock",
+        "character": "ジーン・キャボット"
+      },
+      {
+        "actorId": "brendan-fraser",
+        "character": "リック・キャボット"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "social",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2006,
+      "month": 2
+    },
+    "runtime": 112,
+    "originalType": "original",
+    "synopsis": "クリスマス前のロサンゼルスで、人種の異なる人々の生活が偶然に交差する。刑事、政治家の妻、鍵屋、警官、強盗と、それぞれが偏見を抱えている。数日のうちに、彼らは互いの立場を裏返すような出来事に遭う。アカデミー作品賞を受け、賛否の分かれた作品にあたる。複数の物語が偶然で結びつく構成が、この作品の骨格となっている。",
+    "tmdbId": 1640,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Crash",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2005,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "the-hurt-locker",
+    "title": "ハート・ロッカー",
+    "titleKana": "はーとろっかー",
+    "directorIds": [
+      "kathryn-bigelow"
+    ],
+    "screenwriterIds": [
+      "mark-boal"
+    ],
+    "studioIds": [
+      "first-light",
+      "kingsgate-films"
+    ],
+    "cast": [
+      {
+        "actorId": "jeremy-renner",
+        "character": "ウィリアム・ジェームズ軍曹"
+      },
+      {
+        "actorId": "anthony-mackie",
+        "character": "サンボーン軍曹"
+      },
+      {
+        "actorId": "brian-geraghty",
+        "character": "エルドリッジ上等兵"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2010,
+      "month": 3
+    },
+    "runtime": 131,
+    "originalType": "original",
+    "synopsis": "イラクの爆発物処理班に、無謀とも見える新任のジェームズ軍曹が着任する。防護服を脱いで作業する彼に、同僚たちは苛立ちと恐怖を募らせる。任期の残り日数だけが、淡々と数えられていく。女性監督として初めてアカデミー監督賞を受けた作品にあたる。手持ち撮影と長い緊張の持続が、この作品の特徴となっている。",
+    "tmdbId": 12162,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Hurt Locker",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2009,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2010,
+        "result": "外国映画 第5位"
+      }
+    ]
+  },
+  {
+    "id": "the-artist",
+    "title": "アーティスト",
+    "titleKana": "あーてぃすと",
+    "directorIds": [
+      "michel-hazanavicius"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "ufilm",
+      "la-petite-reine"
+    ],
+    "cast": [
+      {
+        "actorId": "jean-dujardin",
+        "character": "ジョージ・ヴァレンティン"
+      },
+      {
+        "actorId": "berenice-bejo",
+        "character": "ペピー・ミラー"
+      },
+      {
+        "actorId": "john-goodman",
+        "character": "アル・ジマー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "comedy",
+      "romance",
+      "filmmaking",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 4
+    },
+    "runtime": 100,
+    "originalType": "original",
+    "synopsis": "無声映画の大スター、ジョージ・ヴァレンティンが発声映画への移行に取り残される。彼が引き立てた新人女優ペピーは、逆に人気を高めていく。落ちぶれた彼を、彼女は密かに支え続ける。ほぼ無声かつ白黒で作られ、アカデミー作品賞を受けた作品にあたる。無声の形式を貫きながら、音を効果的に使う仕掛けを含んでいる。",
+    "tmdbId": 74643,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Artist",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2011,
+        "result": "作品賞"
+      }
+    ]
+  },
+  {
+    "id": "argo",
+    "title": "アルゴ",
+    "titleKana": "あるご",
+    "directorIds": [
+      "ben-affleck"
+    ],
+    "screenwriterIds": [
+      "chris-terrio"
+    ],
+    "studioIds": [
+      "gk-films",
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "ben-affleck",
+        "character": "トニー・メンデス"
+      },
+      {
+        "actorId": "bryan-cranston",
+        "character": "ジャック・オドネル"
+      },
+      {
+        "actorId": "alan-arkin",
+        "character": "レスター・シーゲル"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "true-story",
+      "spy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 10
+    },
+    "runtime": 120,
+    "originalType": "other",
+    "synopsis": "イラン革命下のテヘランで、大使館を脱出した六人がカナダ大使公邸に匿われる。CIAのメンデスは、架空のSF映画の撮影隊を装って救出する作戦を立てる。ハリウッドの協力を得て、彼は単身現地へ入る。実際の作戦をもとにし、アカデミー作品賞を受けた作品にあたる。緊迫した終盤の演出と、業界内輪の笑いが同居した作品にあたる。",
+    "tmdbId": 68734,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Argo",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2012,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2012,
+        "result": "外国映画 第6位"
+      }
+    ]
+  },
+  {
+    "id": "spotlight",
+    "title": "スポットライト 世紀のスクープ",
+    "titleKana": "すぽっとらいとせいきのすくーぷ",
+    "directorIds": [
+      "tom-mccarthy"
+    ],
+    "screenwriterIds": [
+      "josh-singer"
+    ],
+    "studioIds": [
+      "participant",
+      "anonymous-content"
+    ],
+    "cast": [
+      {
+        "actorId": "mark-ruffalo",
+        "character": "マイケル・レゼンデス"
+      },
+      {
+        "actorId": "michael-keaton",
+        "character": "ウォルター・ロビンソン"
+      },
+      {
+        "actorId": "rachel-mcadams",
+        "character": "サーシャ・ファイファー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "history",
+      "social",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2016,
+      "month": 4
+    },
+    "runtime": 129,
+    "originalType": "other",
+    "synopsis": "ボストンの新聞社の調査報道班が、聖職者による児童虐待の告発に取り組む。教会の影響力が強い土地で、資料も証言も次々に阻まれる。個々の事件ではなく、組織的な隠蔽が問題だと彼らは気づく。実際の報道をもとにし、アカデミー作品賞を受けた作品にあたる。派手さを排し、取材の手順を積み上げる構成が高く評価されている。",
+    "tmdbId": 314365,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Spotlight",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2015,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2016,
+        "result": "外国映画 第7位"
+      }
+    ]
+  },
+  {
+    "id": "moonlight",
+    "title": "ムーンライト",
+    "titleKana": "むーんらいと",
+    "directorIds": [
+      "barry-jenkins"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "a24",
+      "plan-b-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "trevante-rhodes",
+        "character": "ブラック"
+      },
+      {
+        "actorId": "andre-holland",
+        "character": "ケヴィン"
+      },
+      {
+        "actorId": "janelle-monae",
+        "character": "テレサ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "youth",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2017,
+      "month": 3
+    },
+    "runtime": 111,
+    "originalType": "other",
+    "synopsis": "マイアミの貧困地区で育つ少年シャロンの人生を、三つの時期に分けて描く。母は薬物に溺れ、学校では暴力に晒され、彼は自分の在り方を口にできない。唯一心を許した友人との記憶が、成人後も彼を縛り続ける。アカデミー作品賞を受けた作品にあたる。青い色調の映像と、抑えた演技が強い余韻を残している。",
+    "tmdbId": 376867,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Moonlight",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2016,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2017,
+        "result": "外国映画 第9位"
+      }
+    ]
+  },
+  {
+    "id": "nomadland",
+    "title": "ノマドランド",
+    "titleKana": "のまどらんど",
+    "directorIds": [
+      "chloe-zhao"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "cor-cordium-productions",
+      "hear-say-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "frances-mcdormand",
+        "character": "ファーン"
+      },
+      {
+        "actorId": "david-strathairn",
+        "character": "デイヴ"
+      },
+      {
+        "actorId": "linda-may",
+        "character": "リンダ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "road-movie",
+      "social"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 3
+    },
+    "runtime": 108,
+    "originalType": "other",
+    "synopsis": "企業城下町が消滅し、家を失った女性ファーンが車での生活を選ぶ。季節労働を渡り歩きながら、彼女は同じ暮らしを送る人々と出会う。定住を勧める声を断り続ける理由が、少しずつ見えてくる。実際の車上生活者が多数出演し、アカデミー作品賞を受けた作品にあたる。自然光を生かした撮影と、記録映像に近い作りが特徴となっている。",
+    "tmdbId": 581734,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Nomadland",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2020,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2021,
+        "result": "外国映画 第1位"
+      }
+    ]
+  },
+  {
+    "id": "coda",
+    "title": "コーダ あいのうた",
+    "titleKana": "こーだあいのうた",
+    "directorIds": [
+      "sian-heder"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "vendome-pictures",
+      "pathe"
+    ],
+    "cast": [
+      {
+        "actorId": "emilia-jones",
+        "character": "ルビー・ロッシ"
+      },
+      {
+        "actorId": "marlee-matlin",
+        "character": "ジャッキー・ロッシ"
+      },
+      {
+        "actorId": "troy-kotsur",
+        "character": "フランク・ロッシ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "music",
+      "romance",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2022,
+      "month": 1
+    },
+    "runtime": 111,
+    "originalType": "other",
+    "synopsis": "聴覚障害のある家族のなかで、ルビーだけが耳の聞こえる娘として通訳を担ってきた。合唱部で歌の才能を見出され、彼女は進学を勧められる。だが家業の漁は、彼女なしでは成り立たない。仏映画を作り直した作品で、アカデミー作品賞を受けている。手話の場面と、音を消す演出が印象的に用いられている。",
+    "tmdbId": 776503,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "CODA",
+    "awardResults": [
+      {
+        "awardId": "academy-awards",
+        "year": 2021,
+        "result": "作品賞"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 2022,
+        "result": "外国映画 第6位"
+      }
+    ]
+  },
+  {
+    "id": "the-third-man",
+    "title": "第三の男",
+    "titleKana": "だいさんのおとこ",
+    "directorIds": [
+      "carol-reed"
+    ],
+    "screenwriterIds": [
+      "graham-greene"
+    ],
+    "studioIds": [
+      "london-films-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "joseph-cotten",
+        "character": "ホリー・マーティンス"
+      },
+      {
+        "actorId": "alida-valli",
+        "character": "アンナ・シュミット"
+      },
+      {
+        "actorId": "trevor-howard",
+        "character": "キャロウェイ少佐"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "mystery",
+      "classic"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1952,
+      "month": 9
+    },
+    "runtime": 105,
+    "originalType": "novel",
+    "synopsis": "戦後の占領下ウィーンに、作家ホリーが友人ハリーを訪ねて到着する。だがハリーは事故死したと告げられ、葬儀の場に案内される。目撃証言が食い違い、現場にもう一人いたことが分かる。ツィターの主題曲と地下水道の場面で知られる古典にあたる。斜めに傾いた構図と観覧車の場面が、映画史に刻まれている。",
+    "tmdbId": 1092,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Third Man",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1949,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1952,
+        "result": "外国映画 第2位"
+      }
+    ]
+  },
+  {
+    "id": "the-wages-of-fear",
+    "title": "恐怖の報酬",
+    "titleKana": "きょうふのほうしゅう",
+    "directorIds": [
+      "henri-georges-clouzot"
+    ],
+    "screenwriterIds": [
+      "jerome-geronimi"
+    ],
+    "studioIds": [
+      "compagnie-industrielle-et-commerciale",
+      "vera-films"
+    ],
+    "cast": [
+      {
+        "actorId": "yves-montand",
+        "character": "マリオ"
+      },
+      {
+        "actorId": "charles-vanel",
+        "character": "ジョー"
+      },
+      {
+        "actorId": "peter-van-eyck",
+        "character": "ビンバ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "adventure"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1954,
+      "month": 7
+    },
+    "runtime": 154,
+    "originalType": "novel",
+    "synopsis": "中米の寒村で職にあぶれた男たちが、破格の報酬の仕事に応募する。積荷は、わずかな振動で爆発する液体だった。四人は二台のトラックに分かれ、悪路を五百キロ走る。極限の緊張を積み上げる構成で、カンヌ最高賞を受けた作品にあたる。運転席の緊張だけで長時間を持たせる構成が、今も評価されている。",
+    "tmdbId": 204,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。 受賞歴はWikipediaの各賞ページで裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Le Salaire de la peur",
+    "awardResults": [
+      {
+        "awardId": "cannes",
+        "year": 1953,
+        "result": "パルム・ドール"
+      },
+      {
+        "awardId": "kinema-junpo",
+        "year": 1954,
+        "result": "外国映画 第2位"
+      }
+    ]
   }
 ]

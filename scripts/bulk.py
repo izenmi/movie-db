@@ -147,6 +147,57 @@ def cmd_sweep(args):
     print(f"pool={len(pool)} added={added}")
 
 
+# --------------------------------------------------------------------------- seed
+def cmd_seed(args):
+    """タイトル(+年)のリストをTMDb検索で解決し、候補プールの先頭に差し込む。
+    受賞歴の第2段(未登録の受賞作を追加する)で使う。
+    入力JSON: [{"title": "...", "year": 1959}, ...]
+    """
+    WORK.mkdir(exist_ok=True)
+    pool = load_json(WORK / "candidates.json", [])
+    known = {c["id"] for c in pool}
+    works = load("works")
+    existing_titles = {norm(w["title"]) for w in works}
+    existing_ids = {w.get("tmdbId") for w in works if w.get("tmdbId")}
+    used = set(load_json(WORK / "used.json", []))
+
+    want = load_json(Path(args.file), [])
+    seeded, dup, nf = [], 0, []
+    for item in want:
+        title, year = item["title"], item.get("year")
+        params = {"query": title, "include_adult": "false"}
+        data = get("/search/movie", **params)
+        results = data.get("results") or []
+        best = None
+        for m in results:
+            d = (m.get("release_date") or "")[:4]
+            if year and d.isdigit() and abs(int(d) - year) <= 4:
+                best = m
+                break
+        if best is None and results:
+            best = results[0] if not year else None
+        if best is None:
+            nf.append(title)
+            continue
+        if best["id"] in existing_ids or best["id"] in used or best["id"] in known:
+            dup += 1
+            continue
+        if norm(best.get("title") or "") in existing_titles:
+            dup += 1
+            continue
+        seeded.append({
+            "id": best["id"], "title": best.get("title") or best.get("original_title") or title,
+            "lang": best.get("original_language"), "pop": round(best.get("popularity") or 0, 1),
+            "date": best.get("release_date") or "", "votes": best.get("vote_count") or 0,
+        })
+        known.add(best["id"])
+        time.sleep(0.05)
+    save_json(WORK / "candidates.json", seeded + pool)
+    print(f"seeded={len(seeded)} dup={dup} notfound={len(nf)} pool={len(seeded)+len(pool)}")
+    if nf:
+        print("見つからなかった:", ", ".join(nf[:20]))
+
+
 # --------------------------------------------------------------------------- draft
 class Resolver:
     """既存エンティティの再利用と新規エンティティのid採番。"""
@@ -633,6 +684,10 @@ def main():
     dr.add_argument("--n", type=int, default=25)
     dr.add_argument("--lang", default="")
     dr.set_defaults(func=cmd_draft)
+
+    sd = sub.add_parser("seed")
+    sd.add_argument("--file", required=True)
+    sd.set_defaults(func=cmd_seed)
 
     fi = sub.add_parser("finalize")
     fi.add_argument("--tag", required=True)

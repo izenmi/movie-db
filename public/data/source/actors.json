@@ -25486,5 +25486,644 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hayato Taya。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "greta-garbo",
+    "name": "グレタ・ガルボ",
+    "nameKana": "グレタガルボ",
+    "description": "俳優。『グランド・ホテル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Greta Garbo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-barrymore",
+    "name": "ジョン・バリモア",
+    "nameKana": "ジョンバリモア",
+    "description": "俳優。『グランド・ホテル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Barrymore。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joan-crawford",
+    "name": "ジョーン・クロフォード",
+    "nameKana": "ジョーンクロフォード",
+    "description": "俳優。『グランド・ホテル』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joan Crawford。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "claudette-colbert",
+    "name": "クローデット・コルベール",
+    "nameKana": "クローデットコルベール",
+    "description": "俳優。『或る夜の出来事』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Claudette Colbert。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "walter-connolly",
+    "name": "ウォルター・コノリー",
+    "nameKana": "ウォルターコノリー",
+    "description": "俳優。『或る夜の出来事』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Walter Connolly。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jean-arthur",
+    "name": "ジーン・アーサー",
+    "nameKana": "ジーンアーサー",
+    "description": "俳優。『我が家の楽園』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jean Arthur。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joan-fontaine",
+    "name": "ジョーン・フォンテイン",
+    "nameKana": "ジョーンフォンテイン",
+    "description": "俳優。『レベッカ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joan Fontaine。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "george-sanders",
+    "name": "ジョージ・サンダース",
+    "nameKana": "ジョージサンダース",
+    "description": "俳優。『レベッカ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: George Sanders。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "walter-pidgeon",
+    "name": "ウォルター・ピジョン",
+    "nameKana": "ウォルターピジョン",
+    "description": "俳優。『わが谷は緑なりき』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Walter Pidgeon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anna-lee",
+    "name": "アンナ・リー",
+    "nameKana": "アンナリー",
+    "description": "俳優。『わが谷は緑なりき』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anna Lee。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "greer-garson",
+    "name": "グリア・ガースン",
+    "nameKana": "グリアガースン",
+    "description": "俳優。『ミニヴァー夫人』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Greer Garson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "teresa-wright",
+    "name": "テレサ・ライト",
+    "nameKana": "テレサライト",
+    "description": "俳優。『ミニヴァー夫人』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Teresa Wright。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dana-andrews",
+    "name": "ダナ・アンドリュース",
+    "nameKana": "ダナアンドリュース",
+    "description": "俳優。『我等の生涯の最良の年』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dana Andrews。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fredric-march",
+    "name": "フレドリック・マーチ",
+    "nameKana": "フレドリックマーチ",
+    "description": "俳優。『我等の生涯の最良の年』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fredric March。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harold-russell",
+    "name": "ハロルド・ラッセル",
+    "nameKana": "ハロルドラッセル",
+    "description": "俳優。『我等の生涯の最良の年』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harold Russell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dorothy-mcguire",
+    "name": "ドロシー・マクガイア",
+    "nameKana": "ドロシーマクガイア",
+    "description": "俳優。『紳士協定』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dorothy McGuire。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-garfield",
+    "name": "ジョン・ガーフィールド",
+    "nameKana": "ジョンガーフィールド",
+    "description": "俳優。『紳士協定』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Garfield。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bette-davis",
+    "name": "ベティ・デイヴィス",
+    "nameKana": "ベティデイヴィス",
+    "description": "俳優。『イヴの総て』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bette Davis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leslie-caron",
+    "name": "レスリー・キャロン",
+    "nameKana": "レスリーキャロン",
+    "description": "俳優。『巴里のアメリカ人』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leslie Caron。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oscar-levant",
+    "name": "オスカー・レヴァント",
+    "nameKana": "オスカーレヴァント",
+    "description": "俳優。『巴里のアメリカ人』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Oscar Levant。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "betty-hutton",
+    "name": "ベティ・ハットン",
+    "nameKana": "ベティハットン",
+    "description": "俳優。『地上最大のショウ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Betty Hutton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cornel-wilde",
+    "name": "コーネル・ワイルド",
+    "nameKana": "コーネルワイルド",
+    "description": "俳優。『地上最大のショウ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cornel Wilde。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "burt-lancaster",
+    "name": "バート・ランカスター",
+    "nameKana": "バートランカスター",
+    "description": "俳優。『地上より永遠に』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Burt Lancaster。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "montgomery-clift",
+    "name": "モンゴメリー・クリフト",
+    "nameKana": "モンゴメリークリフト",
+    "description": "俳優。『地上より永遠に』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Montgomery Clift。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "deborah-kerr",
+    "name": "デボラ・カー",
+    "nameKana": "デボラカー",
+    "description": "俳優。『地上より永遠に』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Deborah Kerr。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "karl-malden",
+    "name": "カール・マルデン",
+    "nameKana": "カールマルデン",
+    "description": "俳優。『波止場』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Karl Malden。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cantinflas",
+    "name": "カンティンフラス",
+    "nameKana": "カンティンフラス",
+    "description": "俳優。『80日間世界一周』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cantinflas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jack-hawkins",
+    "name": "ジャック・ホーキンス",
+    "nameKana": "ジャックホーキンス",
+    "description": "俳優。『戦場にかける橋』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jack Hawkins。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maurice-chevalier",
+    "name": "モーリス・シュヴァリエ",
+    "nameKana": "モーリスシュヴァリエ",
+    "description": "俳優。『恋の手ほどき』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maurice Chevalier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "louis-jourdan",
+    "name": "ルイ・ジュールダン",
+    "nameKana": "ルイジュールダン",
+    "description": "俳優。『恋の手ほどき』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Louis Jourdan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "natalie-wood",
+    "name": "ナタリー・ウッド",
+    "nameKana": "ナタリーウッド",
+    "description": "俳優。『ウエスト・サイド物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Natalie Wood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-beymer",
+    "name": "リチャード・ベイマー",
+    "nameKana": "リチャードベイマー",
+    "description": "俳優。『ウエスト・サイド物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Beymer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "russ-tamblyn",
+    "name": "ラス・タンブリン",
+    "nameKana": "ラスタンブリン",
+    "description": "俳優。『ウエスト・サイド物語』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Russ Tamblyn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-scofield",
+    "name": "ポール・スコフィールド",
+    "nameKana": "ポールスコフィールド",
+    "description": "俳優。『わが命つきるとも』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul Scofield。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wendy-hiller",
+    "name": "ウェンディ・ヒラー",
+    "nameKana": "ウェンディヒラー",
+    "description": "俳優。『わが命つきるとも』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wendy Hiller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leo-mckern",
+    "name": "レオ・マッケン",
+    "nameKana": "レオマッケン",
+    "description": "俳優。『わが命つきるとも』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leo McKern。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sidney-poitier",
+    "name": "シドニー・ポワチエ",
+    "nameKana": "シドニーポワチエ",
+    "description": "俳優。『夜の大捜査線』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sidney Poitier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rod-steiger",
+    "name": "ロッド・スタイガー",
+    "nameKana": "ロッドスタイガー",
+    "description": "俳優。『夜の大捜査線』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rod Steiger。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "warren-oates",
+    "name": "ウォーレン・オーツ",
+    "nameKana": "ウォーレンオーツ",
+    "description": "俳優。『夜の大捜査線』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Warren Oates。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ron-moody",
+    "name": "ロン・ムーディ",
+    "nameKana": "ロンムーディ",
+    "description": "俳優。『オリバー！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ron Moody。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shani-wallis",
+    "name": "シャニ・ウォリス",
+    "nameKana": "シャニウォリス",
+    "description": "俳優。『オリバー！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shani Wallis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sylvia-miles",
+    "name": "シルヴィア・マイルズ",
+    "nameKana": "シルヴィアマイルズ",
+    "description": "俳優。『真夜中のカーボーイ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sylvia Miles。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stephen-young",
+    "name": "スティーヴン・ヤング",
+    "nameKana": "スティーヴンヤング",
+    "description": "俳優。『パットン大戦車軍団』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stephen Young。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fernando-rey",
+    "name": "フェルナンド・レイ",
+    "nameKana": "フェルナンドレイ",
+    "description": "俳優。『フレンチ・コネクション』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fernando Rey。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "woody-allen",
+    "name": "ウディ・アレン",
+    "nameKana": "ウディアレン",
+    "description": "俳優。『アニー・ホール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Woody Allen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tony-roberts",
+    "name": "トニー・ロバーツ",
+    "nameKana": "トニーロバーツ",
+    "description": "俳優。『アニー・ホール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tony Roberts。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jane-alexander",
+    "name": "ジェーン・アレクサンダー",
+    "nameKana": "ジェーンアレクサンダー",
+    "description": "俳優。『クレイマー、クレイマー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jane Alexander。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "donald-sutherland",
+    "name": "ドナルド・サザーランド",
+    "nameKana": "ドナルドサザーランド",
+    "description": "俳優。『普通の人々』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Donald Sutherland。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mary-tyler-moore",
+    "name": "メアリー・タイラー・ムーア",
+    "nameKana": "メアリータイラームーア",
+    "description": "俳優。『普通の人々』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mary Tyler Moore。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "judd-hirsch",
+    "name": "ジャド・ハーシュ",
+    "nameKana": "ジャドハーシュ",
+    "description": "俳優。『普通の人々』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Judd Hirsch。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ben-cross",
+    "name": "ベン・クロス",
+    "nameKana": "ベンクロス",
+    "description": "俳優。『炎のランナー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ben Cross。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ian-charleson",
+    "name": "イアン・チャールソン",
+    "nameKana": "イアンチャールソン",
+    "description": "俳優。『炎のランナー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ian Charleson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cheryl-campbell",
+    "name": "シェリル・キャンベル",
+    "nameKana": "シェリルキャンベル",
+    "description": "俳優。『炎のランナー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cheryl Campbell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "candice-bergen",
+    "name": "キャンディス・バーゲン",
+    "nameKana": "キャンディスバーゲン",
+    "description": "俳優。『ガンジー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Candice Bergen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edward-fox",
+    "name": "エドワード・フォックス",
+    "nameKana": "エドワードフォックス",
+    "description": "俳優。『ガンジー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edward Fox。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "debra-winger",
+    "name": "デブラ・ウィンガー",
+    "nameKana": "デブラウィンガー",
+    "description": "俳優。『愛と追憶の日々』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Debra Winger。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "klaus-maria-brandauer",
+    "name": "クラウス・マリア・ブランダウアー",
+    "nameKana": "クラウスマリアブランダウアー",
+    "description": "俳優。『愛と哀しみの果て』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Klaus Maria Brandauer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brian-geraghty",
+    "name": "ブライアン・ジェラティ",
+    "nameKana": "ブライアンジェラティ",
+    "description": "俳優。『ハート・ロッカー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brian Geraghty。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jean-dujardin",
+    "name": "ジャン・デュジャルダン",
+    "nameKana": "ジャンデュジャルダン",
+    "description": "俳優。『アーティスト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jean Dujardin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "berenice-bejo",
+    "name": "ベレニス・ベジョ",
+    "nameKana": "ベレニスベジョ",
+    "description": "俳優。『アーティスト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bérénice Bejo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andre-holland",
+    "name": "アンドレ・ホランド",
+    "nameKana": "アンドレホランド",
+    "description": "俳優。『ムーンライト』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: André Holland。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-strathairn",
+    "name": "デヴィッド・ストラザーン",
+    "nameKana": "デヴィッドストラザーン",
+    "description": "俳優。『ノマドランド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Strathairn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "linda-may",
+    "name": "リンダ・メイ",
+    "nameKana": "リンダメイ",
+    "description": "俳優。『ノマドランド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Linda May。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "emilia-jones",
+    "name": "エミリア・ジョーンズ",
+    "nameKana": "エミリアジョーンズ",
+    "description": "俳優。『コーダ あいのうた』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Emilia Jones。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marlee-matlin",
+    "name": "マーリー・マトリン",
+    "nameKana": "マーリーマトリン",
+    "description": "俳優。『コーダ あいのうた』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marlee Matlin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "troy-kotsur",
+    "name": "トロイ・コッツァー",
+    "nameKana": "トロイコッツァー",
+    "description": "俳優。『コーダ あいのうた』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Troy Kotsur。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alida-valli",
+    "name": "アリダ・ヴァリ",
+    "nameKana": "アリダヴァリ",
+    "description": "俳優。『第三の男』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alida Valli。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "trevor-howard",
+    "name": "トレヴァー・ハワード",
+    "nameKana": "トレヴァーハワード",
+    "description": "俳優。『第三の男』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Trevor Howard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yves-montand",
+    "name": "イヴ・モンタン",
+    "nameKana": "イヴモンタン",
+    "description": "俳優。『恐怖の報酬』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yves Montand。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "charles-vanel",
+    "name": "シャルル・ヴァネル",
+    "nameKana": "シャルルヴァネル",
+    "description": "俳優。『恐怖の報酬』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Charles Vanel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-van-eyck",
+    "name": "ピーター・ヴァン・アイク",
+    "nameKana": "ピーターヴァンアイク",
+    "description": "俳優。『恐怖の報酬』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter van Eyck。",
+    "updatedAt": "2026-08-09"
   }
 ]
