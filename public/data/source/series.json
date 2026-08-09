@@ -983,5 +983,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sing",
+    "name": "「SING／シング」シリーズ",
+    "nameKana": "しんぐしりーず",
+    "description": "動物たちの歌の祭典を描くイルミネーション制作の長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saint-seiya",
+    "name": "「聖闘士星矢」劇場版シリーズ",
+    "nameKana": "せいんとせいやげきじょうばんしりーず",
+    "description": "車田正美の漫画を原作とする聖闘士たちの戦いを描く劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hunter-x-hunter",
+    "name": "「HUNTER×HUNTER」劇場版シリーズ",
+    "nameKana": "はんたーはんたーげきじょうばんしりーず",
+    "description": "冨樫義博の漫画を原作とするハンターたちの冒険を描く劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
