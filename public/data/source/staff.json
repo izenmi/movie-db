@@ -11545,5 +11545,374 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sam Hamm。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dougal-wilson",
+    "name": "ダグアル・ウィルソン",
+    "nameKana": "ダグアルウィルソン",
+    "description": "映画監督。『パディントン 消えた黄金郷の秘密』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dougal Wilson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-lamont",
+    "name": "ジェームズ・ラモント",
+    "nameKana": "ジェームズラモント",
+    "description": "脚本家。『パディントン 消えた黄金郷の秘密』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Lamont。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jon-foster",
+    "name": "ジョン・フォスター",
+    "nameKana": "ジョンフォスター",
+    "description": "脚本家。『パディントン 消えた黄金郷の秘密』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jon Foster。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jon-cohen",
+    "name": "ジョン・コーエン",
+    "nameKana": "ジョンコーエン",
+    "description": "脚本家。『マイノリティ・リポート』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jon Cohen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoji-yamada",
+    "name": "山田洋次",
+    "nameKana": "やまだようじ",
+    "description": "映画監督・脚本家。『たそがれ清兵衛』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoji Yamada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshitaka-asama",
+    "name": "朝間義隆",
+    "nameKana": "あさまよしたか",
+    "description": "脚本家。『たそがれ清兵衛』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshitaka Asama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wolfgang-reitherman",
+    "name": "ウォルフガング・ライザーマン",
+    "nameKana": "ウォルフガングライザーマン",
+    "description": "映画監督。『ジャングル・ブック』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wolfgang Reitherman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eli-roth",
+    "name": "イーライ・ロス",
+    "nameKana": "イーライロス",
+    "description": "映画監督・脚本家。『ボーダーランズ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eli Roth。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joe-crombie",
+    "name": "ジョー・クロンビー",
+    "nameKana": "ジョークロンビー",
+    "description": "脚本家。『ボーダーランズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joe Crombie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "benjamin-renner",
+    "name": "バンジャマン・レネール",
+    "nameKana": "バンジャマンレネール",
+    "description": "映画監督。『FLY！／フライ！』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Benjamin Renner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-guion",
+    "name": "デヴィッド・ガイオン",
+    "nameKana": "デヴィッドガイオン",
+    "description": "脚本家。『ナイト ミュージアム／エジプト王の秘密』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Guion。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-handelman",
+    "name": "マイケル・ハンデルマン",
+    "nameKana": "マイケルハンデルマン",
+    "description": "脚本家。『ナイト ミュージアム／エジプト王の秘密』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Handelman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-wong",
+    "name": "ジェームズ・ウォン",
+    "nameKana": "ジェームズウォン",
+    "description": "映画監督・脚本家。『ファイナル・デスティネーション』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James Wong。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeffrey-reddick",
+    "name": "ジェフリー・レディック",
+    "nameKana": "ジェフリーレディック",
+    "description": "脚本家。『ファイナル・デスティネーション』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeffrey Reddick。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "p-j-hogan",
+    "name": "P・J・ホーガン",
+    "nameKana": "ほがん",
+    "description": "映画監督・脚本家。『ピーター・パン』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: P.J. Hogan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brian-lynch",
+    "name": "ブライアン・リンチ",
+    "nameKana": "ブライアンリンチ",
+    "description": "脚本家。『ペット2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brian Lynch。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "greg-berlanti",
+    "name": "グレッグ・バーランティ",
+    "nameKana": "グレッグバーランティ",
+    "description": "脚本家。『グリーン・ランタン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Greg Berlanti。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takumi-doyama",
+    "name": "堂山卓見",
+    "nameKana": "どうやまたくみ",
+    "description": "映画監督。『映画ドラえもん のび太と空の理想郷』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takumi Doyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wesley-strick",
+    "name": "ウェズリー・ストリック",
+    "nameKana": "ウェズリーストリック",
+    "description": "脚本家。『ケープ・フィアー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wesley Strick。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "william-goldman",
+    "name": "ウィリアム・ゴールドマン",
+    "nameKana": "ウィリアムゴールドマン",
+    "description": "脚本家。『プリンセス・ブライド・ストーリー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: William Goldman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ivan-reitman",
+    "name": "アイヴァン・ライトマン",
+    "nameKana": "アイヴァンライトマン",
+    "description": "映画監督。『ゴーストバスターズ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ivan Reitman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-aykroyd",
+    "name": "ダン・エイクロイド",
+    "nameKana": "ダンエイクロイド",
+    "description": "脚本家。『ゴーストバスターズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Aykroyd。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kevin-lima",
+    "name": "ケヴィン・リマ",
+    "nameKana": "ケヴィンリマ",
+    "description": "映画監督。『ターザン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kevin Lima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noni-white",
+    "name": "ノニ・ホワイト",
+    "nameKana": "ノニホワイト",
+    "description": "脚本家。『ターザン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noni White。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bob-tzudiker",
+    "name": "ボブ・ツディカー",
+    "nameKana": "ボブツディカー",
+    "description": "脚本家。『ターザン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bob Tzudiker。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroshi-onogi",
+    "name": "小野木寛",
+    "nameKana": "おのぎひろし",
+    "description": "脚本家。『映画ドラえもん のび太と緑の巨人伝』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroshi Onogi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masaya-fujimori",
+    "name": "藤森雅也",
+    "nameKana": "ふじもりまさや",
+    "description": "映画監督。『劇場版 FAIRY TAIL 鳳凰の巫女』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masaya Fujimori。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "carlos-lopez-estrada",
+    "name": "カルロス・ロペス・エストラーダ",
+    "nameKana": "カルロスロペスエストラーダ",
+    "description": "映画監督。『ラーヤと龍の王国』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Carlos López Estrada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adele-lim",
+    "name": "アデル・リム",
+    "nameKana": "アデルリム",
+    "description": "脚本家。『ラーヤと龍の王国』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Adele Lim。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "qui-nguyen",
+    "name": "クイ・グエン",
+    "nameKana": "クイグエン",
+    "description": "脚本家。『ラーヤと龍の王国』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Qui Nguyen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mcg",
+    "name": "マックG",
+    "nameKana": "",
+    "description": "映画監督。『チャーリーズ・エンジェル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: McG。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryan-rowe",
+    "name": "ライアン・ロウ",
+    "nameKana": "ライアンロウ",
+    "description": "脚本家。『チャーリーズ・エンジェル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryan Rowe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naomi-kawase",
+    "name": "河瀨直美",
+    "nameKana": "かわせなおみ",
+    "description": "映画監督・脚本家。『あん』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naomi Kawase。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-zucker",
+    "name": "デヴィッド・ザッカー",
+    "nameKana": "デヴィッドザッカー",
+    "description": "映画監督。『最終絶叫計画4』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Zucker。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "craig-mazin",
+    "name": "クレイグ・メイジン",
+    "nameKana": "クレイグメイジン",
+    "description": "脚本家。『最終絶叫計画4』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Craig Mazin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jim-abrahams",
+    "name": "ジム・エイブラハムズ",
+    "nameKana": "ジムエイブラハムズ",
+    "description": "脚本家。『最終絶叫計画4』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jim Abrahams。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuya-nomura",
+    "name": "野村和也",
+    "nameKana": "のむらかずや",
+    "description": "映画監督。『攻殻機動隊 新劇場版』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuya Nomura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuchika-kise",
+    "name": "黄瀬和哉",
+    "nameKana": "きせかずちか",
+    "description": "映画監督。『攻殻機動隊 新劇場版』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuchika Kise。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tow-ubukata",
+    "name": "冲方丁",
+    "nameKana": "うぶかたとう",
+    "description": "脚本家。『攻殻機動隊 新劇場版』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tow Ubukata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blanka-lipinska",
+    "name": "ブランカ・リピンスカ",
+    "nameKana": "ブランカリピンスカ",
+    "description": "脚本家。『愛は、新たな日々へ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Blanka Lipińska。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joe-eszterhas",
+    "name": "ジョー・エスターハス",
+    "nameKana": "ジョーエスターハス",
+    "description": "脚本家。『氷の微笑』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joe Eszterhas。",
+    "updatedAt": "2026-08-09"
   }
 ]

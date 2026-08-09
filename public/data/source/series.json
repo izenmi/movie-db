@@ -1145,5 +1145,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paddington",
+    "name": "「パディントン」シリーズ",
+    "nameKana": "ぱでぃんとんしりーず",
+    "description": "マーマレード好きの熊パディントンとブラウン一家を描く英国の映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "secret-life-of-pets",
+    "name": "「ペット」シリーズ",
+    "nameKana": "ぺっとしりーず",
+    "description": "飼い主の留守中のペットたちの日常を描くイルミネーションの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ghostbusters",
+    "name": "「ゴーストバスターズ」シリーズ",
+    "nameKana": "ごーすとばすたーずしりーず",
+    "description": "幽霊退治を請け負う会社を描くアメリカのコメディ映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "365-days",
+    "name": "「365日」シリーズ",
+    "nameKana": "さんびゃくろくじゅうごにちしりーず",
+    "description": "マフィアの首領と女性の関係を描くポーランド発の恋愛映画三部作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

@@ -6131,5 +6131,194 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wattpad。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kinoshita-group",
+    "name": "木下グループ",
+    "nameKana": "きのしたぐるーぷ",
+    "description": "映画製作会社。『パディントン 消えた黄金郷の秘密』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kinoshita Group。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marmalade-pictures",
+    "name": "マーマレード・ピクチャーズ",
+    "nameKana": "マーマレードピクチャーズ",
+    "description": "映画製作会社。『パディントン 消えた黄金郷の秘密』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marmalade Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "digital-image-associates",
+    "name": "デジタル・イメージ・アソシエイツ",
+    "nameKana": "デジタルイメージアソシエイツ",
+    "description": "映画製作会社。『マイノリティ・リポート』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Digital Image Associates。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cristaldifilm",
+    "name": "クリスタルディフィルム",
+    "nameKana": "クリスタルディフィルム",
+    "description": "映画製作会社。『ニュー・シネマ・パラダイス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cristaldifilm。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "les-films-ariane",
+    "name": "レ・フィルム・アリアーヌ",
+    "nameKana": "レフィルムアリアーヌ",
+    "description": "映画製作会社。『ニュー・シネマ・パラダイス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Les Films Ariane。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "arad-productions",
+    "name": "アラッド・プロダクションズ",
+    "nameKana": "アラッドプロダクションズ",
+    "description": "映画製作会社。『ボーダーランズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Arad Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "moving-picture-company",
+    "name": "ムービング・ピクチャー・カンパニー",
+    "nameKana": "ムービングピクチャーカンパニー",
+    "description": "映画製作会社。『ナイト ミュージアム／エジプト王の秘密』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Moving Picture Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokyo-fm",
+    "name": "エフエム東京",
+    "nameKana": "えふえむとうきょう",
+    "description": "映画製作会社。『アウトレイジ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo FM。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "blind-wink",
+    "name": "ブラインド・ウィンク",
+    "nameKana": "ブラインドウィンク",
+    "description": "映画製作会社。『ランゴ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Blind Wink。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "de-line-pictures",
+    "name": "デ・ライン・ピクチャーズ",
+    "nameKana": "デラインピクチャーズ",
+    "description": "映画製作会社。『グリーン・ランタン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: De Line Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cappa-productions",
+    "name": "カッパ・プロダクションズ",
+    "nameKana": "カッパプロダクションズ",
+    "description": "映画製作会社。『ケープ・フィアー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cappa Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-princess-bride",
+    "name": "プリンセス・ブライド・プロダクションズ",
+    "nameKana": "プリンセスブライドプロダクションズ",
+    "description": "映画製作会社。『プリンセス・ブライド・ストーリー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Princess Bride。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "buttercup-films",
+    "name": "バターカップ・フィルムズ",
+    "nameKana": "バターカップフィルムズ",
+    "description": "映画製作会社。『プリンセス・ブライド・ストーリー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Buttercup Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "delphi-films",
+    "name": "デルファイ・フィルムズ",
+    "nameKana": "デルファイフィルムズ",
+    "description": "映画製作会社。『ゴーストバスターズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Delphi Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edgar-rice-burroughs",
+    "name": "エドガー・ライス・バローズ社",
+    "nameKana": "えどがーらいすばろーずしゃ",
+    "description": "映画製作会社。『ターザン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edgar Rice Burroughs。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tall-trees-productions",
+    "name": "トール・ツリーズ・プロダクションズ",
+    "nameKana": "トールツリーズプロダクションズ",
+    "description": "映画製作会社。『チャーリーズ・エンジェル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tall Trees Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "comme-des-cinemas",
+    "name": "コム・デ・シネマ",
+    "nameKana": "コムデシネマ",
+    "description": "映画製作会社。『あん』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Comme des Cinémas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nagoya-broadcasting-network",
+    "name": "名古屋テレビ放送",
+    "nameKana": "なごやてれびほうそう",
+    "description": "映画製作会社。『あん』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nagoya Broadcasting Network。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "415-project",
+    "name": "415プロジェクト",
+    "nameKana": "よんいちごぷろじぇくと",
+    "description": "映画製作会社。『最終絶叫計画4』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 415 Project。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "american-empirical-pictures",
+    "name": "アメリカン・エンピリカル・ピクチャーズ",
+    "nameKana": "アメリカンエンピリカルピクチャーズ",
+    "description": "映画製作会社。『犬ヶ島』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: American Empirical Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "le-studio-canal",
+    "name": "ル・スタジオ・カナル",
+    "nameKana": "ルスタジオカナル",
+    "description": "映画製作会社。『氷の微笑』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Le Studio Canal+。",
+    "updatedAt": "2026-08-09"
   }
 ]
