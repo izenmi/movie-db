@@ -15001,5 +15001,383 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsuru Tanabe。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nicholas-meyer",
+    "name": "ニコラス・メイヤー",
+    "nameKana": "ニコラスメイヤー",
+    "description": "脚本家。『プリンス・オブ・エジプト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nicholas Meyer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tim-mccanlies",
+    "name": "ティム・マッキャンリーズ",
+    "nameKana": "ティムマッキャンリーズ",
+    "description": "脚本家。『アイアン・ジャイアント』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tim McCanlies。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ryuichi-hiroki",
+    "name": "廣木隆一",
+    "nameKana": "ひろきりゅういち",
+    "description": "映画監督。『彼女』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ryuichi Hiroki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ching-nakamura",
+    "name": "中村珍",
+    "nameKana": "なかむらちん",
+    "description": "脚本家。『彼女』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ching Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nami-kikkawa",
+    "name": "吉川菜美",
+    "nameKana": "きっかわなみ",
+    "description": "脚本家。『彼女』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nami Kikkawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-waugh",
+    "name": "スコット・ウォー",
+    "nameKana": "スコットウォー",
+    "description": "映画監督。『エクスペンダブルズ ニューブラッド』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Waugh。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "max-adams",
+    "name": "マックス・アダムス",
+    "nameKana": "マックスアダムス",
+    "description": "脚本家。『エクスペンダブルズ ニューブラッド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Max Adams。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jon-hoeber",
+    "name": "ジョン・ホーバー",
+    "nameKana": "ジョンホーバー",
+    "description": "脚本家。『バトルシップ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jon Hoeber。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fred-dekker",
+    "name": "フレッド・デッカー",
+    "nameKana": "フレッドデッカー",
+    "description": "脚本家。『ザ・プレデター』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fred Dekker。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "thurop-van-orman",
+    "name": "スロープ・ヴァン・オーマン",
+    "nameKana": "スロープヴァンオーマン",
+    "description": "映画監督。『アングリーバード2』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Thurop Van Orman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-ackerman",
+    "name": "ピーター・アッカーマン",
+    "nameKana": "ピーターアッカーマン",
+    "description": "脚本家。『アングリーバード2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Ackerman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathon-e-stewart",
+    "name": "ジョナソン・E・スチュワート",
+    "nameKana": "てわえじょなほん",
+    "description": "脚本家。『アングリーバード2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathon E. Stewart。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuya-yamada",
+    "name": "山田哲弥",
+    "nameKana": "やまだてつや",
+    "description": "脚本家。『GODZILLA 決戦機動増殖都市』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuya Yamada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yasushi-fukuda",
+    "name": "福田靖",
+    "nameKana": "ふくだやすし",
+    "description": "脚本家。『HERO』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yasushi Fukuda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rawson-marshall-thurber",
+    "name": "ローソン・マーシャル・サーバー",
+    "nameKana": "ローソンマーシャルサーバー",
+    "description": "映画監督・脚本家。『レッド・ノーティス』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rawson Marshall Thurber。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "art-marcum",
+    "name": "アート・マーカム",
+    "nameKana": "アートマーカム",
+    "description": "脚本家。『トランスフォーマー／最後の騎士王』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Art Marcum。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edward-neumeier",
+    "name": "エドワード・ニューマイヤー",
+    "nameKana": "エドワードニューマイヤー",
+    "description": "脚本家。『スターシップ・トゥルーパーズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edward Neumeier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wataru-takahashi",
+    "name": "高橋渉",
+    "nameKana": "たかはしわたる",
+    "description": "映画監督・脚本家。『クレヨンしんちゃん 爆睡！ユメミーワールド大突撃』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wataru Takahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gekidan-hitori",
+    "name": "劇団ひとり",
+    "nameKana": "げきだんひとり",
+    "description": "脚本家。『クレヨンしんちゃん 爆睡！ユメミーワールド大突撃』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gekidan Hitori。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kunihiko-ikuhara",
+    "name": "幾原邦彦",
+    "nameKana": "いくはらくにひこ",
+    "description": "映画監督。『少女革命ウテナ アドゥレセンス黙示録』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kunihiko Ikuhara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ian-mclellan-hunter",
+    "name": "イアン・マクレラン・ハンター",
+    "nameKana": "イアンマクレランハンター",
+    "description": "脚本家。『ローマの休日』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ian McLellan Hunter。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-dighton",
+    "name": "ジョン・ダイトン",
+    "nameKana": "ジョンダイトン",
+    "description": "脚本家。『ローマの休日』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Dighton。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "malia-scotch-marmo",
+    "name": "マリア・スコッチ・マーモ",
+    "nameKana": "マリアスコッチマーモ",
+    "description": "脚本家。『フック』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Malia Scotch Marmo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoko-mizuki",
+    "name": "水木洋子",
+    "nameKana": "みずきようこ",
+    "description": "脚本家。『怪談』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yōko Mizuki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stefano-sollima",
+    "name": "ステファノ・ソッリマ",
+    "nameKana": "ステファノソッリマ",
+    "description": "映画監督。『ボーダーライン：ソルジャーズ・デイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Stefano Sollima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "osamu-tezuka",
+    "name": "手塚治虫",
+    "nameKana": "てづかおさむ",
+    "description": "映画監督。『クレオパトラ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Osamu Tezuka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shigemi-satoyoshi",
+    "name": "里吉しげみ",
+    "nameKana": "さとよししげみ",
+    "description": "脚本家。『クレオパトラ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shigemi Satoyoshi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "justin-haythe",
+    "name": "ジャスティン・ヘイス",
+    "nameKana": "ジャスティンヘイス",
+    "description": "脚本家。『レッド・スパロー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Justin Haythe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "katy-brand",
+    "name": "ケイティ・ブランド",
+    "nameKana": "ケイティブランド",
+    "description": "脚本家。『木曜殺人クラブ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Katy Brand。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "suzanne-heathcote",
+    "name": "スザンヌ・ヒースコート",
+    "nameKana": "スザンヌヒースコート",
+    "description": "脚本家。『木曜殺人クラブ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Suzanne Heathcote。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leonard-nimoy",
+    "name": "レナード・ニモイ",
+    "nameKana": "レナードニモイ",
+    "description": "映画監督。『スター・トレックIV 故郷への長い道』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leonard Nimoy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steve-meerson",
+    "name": "スティーヴ・ミアソン",
+    "nameKana": "スティーヴミアソン",
+    "description": "脚本家。『スター・トレックIV 故郷への長い道』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Steve Meerson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-krikes",
+    "name": "ピーター・クライクス",
+    "nameKana": "ピータークライクス",
+    "description": "脚本家。『スター・トレックIV 故郷への長い道』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Krikes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuki-tanada",
+    "name": "タナダユキ",
+    "nameKana": "たなだゆき",
+    "description": "映画監督・脚本家。『百万円と苦虫女』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuki Tanada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gisaburo-sugii",
+    "name": "杉井ギサブロー",
+    "nameKana": "すぎいぎさぶろー",
+    "description": "映画監督。『銀河鉄道の夜』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gisaburō Sugii。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "minoru-betsuyaku",
+    "name": "別役実",
+    "nameKana": "べつやくみのる",
+    "description": "脚本家。『銀河鉄道の夜』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Minoru Betsuyaku。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-curtiz",
+    "name": "マイケル・カーティス",
+    "nameKana": "マイケルカーティス",
+    "description": "映画監督。『カサブランカ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Curtiz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "philip-g-epstein",
+    "name": "フィリップ・G・エプスタイン",
+    "nameKana": "えていんひり",
+    "description": "脚本家。『カサブランカ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Philip G. Epstein。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "julius-j-epstein",
+    "name": "ジュリアス・J・エプスタイン",
+    "nameKana": "えていんじゅりう",
+    "description": "脚本家。『カサブランカ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Julius J. Epstein。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mike-nichols",
+    "name": "マイク・ニコルズ",
+    "nameKana": "マイクニコルズ",
+    "description": "映画監督。『卒業』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mike Nichols。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "calder-willingham",
+    "name": "カルダー・ウィリンガム",
+    "nameKana": "カルダーウィリンガム",
+    "description": "脚本家。『卒業』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Calder Willingham。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "buck-henry",
+    "name": "バック・ヘンリー",
+    "nameKana": "バックヘンリー",
+    "description": "脚本家。『卒業』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Buck Henry。",
+    "updatedAt": "2026-08-09"
   }
 ]

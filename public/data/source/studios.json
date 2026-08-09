@@ -7670,5 +7670,185 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Passione。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "warner-bros-feature-animation",
+    "name": "ワーナー・ブラザース・アニメーション",
+    "nameKana": "ワーナーブラザースアニメーション",
+    "description": "映画製作会社。『アイアン・ジャイアント』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Warner Bros. Feature Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "millennium-media",
+    "name": "ミレニアム・メディア",
+    "nameKana": "ミレニアムメディア",
+    "description": "映画製作会社。『エクスペンダブルズ ニューブラッド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Millennium Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "campbell-grobman-films",
+    "name": "キャンベル・グロブマン・フィルムズ",
+    "nameKana": "キャンベルグロブマンフィルムズ",
+    "description": "映画製作会社。『エクスペンダブルズ ニューブラッド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Campbell Grobman Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bluegrass-films",
+    "name": "ブルーグラス・フィルムズ",
+    "nameKana": "ブルーグラスフィルムズ",
+    "description": "映画製作会社。『バトルシップ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bluegrass Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "film-44",
+    "name": "フィルム44",
+    "nameKana": "ふぃ",
+    "description": "映画製作会社。『バトルシップ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Film 44。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "morgan-creek-entertainment",
+    "name": "モーガン・クリーク・エンターテインメント",
+    "nameKana": "モーガンクリークエンターテインメント",
+    "description": "映画製作会社。『トゥルー・ロマンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Morgan Creek Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "davis-films",
+    "name": "デイヴィス・フィルムズ",
+    "nameKana": "デイヴィスフィルムズ",
+    "description": "映画製作会社。『トゥルー・ロマンス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Davis Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sj-pictures",
+    "name": "SJピクチャーズ",
+    "nameKana": "ぴつれ",
+    "description": "映画製作会社。『ワイルドカード』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SJ Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sj-heat-productions",
+    "name": "SJヒート・プロダクションズ",
+    "nameKana": "ろづちおんへあ",
+    "description": "映画製作会社。『ワイルドカード』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SJ Heat Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "j-dream",
+    "name": "Jドリーム",
+    "nameKana": "じぇいどりーむ",
+    "description": "映画製作会社。『HERO』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: J-dream。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "king-records",
+    "name": "キングレコード",
+    "nameKana": "きんぐれこーど",
+    "description": "映画製作会社。『少女革命ウテナ アドゥレセンス黙示録』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: King Records。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "los-hooligans-productions",
+    "name": "ロス・フーリガンズ・プロダクションズ",
+    "nameKana": "ロスフーリガンズプロダクションズ",
+    "description": "映画製作会社。『フロム・ダスク・ティル・ドーン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Los Hooligans Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ninjin-club",
+    "name": "にんじんくらぶ",
+    "nameKana": "にんじんくらぶ",
+    "description": "映画製作会社。『怪談』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ninjin Club。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "black-label-media",
+    "name": "ブラック・レーベル・メディア",
+    "nameKana": "ブラックレーベルメディア",
+    "description": "映画製作会社。『ボーダーライン：ソルジャーズ・デイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Black Label Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tezuka-productions",
+    "name": "手塚プロダクション",
+    "nameKana": "てづかぷろだくしょん",
+    "description": "映画製作会社。『クレオパトラ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tezuka Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maiden-voyage-pictures",
+    "name": "メイデン・ヴォヤージュ・ピクチャーズ",
+    "nameKana": "メイデンヴォヤージュピクチャーズ",
+    "description": "映画製作会社。『木曜殺人クラブ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Maiden Voyage Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "express",
+    "name": "エクスプレス",
+    "nameKana": "エクスプレス",
+    "description": "映画製作会社。『百万円と苦虫女』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Express。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-asahi-shimbun",
+    "name": "朝日新聞社",
+    "nameKana": "あさひしんぶんしゃ",
+    "description": "映画製作会社。『銀河鉄道の夜』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Asahi Shimbun。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "avco-embassy-pictures",
+    "name": "AVCOエンバシー・ピクチャーズ",
+    "nameKana": "ぴつれえばっあお",
+    "description": "映画製作会社。『卒業』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: AVCO Embassy Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mike-nichols-productions",
+    "name": "マイク・ニコルズ・プロダクションズ",
+    "nameKana": "マイクニコルズプロダクションズ",
+    "description": "映画製作会社。『卒業』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mike Nichols Productions。",
+    "updatedAt": "2026-08-09"
   }
 ]

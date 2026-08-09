@@ -1508,5 +1508,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "angry-birds",
+    "name": "アングリーバード シリーズ",
+    "nameKana": "あんぐりーばーどしりーず",
+    "description": "携帯ゲームを原作とする、鳥と豚の抗争を描く長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sicario",
+    "name": "ボーダーライン シリーズ",
+    "nameKana": "ぼーだーらいんしりーず",
+    "description": "米墨国境の麻薬戦争を描くクライム・サスペンス映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ghost-in-the-shell-arise",
+    "name": "攻殻機動隊ARISE",
+    "nameKana": "こうかくきどうたいあらいず",
+    "description": "公安九課の結成前夜を描く、攻殻機動隊の劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
