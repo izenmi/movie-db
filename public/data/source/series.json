@@ -1235,5 +1235,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kizumonogatari",
+    "name": "傷物語 劇場版シリーズ",
+    "nameKana": "きずものがたりげきじょうばんしりーず",
+    "description": "西尾維新の〈物語〉シリーズのうち、阿良々木暦の吸血鬼化を描く劇場三部作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "persona3-movie",
+    "name": "PERSONA3 THE MOVIE",
+    "nameKana": "ぺるそなすりーざむーびー",
+    "description": "ゲーム「ペルソナ3」を四部作として映像化した劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "puella-magi-madoka-magica-movie",
+    "name": "劇場版 魔法少女まどか☆マギカ",
+    "nameKana": "げきじょうばんまほうしょうじょまどかまぎか",
+    "description": "テレビシリーズの総集編二部と完全新作からなる劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

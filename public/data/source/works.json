@@ -58426,5 +58426,1510 @@
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09",
     "seriesId": "code-geass"
+  },
+  {
+    "id": "kizumonogatari-part-1-tekketsu",
+    "title": "傷物語〈Ⅰ鉄血篇〉",
+    "titleKana": "きずものがたりいちてっけつへん",
+    "directorIds": [
+      "tatsuya-oishi",
+      "akiyuki-shinbo"
+    ],
+    "screenwriterIds": [
+      "yukito-kizawa",
+      "muneo-nakamoto"
+    ],
+    "studioIds": [
+      "shaft"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroshi-kamiya",
+        "character": "阿良々木暦"
+      },
+      {
+        "actorId": "maaya-sakamoto",
+        "character": "キスショット・アセロラオリオン・ハートアンダーブレード"
+      },
+      {
+        "actorId": "yui-horie",
+        "character": "羽川翼"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "mystery",
+      "action",
+      "vampire",
+      "youth",
+      "horror"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2016,
+      "month": 1
+    },
+    "runtime": 64,
+    "originalType": "lightnovel",
+    "synopsis": "春休みのある日、高校生の阿良々木暦は駅の地下で手足を失った金髪の吸血鬼と出会う。血を求める彼女に自らの命を差し出した暦は、人間をやめて眷属となる。優等生の羽川翼だけが、変わってしまった彼の事情を知ることになる。三部作の第一部として、独特の構図と色彩で構成されている。",
+    "tmdbId": 357786,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "kizumonogatari"
+  },
+  {
+    "id": "saw-x",
+    "title": "ソウX",
+    "titleKana": "そうてん",
+    "directorIds": [
+      "kevin-greutert"
+    ],
+    "screenwriterIds": [
+      "pete-goldfinger",
+      "josh-stolberg"
+    ],
+    "studioIds": [
+      "twisted-pictures",
+      "serendipity-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "tobin-bell",
+        "character": "ジョン・クレイマー"
+      },
+      {
+        "actorId": "shawnee-smith",
+        "character": "アマンダ・ヤング"
+      },
+      {
+        "actorId": "synn-ve-macody-lund",
+        "character": "セシリア・ペダーソン"
+      }
+    ],
+    "themeIds": [
+      "horror",
+      "mystery",
+      "revenge",
+      "twist"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2024,
+      "month": 10
+    },
+    "runtime": 118,
+    "originalType": "original",
+    "synopsis": "末期がんの宣告を受けたジョン・クレイマーは、メキシコで受けられるという奇跡の治療に望みをかける。だがそれは組織的な詐欺だった。騙されたと知った彼は、関与した者たちを集めてゲームを始める。時系列を一作目と二作目の間に置き、ジグソウ本人を主役に据えた点が特徴となっている。",
+    "tmdbId": 951491,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Saw X",
+    "seriesId": "saw"
+  },
+  {
+    "id": "oceans-twelve",
+    "title": "オーシャンズ12",
+    "titleKana": "おーしゃんずとぅえるぶ",
+    "directorIds": [
+      "steven-soderbergh"
+    ],
+    "screenwriterIds": [
+      "george-nolfi"
+    ],
+    "studioIds": [
+      "warner-bros",
+      "jerry-weintraub-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "george-clooney",
+        "character": "ダニー・オーシャン"
+      },
+      {
+        "actorId": "julia-roberts",
+        "character": "テス・オーシャン"
+      },
+      {
+        "actorId": "brad-pitt",
+        "character": "ラスティ・ライアン"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "crime",
+      "heist",
+      "comedy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 1
+    },
+    "runtime": 125,
+    "originalType": "original",
+    "synopsis": "カジノ王ベネディクトに正体を突き止められたダニーたちは、二週間で盗んだ額を返すよう迫られる。仕事場をヨーロッパに移した一味の前に、世界一の泥棒を名乗る男が立ちはだかる。前作より軽妙な作りで、俳優本人を役柄に取り込んだ悪ふざけも盛り込まれている。仲間の掛け合いを楽しむ性格が強く、賛否の分かれた続編となっている。",
+    "tmdbId": 163,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Ocean's Twelve",
+    "seriesId": "oceans"
+  },
+  {
+    "id": "bee-movie",
+    "title": "ビー・ムービー",
+    "titleKana": "びーむーびー",
+    "directorIds": [
+      "steve-hickner",
+      "simon-j-smith"
+    ],
+    "screenwriterIds": [
+      "jerry-seinfeld",
+      "spike-feresten"
+    ],
+    "studioIds": [
+      "columbus-81-productions",
+      "dreamworks-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "jerry-seinfeld",
+        "character": "バリー・B・ベンソン"
+      },
+      {
+        "actorId": "renee-zellweger",
+        "character": "ヴァネッサ・ブルーム"
+      },
+      {
+        "actorId": "matthew-broderick",
+        "character": "アダム・フレイマン"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "comedy",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2008,
+      "month": 1
+    },
+    "runtime": 90,
+    "originalType": "original",
+    "synopsis": "大学を出たミツバチのバリーは、一生同じ仕事を続ける社会に嫌気が差し、巣の外へ飛び出す。人間の花屋ヴァネッサと知り合った彼は、人間が蜂蜜を勝手に売っていることに憤り、人類を相手に訴訟を起こす。しゃべる昆虫の視点から社会を風刺した作りとなっている。人気喜劇人が主演と脚本を兼ね、独特の間合いが全編を貫いている。",
+    "tmdbId": 5559,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bee Movie"
+  },
+  {
+    "id": "summer-ghost",
+    "title": "サマーゴースト",
+    "titleKana": "さまーごーすと",
+    "directorIds": [
+      "loundraw"
+    ],
+    "screenwriterIds": [
+      "otsuichi"
+    ],
+    "studioIds": [
+      "flat-studio",
+      "avex-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "chiaki-kobayashi",
+        "character": "杉崎友也"
+      },
+      {
+        "actorId": "miyuri-shimabukuro",
+        "character": "春川あおい"
+      },
+      {
+        "actorId": "rina-kawaei",
+        "character": "佐藤絢音"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "fantasy",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2021,
+      "month": 11
+    },
+    "runtime": 40,
+    "originalType": "original",
+    "synopsis": "花火をすると現れるという幽霊の噂を頼りに、三人の高校生が廃飛行場に集まる。現れた女性の霊あおいは、死んだ理由も分からないまま留まっていた。生きる意味を見失いかけた少年少女が、死者との対話を通して自分の一歩を選び直す。イラストレーターの初監督作にあたる中編。四十分の短編ながら、色彩設計と光の表現が強く印象に残る。",
+    "tmdbId": 798544,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "still-walking",
+    "title": "歩いても 歩いても",
+    "titleKana": "あるいてもあるいても",
+    "directorIds": [
+      "hirokazu-koreeda"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "eisei-gekijo",
+      "tv-man-union"
+    ],
+    "cast": [
+      {
+        "actorId": "hiroshi-abe",
+        "character": "横山良多"
+      },
+      {
+        "actorId": "yui-natsukawa",
+        "character": "横山ゆかり"
+      },
+      {
+        "actorId": "you",
+        "character": "横山ちなみ"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2008,
+      "month": 6
+    },
+    "runtime": 115,
+    "originalType": "original",
+    "synopsis": "亡くなった長男の命日に、横山家の兄弟が実家に集まる。台所と食卓を中心に、他愛ない会話のなかへ積年の恨みや後悔がにじみ出てくる。誰も本音を口にしないまま一日が過ぎ、取り返しのつかない距離だけが残る。是枝裕和監督が自らの家族の記憶をもとに撮った一作。派手な出来事を排し、日常の会話だけで構成した点が高く評価された。",
+    "tmdbId": 25050,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-princess-diaries",
+    "title": "プリティ・プリンセス",
+    "titleKana": "ぷりてぃぷりんせす",
+    "directorIds": [
+      "garry-marshall"
+    ],
+    "screenwriterIds": [
+      "gina-wendkos"
+    ],
+    "studioIds": [
+      "bottom-of-the-ninth-productions",
+      "walt-disney-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "anne-hathaway",
+        "character": "ミア・サーモポリス"
+      },
+      {
+        "actorId": "julie-andrews",
+        "character": "クラリス女王"
+      },
+      {
+        "actorId": "heather-matarazzo",
+        "character": "リリー・モスコヴィッツ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "family",
+      "romance",
+      "school"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 1
+    },
+    "runtime": 115,
+    "originalType": "novel",
+    "synopsis": "冴えない女子高生ミアは、突然訪ねてきた祖母から、自分が小国ジェノヴィアの王女だと知らされる。王位継承のための礼儀作法の特訓が始まり、学校での立場も一変していく。目立つことを恐れていた少女が、責任を引き受けるまでを描く。アン・ハサウェイの出世作にあたる。軽快な喜劇として広く親しまれ、続編も制作されている。",
+    "tmdbId": 9880,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Princess Diaries"
+  },
+  {
+    "id": "the-kings-man",
+    "title": "キングスマン：ファースト・エージェント",
+    "titleKana": "きんぐすまんふぁーすとえーじぇんと",
+    "directorIds": [
+      "matthew-vaughn"
+    ],
+    "screenwriterIds": [
+      "karl-gajdusek"
+    ],
+    "studioIds": [
+      "marv",
+      "cloudy-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "ralph-fiennes",
+        "character": "オーランド・オックスフォード"
+      },
+      {
+        "actorId": "gemma-arterton",
+        "character": "ポリー"
+      },
+      {
+        "actorId": "rhys-ifans",
+        "character": "グリゴリー・ラスプーチン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "suspense",
+      "spy",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 12
+    },
+    "runtime": 131,
+    "originalType": "manga",
+    "synopsis": "第一次大戦前夜、平和主義を貫くオックスフォード公は、息子を戦地に出すまいと苦心する。だが世界を戦争に導く陰謀の存在を知り、使用人たちと独自の情報網を築いていく。キングスマン創設に至る前日譚として、実在の人物を大胆に取り込んだ構成をとっている。シリーズの軽さを抑え、戦場の描写に重心を移した点が異色となる。",
+    "tmdbId": 476669,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The King's Man",
+    "seriesId": "kingsman"
+  },
+  {
+    "id": "hachiko",
+    "title": "ハチ公物語",
+    "titleKana": "はちこうものがたり",
+    "directorIds": [
+      "seijiro-koyama"
+    ],
+    "screenwriterIds": [
+      "kaneto-shindo"
+    ],
+    "studioIds": [
+      "mitsui-co",
+      "tokyu-group"
+    ],
+    "cast": [
+      {
+        "actorId": "tatsuya-nakadai",
+        "character": "上野秀次郎"
+      },
+      {
+        "actorId": "kaoru-yachigusa",
+        "character": "上野静子"
+      },
+      {
+        "actorId": "toshiro-yanagiba",
+        "character": "森山"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "history",
+      "animal",
+      "true-story"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 1987,
+      "month": 8
+    },
+    "runtime": 107,
+    "originalType": "other",
+    "synopsis": "大学教授の上野に飼われた秋田犬ハチは、毎日渋谷駅まで送り迎えをするようになる。だが主人が急死し、それでもハチは駅前に通い続ける。飼い主が変わり、老いて痩せ細ってもなお待ち続ける姿を描く。実話をもとにした作品で、公開当時の日本映画で屈指の興行成績を記録した。淡々とした演出で、犬の視点をあえて説明しない作りが支持された。",
+    "tmdbId": 31743,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-carter",
+    "title": "ジョン・カーター",
+    "titleKana": "じょんかーたー",
+    "directorIds": [
+      "andrew-stanton"
+    ],
+    "screenwriterIds": [
+      "michael-chabon"
+    ],
+    "studioIds": [
+      "walt-disney-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "taylor-kitsch",
+        "character": "ジョン・カーター"
+      },
+      {
+        "actorId": "lynn-collins",
+        "character": "デジャー・ソリス"
+      },
+      {
+        "actorId": "samantha-morton",
+        "character": "ソラ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "sf",
+      "space",
+      "war"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2012,
+      "month": 4
+    },
+    "runtime": 132,
+    "originalType": "novel",
+    "synopsis": "南北戦争帰りの元騎兵ジョン・カーターが、洞窟で拾った遺物によって火星へ転送される。重力の違いで超人的な跳躍力を得た彼は、緑色の異星人に捕らわれ、やがて王女デジャー・ソリスと出会う。古典的な冒険小説を映像化した作品で、制作費の規模でも話題となった。火星の異形の造形と広大な景観に、多額の予算が投じられている。",
+    "tmdbId": 49529,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "John Carter"
+  },
+  {
+    "id": "brother-bear",
+    "title": "ブラザー・ベア",
+    "titleKana": "ぶらざーべあ",
+    "directorIds": [
+      "aaron-blaise",
+      "robert-walker"
+    ],
+    "screenwriterIds": [
+      "tab-murphy",
+      "lorne-cameron"
+    ],
+    "studioIds": [
+      "disney-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "joaquin-phoenix",
+        "character": "キナイ"
+      },
+      {
+        "actorId": "jeremy-suarez",
+        "character": "コーダ"
+      },
+      {
+        "actorId": "jason-raize",
+        "character": "デナヒ"
+      }
+    ],
+    "themeIds": [
+      "adventure",
+      "family",
+      "animal"
+    ],
+    "region": "overseas",
+    "medium": "animation",
+    "release": {
+      "year": 2004,
+      "month": 3
+    },
+    "runtime": 86,
+    "originalType": "original",
+    "synopsis": "太古の北米で、末弟キナイは兄の命を奪った熊に復讐する。だが精霊の力で彼自身が熊の姿に変えられ、子熊コーダと旅をすることになる。狩る側と狩られる側の視点が入れ替わることで、彼は兄の死の意味を知る。手描きの自然描写が全編を支えている。ディズニーの手描き長編としては末期にあたる作品となっている。",
+    "tmdbId": 10009,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Brother Bear"
+  },
+  {
+    "id": "a-letter-to-momo",
+    "title": "ももへの手紙",
+    "titleKana": "ももへのてがみ",
+    "directorIds": [
+      "hiroyuki-okiura"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "tbs",
+      "kadokawa"
+    ],
+    "cast": [
+      {
+        "actorId": "karen-miyama",
+        "character": "宮浦もも"
+      },
+      {
+        "actorId": "yuka",
+        "character": "宮浦いく子"
+      },
+      {
+        "actorId": "toshiyuki-nishida",
+        "character": "イワ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "fantasy",
+      "human-drama",
+      "family"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2012,
+      "month": 4
+    },
+    "runtime": 120,
+    "originalType": "original",
+    "synopsis": "父と喧嘩したまま死別したももは、母と瀬戸内の島へ移り住む。書きかけの手紙の続きが分からず心を閉ざす彼女の前に、三匹の風変わりな妖怪が現れる。騒がしい居候たちに振り回されるうち、彼女は島の暮らしと母の思いを受け入れていく。作画に七年を費やした長編とされる。手描きの水彩のような背景と、生活の細部の描写が高く評価された。",
+    "tmdbId": 100271,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "linda-linda-linda",
+    "title": "リンダ リンダ リンダ",
+    "titleKana": "りんだりんだりんだ",
+    "directorIds": [
+      "nobuhiro-yamashita"
+    ],
+    "screenwriterIds": [
+      "wakako-miyashita"
+    ],
+    "studioIds": [
+      "bitters-end",
+      "cave"
+    ],
+    "cast": [
+      {
+        "actorId": "bae-doona",
+        "character": "ソン"
+      },
+      {
+        "actorId": "aki-maeda",
+        "character": "山田恭子"
+      },
+      {
+        "actorId": "yuu-kashii",
+        "character": "立花希"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "music",
+      "human-drama",
+      "youth",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2005,
+      "month": 7
+    },
+    "runtime": 114,
+    "originalType": "original",
+    "synopsis": "文化祭を三日後に控え、ギターの担当が抜けたバンドが解散寸前に追い込まれる。残ったメンバーは、たまたま廊下にいた韓国人留学生ソンに歌を任せる。噛み合わない練習と眠い放課後の時間が淡々と重ねられる。派手な展開を避けた作りで、青春映画として長く愛されている。ブルーハーツの楽曲を演奏する終盤の場面が、強い余韻を残す。",
+    "tmdbId": 27337,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dilwale-dulhania-le-jayenge",
+    "title": "シャー・ルク・カーンのDDLJ／ラブゲット大作戦",
+    "titleKana": "でぃーでぃーえるじぇーらぶげっとだいさくせん",
+    "directorIds": [
+      "aditya-chopra"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "yash-raj-films"
+    ],
+    "cast": [
+      {
+        "actorId": "kajol",
+        "character": "シムラン・シン"
+      },
+      {
+        "actorId": "shah-rukh-khan",
+        "character": "ラージ・マルホートラ"
+      },
+      {
+        "actorId": "amrish-puri",
+        "character": "バルデーヴ・シン"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "human-drama",
+      "romance",
+      "family"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 1995,
+      "month": 10
+    },
+    "runtime": 190,
+    "originalType": "original",
+    "synopsis": "ロンドン育ちのシムランは、父が決めた結婚のためインドへ帰る前に、友人との欧州旅行を許される。その旅で出会った軽薄な青年ラージと恋に落ちるが、父は許さない。ラージは駆け落ちを拒み、家族に認めさせる道を選ぶ。インド映画史上でも屈指の長期上映となった作品。公開から二十年以上にわたって同じ映画館で上映され続けた。",
+    "tmdbId": 19404,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。日本公開日が確認できないため本国公開年月を採用。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "दिलवाले दुल्हनिया ले जायेंगे"
+  },
+  {
+    "id": "the-curious-case-of-benjamin-button",
+    "title": "ベンジャミン・バトン 数奇な人生",
+    "titleKana": "べんじゃみんばとんすうきなじんせい",
+    "directorIds": [
+      "david-fincher"
+    ],
+    "screenwriterIds": [
+      "eric-roth"
+    ],
+    "studioIds": [
+      "paramount",
+      "warner-bros"
+    ],
+    "cast": [
+      {
+        "actorId": "brad-pitt",
+        "character": "ベンジャミン・バトン"
+      },
+      {
+        "actorId": "cate-blanchett",
+        "character": "デイジー・フラー"
+      },
+      {
+        "actorId": "taraji-p-henson",
+        "character": "クイニー"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "fantasy",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2009,
+      "month": 2
+    },
+    "runtime": 166,
+    "originalType": "novel",
+    "synopsis": "老人の姿で生まれ、年を追うごとに若返っていく男ベンジャミンの生涯を追う。同じ時間を逆向きに進む彼とデイジーは、人生の途中で一度だけすれ違い、短い時期を共に過ごす。時間の流れそのものが別離を強制する構造となっている。特殊メイクと視覚効果が高く評価された。特殊メイクと視覚効果が高く評価され、複数の技術賞を受けた。",
+    "tmdbId": 4922,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Curious Case of Benjamin Button"
+  },
+  {
+    "id": "donnie-darko",
+    "title": "ドニー・ダーコ",
+    "titleKana": "どにーだーこ",
+    "directorIds": [
+      "richard-kelly"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "flower-films",
+      "pandora-cinema"
+    ],
+    "cast": [
+      {
+        "actorId": "jake-gyllenhaal",
+        "character": "ドニー・ダーコ"
+      },
+      {
+        "actorId": "jena-malone",
+        "character": "グレッチェン・ロス"
+      },
+      {
+        "actorId": "james-duval",
+        "character": "フランク"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "human-drama",
+      "mystery",
+      "time-travel",
+      "youth"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2002,
+      "month": 8
+    },
+    "runtime": 114,
+    "originalType": "original",
+    "synopsis": "夢遊病の高校生ドニーは、銀色のウサギの姿をしたフランクに導かれて家を出た夜、寝室にジェット機のエンジンが落下する事故を免れる。世界の終わりまで二十八日と告げられた彼は、時間旅行の理論に取り憑かれていく。難解な構成が語り継がれ、公開後に評価が定着した作品となっている。",
+    "tmdbId": 141,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Donnie Darko"
+  },
+  {
+    "id": "persona3-the-movie-3-falling-down",
+    "title": "PERSONA3 THE MOVIE —#3 Falling Down—",
+    "titleKana": "ぺるそなすりーざむーびーすりーふぉーりんぐだうん",
+    "directorIds": [
+      "keitaro-motonaga"
+    ],
+    "screenwriterIds": [
+      "jun-kumagai"
+    ],
+    "studioIds": [
+      "atlus",
+      "aniplex"
+    ],
+    "cast": [
+      {
+        "actorId": "akira-ishida",
+        "character": "結城理"
+      },
+      {
+        "actorId": "megumi-toyoguchi",
+        "character": "岳羽ゆかり"
+      },
+      {
+        "actorId": "kohsuke-toriumi",
+        "character": "伊織順平"
+      }
+    ],
+    "themeIds": [
+      "fantasy",
+      "adventure",
+      "game-world",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2015,
+      "month": 4
+    },
+    "runtime": 87,
+    "originalType": "game",
+    "synopsis": "大型シャドウをすべて倒したはずが、影時間もタルタロスも消えなかった。真実を知った特別課外活動部は、自分たちの戦いの意味そのものに向き合うことになる。仲間の離脱と喪失が続き、結城理は無表情の裏で追い詰められていく。四部作の第三作にあたる。シリーズでも特に暗い局面を扱い、次作への橋渡しとなっている。",
+    "tmdbId": 332169,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "persona3-movie"
+  },
+  {
+    "id": "sasaki-and-miyano-graduation",
+    "title": "映画 佐々木と宮野ー卒業編ー",
+    "titleKana": "えいがささきとみやのそつぎょうへん",
+    "directorIds": [
+      "shinji-ishihira"
+    ],
+    "screenwriterIds": [
+      "yoshiko-nakamura"
+    ],
+    "studioIds": [
+      "studio-deen"
+    ],
+    "cast": [
+      {
+        "actorId": "yusuke-shirai",
+        "character": "佐々木秀鳴"
+      },
+      {
+        "actorId": "soma-saito",
+        "character": "宮野由美"
+      },
+      {
+        "actorId": "yoshitsugu-matsuoka",
+        "character": "平野太一"
+      }
+    ],
+    "themeIds": [
+      "romance",
+      "school",
+      "youth"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2023,
+      "month": 2
+    },
+    "runtime": 50,
+    "originalType": "manga",
+    "synopsis": "付き合いはじめた佐々木と宮野に、卒業という期限が近づいてくる。進路の話を避けたまま日々を過ごす二人は、言葉にしないままの不安を抱えていた。周囲の後輩たちの関係も並行して描かれる。テレビシリーズの続きにあたる五十分ほどの劇場版として制作された。原作の卒業編を丁寧に映像化した、穏やかな一作となっている。",
+    "tmdbId": 998731,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lone-survivor",
+    "title": "ローン・サバイバー",
+    "titleKana": "ろーんさばいばー",
+    "directorIds": [
+      "peter-berg"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "efo-films",
+      "envision-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "mark-wahlberg",
+        "character": "マーカス・ラトレル"
+      },
+      {
+        "actorId": "taylor-kitsch",
+        "character": "マイケル・マーフィー"
+      },
+      {
+        "actorId": "emile-hirsch",
+        "character": "ダニー・ディーツ"
+      }
+    ],
+    "themeIds": [
+      "war",
+      "action",
+      "human-drama",
+      "true-story",
+      "survival"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2014,
+      "month": 3
+    },
+    "runtime": 122,
+    "originalType": "other",
+    "synopsis": "アフガニスタンの山岳地帯で、四人のシールズ隊員が偵察任務中に山羊飼いと遭遇する。彼らを解放するか始末するかの判断が、部隊の運命を決めることになる。通信が届かない斜面での長い銃撃戦が延々と続く。実際の作戦を記録した手記をもとにしている。銃撃と滑落の描写に容赦がなく、体感的な苦痛を前面に出している。",
+    "tmdbId": 193756,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Lone Survivor"
+  },
+  {
+    "id": "looper",
+    "title": "LOOPER／ルーパー",
+    "titleKana": "るーぱー",
+    "directorIds": [
+      "rian-johnson"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "endgame-entertainment",
+      "dmg-entertainment"
+    ],
+    "cast": [
+      {
+        "actorId": "joseph-gordon-levitt",
+        "character": "ジョー"
+      },
+      {
+        "actorId": "bruce-willis",
+        "character": "老ジョー"
+      },
+      {
+        "actorId": "emily-blunt",
+        "character": "サラ"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "suspense",
+      "sf",
+      "time-travel",
+      "crime"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2013,
+      "month": 1
+    },
+    "runtime": 118,
+    "originalType": "original",
+    "synopsis": "未来から送られてくる標的を始末する殺し屋ジョーの前に、三十年後の自分が現れる。始末すべき相手が自分自身だと知った彼は、逃げた老いた自分を追うことになる。未来の惨劇を防ぐという老ジョーの目的が、話を思わぬ方向に運ぶ。低予算で組まれた設定の切れ味が評価された。時間旅行の理屈より、人物の選択に焦点を当てた構成をとる。",
+    "tmdbId": 59967,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Looper"
+  },
+  {
+    "id": "novocaine",
+    "title": "Mr.ノボカイン",
+    "titleKana": "みすたーのぼかいん",
+    "directorIds": [
+      "dan-berk",
+      "robert-olsen"
+    ],
+    "screenwriterIds": [
+      "lars-jacobson"
+    ],
+    "studioIds": [
+      "safehouse-pictures",
+      "paramount"
+    ],
+    "cast": [
+      {
+        "actorId": "jack-quaid",
+        "character": "ネイト"
+      },
+      {
+        "actorId": "amber-midthunder",
+        "character": "シェリー"
+      },
+      {
+        "actorId": "ray-nicholson",
+        "character": "サイモン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "comedy",
+      "suspense",
+      "romance"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 6
+    },
+    "runtime": 110,
+    "originalType": "original",
+    "synopsis": "痛みを一切感じない体質の銀行員ネイトは、目立たないよう慎重に生きてきた。想いを寄せる同僚が強盗に連れ去られると、彼はその体質を武器に単身で追跡を始める。傷を負っても止まらない主人公という設定を、笑いと痛々しさの両方で見せる。二〇二五年公開の作品。痛覚を失った身体という発想を、そのまま活劇の原理に変えている。",
+    "tmdbId": 1195506,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Novocaine"
+  },
+  {
+    "id": "lonely-castle-in-the-mirror",
+    "title": "かがみの孤城",
+    "titleKana": "かがみのこじょう",
+    "directorIds": [
+      "keiichi-hara"
+    ],
+    "screenwriterIds": [
+      "miho-maruo"
+    ],
+    "studioIds": [
+      "shochiku",
+      "a-1-pictures"
+    ],
+    "cast": [
+      {
+        "actorId": "ami-touma",
+        "character": "安西こころ"
+      },
+      {
+        "actorId": "takumi-kitamura",
+        "character": "水守理音"
+      },
+      {
+        "actorId": "sakura-kiryu",
+        "character": "井上晶子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "mystery",
+      "fantasy",
+      "school"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2022,
+      "month": 12
+    },
+    "runtime": 116,
+    "originalType": "novel",
+    "synopsis": "不登校になった中学生こころの部屋で、鏡が突然光り出す。くぐった先の城には、似た境遇の七人が集められ、願いを叶える鍵を探すよう命じられる。互いの事情を明かさないまま過ごす一年の裏に、大きな仕掛けが隠されていた。本屋大賞受賞作を原作としている。居場所を失った子どもたちへの視線が、静かに一貫している。",
+    "tmdbId": 942881,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-irishman",
+    "title": "アイリッシュマン",
+    "titleKana": "あいりっしゅまん",
+    "directorIds": [
+      "martin-scorsese"
+    ],
+    "screenwriterIds": [
+      "steven-zaillian"
+    ],
+    "studioIds": [
+      "tribeca-productions",
+      "sikelia-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "robert-de-niro",
+        "character": "フランク・シーラン"
+      },
+      {
+        "actorId": "al-pacino",
+        "character": "ジミー・ホッファ"
+      },
+      {
+        "actorId": "joe-pesci",
+        "character": "ラッセル・ブファリーノ"
+      }
+    ],
+    "themeIds": [
+      "crime",
+      "human-drama",
+      "history",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2019,
+      "month": 11
+    },
+    "runtime": 209,
+    "originalType": "novel",
+    "synopsis": "トラック運転手だったフランク・シーランが、マフィアの後ろ盾を得て組織の実行役になっていく。彼は労働組合の実力者ジミー・ホッファの護衛となり、深い友情を結ぶ。だが組織と組合の対立が、彼に決定的な役目を負わせる。老人になった俳優たちを若く見せる技術が話題を呼んだ。",
+    "tmdbId": 398978,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Irishman"
+  },
+  {
+    "id": "puella-magi-madoka-magica-the-movie-part-i",
+    "title": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
+    "titleKana": "げきじょうばんまほうしょうじょまどかまぎかぜんぺんはじまりのものがたり",
+    "directorIds": [
+      "yukihiro-miyamoto",
+      "akiyuki-shinbo"
+    ],
+    "screenwriterIds": [
+      "gen-urobuchi"
+    ],
+    "studioIds": [
+      "shaft"
+    ],
+    "cast": [
+      {
+        "actorId": "aoi-yuuki",
+        "character": "鹿目まどか"
+      },
+      {
+        "actorId": "chiwa-saito",
+        "character": "暁美ほむら"
+      },
+      {
+        "actorId": "eri-kitamura",
+        "character": "美樹さやか"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "fantasy",
+      "magic",
+      "friendship"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2012,
+      "month": 10
+    },
+    "runtime": 132,
+    "originalType": "original",
+    "synopsis": "中学生のまどかは、どんな願いも叶える代わりに魔法少女になれと持ちかけられる。先輩のマミに導かれて戦いの世界を覗いた彼女とさやかは、その代償の重さをまだ知らない。転校生のほむらだけが、契約を止めようとしていた。テレビ版前半を再構成した劇場版前編にあたる。作画と音響が劇場向けに作り直され、異空間の描写が強化された。",
+    "tmdbId": 152042,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "puella-magi-madoka-magica-movie"
+  },
+  {
+    "id": "the-father",
+    "title": "ファーザー",
+    "titleKana": "ふぁーざー",
+    "directorIds": [
+      "florian-zeller"
+    ],
+    "screenwriterIds": [
+      "christopher-hampton"
+    ],
+    "studioIds": [
+      "les-films-du-cru",
+      "film4-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "anthony-hopkins",
+        "character": "アンソニー"
+      },
+      {
+        "actorId": "olivia-colman",
+        "character": "アン"
+      },
+      {
+        "actorId": "mark-gatiss",
+        "character": "男"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "family",
+      "medical"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2021,
+      "month": 5
+    },
+    "runtime": 97,
+    "originalType": "other",
+    "synopsis": "認知症が進む老人アンソニーの目を通して、部屋も人物も少しずつ入れ替わっていく。同じ会話が繰り返され、娘の顔が別人になり、時間の順序が壊れていく。観客も彼と同じ混乱に置かれる構成となっている。舞台劇を原作とし、主演がアカデミー主演男優賞を受賞した。編集と美術で主観の崩壊を表現した点が高く評価されている。",
+    "tmdbId": 600354,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "The Father"
+  },
+  {
+    "id": "saint-seiya-evil-goddess-eris",
+    "title": "聖闘士星矢 邪神エリス",
+    "titleKana": "せいんとせいやじゃしんえりす",
+    "directorIds": [
+      "kouzou-morishita"
+    ],
+    "screenwriterIds": [
+      "yoshiyuki-suga"
+    ],
+    "studioIds": [
+      "toei-animation"
+    ],
+    "cast": [
+      {
+        "actorId": "toru-furuya",
+        "character": "星矢"
+      },
+      {
+        "actorId": "hirotaka-suzuoki",
+        "character": "紫龍"
+      },
+      {
+        "actorId": "hideyuki-hori",
+        "character": "一輝"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "fantasy"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 1987,
+      "month": 7
+    },
+    "runtime": 46,
+    "originalType": "manga",
+    "synopsis": "争いの女神エリスが黄金のリンゴの封印を解かれ、星の子学園の少女の体に憑依する。アテナを捕らえて精気を奪おうとする彼女に対し、星矢たち青銅聖闘士が挑む。エリスに操られた亡霊の闘士たちとの戦いが続く。テレビシリーズと並行して作られた最初の劇場版にあたる。短い尺のなかに新規の敵と決着を収めた構成が特徴となっている。",
+    "tmdbId": 83090,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "聖闘士星矢",
+    "seriesId": "saint-seiya"
+  },
+  {
+    "id": "bad-boys-ii",
+    "title": "バッドボーイズ２バッド",
+    "titleKana": "ばっどぼーいずつーばっど",
+    "directorIds": [
+      "michael-bay"
+    ],
+    "screenwriterIds": [
+      "ron-shelton",
+      "jerry-stahl"
+    ],
+    "studioIds": [
+      "columbia-pictures",
+      "don-simpson-jerry-bruckheimer-films"
+    ],
+    "cast": [
+      {
+        "actorId": "martin-lawrence",
+        "character": "マーカス・バーネット"
+      },
+      {
+        "actorId": "will-smith",
+        "character": "マイク・ローリー"
+      },
+      {
+        "actorId": "jordi-molla",
+        "character": "ジョニー・タピア"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "crime",
+      "comedy",
+      "buddy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2003,
+      "month": 11
+    },
+    "runtime": 146,
+    "originalType": "original",
+    "synopsis": "マイアミに流入する麻薬の出所を追うマイクとマーカスが、キューバの組織に行き着く。相棒の妹が潜入捜査官として関わっていると知り、事態は個人的な問題へ変わる。派手なカーチェイスと爆破を積み上げた作りで、上映時間も長大な続編となっている。過剰なまでの物量と長い上映時間が、この続編の性格を決めている。",
+    "tmdbId": 8961,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Bad Boys II",
+    "seriesId": "bad-boys"
+  },
+  {
+    "id": "pokemon-zoroark-master-of-illusions",
+    "title": "劇場版ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク",
+    "titleKana": "げきじょうばんぽけっともんすたーげんえいのはしゃぞろあーく",
+    "directorIds": [
+      "kunihiko-yuyama"
+    ],
+    "screenwriterIds": [
+      "hideki-sonoda"
+    ],
+    "studioIds": [
+      "jeki",
+      "olm"
+    ],
+    "cast": [
+      {
+        "actorId": "rica-matsumoto",
+        "character": "サトシ"
+      },
+      {
+        "actorId": "ikue-otani",
+        "character": "ピカチュウ"
+      },
+      {
+        "actorId": "yuji-ueda",
+        "character": "タケシ"
+      }
+    ],
+    "themeIds": [
+      "family",
+      "adventure",
+      "fantasy",
+      "animal"
+    ],
+    "region": "japan",
+    "medium": "animation",
+    "release": {
+      "year": 2010,
+      "month": 7
+    },
+    "runtime": 95,
+    "originalType": "game",
+    "synopsis": "幻を作り出すポケモン、ゾロアークが人々を襲っているという噂が街に広がる。サトシたちは母を探す子どものゾロアと出会い、その裏にいる実業家の企みを知る。幻と現実の区別がつかない状況で、真実を見抜けるかが問われる。劇場版第十三作にあたる。親子の情を軸に据えた作りで、劇場版でも人気の高い一本とされる。",
+    "tmdbId": 50087,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "seriesId": "pokemon"
+  },
+  {
+    "id": "samurai-fury",
+    "title": "室町無頼",
+    "titleKana": "むろまちぶらい",
+    "directorIds": [
+      "yu-irie"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "toei-company",
+      "toei-studios-kyoto"
+    ],
+    "cast": [
+      {
+        "actorId": "yo-oizumi",
+        "character": "蓮田兵衛"
+      },
+      {
+        "actorId": "kento-nagao",
+        "character": "才蔵"
+      },
+      {
+        "actorId": "wakana-matsumoto",
+        "character": "芳王子"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "human-drama",
+      "jidaigeki",
+      "social"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2025,
+      "month": 1
+    },
+    "runtime": 135,
+    "originalType": "novel",
+    "synopsis": "大飢饉と疫病に見舞われた室町時代の京で、蓮田兵衛は無頼の者たちを率いて幕府に立ち向かう。彼に見出された若者才蔵は、過酷な棒術の修行に耐えて戦力となっていく。徳政一揆に至るまでの過程を、長回しの立ち回りを交えて描く。垣根涼介の時代小説を原作としている。棒術の稽古と一揆の場面に長い時間を割いた作りとなっている。",
+    "tmdbId": 1246369,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mission-impossible-rogue-nation",
+    "title": "ミッション：インポッシブル／ローグ・ネイション",
+    "titleKana": "みっしょんいんぽっしぶるろーぐねいしょん",
+    "directorIds": [
+      "christopher-mcquarrie"
+    ],
+    "screenwriterIds": [],
+    "studioIds": [
+      "paramount",
+      "bad-robot"
+    ],
+    "cast": [
+      {
+        "actorId": "tom-cruise",
+        "character": "イーサン・ハント"
+      },
+      {
+        "actorId": "jeremy-renner",
+        "character": "ウィリアム・ブラント"
+      },
+      {
+        "actorId": "simon-pegg",
+        "character": "ベンジー・ダン"
+      }
+    ],
+    "themeIds": [
+      "action",
+      "adventure",
+      "spy"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2015,
+      "month": 8
+    },
+    "runtime": 131,
+    "originalType": "other",
+    "synopsis": "正体不明のスパイ組織シンジケートを追うイーサンは、罠にかかり拘束される。IMFが解体されたことで後ろ盾を失った彼は、所属の分からない女性エージェント、イルサと手を組む。オペラ劇場と水中金庫の場面が見どころとして知られる第五作にあたる。生身に近い危険な撮影を続ける主演の姿勢が、この作品でも際立つ。",
+    "tmdbId": 177677,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Mission: Impossible - Rogue Nation",
+    "seriesId": "mission-impossible"
+  },
+  {
+    "id": "scary-movie-3",
+    "title": "最'狂'絶叫計画",
+    "titleKana": "さいきょうぜっきょうけいかく",
+    "directorIds": [
+      "david-zucker"
+    ],
+    "screenwriterIds": [
+      "craig-mazin",
+      "pat-proft"
+    ],
+    "studioIds": [
+      "brad-grey-pictures",
+      "dimension-films"
+    ],
+    "cast": [
+      {
+        "actorId": "anna-faris",
+        "character": "シンディ"
+      },
+      {
+        "actorId": "regina-hall",
+        "character": "ブレンダ・ミークス"
+      },
+      {
+        "actorId": "simon-rex",
+        "character": "ジョージ"
+      }
+    ],
+    "themeIds": [
+      "comedy",
+      "horror"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2004,
+      "month": 10
+    },
+    "runtime": 84,
+    "originalType": "original",
+    "synopsis": "呪いのビデオ、ミステリー・サークル、地下室の子どもたち。当時話題だったホラー映画の設定を片端から引用し、シンディが右往左往する。真面目に演じるほど滑稽になる作りで、パロディ喜劇の名手が監督を引き継いだ第三作にあたる。下品さと勢いで押し切る作りで、シリーズで最も観客を集めた一作となった。",
+    "tmdbId": 4256,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Scary Movie 3",
+    "seriesId": "scary-movie"
   }
 ]

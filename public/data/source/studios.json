@@ -6725,5 +6725,203 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Stigwood Organization。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "serendipity-productions",
+    "name": "セレンディピティ・プロダクションズ",
+    "nameKana": "セレンディピティプロダクションズ",
+    "description": "映画製作会社。『ソウX』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Serendipity Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "columbus-81-productions",
+    "name": "コロンバス81プロダクションズ",
+    "nameKana": "ろづちおんおるぶ",
+    "description": "映画製作会社。『ビー・ムービー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Columbus 81 Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "flat-studio",
+    "name": "FLAT STUDIO",
+    "nameKana": "ふらっとすたじお",
+    "description": "映画製作会社。『サマーゴースト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tv-man-union",
+    "name": "テレビマンユニオン",
+    "nameKana": "てれびまんゆにおん",
+    "description": "映画製作会社。『歩いても 歩いても』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: TV Man Union。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bottom-of-the-ninth-productions",
+    "name": "ボトム・オブ・ザ・ナインス・プロダクションズ",
+    "nameKana": "ボトムオブザナインスプロダクションズ",
+    "description": "映画製作会社。『プリティ・プリンセス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bottom of the Ninth Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cloudy-productions",
+    "name": "クラウディ・プロダクションズ",
+    "nameKana": "クラウディプロダクションズ",
+    "description": "映画製作会社。『キングスマン：ファースト・エージェント』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cloudy Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsui-co",
+    "name": "三井物産",
+    "nameKana": "みついぶっさん",
+    "description": "映画製作会社。『ハチ公物語』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsui & Co.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokyu-group",
+    "name": "東急グループ",
+    "nameKana": "とうきゅうぐるーぷ",
+    "description": "映画製作会社。『ハチ公物語』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyu Group。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cave",
+    "name": "カフェ",
+    "nameKana": "カフェ",
+    "description": "映画製作会社。『リンダ リンダ リンダ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cave。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yash-raj-films",
+    "name": "ヤシュ・ラージ・フィルムス",
+    "nameKana": "ヤシュラージフィルムス",
+    "description": "映画製作会社。『シャー・ルク・カーンのDDLJ／ラブゲット大作戦』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yash Raj Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "flower-films",
+    "name": "フラワー・フィルムズ",
+    "nameKana": "フラワーフィルムズ",
+    "description": "映画製作会社。『ドニー・ダーコ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Flower Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pandora-cinema",
+    "name": "パンドラ・シネマ",
+    "nameKana": "パンドラシネマ",
+    "description": "映画製作会社。『ドニー・ダーコ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pandora Cinema。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "atlus",
+    "name": "アトラス",
+    "nameKana": "あとらす",
+    "description": "映画製作会社。『PERSONA3 THE MOVIE —#3 Falling Down—』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Atlus。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "efo-films",
+    "name": "EFOフィルムズ",
+    "nameKana": "ふぃえふぉ",
+    "description": "映画製作会社。『ローン・サバイバー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: EFO Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "envision-entertainment",
+    "name": "エンヴィジョン・エンターテインメント",
+    "nameKana": "エンヴィジョンエンターテインメント",
+    "description": "映画製作会社。『ローン・サバイバー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Envision Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "endgame-entertainment",
+    "name": "エンドゲーム・エンターテインメント",
+    "nameKana": "エンドゲームエンターテインメント",
+    "description": "映画製作会社。『LOOPER／ルーパー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Endgame Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dmg-entertainment",
+    "name": "DMGエンターテインメント",
+    "nameKana": "えんてたいんめん",
+    "description": "映画製作会社。『LOOPER／ルーパー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DMG Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "safehouse-pictures",
+    "name": "セーフハウス・ピクチャーズ",
+    "nameKana": "セーフハウスピクチャーズ",
+    "description": "映画製作会社。『Mr.ノボカイン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Safehouse Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tribeca-productions",
+    "name": "トライベッカ・プロダクションズ",
+    "nameKana": "トライベッカプロダクションズ",
+    "description": "映画製作会社。『アイリッシュマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tribeca Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sikelia-productions",
+    "name": "シケリア・プロダクションズ",
+    "nameKana": "シケリアプロダクションズ",
+    "description": "映画製作会社。『アイリッシュマン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sikelia Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "les-films-du-cru",
+    "name": "レ・フィルム・デュ・クリュ",
+    "nameKana": "レフィルムデュクリュ",
+    "description": "映画製作会社。『ファーザー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Les Films du Cru。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toei-studios-kyoto",
+    "name": "東映京都撮影所",
+    "nameKana": "とうえいきょうとさつえいじょ",
+    "description": "映画製作会社。『室町無頼』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toei Studios Kyoto。",
+    "updatedAt": "2026-08-09"
   }
 ]
