@@ -6766,5 +6766,392 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kirk Wise。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adrian-lyne",
+    "name": "エイドリアン・ライン",
+    "nameKana": "エイドリアンライン",
+    "description": "映画監督。『運命の女』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Adrian Lyne。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "william-broyles-jr",
+    "name": "ウィリアム・ブロイルズ・ジュニア",
+    "nameKana": "ウィリアムブロイルズジュニア",
+    "description": "脚本家。『運命の女』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: William Broyles Jr.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-hata",
+    "name": "畑博之",
+    "nameKana": "はたひろゆき",
+    "description": "映画監督。『劇場版プロジェクトセカイ 壊れたセカイと歌えないミク』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Hata。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoko-yonaiyama",
+    "name": "米内山陽子",
+    "nameKana": "よないやまようこ",
+    "description": "脚本家。『劇場版プロジェクトセカイ 壊れたセカイと歌えないミク』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoko Yonaiyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiichi-hara",
+    "name": "原恵一",
+    "nameKana": "はらけいいち",
+    "description": "映画監督・脚本家。『クレヨンしんちゃん 嵐を呼ぶ モーレツ！オトナ帝国の逆襲』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiichi Hara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "milos-forman",
+    "name": "ミロス・フォアマン",
+    "nameKana": "ミロスフォアマン",
+    "description": "映画監督。『カッコーの巣の上で』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miloš Forman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lawrence-hauben",
+    "name": "ローレンス・ハウベン",
+    "nameKana": "ローレンスハウベン",
+    "description": "脚本家。『カッコーの巣の上で』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lawrence Hauben。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bo-goldman",
+    "name": "ボー・ゴールドマン",
+    "nameKana": "ボーゴールドマン",
+    "description": "脚本家。『カッコーの巣の上で』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bo Goldman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edward-kitsis",
+    "name": "エドワード・キッツィス",
+    "nameKana": "エドワードキッツィス",
+    "description": "脚本家。『トロン：レガシー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edward Kitsis。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adam-horowitz",
+    "name": "アダム・ホロウィッツ",
+    "nameKana": "アダムホロウィッツ",
+    "description": "脚本家。『トロン：レガシー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Adam Horowitz。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joel-coen",
+    "name": "ジョエル・コーエン",
+    "nameKana": "ジョエルコーエン",
+    "description": "映画監督・脚本家。『ビッグ・リボウスキ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joel Coen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ethan-coen",
+    "name": "イーサン・コーエン",
+    "nameKana": "イーサンコーエン",
+    "description": "映画監督・脚本家。『ビッグ・リボウスキ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ethan Coen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wellesley-wild",
+    "name": "ウェルズリー・ワイルド",
+    "nameKana": "ウェルズリーワイルド",
+    "description": "脚本家。『テッド2』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wellesley Wild。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shigeaki-kubo",
+    "name": "久保茂昭",
+    "nameKana": "くぼしげあき",
+    "description": "映画監督。『ゴールデンカムイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shigeaki Kubo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steve-martino",
+    "name": "スティーヴ・マルティノ",
+    "nameKana": "スティーヴマルティノ",
+    "description": "映画監督。『アイス・エイジ４／パイレーツ大冒険』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Steve Martino。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-thurmeier",
+    "name": "マイク・サーマイヤー",
+    "nameKana": "マイクサーマイヤー",
+    "description": "映画監督。『アイス・エイジ４／パイレーツ大冒険』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Thurmeier。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jason-fuchs",
+    "name": "ジェイソン・フックス",
+    "nameKana": "ジェイソンフックス",
+    "description": "脚本家。『アイス・エイジ４／パイレーツ大冒険』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jason Fuchs。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "craig-gillespie",
+    "name": "クレイグ・ギレスピー",
+    "nameKana": "クレイグギレスピー",
+    "description": "映画監督。『クルエラ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Craig Gillespie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "doug-liman",
+    "name": "ダグ・リーマン",
+    "nameKana": "ダグリーマン",
+    "description": "映画監督。『ロードハウス／孤独の街』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Doug Liman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anthony-bagarozzi",
+    "name": "アンソニー・バガロッツィ",
+    "nameKana": "アンソニーバガロッツィ",
+    "description": "脚本家。『ロードハウス／孤独の街』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anthony Bagarozzi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "charles-mondry",
+    "name": "チャールズ・モンドリー",
+    "nameKana": "チャールズモンドリー",
+    "description": "脚本家。『ロードハウス／孤独の街』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Charles Mondry。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gabriel-ferrari",
+    "name": "ガブリエル・フェラーリ",
+    "nameKana": "ガブリエルフェラーリ",
+    "description": "脚本家。『トランスフォーマー／ONE』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gabriel Ferrari。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fernando-meirelles",
+    "name": "フェルナンド・メイレレス",
+    "nameKana": "フェルナンドメイレレス",
+    "description": "映画監督。『シティ・オブ・ゴッド』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fernando Meirelles。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "braulio-mantovani",
+    "name": "ブラウリオ・マントヴァーニ",
+    "nameKana": "ブラウリオマントヴァーニ",
+    "description": "脚本家。『シティ・オブ・ゴッド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bráulio Mantovani。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michiru-shimada",
+    "name": "島田満",
+    "nameKana": "しまだみちる",
+    "description": "脚本家。『劇場版 ワンピース』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michiru Shimada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-showalter",
+    "name": "マイケル・ショウォーター",
+    "nameKana": "マイケルショウォーター",
+    "description": "映画監督・脚本家。『アイデア・オブ・ユー ～大人の愛が叶うまで～』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Showalter。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jennifer-westfeldt",
+    "name": "ジェニファー・ウェストフェルト",
+    "nameKana": "ジェニファーウェストフェルト",
+    "description": "脚本家。『アイデア・オブ・ユー ～大人の愛が叶うまで～』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jennifer Westfeldt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mary-harron",
+    "name": "メアリー・ハロン",
+    "nameKana": "メアリーハロン",
+    "description": "映画監督・脚本家。『アメリカン・サイコ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mary Harron。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "guinevere-turner",
+    "name": "グィネヴィア・ターナー",
+    "nameKana": "グィネヴィアターナー",
+    "description": "脚本家。『アメリカン・サイコ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Guinevere Turner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeff-loveness",
+    "name": "ジェフ・ラヴネス",
+    "nameKana": "ジェフラヴネス",
+    "description": "脚本家。『アントマン＆ワスプ：クアントマニア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeff Loveness。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-okiura",
+    "name": "沖浦啓之",
+    "nameKana": "おきうらひろゆき",
+    "description": "映画監督。『人狼 JIN-ROH』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Okiura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kyle-balda",
+    "name": "カイル・バルダ",
+    "nameKana": "カイルバルダ",
+    "description": "映画監督。『ミニオンズ フィーバー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kyle Balda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-imaishi",
+    "name": "今石洋之",
+    "nameKana": "いまいしひろゆき",
+    "description": "映画監督。『プロメア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Imaishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kazuki-nakashima",
+    "name": "中島かずき",
+    "nameKana": "なかしまかずき",
+    "description": "脚本家。『プロメア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kazuki Nakashima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mitsuo-iso",
+    "name": "磯光雄",
+    "nameKana": "いそみつお",
+    "description": "脚本家。『新世紀エヴァンゲリオン劇場版 シト新生』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mitsuo Iso。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steven-soderbergh",
+    "name": "スティーヴン・ソダーバーグ",
+    "nameKana": "スティーヴンソダーバーグ",
+    "description": "映画監督。『オーシャンズ11』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Steven Soderbergh。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ted-griffin",
+    "name": "テッド・グリフィン",
+    "nameKana": "テッドグリフィン",
+    "description": "脚本家。『オーシャンズ11』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ted Griffin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "barry-sonnenfeld",
+    "name": "バリー・ソネンフェルド",
+    "nameKana": "バリーソネンフェルド",
+    "description": "映画監督。『メン・イン・ブラック』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Barry Sonnenfeld。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ed-solomon",
+    "name": "エド・ソロモン",
+    "nameKana": "エドソロモン",
+    "description": "脚本家。『メン・イン・ブラック』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ed Solomon。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naoko-ogigami",
+    "name": "荻上直子",
+    "nameKana": "おぎがみなおこ",
+    "description": "映画監督・脚本家。『レンタネコ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naoko Ogigami。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tetsuo-yajima",
+    "name": "矢嶋哲生",
+    "nameKana": "やじまてつお",
+    "description": "映画監督。『劇場版ポケットモンスター ココ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tetsuo Yajima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ruben-fleischer",
+    "name": "ルーベン・フライシャー",
+    "nameKana": "ルーベンフライシャー",
+    "description": "映画監督。『ヴェノム』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ruben Fleischer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neo-sora",
+    "name": "空音央",
+    "nameKana": "そらねお",
+    "description": "映画監督・脚本家。『HAPPYEND』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neo Sora。",
+    "updatedAt": "2026-08-09"
   }
 ]

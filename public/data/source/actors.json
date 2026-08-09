@@ -9430,5 +9430,482 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Taylor Lautner。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "diane-lane",
+    "name": "ダイアン・レイン",
+    "nameKana": "ダイアンレイン",
+    "description": "俳優。『運命の女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Diane Lane。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "richard-gere",
+    "name": "リチャード・ギア",
+    "nameKana": "リチャードギア",
+    "description": "俳優。『運命の女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Richard Gere。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olivier-martinez",
+    "name": "オリヴィエ・マルティネス",
+    "nameKana": "オリヴィエマルティネス",
+    "description": "俳優。『運命の女』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olivier Martinez。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saki-fujita",
+    "name": "藤田咲",
+    "nameKana": "ふじたさき",
+    "description": "俳優。『劇場版プロジェクトセカイ 壊れたセカイと歌えないミク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Saki Fujita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "asami-shimoda",
+    "name": "下田麻美",
+    "nameKana": "しもだあさみ",
+    "description": "俳優。『劇場版プロジェクトセカイ 壊れたセカイと歌えないミク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Asami Shimoda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuu-asakawa",
+    "name": "浅川悠",
+    "nameKana": "あさかわゆう",
+    "description": "俳優。『劇場版プロジェクトセカイ 壊れたセカイと歌えないミク』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuu Asakawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akiko-yajima",
+    "name": "矢島晶子",
+    "nameKana": "やじまあきこ",
+    "description": "俳優。『クレヨンしんちゃん 嵐を呼ぶ モーレツ！オトナ帝国の逆襲』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akiko Yajima。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miki-narahashi",
+    "name": "ならはしみき",
+    "nameKana": "ならはしみき",
+    "description": "俳優。『クレヨンしんちゃん 嵐を呼ぶ モーレツ！オトナ帝国の逆襲』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miki Narahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keiji-fujiwara",
+    "name": "藤原啓治",
+    "nameKana": "ふじわらけいじ",
+    "description": "俳優。『クレヨンしんちゃん 嵐を呼ぶ モーレツ！オトナ帝国の逆襲』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keiji Fujiwara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brad-dourif",
+    "name": "ブラッド・ドゥーリフ",
+    "nameKana": "ブラッドドゥーリフ",
+    "description": "俳優。『カッコーの巣の上で』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brad Dourif。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "louise-fletcher",
+    "name": "ルイーズ・フレッチャー",
+    "nameKana": "ルイーズフレッチャー",
+    "description": "俳優。『カッコーの巣の上で』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Louise Fletcher。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "garrett-hedlund",
+    "name": "ギャレット・ヘドランド",
+    "nameKana": "ギャレットヘドランド",
+    "description": "俳優。『トロン：レガシー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Garrett Hedlund。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olivia-wilde",
+    "name": "オリヴィア・ワイルド",
+    "nameKana": "オリヴィアワイルド",
+    "description": "俳優。『トロン：レガシー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olivia Wilde。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "julianne-moore",
+    "name": "ジュリアン・ムーア",
+    "nameKana": "ジュリアンムーア",
+    "description": "俳優。『ビッグ・リボウスキ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Julianne Moore。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amanda-seyfried",
+    "name": "アマンダ・サイフリッド",
+    "nameKana": "アマンダサイフリッド",
+    "description": "俳優。『テッド2』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amanda Seyfried。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anna-yamada",
+    "name": "山田杏奈",
+    "nameKana": "やまだあんあ",
+    "description": "俳優。『ゴールデンカムイ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anna Yamada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gordon-maeda",
+    "name": "眞栄田郷敦",
+    "nameKana": "まえだごどん",
+    "description": "俳優。『ゴールデンカムイ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gordon Maeda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joel-fry",
+    "name": "ジョエル・フライ",
+    "nameKana": "ジョエルフライ",
+    "description": "俳優。『クルエラ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joel Fry。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "conor-mcgregor",
+    "name": "コナー・マクレガー",
+    "nameKana": "コナーマクレガー",
+    "description": "俳優。『ロードハウス／孤独の街』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Conor McGregor。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "billy-magnussen",
+    "name": "ビリー・マグヌッセン",
+    "nameKana": "ビリーマグヌッセン",
+    "description": "俳優。『ロードハウス／孤独の街』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Billy Magnussen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "moka-kamishiraishi",
+    "name": "上白石萌歌",
+    "nameKana": "かみしらいしもか",
+    "description": "俳優。『未来のミライ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Moka Kamishiraishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gen-hoshino",
+    "name": "星野源",
+    "nameKana": "ほしのげん",
+    "description": "俳優。『未来のミライ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gen Hoshino。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tommy-lee-jones",
+    "name": "トミー・リー・ジョーンズ",
+    "nameKana": "トミーリージョーンズ",
+    "description": "俳優。『ノーカントリー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tommy Lee Jones。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alexandre-rodrigues",
+    "name": "アレシャンドレ・ロドリゲス",
+    "nameKana": "アレシャンドレロドリゲス",
+    "description": "俳優。『シティ・オブ・ゴッド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alexandre Rodrigues。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "leandro-firmino",
+    "name": "レアンドロ・フィルミノ",
+    "nameKana": "レアンドロフィルミノ",
+    "description": "俳優。『シティ・オブ・ゴッド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Leandro Firmino。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "phellipe-haagensen",
+    "name": "フェリペ・ハーゲンセン",
+    "nameKana": "フェリペハーゲンセン",
+    "description": "俳優。『シティ・オブ・ゴッド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Phellipe Haagensen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nicholas-galitzine",
+    "name": "ニコラス・ガリツィ",
+    "nameKana": "ニコラスガリツィ",
+    "description": "俳優。『アイデア・オブ・ユー ～大人の愛が叶うまで～』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nicholas Galitzine。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ella-rubin",
+    "name": "エラ・ルービン",
+    "nameKana": "エラルービン",
+    "description": "俳優。『アイデア・オブ・ユー ～大人の愛が叶うまで～』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ella Rubin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "justin-theroux",
+    "name": "ジャスティン・セロー",
+    "nameKana": "ジャスティンセロー",
+    "description": "俳優。『アメリカン・サイコ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Justin Theroux。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "josh-lucas",
+    "name": "ジョシュ・ルーカス",
+    "nameKana": "ジョシュルーカス",
+    "description": "俳優。『アメリカン・サイコ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Josh Lucas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshikatsu-fujiki",
+    "name": "藤木義勝",
+    "nameKana": "ふじきよしかつ",
+    "description": "俳優。『人狼 JIN-ROH』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshikatsu Fujiki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sumi-mutoh",
+    "name": "武藤寿美",
+    "nameKana": "むとすみ",
+    "description": "俳優。『人狼 JIN-ROH』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sumi Mutoh。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-kinoshita",
+    "name": "木下浩之",
+    "nameKana": "きのしたひろゆき",
+    "description": "俳優。『人狼 JIN-ROH』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Kinoshita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miranda-otto",
+    "name": "ミランダ・オットー",
+    "nameKana": "ミランダオットー",
+    "description": "俳優。『宇宙戦争』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miranda Otto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pierre-coffin",
+    "name": "ピエール・コフィン",
+    "nameKana": "ピエールコフィン",
+    "description": "俳優。『ミニオンズ フィーバー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pierre Coffin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alan-arkin",
+    "name": "アラン・アーキン",
+    "nameKana": "アランアーキン",
+    "description": "俳優。『ミニオンズ フィーバー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alan Arkin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "taichi-saotome",
+    "name": "早乙女太一",
+    "nameKana": "さおとめたいち",
+    "description": "俳優。『プロメア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Taichi Saotome。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ayane-sakura",
+    "name": "佐倉綾音",
+    "nameKana": "さくらあやね",
+    "description": "俳優。『プロメア』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ayane Sakura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harvey-keitel",
+    "name": "ハーヴェイ・カイテル",
+    "nameKana": "ハーヴェイカイテル",
+    "description": "俳優。『レザボア・ドッグス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harvey Keitel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-madsen",
+    "name": "マイケル・マドセン",
+    "nameKana": "マイケルマドセン",
+    "description": "俳優。『レザボア・ドッグス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Madsen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "george-clooney",
+    "name": "ジョージ・クルーニー",
+    "nameKana": "ジョージクルーニー",
+    "description": "俳優。『オーシャンズ11』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: George Clooney。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andy-garcia",
+    "name": "アンディ・ガルシア",
+    "nameKana": "アンディガルシア",
+    "description": "俳優。『オーシャンズ11』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Andy Garcia。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "linda-fiorentino",
+    "name": "リンダ・フィオレンティーノ",
+    "nameKana": "リンダフィオレンティーノ",
+    "description": "俳優。『メン・イン・ブラック』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Linda Fiorentino。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mikako-ichikawa",
+    "name": "市川実日子",
+    "nameKana": "いちかわみかこ",
+    "description": "俳優。『レンタネコ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mikako Ichikawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "reiko-kusamura",
+    "name": "草村礼子",
+    "nameKana": "くさむられいこ",
+    "description": "俳優。『レンタネコ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Reiko Kusamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ken-mitsuishi",
+    "name": "光石研",
+    "nameKana": "みついしけん",
+    "description": "俳優。『レンタネコ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ken Mitsuishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michelle-williams",
+    "name": "ミシェル・ウィリアムズ",
+    "nameKana": "ミシェルウィリアムズ",
+    "description": "俳優。『ヴェノム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michelle Williams。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "riz-ahmed",
+    "name": "リズ・アーメッド",
+    "nameKana": "リズアーメッド",
+    "description": "俳優。『ヴェノム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Riz Ahmed。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hayato-kurihara",
+    "name": "栗原颯人",
+    "nameKana": "くりはらはやと",
+    "description": "俳優。『HAPPYEND』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hayato Kurihara。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yukito-hidaka",
+    "name": "日高由起刀",
+    "nameKana": "ひだかゆきと",
+    "description": "俳優。『HAPPYEND』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yukito Hidaka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuta-hayashi",
+    "name": "林裕太",
+    "nameKana": "はやしゆた",
+    "description": "俳優。『HAPPYEND』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuta Hayashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takayuki-yamada",
+    "name": "山田孝之",
+    "nameKana": "やまだたかゆき",
+    "description": "俳優。『十三人の刺客』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takayuki Yamada。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yusuke-iseya",
+    "name": "伊勢谷友介",
+    "nameKana": "いせやすけ",
+    "description": "俳優。『十三人の刺客』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yūsuke Iseya。",
+    "updatedAt": "2026-08-09"
   }
 ]

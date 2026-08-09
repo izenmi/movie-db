@@ -713,5 +713,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crayon-shin-chan",
+    "name": "「クレヨンしんちゃん」劇場版シリーズ",
+    "nameKana": "くれよんしんちゃんげきじょうばんしりーず",
+    "description": "臼井儀人の漫画を原作とする、毎年公開される長寿劇場アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mib",
+    "name": "「メン・イン・ブラック」シリーズ",
+    "nameKana": "めんいんぶらっくしりーず",
+    "description": "地球に潜む異星人を監視する秘密組織を描くSFコメディ映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "oceans",
+    "name": "「オーシャンズ」シリーズ",
+    "nameKana": "おーしゃんずしりーず",
+    "description": "プロの窃盗団による大仕掛けの強奪計画を描く犯罪映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tron",
+    "name": "「トロン」シリーズ",
+    "nameKana": "とろんしりーず",
+    "description": "電脳空間を舞台にしたディズニーのSFアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

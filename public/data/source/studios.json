@@ -3629,5 +3629,239 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cyberagent",
+    "name": "サイバーエージェント",
+    "nameKana": "サイバーエージェント",
+    "description": "映画製作会社。『劇場版プロジェクトセカイ 壊れたセカイと歌えないミク』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: CyberAgent。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fantasy-films",
+    "name": "ファンタジー・フィルムズ",
+    "nameKana": "ファンタジーフィルムズ",
+    "description": "映画製作会社。『カッコーの巣の上で』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fantasy Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "polygram-filmed-entertainment",
+    "name": "ポリグラム・フィルムド・エンターテインメント",
+    "nameKana": "ポリグラムフィルムドエンターテインメント",
+    "description": "映画製作会社。『ビッグ・リボウスキ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: PolyGram Filmed Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "smart-entertainment",
+    "name": "スマート・エンターテインメント",
+    "nameKana": "スマートエンターテインメント",
+    "description": "映画製作会社。『テッド2』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Smart Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "credeus",
+    "name": "クレデウス",
+    "nameKana": "クレデウス",
+    "description": "映画製作会社。『ゴールデンカムイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: CREDEUS。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "20th-century-fox-animation",
+    "name": "20世紀フォックス・アニメーション",
+    "nameKana": "にじっせいきふぉっくすあにめーしょん",
+    "description": "映画製作会社。『アイス・エイジ４／パイレーツ大冒険』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: 20th Century Fox Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gunn-films",
+    "name": "ガン・フィルムズ",
+    "nameKana": "ガンフィルムズ",
+    "description": "映画製作会社。『クルエラ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gunn Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ntt-docomo",
+    "name": "NTTドコモ",
+    "nameKana": "えぬてぃーてぃーどこも",
+    "description": "映画製作会社。『未来のミライ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: NTT Docomo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paramount-vantage",
+    "name": "パラマウント・ヴァンテージ",
+    "nameKana": "パラマウントヴァンテージ",
+    "description": "映画製作会社。『ノーカントリー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paramount Vantage。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paramount-animation",
+    "name": "パラマウント・アニメーション",
+    "nameKana": "パラマウントアニメーション",
+    "description": "映画製作会社。『トランスフォーマー／ONE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paramount Animation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "di-bonaventura-pictures",
+    "name": "ディ・ボナヴェンチュラ・ピクチャーズ",
+    "nameKana": "ディボナヴェンチュラピクチャーズ",
+    "description": "映画製作会社。『トランスフォーマー／ONE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: di Bonaventura Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "o2-filmes",
+    "name": "O2フィルムス",
+    "nameKana": "おーつーふぃるむす",
+    "description": "映画製作会社。『シティ・オブ・ゴッド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: O2 Filmes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "videofilmes",
+    "name": "ヴィデオフィルムス",
+    "nameKana": "びでおふぃるむす",
+    "description": "映画製作会社。『シティ・オブ・ゴッド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: VideoFilmes。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "welle-entertainment",
+    "name": "ウェル・エンターテインメント",
+    "nameKana": "ウェルエンターテインメント",
+    "description": "映画製作会社。『アイデア・オブ・ユー ～大人の愛が叶うまで～』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Welle Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "somewhere-pictures",
+    "name": "サムウェア・ピクチャーズ",
+    "nameKana": "サムウェアピクチャーズ",
+    "description": "映画製作会社。『アイデア・オブ・ユー ～大人の愛が叶うまで～』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Somewhere Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pressman-film",
+    "name": "プレスマン・フィルム",
+    "nameKana": "プレスマンフィルム",
+    "description": "映画製作会社。『アメリカン・サイコ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pressman Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "trigger",
+    "name": "TRIGGER",
+    "nameKana": "とりがー",
+    "description": "映画製作会社。『プロメア』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "xflag",
+    "name": "XFLAG",
+    "nameKana": "えっくすふらっぐ",
+    "description": "映画製作会社。『プロメア』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "live-entertainment",
+    "name": "ライブ・エンターテインメント",
+    "nameKana": "ライブエンターテインメント",
+    "description": "映画製作会社。『レザボア・ドッグス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Live Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dog-eat-dog-productions",
+    "name": "ドッグ・イート・ドッグ・プロダクションズ",
+    "nameKana": "ドッグイートドッグプロダクションズ",
+    "description": "映画製作会社。『レザボア・ドッグス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dog Eat Dog Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "suurkiitos",
+    "name": "スールキートス",
+    "nameKana": "スールキートス",
+    "description": "映画製作会社。『レンタネコ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Suurkiitos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paradise-cafe",
+    "name": "パラダイス・カフェ",
+    "nameKana": "パラダイスカフェ",
+    "description": "映画製作会社。『レンタネコ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paradise Cafe。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-stone-quarry",
+    "name": "ストーン・クアリー",
+    "nameKana": "ストーンクアリー",
+    "description": "映画製作会社。『ジャスティス・リーグ：ザック・スナイダーカット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Stone Quarry。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cineric-creative",
+    "name": "シネリック・クリエイティブ",
+    "nameKana": "シネリッククリエイティブ",
+    "description": "映画製作会社。『HAPPYEND』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cineric Creative。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cinema-inutile",
+    "name": "シネマ・イヌティル",
+    "nameKana": "シネマイヌティル",
+    "description": "映画製作会社。『HAPPYEND』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cinema Inutile。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sedic-international",
+    "name": "セディックインターナショナル",
+    "nameKana": "セディックインターナショナル",
+    "description": "映画製作会社。『十三人の刺客』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sedic International。",
+    "updatedAt": "2026-08-09"
   }
 ]
