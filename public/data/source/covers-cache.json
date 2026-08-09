@@ -8493,5 +8493,205 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/2Vgu2nb2TV581qLgmDfKu1ufjWy.jpg",
     "matchedTitle": "ロッキー2",
     "tmdbId": 1367
+  },
+  "silver-linings-playbook": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fXZXTuLZusacvpEdYM43BDAuovR.jpg",
+    "matchedTitle": "世界にひとつのプレイブック",
+    "tmdbId": 82693
+  },
+  "crayon-shin-chan-invasion-alien-shiriri": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/aa7X8NXBoeQfhqzJ079SN8WAJMm.jpg",
+    "matchedTitle": "クレヨンしんちゃん 襲来！！宇宙人シリリ",
+    "tmdbId": 453575
+  },
+  "the-seven-deadly-sins-grudge-of-edinburgh-part-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/d0FyEjaThmoji4dP3BbafJIhJKr.jpg",
+    "matchedTitle": "七つの大罪 怨嗟のエジンバラ 後編",
+    "tmdbId": 1064835
+  },
+  "ferris-buellers-day-off": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/y9ARWufJHoXouEM8r7jN7074rOa.jpg",
+    "matchedTitle": "フェリスはある朝突然に",
+    "tmdbId": 9377
+  },
+  "hope": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+    "matchedTitle": "ソウォン/願い",
+    "tmdbId": 255709
+  },
+  "mad-max-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wCNe2dJ9cCi8r3pktfxwRaMY4DA.jpg",
+    "matchedTitle": "マッドマックス2",
+    "tmdbId": 8810
+  },
+  "girls-und-panzer-der-film": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3XyZrcTWve9xBmvcCTWqfr5Viy7.jpg",
+    "matchedTitle": "ガールズ&パンツァー 劇場版",
+    "tmdbId": 357405
+  },
+  "cyborg-she": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/urQzxeK0fbT9OCTbI80MDnsKMhE.jpg",
+    "matchedTitle": "僕の彼女はサイボーグ",
+    "tmdbId": 19486
+  },
+  "cool-hand-luke": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/cisizTYwbM7WW6fgc2ELLVKyFIS.jpg",
+    "matchedTitle": "暴力脱獄",
+    "tmdbId": 903
+  },
+  "from-russia-with-love": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6PZWGX98H7QEVPFRigsGchsEZXd.jpg",
+    "matchedTitle": "007／ロシアより愛をこめて",
+    "tmdbId": 657
+  },
+  "initial-d-legend-2-racer": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oqQPTXZg2DvbWZ9ZVZAHzSMjNht.jpg",
+    "matchedTitle": "新劇場版「頭文字D」Legend2 -闘走-",
+    "tmdbId": 321487
+  },
+  "all-monsters-attack": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2GisK3KxniLPQewIm2KF9Mq5vDb.jpg",
+    "matchedTitle": "ゴジラ・ミニラ・ガバラ オール怪獣大進撃",
+    "tmdbId": 39462
+  },
+  "tombstone": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mpvTjOrFuKobf7EUS2sclDZa4GC.jpg",
+    "matchedTitle": "トゥームストーン",
+    "tmdbId": 11969
+  },
+  "the-lover": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hi0NIBxA8ZBiVaUuwlVVMXxlGpA.jpg",
+    "matchedTitle": "愛人/ラマン",
+    "tmdbId": 10995
+  },
+  "waterworld": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gm9JHCLSdKAaKi6wUcrN3BSQf1X.jpg",
+    "matchedTitle": "ウォーターワールド",
+    "tmdbId": 9804
+  },
+  "edo-porn": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vbVoGIa7wEqQ5gOdUZjqFzKxUs2.jpg",
+    "matchedTitle": "北斎漫画",
+    "tmdbId": 77467
+  },
+  "happy-hour": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7q4DjaoxK7rWQNllvmwmi5wiUur.jpg",
+    "matchedTitle": "ハッピーアワー",
+    "tmdbId": 354759
+  },
+  "to-kill-a-mockingbird": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gHjghENEiJ4Y8DbXfRIcxPIEcq2.jpg",
+    "matchedTitle": "アラバマ物語",
+    "tmdbId": 595
+  },
+  "dr-strangelove-or-how-i-learned-to-stop-worrying": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/AkH0oyivdf9ijWJ67pXammJPfGK.jpg",
+    "matchedTitle": "博士の異常な愛情 または私は如何にして心配するのを止めて水爆を愛するようになったか",
+    "tmdbId": 935
+  },
+  "tokyo-tribe": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tcCTeYGaVSAR1BOrwh8V4Msaa12.jpg",
+    "matchedTitle": "TOKYO TRIBE",
+    "tmdbId": 240566
+  },
+  "kids-return": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1QvBEEurqbRsldD7ScsAUMywU4Q.jpg",
+    "matchedTitle": "キッズ・リターン",
+    "tmdbId": 27233
+  },
+  "the-sting": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/leT0k3WBk14FCVj95ujtJyKaGN.jpg",
+    "matchedTitle": "スティング",
+    "tmdbId": 9277
+  },
+  "the-fault-in-our-stars": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xUyC5i8EkDfJROElY725a4Og2Xg.jpg",
+    "matchedTitle": "きっと、星のせいじゃない。",
+    "tmdbId": 222935
+  },
+  "revue-starlight-the-movie": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/AgQVEyzQKuuBvsW6pvc6Jjp0Gjl.jpg",
+    "matchedTitle": "劇場版 少女☆歌劇 レヴュースタァライト",
+    "tmdbId": 645440
+  },
+  "fortune-favors-lady-nikuko": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/si4L8YX0GZiFkY3JsCPBVa3AqOy.jpg",
+    "matchedTitle": "漁港の肉子ちゃん",
+    "tmdbId": 781816
+  },
+  "the-sword-in-the-stone": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kbUXERQbJHbWjJdpkGheSaNHX8h.jpg",
+    "matchedTitle": "王様の剣",
+    "tmdbId": 9078
+  },
+  "the-longest-day": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5saMlBNwU2i7zmA4vpp9yyew0jS.jpg",
+    "matchedTitle": "史上最大の作戦",
+    "tmdbId": 9289
+  },
+  "you-only-live-twice": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/jZNROWO3GN61GlPEs4KloT8CXz8.jpg",
+    "matchedTitle": "007は二度死ぬ",
+    "tmdbId": 667
+  },
+  "fist-of-the-north-star": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/teWyiFDOAOrhM9yyss3IbdKJGXE.jpg",
+    "matchedTitle": "劇場版 北斗の拳",
+    "tmdbId": 19877
+  },
+  "mothra-vs-godzilla": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vsZ84VABklpYCKvLF1XnYSmRSeT.jpg",
+    "matchedTitle": "モスラ対ゴジラ",
+    "tmdbId": 1682
+  },
+  "life-of-brian": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2CBN4aHm0j2cdlMrMFuPRH45UQt.jpg",
+    "matchedTitle": "モンティ・パイソン ライフ・オブ・ブライアン",
+    "tmdbId": 583
+  },
+  "dawn-of-the-dead": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rjWHn3PwyiHSDh5t7pF3eXdtY1Z.jpg",
+    "matchedTitle": "ゾンビ",
+    "tmdbId": 923
+  },
+  "the-warriors": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dsYXQTCQmSiWUl9tEvQ4PBn4Yyt.jpg",
+    "matchedTitle": "ウォリアーズ",
+    "tmdbId": 11474
+  },
+  "my-rainy-days": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oukOdiL3PsZHzCVug8aXDtbg2Pf.jpg",
+    "matchedTitle": "天使の恋",
+    "tmdbId": 43635
+  },
+  "overlord-the-undead-king": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tSPeMmbpIRT5MfPMGdU6qzvb9jW.jpg",
+    "matchedTitle": "劇場版総集編 オーバーロード 不死者の王【前編】",
+    "tmdbId": 477447
+  },
+  "the-searchers": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oHuKqB5RCl8dCOgcdPoBsX2OfTB.jpg",
+    "matchedTitle": "捜索者",
+    "tmdbId": 3114
+  },
+  "dumbo": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hKDdllslMtsU9JixAv5HR9biXlp.jpg",
+    "matchedTitle": "ダンボ",
+    "tmdbId": 11360
+  },
+  "hell-dogs": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uu8Y4SviDLKh4PonzRel1id5JqR.jpg",
+    "matchedTitle": "ヘルドッグス",
+    "tmdbId": 910371
+  },
+  "godzilla-1985": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/49FqWFC9Ajj2CI74PoViSmHXLPU.jpg",
+    "matchedTitle": "ゴジラ1985",
+    "tmdbId": 39256
+  },
+  "my-fair-lady": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qip9Mh9OLJlgdoedTketGRRehMP.jpg",
+    "matchedTitle": "マイ・フェア・レディ",
+    "tmdbId": 11113
   }
 }
