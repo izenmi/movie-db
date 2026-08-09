@@ -20464,5 +20464,464 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jami Gertz。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roddy-piper",
+    "name": "ロディ・パイパー",
+    "nameKana": "ロディパイパー",
+    "description": "俳優。『ゼイリブ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roddy Piper。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "keith-david",
+    "name": "キース・デヴィッド",
+    "nameKana": "キースデヴィッド",
+    "description": "俳優。『ゼイリブ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Keith David。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "meg-foster",
+    "name": "メグ・フォスター",
+    "nameKana": "メグフォスター",
+    "description": "俳優。『ゼイリブ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Meg Foster。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "scott-glenn",
+    "name": "スコット・グレン",
+    "nameKana": "スコットグレン",
+    "description": "俳優。『レッド・オクトーバーを追え！』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Scott Glenn。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "christopher-reeve",
+    "name": "クリストファー・リーヴ",
+    "nameKana": "クリストファーリーヴ",
+    "description": "俳優。『スーパーマンII／冒険篇』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Christopher Reeve。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "margot-kidder",
+    "name": "マーゴット・キダー",
+    "nameKana": "マーゴットキダー",
+    "description": "俳優。『スーパーマンII／冒険篇』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Margot Kidder。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "terence-stamp",
+    "name": "テレンス・スタンプ",
+    "nameKana": "テレンススタンプ",
+    "description": "俳優。『スーパーマンII／冒険篇』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Terence Stamp。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "peter-weller",
+    "name": "ピーター・ウェラー",
+    "nameKana": "ピーターウェラー",
+    "description": "俳優。『ロボコップ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Peter Weller。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nancy-allen",
+    "name": "ナンシー・アレン",
+    "nameKana": "ナンシーアレン",
+    "description": "俳優。『ロボコップ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nancy Allen。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-oherlihy",
+    "name": "ダン・オハーリー",
+    "nameKana": "ダンオハーリー",
+    "description": "俳優。『ロボコップ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan O'Herlihy。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shintaro-asanuma",
+    "name": "浅沼晋太郎",
+    "nameKana": "あさぬましんたろう",
+    "description": "俳優。『好きでも嫌いなあまのじゃく』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shintaro Asanuma。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hoshi-ishida",
+    "name": "石田法嗣",
+    "nameKana": "いしだほうし",
+    "description": "俳優。『火垂るの墓』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hoshi Ishida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mao-sasaki",
+    "name": "佐々木麻緒",
+    "nameKana": "ささきまお",
+    "description": "俳優。『火垂るの墓』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mao Sasaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ikki-sawamura",
+    "name": "沢村一樹",
+    "nameKana": "さわむらいっき",
+    "description": "俳優。『火垂るの墓』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ikki Sawamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "saffron-burrows",
+    "name": "サフロン・バロウズ",
+    "nameKana": "サフロンバロウズ",
+    "description": "俳優。『ディープ・ブルー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Saffron Burrows。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ll-cool-j",
+    "name": "LL・クール・J",
+    "nameKana": "おおっ",
+    "description": "俳優。『ディープ・ブルー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: LL Cool J。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tom-hulce",
+    "name": "トム・ハルス",
+    "nameKana": "トムハルス",
+    "description": "俳優。『ノートルダムの鐘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tom Hulce。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kevin-kline",
+    "name": "ケヴィン・クライン",
+    "nameKana": "ケヴィンクライン",
+    "description": "俳優。『ノートルダムの鐘』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kevin Kline。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shigeru-matsuzaki",
+    "name": "松崎しげる",
+    "nameKana": "まつざきしげる",
+    "description": "俳優。『SPACE ADVENTURE コブラ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shigeru Matsuzaki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akiko-nakamura",
+    "name": "中村晃子",
+    "nameKana": "なかむらあきこ",
+    "description": "俳優。『SPACE ADVENTURE コブラ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akiko Nakamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "izabella-scorupco",
+    "name": "イザベラ・スコルプコ",
+    "nameKana": "イザベラスコルプコ",
+    "description": "俳優。『007／ゴールデンアイ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Izabella Scorupco。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "naomi-nishida",
+    "name": "西田尚美",
+    "nameKana": "にしだなおみ",
+    "description": "俳優。『ゴジラ2000 ミレニアム』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Naomi Nishida。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshio-kurosawa",
+    "name": "黒沢年男",
+    "nameKana": "くろさわとしお",
+    "description": "俳優。『修羅雪姫』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshio Kurosawa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mary-elizabeth-mastrantonio",
+    "name": "メアリー・エリザベス・マストラントニオ",
+    "nameKana": "メアリーエリザベスマストラントニオ",
+    "description": "俳優。『ロビン・フッド』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mary Elizabeth Mastrantonio。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "brendan-bradley",
+    "name": "ブレンダン・ブラッドリー",
+    "nameKana": "ブレンダンブラッドリー",
+    "description": "俳優。『サキュバス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Brendan Bradley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rachel-cook",
+    "name": "レイチェル・クック",
+    "nameKana": "レイチェルクック",
+    "description": "俳優。『サキュバス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rachel Cook。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olivia-grace-applegate",
+    "name": "オリヴィア・グレース・アップルゲイト",
+    "nameKana": "オリヴィアグレースアップルゲイト",
+    "description": "俳優。『サキュバス』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olivia Grace Applegate。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "burt-reynolds",
+    "name": "バート・レイノルズ",
+    "nameKana": "バートレイノルズ",
+    "description": "俳優。『ブギーナイツ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Burt Reynolds。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "akira-yamanouchi",
+    "name": "山内明",
+    "nameKana": "やまうちあきら",
+    "description": "俳優。『ゴジラ対ヘドラ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Akira Yamanouchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiroyuki-kawase",
+    "name": "川瀬裕之",
+    "nameKana": "かわせひろゆき",
+    "description": "俳優。『ゴジラ対ヘドラ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hiroyuki Kawase。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "toshie-kimura",
+    "name": "木村俊恵",
+    "nameKana": "きむらとしえ",
+    "description": "俳優。『ゴジラ対ヘドラ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Toshie Kimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-cazale",
+    "name": "ジョン・カザール",
+    "nameKana": "ジョンカザール",
+    "description": "俳優。『ディア・ハンター』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Cazale。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "raul-julia",
+    "name": "ラウル・ジュリア",
+    "nameKana": "ラウルジュリア",
+    "description": "俳優。『アダムス・ファミリー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Raúl Juliá。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anjelica-huston",
+    "name": "アンジェリカ・ヒューストン",
+    "nameKana": "アンジェリカヒューストン",
+    "description": "俳優。『アダムス・ファミリー』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anjelica Huston。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cho",
+    "name": "チョー",
+    "nameKana": "ちょー",
+    "description": "俳優。『劇場版モノノ怪 第二章 火鼠』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Cho。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "daisuke-hosomi",
+    "name": "細見大輔",
+    "nameKana": "ほそみだいすけ",
+    "description": "俳優。『劇場版モノノ怪 第二章 火鼠』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Daisuke Hosomi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gene-hackman",
+    "name": "ジーン・ハックマン",
+    "nameKana": "ジーンハックマン",
+    "description": "俳優。『許されざる者』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gene Hackman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "adrienne-king",
+    "name": "エイドリアン・キング",
+    "nameKana": "エイドリアンキング",
+    "description": "俳優。『13日の金曜日』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Adrienne King。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "betsy-palmer",
+    "name": "ベッツィ・パーマー",
+    "nameKana": "ベッツィパーマー",
+    "description": "俳優。『13日の金曜日』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Betsy Palmer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yutaka-hayashi",
+    "name": "林ゆたか",
+    "nameKana": "はやしゆたか",
+    "description": "俳優。『ゴジラ対メガロ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yutaka Hayashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "isabella-rossellini",
+    "name": "イザベラ・ロッセリーニ",
+    "nameKana": "イザベラロッセリーニ",
+    "description": "俳優。『ブルーベルベット』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Isabella Rossellini。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edward-james-olmos",
+    "name": "エドワード・ジェームズ・オルモス",
+    "nameKana": "エドワードジェームズオルモス",
+    "description": "俳優。『落ちこぼれの天使たち』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edward James Olmos。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lou-diamond-phillips",
+    "name": "ルー・ダイアモンド・フィリップス",
+    "nameKana": "ルーダイアモンドフィリップス",
+    "description": "俳優。『落ちこぼれの天使たち』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lou Diamond Phillips。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rosanna-desoto",
+    "name": "ロザーナ・デソト",
+    "nameKana": "ロザーナデソト",
+    "description": "俳優。『落ちこぼれの天使たち』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rosanna DeSoto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masataka-kubota",
+    "name": "窪田正孝",
+    "nameKana": "くぼたまさたか",
+    "description": "俳優。『東京喰種 トーキョーグール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masataka Kubota。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nobuyuki-suzuki",
+    "name": "鈴木伸之",
+    "nameKana": "すずきのぶゆき",
+    "description": "俳優。『東京喰種 トーキョーグール』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nobuyuki Suzuki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ursula-andress",
+    "name": "ウルスラ・アンドレス",
+    "nameKana": "ウルスラアンドレス",
+    "description": "俳優。『007／ドクター・ノオ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ursula Andress。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joseph-wiseman",
+    "name": "ジョセフ・ワイズマン",
+    "nameKana": "ジョセフワイズマン",
+    "description": "俳優。『007／ドクター・ノオ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joseph Wiseman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "marilyn-burns",
+    "name": "マリリン・バーンズ",
+    "nameKana": "マリリンバーンズ",
+    "description": "俳優。『悪魔のいけにえ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Marilyn Burns。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "allen-danziger",
+    "name": "アレン・ダンジガー",
+    "nameKana": "アレンダンジガー",
+    "description": "俳優。『悪魔のいけにえ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Allen Danziger。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-a-partain",
+    "name": "ポール・A・パーテイン",
+    "nameKana": "ぱたいんあぱう",
+    "description": "俳優。『悪魔のいけにえ』などに出演。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul A. Partain。",
+    "updatedAt": "2026-08-09"
   }
 ]

@@ -7708,5 +7708,200 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/kGhSiIJ9C9VaYC7PEoYouQYhf04.jpg",
     "matchedTitle": "HK／変態仮面 アブノーマル・クライシス",
     "tmdbId": 403310
+  },
+  "they-live": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/e1OJhRvjZa76lqJPxsUhK2YGfGK.jpg",
+    "matchedTitle": "ゼイリブ",
+    "tmdbId": 8337
+  },
+  "the-hunt-for-red-october": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rJ90CBYzjebFVetNcJcPfbhtfK8.jpg",
+    "matchedTitle": "レッド・オクトーバーを追え！",
+    "tmdbId": 1669
+  },
+  "superman-ii": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8olCHRd5fOtdUBl79JNVYuZsFwT.jpg",
+    "matchedTitle": "スーパーマンII／冒険篇",
+    "tmdbId": 8536
+  },
+  "anohana-the-flower-we-saw-that-day-the-movie": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7MzDcMOOIZhuN8I6DFmPfOQgrwN.jpg",
+    "matchedTitle": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+    "tmdbId": 255413
+  },
+  "crayon-shin-chan-fierceness-that-invites-storm": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/beZGic7PCVEUW06Y9cOmhiQZZRj.jpg",
+    "matchedTitle": "クレヨンしんちゃん 嵐を呼ぶ栄光のヤキニクロード",
+    "tmdbId": 103124
+  },
+  "l-a-confidential": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wXi2hqRkVuV0cVxNtTd5mnk8Yfh.jpg",
+    "matchedTitle": "L.A.コンフィデンシャル",
+    "tmdbId": 2118
+  },
+  "scream-2": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wEFNzN98PjdMNZp7d6nR6DHwV0N.jpg",
+    "matchedTitle": "スクリーム2",
+    "tmdbId": 4233
+  },
+  "robocop": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tt2AYIGdBY7c7QS75SrjxkZC4wS.jpg",
+    "matchedTitle": "ロボコップ",
+    "tmdbId": 5548
+  },
+  "my-oni-girl": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3dt8zEEpE2HGO2GRVlGr3bT4wo3.jpg",
+    "matchedTitle": "好きでも嫌いなあまのじゃく",
+    "tmdbId": 1231574
+  },
+  "grave-of-the-fireflies": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/dYWdJ1DLPZwL93yraPgfC3dpUJc.jpg",
+    "matchedTitle": "火垂るの墓",
+    "tmdbId": 76826
+  },
+  "deep-blue-sea": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/VpTTsQmia3tqgxem0P5CFpCWsz.jpg",
+    "matchedTitle": "ディープ・ブルー",
+    "tmdbId": 8914
+  },
+  "the-hunchback-of-notre-dame": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xPhijIzgYiLWwPDGsxmXI5A5RP7.jpg",
+    "matchedTitle": "ノートルダムの鐘",
+    "tmdbId": 10545
+  },
+  "zombieland": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eNHyJcmwkvOMUIRfwBEdnjCVGNX.jpg",
+    "matchedTitle": "ゾンビランド",
+    "tmdbId": 19908
+  },
+  "bayonetta-bloody-fate": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rnuAQvQ1l6OkCUwRZxyzATe4r2Z.jpg",
+    "matchedTitle": "ベヨネッタ ブラッディフェイト",
+    "tmdbId": 242546
+  },
+  "space-adventure-cobra": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5oskY9udnwScZYzsOQ3Y4qZzevt.jpg",
+    "matchedTitle": "SPACE ADVENTURE コブラ",
+    "tmdbId": 81850
+  },
+  "goldeneye": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qZEjh0xRw2bRqYLxMOPwLeIVViM.jpg",
+    "matchedTitle": "007／ゴールデンアイ",
+    "tmdbId": 710
+  },
+  "gravity": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/sNCXdnxARkInt8F87moQruXeBKc.jpg",
+    "matchedTitle": "ゼロ・グラビティ",
+    "tmdbId": 49047
+  },
+  "godzilla-2000-millennium": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wlHr0MAMr6xfC628LKLaA9mWM6w.jpg",
+    "matchedTitle": "ゴジラ2000 ミレニアム",
+    "tmdbId": 10643
+  },
+  "lady-snowblood": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rj9cdZuEaaJnWT6ZXrP4VqZW3gI.jpg",
+    "matchedTitle": "修羅雪姫",
+    "tmdbId": 2487
+  },
+  "robin-hood-prince-of-thieves": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/l7jpAXPEUGEH3DQfmdstrubkgyP.jpg",
+    "matchedTitle": "ロビン・フッド",
+    "tmdbId": 8367
+  },
+  "succubus": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
+    "matchedTitle": "サキュバス",
+    "tmdbId": 1130276
+  },
+  "boogie-nights": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/q0b9TMVoKcoyrsE4bGKzPma2qMv.jpg",
+    "matchedTitle": "ブギーナイツ",
+    "tmdbId": 4995
+  },
+  "the-sword-of-doom": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bxmAk4Qf7yf7vMhuev1Vw4nxbLK.jpg",
+    "matchedTitle": "大菩薩峠",
+    "tmdbId": 19884
+  },
+  "godzilla-vs-hedorah": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/c7OdBLcx3Q7UrFty2lAWGMCEX6A.jpg",
+    "matchedTitle": "ゴジラ対ヘドラ",
+    "tmdbId": 39464
+  },
+  "the-deer-hunter": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uslhk1lQkRK8kQRZnLaHwHBv7sN.jpg",
+    "matchedTitle": "ディア・ハンター",
+    "tmdbId": 11778
+  },
+  "the-addams-family": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/cSDi5mGTdvSU0sm7yMf7FZTPsv7.jpg",
+    "matchedTitle": "アダムス・ファミリー",
+    "tmdbId": 2907
+  },
+  "mononoke-the-movie-chapter-ii-the-ashes-of-rage": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/22CIG8j31W0h2bx7Aswv2uOGnjr.jpg",
+    "matchedTitle": "劇場版モノノ怪 第二章 火鼠",
+    "tmdbId": 1322218
+  },
+  "unforgiven": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6675vjtwkIbQS9YDQ41XtSa4qTs.jpg",
+    "matchedTitle": "許されざる者",
+    "tmdbId": 33
+  },
+  "friday-the-13th": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mNxLilH3zy0Je2T1iLiAg5UJKD.jpg",
+    "matchedTitle": "13日の金曜日",
+    "tmdbId": 4488
+  },
+  "the-irregular-at-magic-high-school-the-girl-who": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rI1NY5faCTRFqlarLV6Pf0I6Dh2.jpg",
+    "matchedTitle": "劇場版 魔法科高校の劣等生 星を呼ぶ少女",
+    "tmdbId": 431821
+  },
+  "godzilla-vs-megalon": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bQ9VvHVkwRHyLV4yZwTqUxQ2rQR.jpg",
+    "matchedTitle": "ゴジラ対メガロ",
+    "tmdbId": 39264
+  },
+  "the-abyss": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/l1nVgiKIvK4fF35MAgaoNJa5OCb.jpg",
+    "matchedTitle": "アビス",
+    "tmdbId": 2756
+  },
+  "blue-velvet": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4Js6iIePIWWAScKixmXt7yW3PvU.jpg",
+    "matchedTitle": "ブルーベルベット",
+    "tmdbId": 793
+  },
+  "stand-and-deliver": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg",
+    "matchedTitle": "落ちこぼれの天使たち",
+    "tmdbId": 29154
+  },
+  "crows-explode": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/sVgUMpD62gO4LK1rED2ZVZCO1RD.jpg",
+    "matchedTitle": "クローズ EXPLODE",
+    "tmdbId": 253451
+  },
+  "tokyo-ghoul": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/nmTztGsJIToPkdWbvTgQ4EY6SrR.jpg",
+    "matchedTitle": "東京喰種 トーキョーグール",
+    "tmdbId": 433945
+  },
+  "dr-no": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eP16odPF2RAoohW0KVkla4KC7ms.jpg",
+    "matchedTitle": "007／ドクター・ノオ",
+    "tmdbId": 646
+  },
+  "thelma-louise": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/iF4sJ3Nmfot0H9V4pZNQYRhyEFb.jpg",
+    "matchedTitle": "テルマ&ルイーズ",
+    "tmdbId": 1541
+  },
+  "the-texas-chain-saw-massacre": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gcGxWfOGY3TTzL7TJfVWrnCBfFo.jpg",
+    "matchedTitle": "悪魔のいけにえ",
+    "tmdbId": 30497
   }
 }

@@ -8251,5 +8251,239 @@
     "id": "toei-video-company",
     "name": "東映ビデオ",
     "nameKana": "とうえいびでお"
+  },
+  {
+    "id": "alive-films",
+    "name": "アライヴ・フィルムズ",
+    "nameKana": "アライヴフィルムズ",
+    "description": "映画製作会社。『ゼイリブ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alive Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "larry-franco-productions",
+    "name": "ラリー・フランコ・プロダクションズ",
+    "nameKana": "ラリーフランコプロダクションズ",
+    "description": "映画製作会社。『ゼイリブ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Larry Franco Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mace-neufeld-jerry-sherlock-productions",
+    "name": "メイス・ニューフェルド・プロダクションズ",
+    "nameKana": "メイスニューフェルドプロダクションズ",
+    "description": "映画製作会社。『レッド・オクトーバーを追え！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mace Neufeld/Jerry Sherlock Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dovemead-films",
+    "name": "ダヴミード・フィルムズ",
+    "nameKana": "ダヴミードフィルムズ",
+    "description": "映画製作会社。『スーパーマンII／冒険篇』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dovemead Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alexander-and-ilya-salkind-productions",
+    "name": "サルキンド・プロダクションズ",
+    "nameKana": "サルキンドプロダクションズ",
+    "description": "映画製作会社。『スーパーマンII／冒険篇』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alexander and Ilya Salkind Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wolper-organization",
+    "name": "ウォルパー・オーガニゼーション",
+    "nameKana": "ウォルパーオーガニゼーション",
+    "description": "映画製作会社。『L.A.コンフィデンシャル』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wolper Organization。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "orion-pictures",
+    "name": "オライオン・ピクチャーズ",
+    "nameKana": "オライオンピクチャーズ",
+    "description": "映画製作会社。『ロボコップ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Orion Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jon-davison-productions",
+    "name": "ジョン・デイヴィソン・プロダクションズ",
+    "nameKana": "ジョンデイヴィソンプロダクションズ",
+    "description": "映画製作会社。『ロボコップ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jon Davison Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "riche-ludwig-productions",
+    "name": "リッチ・ラドウィグ・プロダクションズ",
+    "nameKana": "リッチラドウィグプロダクションズ",
+    "description": "映画製作会社。『ディープ・ブルー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Riche-Ludwig Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gonzo",
+    "name": "ゴンゾ",
+    "nameKana": "ごんぞ",
+    "description": "映画製作会社。『ベヨネッタ ブラッディフェイト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: GONZO。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tokyo-eiga",
+    "name": "東京映画",
+    "nameKana": "とうきょうえいが",
+    "description": "映画製作会社。『修羅雪姫』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tokyo Eiga。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bondit-media-capital",
+    "name": "ボンディット・メディア・キャピタル",
+    "nameKana": "ボンディットメディアキャピタル",
+    "description": "映画製作会社。『サキュバス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: BondIt Media Capital。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "buffalo-8-productions",
+    "name": "バッファロー8プロダクションズ",
+    "nameKana": "ろづちおんぶっふぁろ",
+    "description": "映画製作会社。『サキュバス』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Buffalo 8 Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takarazuka-eiga-company-ltd",
+    "name": "宝塚映画",
+    "nameKana": "たからづかえいが",
+    "description": "映画製作会社。『大菩薩峠』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takarazuka Eiga Company Ltd.。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "emi-films",
+    "name": "EMIフィルムズ",
+    "nameKana": "ふぃえみ",
+    "description": "映画製作会社。『ディア・ハンター』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: EMI Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "crew-cell",
+    "name": "クルーセル",
+    "nameKana": "くるーせる",
+    "description": "映画製作会社。『劇場版モノノ怪 第二章 火鼠』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Crew-cell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sean-s-cunningham-films",
+    "name": "ショーン・S・カニンガム・フィルムズ",
+    "nameKana": "ふぃうんいんはせあん",
+    "description": "映画製作会社。『13日の金曜日』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sean S. Cunningham Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "georgetown-productions",
+    "name": "ジョージタウン・プロダクションズ",
+    "nameKana": "ジョージタウンプロダクションズ",
+    "description": "映画製作会社。『13日の金曜日』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Georgetown Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "deg",
+    "name": "DEG",
+    "nameKana": "でぃーいーじー",
+    "description": "映画製作会社。『ブルーベルベット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "american-playhouse",
+    "name": "アメリカン・プレイハウス",
+    "nameKana": "アメリカンプレイハウス",
+    "description": "映画製作会社。『落ちこぼれの天使たち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: American Playhouse。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "olmos-productions",
+    "name": "オルモス・プロダクションズ",
+    "nameKana": "オルモスプロダクションズ",
+    "description": "映画製作会社。『落ちこぼれの天使たち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Olmos Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tristone-entertainment",
+    "name": "トライストーン・エンタテイメント",
+    "nameKana": "とらいすとーんえんためんと",
+    "description": "映画製作会社。『クローズ EXPLODE』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tristone Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "geek-sight",
+    "name": "ギーク・サイト",
+    "nameKana": "ギークサイト",
+    "description": "映画製作会社。『東京喰種 トーキョーグール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Geek Sight。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mgm-pathe-communications",
+    "name": "MGMパテ・コミュニケーションズ",
+    "nameKana": "おっむにあちおんぱ",
+    "description": "映画製作会社。『テルマ&ルイーズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: MGM-Pathé Communications。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vortex",
+    "name": "ヴォーテックス",
+    "nameKana": "ヴォーテックス",
+    "description": "映画製作会社。『悪魔のいけにえ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vortex。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henkel-productions",
+    "name": "ヘンケル・プロダクションズ",
+    "nameKana": "ヘンケルプロダクションズ",
+    "description": "映画製作会社。『悪魔のいけにえ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Henkel Productions。",
+    "updatedAt": "2026-08-09"
   }
 ]
