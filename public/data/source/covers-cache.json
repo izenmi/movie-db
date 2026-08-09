@@ -4773,5 +4773,15 @@
     "coverUrl": "https://image.tmdb.org/t/p/w500/rs2HpWmfizVb6enCM7qWneMBsKE.jpg",
     "matchedTitle": "長ぐつをはいたネコ",
     "tmdbId": 417859
+  },
+  "cocaine-bear": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qhPFhh9q23TM08x3qrxWvlo3QHK.jpg",
+    "matchedTitle": "コカイン・ベア",
+    "tmdbId": 804150
+  },
+  "cold-fish": {
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8jzXKuuSMNYU0jSakJkdkzQcZbL.jpg",
+    "matchedTitle": "冷たい熱帯魚",
+    "tmdbId": 68341
   }
 }

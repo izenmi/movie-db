@@ -47027,5 +47027,105 @@
     "updatedAt": "2026-08-09",
     "originalTitle": "Puss in Boots",
     "seriesId": "shrek"
+  },
+  {
+    "id": "cocaine-bear",
+    "title": "コカイン・ベア",
+    "titleKana": "こかいんべあ",
+    "directorIds": [
+      "elizabeth-banks"
+    ],
+    "screenwriterIds": [
+      "jimmy-warden"
+    ],
+    "studioIds": [
+      "universal",
+      "brownstone-productions"
+    ],
+    "cast": [
+      {
+        "actorId": "keri-russell",
+        "character": "サリ"
+      },
+      {
+        "actorId": "alden-ehrenreich",
+        "character": "エディ"
+      },
+      {
+        "actorId": "oshea-jackson-jr",
+        "character": "ダヴィード"
+      }
+    ],
+    "themeIds": [
+      "suspense",
+      "comedy",
+      "crime",
+      "animal",
+      "true-story"
+    ],
+    "region": "overseas",
+    "medium": "liveaction",
+    "release": {
+      "year": 2023,
+      "month": 9
+    },
+    "runtime": 95,
+    "originalType": "other",
+    "synopsis": "密輸業者が空から投棄した大量の麻薬が、ジョージア州の森に落ちる。それを摂取した巨大なクマが凶暴化し、居合わせた警官や観光客、子どもたちを次々に襲いはじめる。実際にあった出来事に大幅な脚色を加え、悪趣味な笑いとして描き切った一作。荒唐無稽な題材を勢いだけで押し切り、話題作として受け入れられた。実在の出来事を大きく脚色している。",
+    "tmdbId": 804150,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09",
+    "originalTitle": "Cocaine Bear"
+  },
+  {
+    "id": "cold-fish",
+    "title": "冷たい熱帯魚",
+    "titleKana": "つめたいねったいぎょ",
+    "directorIds": [
+      "sion-sono"
+    ],
+    "screenwriterIds": [
+      "yoshiki-takahashi"
+    ],
+    "studioIds": [
+      "nikkatsu-corporation",
+      "stairway"
+    ],
+    "cast": [
+      {
+        "actorId": "mitsuru-fukikoshi",
+        "character": "社本信行"
+      },
+      {
+        "actorId": "denden",
+        "character": "村田幸雄"
+      },
+      {
+        "actorId": "asuka-kurosawa",
+        "character": "村田愛子"
+      }
+    ],
+    "themeIds": [
+      "human-drama",
+      "suspense",
+      "crime",
+      "horror",
+      "serial-killer",
+      "true-story"
+    ],
+    "region": "japan",
+    "medium": "liveaction",
+    "release": {
+      "year": 2011,
+      "month": 1
+    },
+    "runtime": 146,
+    "originalType": "other",
+    "synopsis": "小さな熱帯魚店を営む社本は、娘の万引きをきっかけに同業の村田と関わりを持つ。人当たりのよい村田は、実際には人を殺しては証拠を消す手口を繰り返す男だった。逃げられないまま加担させられていく社本の内側が、少しずつ壊れていく。実際の事件に着想を得た作品。実際の事件を下敷きに、平凡な男が壊れていく過程を執拗に描く。",
+    "tmdbId": 68341,
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
