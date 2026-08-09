@@ -6320,5 +6320,266 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Le Studio Canal+。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "laurence-mark-productions",
+    "name": "ローレンス・マーク・プロダクションズ",
+    "nameKana": "ローレンスマークプロダクションズ",
+    "description": "映画製作会社。『アイ，ロボット』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Laurence Mark Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ark-film",
+    "name": "アークフィルム",
+    "nameKana": "アークフィルム",
+    "description": "映画製作会社。『溺れるナイフ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: ARK-Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "abe-shuji",
+    "name": "阿部秀司事務所",
+    "nameKana": "あべしゅうじじむしょ",
+    "description": "映画製作会社。『SPACE BATTLESHIP ヤマト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Abe Shuji。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cbc",
+    "name": "CBCテレビ",
+    "nameKana": "しーびーしーてれび",
+    "description": "映画製作会社。『SPACE BATTLESHIP ヤマト』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: CBC。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "code-entertainment",
+    "name": "コード・エンターテインメント",
+    "nameKana": "コードエンターテインメント",
+    "description": "映画製作会社。『アイス･ロード：リベンジ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Code Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shivhans-pictures",
+    "name": "シヴハンス・ピクチャーズ",
+    "nameKana": "シヴハンスピクチャーズ",
+    "description": "映画製作会社。『アイス･ロード：リベンジ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shivhans Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tyler-perry-studios",
+    "name": "タイラー・ペリー・スタジオ",
+    "nameKana": "タイラーペリースタジオ",
+    "description": "映画製作会社。『ストロー: 絶望の淵で』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tyler Perry Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "star-sands",
+    "name": "スターサンズ",
+    "nameKana": "スターサンズ",
+    "description": "映画製作会社。『ヤクザと家族 The Family』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: STAR SANDS。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nimar-studios",
+    "name": "ニマー・スタジオ",
+    "nameKana": "ニマースタジオ",
+    "description": "映画製作会社。『エクスペンダブルズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nimar Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rogue-marble",
+    "name": "ローグ・マーブル",
+    "nameKana": "ローグマーブル",
+    "description": "映画製作会社。『エクスペンダブルズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rogue Marble。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "big-west",
+    "name": "ビックウエスト",
+    "nameKana": "ビックウエスト",
+    "description": "映画製作会社。『超時空要塞マクロス 愛・おぼえていますか』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Big West。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sotsu",
+    "name": "創通",
+    "nameKana": "そうつう",
+    "description": "映画製作会社。『機動戦士Ζガンダム A New Translation 星を継ぐ者』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sotsu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "spring-creek-pictures",
+    "name": "スプリング・クリーク・ピクチャーズ",
+    "nameKana": "スプリングクリークピクチャーズ",
+    "description": "映画製作会社。『ブラッド・ダイヤモンド』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Spring Creek Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-brown-productions",
+    "name": "デヴィッド・ブラウン・プロダクションズ",
+    "nameKana": "デヴィッドブラウンプロダクションズ",
+    "description": "映画製作会社。『ア・フュー・グッドメン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Brown Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "strike-entertainment",
+    "name": "ストライク・エンターテインメント",
+    "nameKana": "ストライクエンターテインメント",
+    "description": "映画製作会社。『TIME／タイム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Strike Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amusement-park-films",
+    "name": "アミューズメント・パーク・フィルムズ",
+    "nameKana": "アミューズメントパークフィルムズ",
+    "description": "映画製作会社。『西部戦線異状なし』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amusement Park Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "gunpowder-films",
+    "name": "ガンパウダー・フィルムズ",
+    "nameKana": "ガンパウダーフィルムズ",
+    "description": "映画製作会社。『西部戦線異状なし』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Gunpowder Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "licri",
+    "name": "リクリ",
+    "nameKana": "リクリ",
+    "description": "映画製作会社。『渇き。』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Licri。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lakeshore-entertainment",
+    "name": "レイクショア・エンターテインメント",
+    "nameKana": "レイクショアエンターテインメント",
+    "description": "映画製作会社。『男と女の不都合な真実』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lakeshore Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "new-century-producers",
+    "name": "ニュー・センチュリー・プロデューサーズ",
+    "nameKana": "ニューセンチュリープロデューサーズ",
+    "description": "映画製作会社。『タンポポ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: New Century Producers。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "itami-productions",
+    "name": "伊丹プロダクション",
+    "nameKana": "いたみぷろだくしょん",
+    "description": "映画製作会社。『タンポポ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Itami Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "free-as-a-bird",
+    "name": "フリー・アズ・ア・バード",
+    "nameKana": "フリーアズアバード",
+    "description": "映画製作会社。『LUPIN THE IIIRD 血煙の石川五ェ門』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Free As A Bird。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "stxfilms",
+    "name": "STXフィルムズ",
+    "nameKana": "えすてぃーえっくすふぃるむず",
+    "description": "映画製作会社。『コヴェナント／約束の救出』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: STXfilms。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-mark-gordon-company",
+    "name": "マーク・ゴードン・カンパニー",
+    "nameKana": "マークゴードンカンパニー",
+    "description": "映画製作会社。『ミッション：8ミニッツ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Mark Gordon Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "littlestar",
+    "name": "リトルスター",
+    "nameKana": "リトルスター",
+    "description": "映画製作会社。『マンマ・ミーア！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Littlestar。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "playtone",
+    "name": "プレイトーン",
+    "nameKana": "プレイトーン",
+    "description": "映画製作会社。『マンマ・ミーア！』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Playtone。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "les-films-alain-sarde",
+    "name": "レ・フィルム・アラン・サルド",
+    "nameKana": "レフィルムアランサルド",
+    "description": "映画製作会社。『マルホランド・ドライブ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Les Films Alain Sarde。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sky-perfect-well-think",
+    "name": "スカパー・ウェルシンク",
+    "nameKana": "スカパーウェルシンク",
+    "description": "映画製作会社。『河童のクゥと夏休み』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: SKY Perfect Well Think。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sony-music-entertainment-japan",
+    "name": "ソニー・ミュージックエンタテインメント",
+    "nameKana": "ソニーミュージックエンタテインメント",
+    "description": "映画製作会社。『河童のクゥと夏休み』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sony Music Entertainment (Japan)。",
+    "updatedAt": "2026-08-09"
   }
 ]

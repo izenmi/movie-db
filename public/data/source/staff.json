@@ -11914,5 +11914,374 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joe Eszterhas。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alex-proyas",
+    "name": "アレックス・プロヤス",
+    "nameKana": "アレックスプロヤス",
+    "description": "映画監督。『アイ，ロボット』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alex Proyas。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeff-vintar",
+    "name": "ジェフ・ヴィンター",
+    "nameKana": "ジェフヴィンター",
+    "description": "脚本家。『アイ，ロボット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeff Vintar。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuki-yamato",
+    "name": "山戸結希",
+    "nameKana": "やまとゆき",
+    "description": "映画監督・脚本家。『溺れるナイフ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuki Yamato。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kishu-izuchi",
+    "name": "井土紀州",
+    "nameKana": "いづちきしゅう",
+    "description": "脚本家。『溺れるナイフ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kishū Izuchi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shimako-sato",
+    "name": "佐藤嗣麻子",
+    "nameKana": "さとうしまこ",
+    "description": "脚本家。『SPACE BATTLESHIP ヤマト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shimako Sato。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tyler-perry",
+    "name": "タイラー・ペリー",
+    "nameKana": "タイラーペリー",
+    "description": "映画監督・脚本家。『ストロー: 絶望の淵で』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tyler Perry。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aya-matsui",
+    "name": "松井亜弥",
+    "nameKana": "まついあや",
+    "description": "脚本家。『ドラゴンボール 最強への道』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aya Matsui。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "craig-titley",
+    "name": "クレイグ・タイトリー",
+    "nameKana": "クレイグタイトリー",
+    "description": "脚本家。『パーシー・ジャクソンとオリンポスの神々』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Craig Titley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steve-bencich",
+    "name": "スティーヴ・ベンシック",
+    "nameKana": "スティーヴベンシック",
+    "description": "脚本家。『チキン・リトル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Steve Bencich。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ron-anderson",
+    "name": "ロン・アンダーソン",
+    "nameKana": "ロンアンダーソン",
+    "description": "脚本家。『チキン・リトル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ron Anderson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shoji-kawamori",
+    "name": "河森正治",
+    "nameKana": "かわもりしょうじ",
+    "description": "映画監督。『超時空要塞マクロス 愛・おぼえていますか』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shoji Kawamori。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "noboru-ishiguro",
+    "name": "石黒昇",
+    "nameKana": "いしぐろのぼる",
+    "description": "映画監督。『超時空要塞マクロス 愛・おぼえていますか』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Noboru Ishiguro。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "sukehiro-tomita",
+    "name": "富田祐弘",
+    "nameKana": "とみたすけひろ",
+    "description": "脚本家。『超時空要塞マクロス 愛・おぼえていますか』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Sukehiro Tomita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "edward-zwick",
+    "name": "エドワード・ズウィック",
+    "nameKana": "エドワードズウィック",
+    "description": "映画監督。『ブラッド・ダイヤモンド』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Edward Zwick。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "charles-leavitt",
+    "name": "チャールズ・リーヴィット",
+    "nameKana": "チャールズリーヴィット",
+    "description": "脚本家。『ブラッド・ダイヤモンド』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Charles Leavitt。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "aaron-sorkin",
+    "name": "アーロン・ソーキン",
+    "nameKana": "アーロンソーキン",
+    "description": "脚本家。『ア・フュー・グッドメン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Aaron Sorkin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neil-jordan",
+    "name": "ニール・ジョーダン",
+    "nameKana": "ニールジョーダン",
+    "description": "映画監督。『インタビュー・ウィズ・ヴァンパイア』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neil Jordan。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "anne-rice",
+    "name": "アン・ライス",
+    "nameKana": "アンライス",
+    "description": "脚本家。『インタビュー・ウィズ・ヴァンパイア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Anne Rice。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "chihiro-ito",
+    "name": "伊藤ちひろ",
+    "nameKana": "いとうちひろ",
+    "description": "脚本家。『スカイ・クロラ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Chihiro Ito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "clint-eastwood",
+    "name": "クリント・イーストウッド",
+    "nameKana": "クリントイーストウッド",
+    "description": "映画監督。『アメリカン・スナイパー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Clint Eastwood。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lesley-paterson",
+    "name": "レスリー・パターソン",
+    "nameKana": "レスリーパターソン",
+    "description": "脚本家。『西部戦線異状なし』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lesley Paterson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ian-stokell",
+    "name": "イアン・ストーケル",
+    "nameKana": "イアンストーケル",
+    "description": "脚本家。『西部戦線異状なし』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ian Stokell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mamoru-hatakeyama",
+    "name": "畠山守",
+    "nameKana": "はたけやままもる",
+    "description": "映画監督。『かぐや様は告らせたい-ファーストキッスは終わらない-』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Mamoru Hatakeyama。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yasuhiro-nakanishi",
+    "name": "中西やすひろ",
+    "nameKana": "なかにしやすひろ",
+    "description": "脚本家。『かぐや様は告らせたい-ファーストキッスは終わらない-』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yasuhiro Nakanishi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "miako-tadano",
+    "name": "但野未彩子",
+    "nameKana": "ただのみあこ",
+    "description": "脚本家。『渇き。』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Miako Tadano。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "robert-luketic",
+    "name": "ロバート・ルケティック",
+    "nameKana": "ロバートルケティック",
+    "description": "映画監督。『男と女の不都合な真実』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Robert Luketic。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "karen-mccullah",
+    "name": "カレン・マッカラ",
+    "nameKana": "カレンマッカラ",
+    "description": "脚本家。『男と女の不都合な真実』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Karen McCullah。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nicole-eastman",
+    "name": "ニコール・イーストマン",
+    "nameKana": "ニコールイーストマン",
+    "description": "脚本家。『男と女の不都合な真実』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nicole Eastman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "juzo-itami",
+    "name": "伊丹十三",
+    "nameKana": "いたみじゅうぞう",
+    "description": "映画監督・脚本家。『タンポポ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jūzō Itami。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuya-takahashi",
+    "name": "高橋悠也",
+    "nameKana": "たかはしゆうや",
+    "description": "脚本家。『LUPIN THE IIIRD 血煙の石川五ェ門』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuya Takahashi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kengo-kaji",
+    "name": "鍛冶谷健吾",
+    "nameKana": "かじやけんご",
+    "description": "脚本家。『アイアンマン：ライズ・オブ・テクノヴォア』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kengo Kaji。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shinji-takamatsu",
+    "name": "高松信司",
+    "nameKana": "たかまつしんじ",
+    "description": "映画監督。『劇場版 銀魂 新訳紅桜篇』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shinji Takamatsu。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "duncan-jones",
+    "name": "ダンカン・ジョーンズ",
+    "nameKana": "ダンカンジョーンズ",
+    "description": "映画監督。『ミッション：8ミニッツ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Duncan Jones。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ben-ripley",
+    "name": "ベン・リプリー",
+    "nameKana": "ベンリプリー",
+    "description": "脚本家。『ミッション：8ミニッツ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ben Ripley。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "phyllida-lloyd",
+    "name": "フィリダ・ロイド",
+    "nameKana": "フィリダロイド",
+    "description": "映画監督。『マンマ・ミーア！』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Phyllida Lloyd。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "catherine-johnson",
+    "name": "キャサリン・ジョンソン",
+    "nameKana": "キャサリンジョンソン",
+    "description": "脚本家。『マンマ・ミーア！』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Catherine Johnson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "glenn-ficarra",
+    "name": "グレン・フィカーラ",
+    "nameKana": "グレンフィカーラ",
+    "description": "映画監督。『ラブ・アゲイン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Glenn Ficarra。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-requa",
+    "name": "ジョン・レクア",
+    "nameKana": "ジョンレクア",
+    "description": "映画監督。『ラブ・アゲイン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Requa。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "don-rhymer",
+    "name": "ドン・ライマー",
+    "nameKana": "ドンライマー",
+    "description": "脚本家。『ブルー 初めての空へ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Don Rhymer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "joshua-sternin",
+    "name": "ジョシュア・スターニン",
+    "nameKana": "ジョシュアスターニン",
+    "description": "脚本家。『ブルー 初めての空へ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Joshua Sternin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "david-lynch",
+    "name": "デヴィッド・リンチ",
+    "nameKana": "デヴィッドリンチ",
+    "description": "映画監督・脚本家。『マルホランド・ドライブ』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: David Lynch。",
+    "updatedAt": "2026-08-09"
   }
 ]

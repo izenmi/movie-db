@@ -1181,5 +1181,32 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "macross",
+    "name": "「マクロス」劇場版シリーズ",
+    "nameKana": "まくろすげきじょうばんしりーず",
+    "description": "可変戦闘機と歌を軸にしたロボットアニメの劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "expendables",
+    "name": "「エクスペンダブルズ」シリーズ",
+    "nameKana": "えくすぺんだぶるずしりーず",
+    "description": "往年のアクション俳優が集結する傭兵部隊を描く映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "percy-jackson",
+    "name": "「パーシー・ジャクソン」シリーズ",
+    "nameKana": "ぱーしーじゃくそんしりーず",
+    "description": "ギリシャ神話の神々の血を引く少年の冒険を描く映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
