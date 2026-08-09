@@ -14137,5 +14137,419 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Koichi Sakamoto。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dan-hernandez",
+    "name": "ダン・ヘルナンデス",
+    "nameKana": "ダンヘルナンデス",
+    "description": "脚本家。『名探偵ピカチュウ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Dan Hernandez。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "benji-samit",
+    "name": "ベンジー・サミット",
+    "nameKana": "ベンジーサミット",
+    "description": "脚本家。『名探偵ピカチュウ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Benji Samit。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takeshi-kimura",
+    "name": "木村武",
+    "nameKana": "きむらたけし",
+    "description": "脚本家。『フランケンシュタイン対地底怪獣』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takeshi Kimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yuji-muto",
+    "name": "ムトウユージ",
+    "nameKana": "むとうゆーじ",
+    "description": "映画監督。『クレヨンしんちゃん 伝説を呼ぶ 踊れ！アミーゴ！』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yuji Muto。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hugh-wilson",
+    "name": "ヒュー・ウィルソン",
+    "nameKana": "ヒューウィルソン",
+    "description": "映画監督・脚本家。『ポリスアカデミー』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hugh Wilson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neal-israel",
+    "name": "ニール・イスラエル",
+    "nameKana": "ニールイスラエル",
+    "description": "脚本家。『ポリスアカデミー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neal Israel。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "john-woo",
+    "name": "ジョン・ウー",
+    "nameKana": "ジョンウー",
+    "description": "映画監督。『フェイス／オフ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: John Woo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-colleary",
+    "name": "マイケル・コレアリー",
+    "nameKana": "マイケルコレアリー",
+    "description": "脚本家。『フェイス／オフ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Colleary。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-barrie",
+    "name": "マイケル・バリー",
+    "nameKana": "マイケルバリー",
+    "description": "脚本家。『バッドボーイズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Barrie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jim-mulholland",
+    "name": "ジム・マルホランド",
+    "nameKana": "ジムマルホランド",
+    "description": "脚本家。『バッドボーイズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jim Mulholland。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jun-fukuda",
+    "name": "福田純",
+    "nameKana": "ふくだじゅん",
+    "description": "映画監督。『ゴジラ・エビラ・モスラ　南海の大決闘』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jun Fukuda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "takahiro-imamura",
+    "name": "今村隆寛",
+    "nameKana": "いまむらたかひろ",
+    "description": "映画監督。『ワンピース エピソード オブ アラバスタ 砂漠の王女と海賊たち』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Takahiro Imamura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jonathan-entwistle",
+    "name": "ジョナサン・エントウィッスル",
+    "nameKana": "ジョナサンエントウィッスル",
+    "description": "映画監督。『ベスト・キッド：レジェンズ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jonathan Entwistle。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rob-lieber",
+    "name": "ロブ・リーバー",
+    "nameKana": "ロブリーバー",
+    "description": "脚本家。『ベスト・キッド：レジェンズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Rob Lieber。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "andy-fickman",
+    "name": "アンディ・フィックマン",
+    "nameKana": "アンディフィックマン",
+    "description": "映画監督。『アメリカン・ピーチパイ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Andy Fickman。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ewan-leslie",
+    "name": "ユアン・レスリー",
+    "nameKana": "ユアンレスリー",
+    "description": "脚本家。『アメリカン・ピーチパイ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ewan Leslie。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harumi-doki",
+    "name": "土城温美",
+    "nameKana": "どきはるみ",
+    "description": "脚本家。『カラダ探し』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harumi Doki。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "t-s-nowlin",
+    "name": "T・S・ノーリン",
+    "nameKana": "のりん",
+    "description": "脚本家。『メイズ・ランナー 最期の迷宮』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: T.S. Nowlin。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "henry-gayden",
+    "name": "ヘンリー・ゲイデン",
+    "nameKana": "ヘンリーゲイデン",
+    "description": "脚本家。『シャザム！』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Henry Gayden。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shigeo-koshi",
+    "name": "腰繁男",
+    "nameKana": "こししげお",
+    "description": "映画監督。『映画ドラえもん 新・のび太の宇宙開拓史』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shigeo Koshi。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "baz-luhrmann",
+    "name": "バズ・ラーマン",
+    "nameKana": "バズラーマン",
+    "description": "映画監督・脚本家。『ロミオ+ジュリエット』などの監督・脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Baz Luhrmann。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "craig-pearce",
+    "name": "クレイグ・ピアース",
+    "nameKana": "クレイグピアース",
+    "description": "脚本家。『ロミオ+ジュリエット』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Craig Pearce。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "paul-w-s-anderson",
+    "name": "ポール・W・S・アンダーソン",
+    "nameKana": "あんでそんぱう",
+    "description": "映画監督。『イベント・ホライゾン』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Paul W. S. Anderson。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "philip-eisner",
+    "name": "フィリップ・アイズナー",
+    "nameKana": "フィリップアイズナー",
+    "description": "脚本家。『イベント・ホライゾン』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Philip Eisner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "masaaki-tezuka",
+    "name": "手塚昌明",
+    "nameKana": "てづかまさあき",
+    "description": "映画監督。『ゴジラ×メカゴジラ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Masaaki Tezuka。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "kevin-costner",
+    "name": "ケビン・コスナー",
+    "nameKana": "ケビンコスナー",
+    "description": "映画監督。『ダンス・ウィズ・ウルブズ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Kevin Costner。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "michael-blake",
+    "name": "マイケル・ブレイク",
+    "nameKana": "マイケルブレイク",
+    "description": "脚本家。『ダンス・ウィズ・ウルブズ』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Michael Blake。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "james-v-hart",
+    "name": "ジェームズ・V・ハート",
+    "nameKana": "はじゃめ",
+    "description": "脚本家。『コンタクト』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: James V. Hart。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "neil-burger",
+    "name": "ニール・バーガー",
+    "nameKana": "ニールバーガー",
+    "description": "映画監督。『ダイバージェント』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Neil Burger。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vanessa-taylor",
+    "name": "ヴァネッサ・テイラー",
+    "nameKana": "ヴァネッサテイラー",
+    "description": "脚本家。『ダイバージェント』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vanessa Taylor。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shim-sung-bo",
+    "name": "シム・ソンボ",
+    "nameKana": "シムソンボ",
+    "description": "脚本家。『殺人の追憶』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shim Sung-bo。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshimitsu-morita",
+    "name": "森田芳光",
+    "nameKana": "もりたよしみつ",
+    "description": "映画監督。『失楽園』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshimitsu Morita。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tomomi-tsutsui",
+    "name": "筒井ともみ",
+    "nameKana": "つついともみ",
+    "description": "脚本家。『失楽園』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Tomomi Tsutsui。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "harry-bradbeer",
+    "name": "ハリー・ブラッドビア",
+    "nameKana": "ハリーブラッドビア",
+    "description": "映画監督。『エノーラ・ホームズの事件簿』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Harry Bradbeer。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jack-thorne",
+    "name": "ジャック・ソーン",
+    "nameKana": "ジャックソーン",
+    "description": "脚本家。『エノーラ・ホームズの事件簿』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jack Thorne。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bradley-raymond",
+    "name": "ブラッドリー・レイモンド",
+    "nameKana": "ブラッドリーレイモンド",
+    "description": "映画監督。『ティンカー・ベル』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bradley Raymond。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "jeffrey-m-howard",
+    "name": "ジェフリー・M・ハワード",
+    "nameKana": "ほわじぇっれ",
+    "description": "脚本家。『ティンカー・ベル』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Jeffrey M. Howard。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshiyuki-momose",
+    "name": "百瀬義行",
+    "nameKana": "ももせよしゆき",
+    "description": "映画監督。『屋根裏のラジャー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshiyuki Momose。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "yoshiaki-nishimura",
+    "name": "西村義明",
+    "nameKana": "にしむらよしあき",
+    "description": "脚本家。『屋根裏のラジャー』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Yoshiaki Nishimura。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "simon-west",
+    "name": "サイモン・ウェスト",
+    "nameKana": "サイモンウェスト",
+    "description": "映画監督。『コン・エアー』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Simon West。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "roger-michell",
+    "name": "ロジャー・ミッシェル",
+    "nameKana": "ロジャーミッシェル",
+    "description": "映画監督。『ノッティングヒルの恋人』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Roger Michell。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "billy-ray",
+    "name": "ビリー・レイ",
+    "nameKana": "ビリーレイ",
+    "description": "脚本家。『ハンガー・ゲーム』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Billy Ray。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "eisuke-naito",
+    "name": "内藤瑛亮",
+    "nameKana": "ないとうえいすけ",
+    "description": "映画監督。『ミスミソウ』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Eisuke Naito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shunya-ito",
+    "name": "伊藤俊也",
+    "nameKana": "いとうしゅんや",
+    "description": "映画監督。『女囚701号さそり』などを監督した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Shunya Ito。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "hiro-matsuda",
+    "name": "松田寛夫",
+    "nameKana": "まつだひろお",
+    "description": "脚本家。『女囚701号さそり』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Hirō Matsuda。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "fumio-konami",
+    "name": "神波史男",
+    "nameKana": "こうなみふみお",
+    "description": "脚本家。『女囚701号さそり』などの脚本を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Fumio Kōnami。",
+    "updatedAt": "2026-08-09"
   }
 ]
