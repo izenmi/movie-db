@@ -812,5 +812,41 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "madoka-magica",
+    "name": "「魔法少女まどか☆マギカ」劇場版シリーズ",
+    "nameKana": "まほうしょうじょまどかまぎかげきじょうばんしりーず",
+    "description": "虚淵玄が脚本を手がけた魔法少女アニメの劇場版シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "steins-gate",
+    "name": "「STEINS;GATE」映像作品",
+    "nameKana": "しゅたいんずげーとえいぞうさくひん",
+    "description": "タイムリープを題材にしたゲームを原作とするアニメ映像作品群。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "rambo",
+    "name": "「ランボー」シリーズ",
+    "nameKana": "らんぼーしりーず",
+    "description": "帰還兵ジョン・ランボーの戦いを描くアクション映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "godzilla-anime",
+    "name": "「GODZILLA」アニメ三部作",
+    "nameKana": "ごじらあにめさんぶさく",
+    "description": "ポリゴン・ピクチュアズ制作によるフルCGのゴジラ映画三部作。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]
