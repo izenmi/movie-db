@@ -371,5 +371,68 @@
     "externalLinks": {},
     "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pirates-of-the-caribbean",
+    "name": "「パイレーツ・オブ・カリビアン」シリーズ",
+    "nameKana": "ぱいれーつおぶかりびあんしりーず",
+    "description": "ディズニーのアトラクションを原案とする海賊活劇の映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "maze-runner",
+    "name": "「メイズ・ランナー」シリーズ",
+    "nameKana": "めいずらんなーしりーず",
+    "description": "記憶を奪われた若者たちが巨大迷路と組織に抗うディストピアSF映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alien",
+    "name": "「エイリアン」シリーズ",
+    "nameKana": "えいりあんしりーず",
+    "description": "寄生して成長する異星生物と人類の戦いを描くSFホラー映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "mummy",
+    "name": "「ハムナプトラ」シリーズ",
+    "nameKana": "はむなぷとらしりーず",
+    "description": "古代エジプトの呪いをめぐる冒険活劇シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "shrek",
+    "name": "「シュレック」シリーズ",
+    "nameKana": "しゅれっくしりーず",
+    "description": "おとぎ話の常識をひっくり返すドリームワークスの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "frozen",
+    "name": "「アナと雪の女王」シリーズ",
+    "nameKana": "あなとゆきのじょおうしりーず",
+    "description": "氷の力を持つ姉エルサと妹アナを描くディズニーの長編アニメシリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "culpa",
+    "name": "「Culpa」三部作",
+    "nameKana": "くるぱさんぶさく",
+    "description": "義理の兄妹となった二人の恋を描くスペインの映画シリーズ。",
+    "externalLinks": {},
+    "sourceNote": "Wikipedia日本語版で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
   }
 ]

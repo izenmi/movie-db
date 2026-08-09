@@ -1442,5 +1442,293 @@
     "externalLinks": {},
     "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Omega Project。",
     "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "juno-pix",
+    "name": "ジュノ・ピックス",
+    "nameKana": "ジュノピックス",
+    "description": "映画製作会社。『セブン』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Juno Pix。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wit-studio",
+    "name": "WIT STUDIO",
+    "nameKana": "うぃっとすたじお",
+    "description": "映画製作会社。『劇場版 SPY×FAMILY CODE: White』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "cloverworks",
+    "name": "CloverWorks",
+    "nameKana": "くろーばーわーくす",
+    "description": "映画製作会社。『劇場版 SPY×FAMILY CODE: White』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "lawrence-bender-productions",
+    "name": "ローレンス・ベンダー・プロダクションズ",
+    "nameKana": "ローレンスベンダープロダクションズ",
+    "description": "映画製作会社。『グッド・ウィル・ハンティング／旅立ち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Lawrence Bender Productions。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dreamworks-pictures",
+    "name": "ドリームワークス・ピクチャーズ",
+    "nameKana": "ドリームワークスピクチャーズ",
+    "description": "映画製作会社。『リアル・スティール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: DreamWorks Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "reliance-entertainment",
+    "name": "リライアンス・エンターテインメント",
+    "nameKana": "リライアンスエンターテインメント",
+    "description": "映画製作会社。『リアル・スティール』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Reliance Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "phantom-film",
+    "name": "ファントム・フィルム",
+    "nameKana": "ファントムフィルム",
+    "description": "映画製作会社。『娼年』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Phantom Film。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bandai-namco-games",
+    "name": "バンダイナムコゲームス",
+    "nameKana": "バンダイナムコゲームス",
+    "description": "映画製作会社。『ドラゴンボールZ 神と神』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bandai Namco Games。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "green-hat-films",
+    "name": "グリーン・ハット・フィルムズ",
+    "nameKana": "グリーンハットフィルムズ",
+    "description": "映画製作会社。『ハングオーバー！消えた花ムコと史上最悪の二日酔い』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Green Hat Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "genre-films",
+    "name": "ジャンル・フィルムズ",
+    "nameKana": "ジャンルフィルムズ",
+    "description": "映画製作会社。『オデッセイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Genre Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "tsg-entertainment",
+    "name": "TSGエンターテインメント",
+    "nameKana": "てぃーえすじーえんためんと",
+    "description": "映画製作会社。『オデッセイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: TSG Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "red-granite-pictures",
+    "name": "レッド・グラナイト・ピクチャーズ",
+    "nameKana": "レッドグラナイトピクチャーズ",
+    "description": "映画製作会社。『ウルフ・オブ・ウォールストリート』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Red Granite Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "appian-way",
+    "name": "アピアン・ウェイ",
+    "nameKana": "アピアンウェイ",
+    "description": "映画製作会社。『ウルフ・オブ・ウォールストリート』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Appian Way。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "nikkatsu-corporation",
+    "name": "日活",
+    "nameKana": "にっかつ",
+    "description": "映画製作会社。『セックス・ライダー　濡れたハイウェイ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Nikkatsu Corporation。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "alphaville-films",
+    "name": "アルファヴィル・フィルムズ",
+    "nameKana": "アルファヴィルフィルムズ",
+    "description": "映画製作会社。『ハムナプトラ 失われた砂漠の都』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Alphaville Films。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "flynn-picture-company",
+    "name": "フリン・ピクチャー・カンパニー",
+    "nameKana": "フリンピクチャーカンパニー",
+    "description": "映画製作会社。『ブラックアダム』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Flynn Picture Company。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "qed-international",
+    "name": "QEDインターナショナル",
+    "nameKana": "きゅーいーでぃーいんたーなしょなる",
+    "description": "映画製作会社。『フューリー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: QED International。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "relativity-media",
+    "name": "レラティビティ・メディア",
+    "nameKana": "レラティビティメディア",
+    "description": "映画製作会社。『アダルトボーイズ青春白書』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Relativity Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "touchstone-pictures",
+    "name": "タッチストーン・ピクチャーズ",
+    "nameKana": "タッチストーンピクチャーズ",
+    "description": "映画製作会社。『プレステージ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Touchstone Pictures。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "studio3",
+    "name": "スタジオスリー",
+    "nameKana": "スタジオスリー",
+    "description": "映画製作会社。『火口のふたり』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Studio3。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vap",
+    "name": "VAP",
+    "nameKana": "ばっぷ",
+    "description": "映画製作会社。『火口のふたり』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "bird-studios",
+    "name": "バードスタジオ",
+    "nameKana": "バードスタジオ",
+    "description": "映画製作会社。『ドラゴンボールZ たったひとりの最終決戦〜フリーザに挑んだZ戦士 孫悟空の父〜』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Bird Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "ingenious-media",
+    "name": "インジーニアス・メディア",
+    "nameKana": "インジーニアスメディア",
+    "description": "映画製作会社。『メイズ・ランナー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Ingenious Media。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "the-gotham-group",
+    "name": "ゴッサム・グループ",
+    "nameKana": "ゴッサムグループ",
+    "description": "映画製作会社。『メイズ・ランナー』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: The Gotham Group。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "subconscious",
+    "name": "サブコンシャス",
+    "nameKana": "サブコンシャス",
+    "description": "映画製作会社。『WEAPONS／ウェポンズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Subconscious。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "vertigo-entertainment",
+    "name": "バーティゴ・エンターテインメント",
+    "nameKana": "バーティゴエンターテインメント",
+    "description": "映画製作会社。『WEAPONS／ウェポンズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Vertigo Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "revolution-studios",
+    "name": "レボリューション・スタジオ",
+    "nameKana": "レボリューションスタジオ",
+    "description": "映画製作会社。『最凶女装計画』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Revolution Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "wayans-bros-entertainment",
+    "name": "ウェイアンズ・ブラザーズ・エンターテインメント",
+    "nameKana": "ウェイアンズブラザーズエンターテインメント",
+    "description": "映画製作会社。『最凶女装計画』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Wayans Bros. Entertainment。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "dc",
+    "name": "DC",
+    "nameKana": "でぃーしー",
+    "description": "映画製作会社。『バットマン ビギンズ』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "amazon-mgm-studios",
+    "name": "アマゾンMGMスタジオ",
+    "nameKana": "あまぞんえむじーえむすたじお",
+    "description": "映画製作会社。『私たちの過ち』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Amazon MGM Studios。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "a-1-pictures",
+    "name": "A-1 Pictures",
+    "nameKana": "えーわんぴくちゃーず",
+    "description": "映画製作会社。『同級生』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "id": "pacific-data-images",
+    "name": "パシフィック・データ・イメージズ",
+    "nameKana": "パシフィックデータイメージズ",
+    "description": "映画製作会社。『シュレック』などを製作した。",
+    "externalLinks": {},
+    "sourceNote": "TMDb(ja-JP)で裏取り(2026-08-09)。TMDb表記: Pacific Data Images。",
+    "updatedAt": "2026-08-09"
   }
 ]
