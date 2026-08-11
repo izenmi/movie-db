@@ -53,6 +53,7 @@
 - **公開区分バッジ(`.season-badge`、公開年月=gold/邦画=blue/海外=peach/アニメ=purple)**。クラス名はscaffold由来の`season-badge`のまま(汎用ピルバッジとして流用)。ただし**作品カードでは`.season-badge--quiet`を併用して枠線だけのラベルにする**(一覧では作品名とスタッフを先に読ませたいため。塗るのは作品詳細だけ)
 - ページ背景は黒一色固定、装飾最小、見出し`M PLUS Rounded 1c`。favicon(`public/favicon.svg`)は黒背景+「映」の1文字ロゴ(`#ffc85c`)。全面塗り(角丸なし)でアルファを残さない
 - Google Analytics: **設置済み**。movie-db専用のGA4測定ID `G-6Z3LKHTV0X` を`index.html`の`<head>`に記載(姉妹サイトのIDは流用しない)
+- Google Search Console: **sitemap登録済み**(2026-08-11、ユーザーが実施)
 
 ## コマンド
 
@@ -119,4 +120,3 @@ python3 scripts/apply_awards.py   # hits を works.json の awardResults に反�
 
 - **キネマ旬報ベスト・テンの未登録作が約1500件**(戦前〜昭和の日本映画が中心)。必要なら `work/award-miss.json` から seed して追加できる
 - **作品単位の姉妹サイト相互リンクが未設定**。`relatedAnimeUrl`(君の名は。天気の子などanime-db重複作品)、`relatedNovelUrl`/`relatedComicUrl`(告白・ショーシャンク・SLAM DUNKなど原作もの)を手動設定する。サイト単位のリンク(各サイトのSISTER_SITESカード)は2026-08-09に6サイトすべて設定済み
-- **Google Search Consoleへのsitemap登録**(ユーザー操作が必要)
