@@ -59,6 +59,12 @@ const SISTER_SITES = [
     url: "https://izenmi.github.io/anime-db/",
     tagline: "TVアニメ・劇場アニメを制作スタジオ・監督・声優・放送クールから探せるデータベース",
   },
+  {
+    key: "sf",
+    name: "SF小説DB",
+    url: "https://izenmi.github.io/sf-db/",
+    tagline: "国内外のSF小説を著者・翻訳者・受賞歴・テーマから探せるデータベース",
+  },
 ] as const;
 
 /** Returns up to `count` elements from `works` in random order, without mutating the input. */
