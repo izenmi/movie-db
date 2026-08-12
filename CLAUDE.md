@@ -25,6 +25,23 @@
 - `public/data/generated/*.json` … `scripts/generate-manifest.mjs`が生成(`.gitignore`対象)
 - 生成スクリプトの検証(失敗するとビルドが落ちる): 全id参照整合 / `directorIds`・`studioIds`空配列不可 / `region`・`medium`・`originalType`のenum検証 / `release.month`は1-12 / cast役名必須
 
+### 転送量の設計(2026-08-12。**作品をフル展開して埋め込まない**)
+
+スタッフ・制作会社・キャスト・シリーズ・テーマの各生成ファイルは作品を **id** で持ち
+(`workIds` / `directedWorkIds` / `writtenWorkIds` / `roles[].workId`)、表示側は
+`getWorksByIds()`(works.json の取得済みキャッシュ)から引き直す。
+あらすじと出典メモは作品詳細でしか使わないので **`work-texts.json`** に分けてある。
+
+以前は作品をフル展開して埋め込んでいたため `themes.json` が gzip 4.5MB・`actors.json` が 3.3MB あり、
+トップページだけで gzip 5.8MB を転送していた。現在は gzip で works 805KB / work-texts 393KB /
+actors 252KB / staff 155KB / studios 92KB / themes 56KB / series 23KB。
+
+- **新しい生成ファイルに作品を埋め込みたくなったら、まずidで足りないかを疑う**
+- **作品詳細ページはあらすじが揃うまで「読み込み中」を出し続ける**こと(`prerender.mjs` が
+  「読み込み中」の消滅を待って静的HTMLを書くため、先に描くとあらすじ抜きのHTMLが焼き付く)
+- **`useMemo` の依存配列に注意**。エンティティのstateだけを見ていると、後から解決する作品配列で
+  再計算されず一覧が空になる
+
 ## データ取得パイプライン(TMDb一本柱)
 
 **TMDb API v3(`https://api.themoviedb.org/3`)がAniList(anime-db)の役割を担う。**

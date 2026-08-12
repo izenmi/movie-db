@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getStaffMember } from "../../data/manifest";
+import { getStaffMember, getWorksByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
@@ -13,6 +13,18 @@ export function StaffDetailPage() {
   const state = useAsyncData(() => getStaffMember(id!), [id]);
   const { coverView, toggle } = useCoverView();
   const person = state.status === "ready" ? state.data : undefined;
+
+  // 作品の実データは works.json 側にある(StaffGenerated は id しか持たない)。
+  const directedState = useAsyncData(
+    () => (person ? getWorksByIds(person.directedWorkIds) : Promise.resolve([])),
+    [person],
+  );
+  const writtenState = useAsyncData(
+    () => (person ? getWorksByIds(person.writtenWorkIds) : Promise.resolve([])),
+    [person],
+  );
+  const directedWorks = directedState.status === "ready" ? directedState.data : [];
+  const writtenWorks = writtenState.status === "ready" ? writtenState.data : [];
 
   useSeo({
     title: person?.name,
@@ -55,16 +67,16 @@ export function StaffDetailPage() {
             </p>
           )}
           <div className="filter-row">{toggle}</div>
-          {state.data.directedWorks.length > 0 && (
+          {directedWorks.length > 0 && (
             <>
               <h2 className="home-section__heading font-display">監督作品</h2>
-              <WorkGrid works={state.data.directedWorks} coverView={coverView} />
+              <WorkGrid works={directedWorks} coverView={coverView} />
             </>
           )}
-          {state.data.writtenWorks.length > 0 && (
+          {writtenWorks.length > 0 && (
             <>
               <h2 className="home-section__heading font-display">脚本作品</h2>
-              <WorkGrid works={state.data.writtenWorks} coverView={coverView} />
+              <WorkGrid works={writtenWorks} coverView={coverView} />
             </>
           )}
         </>

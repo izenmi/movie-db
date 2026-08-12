@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import type { SeriesGenerated } from "../../types";
+import type { SeriesGenerated, WorkGenerated } from "../../types";
 import { WorkCover } from "../common/WorkCover";
 
 const COVER_COUNT = 4;
@@ -9,10 +9,9 @@ const DIRECTOR_COUNT = 2;
 /** シリーズ一覧のカード。名前と件数だけの行だと、そのシリーズが何の映画なのか一覧から分からない。
  *  作品一覧のカードと同じ密度になるよう、ポスター・公開年の範囲・監督・テーマまで出す。
  *
- *  表示する値はすべて `series.works` から導出していて、シリーズ側に持たせた項目はない。
+ *  表示する値はすべて渡された作品から導出していて、シリーズ側に持たせた項目はない。
  *  作品を足せばポスターも年も自動で更新される。 */
-export function SeriesCard({ series }: { series: SeriesGenerated }) {
-  const works = series.works;
+export function SeriesCard({ series, works }: { series: SeriesGenerated; works: WorkGenerated[] }) {
   // series.json の works は新しい順(generate-manifest.mjs)。ポスターは第1作から並べたいので
   // ここで公開順に取り直し、年の範囲もその両端から出す。
   const byYear = [...works].sort((a, b) => a.release.year - b.release.year);

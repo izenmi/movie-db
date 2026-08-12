@@ -137,7 +137,9 @@ export interface CastCreditGenerated extends CastCredit {
 }
 
 /** Denormalized work: source fields plus resolved names for direct rendering. */
-export interface WorkGenerated extends WorkSource {
+/** あらすじ・出典メモ・updatedAt は含まない — 作品詳細ページでしか使わないのに works.json の
+ *  大きな割合を占めていたので work-texts.json に分けてある(WorkTexts / getWorkTexts)。 */
+export interface WorkGenerated extends Omit<WorkSource, "synopsis" | "sourceNote" | "updatedAt"> {
   directorNames: string[];
   /** Resolved from seriesId at build time; absent for standalone works. */
   seriesName?: string;
@@ -166,8 +168,9 @@ export interface StaffGenerated {
   description: string;
   externalLinks: ExternalLinks;
   workCount: number;
-  directedWorks: WorkGenerated[];
-  writtenWorks: WorkGenerated[];
+  /** 実データは works.json 側。表示側で id から引き直す。 */
+  directedWorkIds: string[];
+  writtenWorkIds: string[];
 }
 
 export interface StudioGenerated {
@@ -177,12 +180,13 @@ export interface StudioGenerated {
   description: string;
   externalLinks: ExternalLinks;
   workCount: number;
-  works: WorkGenerated[];
+  /** 実データは works.json 側。表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface ActorRole {
   character: string;
-  work: WorkGenerated;
+  workId: string;
 }
 
 export interface ActorGenerated {
@@ -204,12 +208,14 @@ export interface SeriesGenerated {
   externalLinks: ExternalLinks;
   workCount: number;
   /** Sorted by release ascending — シリーズを追う順で固定表示するため。 */
-  works: WorkGenerated[];
+  /** 実データは works.json 側。表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface ThemeGenerated extends ThemeSource {
   workCount: number;
-  works: WorkGenerated[];
+  /** 実データは works.json 側。表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface AwardWinner {
@@ -225,6 +231,9 @@ export interface AwardGenerated extends AwardSource {
   workCount: number;
   winners: AwardWinner[];
 }
+
+/** 作品詳細ページだけが読む長文(generated/work-texts.json)。キーは作品id。 */
+export type WorkTexts = Record<string, { synopsis: string; sourceNote: string }>;
 
 export interface Counts {
   works: number;
